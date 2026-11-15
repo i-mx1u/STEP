@@ -1,0 +1,845 @@
+MODEL 15
+========================================
+
+READING
+========================================
+
+Passage 1
+Open- Source Software-(البرمجيات مفتوحة المصدر والمغلقة)
+(1) When the personal computer was first released, it did not serve any practical need.
+Early computers were difficult to program and required great attention to detail.
+However, many personal-computer enthusiasts immediately banded together to
+build applications and solve problems. These computer enthusiasts were happy
+to share any programs they built and solutions to problems they found; this
+collaboration enabled them to more quickly innovate and fix problems.
+(2)As software began to become a business, however, this idea of sharing everything
+fell out of favor, at least with some. When a software program takes hundreds of
+man-hours to develop, it is understandable that the programmers do not want to
+just give it away. This led to a new business model of restrictive software licensing,
+which required payment for software, a model that is still dominant today. This
+model is sometimes referred to as closed source, as the source code is not made
+available to others.
+(3)There are many, however, who feel that software should not be restricted. Just as
+with those early hobbyists in the 1970s, they feel that innovation and progress can
+be made much more rapidly if we share what we learn. In the 1990s, with Internet
+access connecting more and more people together, the open source movement
+gained steam. Open-source software is software that makes the source code
+available for anyone to copy and use. For most of us, having access to the source
+code of a program does us little good, as we are not programmers and won’t be able
+to do much with it. The good news is that open-source software is also available in
+a compiled format that we can simply download and install.
+(4)The open-source software is superior to closed-source software. Because the
+source code is freely available, many programmers have contributed to open-
+source software projects, adding features and fixing bags. Many businesses are
+worried about open-source software precisely because the code is available for
+anyone to sec. They feel that this increases the risk of an attack. Others counter
+that this openness actually decreases the risk because the code is exposed to
+thousands of programmers who can incorporate code changes to quickly patch
+vulnerabilities. Firefox and Apache are two examples of open-source software.
+(5) There are many arguments on both sides of the aisle for the benefits of the two
+models.
+Some benefits of the open-source model are:
+Some benefits of the open-source model are:
+•	 The software is available for free.
+•	 The software source-code is available; it can be examined and reviewed before it is
+installed.
+
+•	 The large community of programmers who work on open-source projects leads to
+quick bug fixing and feature additions.
+
+Some benefits of the closed-source model are:
+Some benefits of the closed-source model are:
+•	 By providing financial incentive for software development, some of the brightest
+minds have chosen software development as a career.
+•	 Technical support from the company that developed the software. 36 Information
+Systems for Business and Beyond.
+Q21.
+What helped open-source software gain steam?
+A Internet access
+  B) cheap equipment
+  C) software licensing
+  D) Linux operating system
+22 What is one benefit of open-source software?
+  A) It is quite cheap to buy.
+  B) It leads to quick bug-fixing.
+  C) It comes with technical support.
+  D) It is superior to closed-source software.
+23 What is one benefit of closed-source software?
+  A) Technical support from the company.
+  B) The software is available for free.
+C
+Quick and better updates.
+  D) Access to the source code.
+24 What are two examples of open-source software?
+  A) Fire fox and Microsoft
+  B) Superior and Apache
+  C) Firefox and Superior
+  D) Firefox and Apache
+
+Passage 2
+(الموز المعدل الغني بفيتامين أ وإنقاذ أطفال افريقيا) - GMO Bananas
+(1) Each year, thousands of children in East Africa go blind or die because they
+don’t get enough vitamin A Now, with the support of the Bill and Melinda Gates
+Foundation, Ugandan, American and Australian researchers are trying to develop a
+potential fix: a genetically modified banana that packs a significantly larger vitamin
+A punch.
+(2) The bananas have already been successfully tested on gerbils. Researchers
+created the new bananas by slightly tweaking its genome so that the fruit contains
+more alpha and beta caroteno-plant-synthesized substances that animals convert
+into vitamin A The new bananas have a slight orange shade but taste the same as
+non-genetically modified bananas. Human trials just began in Iowa, and if they’re
+successful, farmers in Uganda will be growing the GMO bananas by 2020. About
+70 percent of people there rely on bananas as a major staple of their diets, so
+delivering the extra vitamin boost through the fruit should be an effective means
+of helping to alleviate vitamin A deficiency. If the GM banana scheme helps reduce
+death and blindness rates in Uganda, it could be transferred to other countries or
+applied to other fruits, like plantains.
+(3) Bananas are not the only food whose yield or nutritional profile could be improved
+with genetic engineering. With climate change threatening to disrupt existing
+crops and growing global populations demanding more of those supplies, genetic
+engineering could be a solution for making the most of limited space and resources.
+Quite a number of foods that fit this profile have already been created including
+virus resistant squash, and disease-resistant potatoes.
+25 What is the writer’s main purpose?
+  A) to support Bill Gates
+  B) to advertise
+  C) to inform
+  D) to war
+26 What is one important idea that the writer mentions?
+  A) That animals like to eat the orange bananas.
+  B) That a lack of vitamin A makes people go blind.
+  C) That children in Africa need better food.
+  D) That Uganda is a rich country in East Africa.
+27 What is one important idea that the writer mentions?
+  A) That Ugandans have grown bananas for centuries.
+  B) That the way we produce food is changing
+  C) That climate change is a serious global problem.
+  D) That genetically modified bananas may save lives.
+
+Passage 3
+(منهجية البحث العلمي والمالحظة الكمية والكيفية)
+(1) Scientists search for answers to questions and solutions to problems by using
+a procedure called the scientific method. This procedure consists of making
+observations, formulating hypotheses, and designing experiments, which in turn
+lead to additional observations, hypotheses, and experiments in repeated cycles.
+(2) Observations can be qualitative or quantitative. Qualitative observations describe
+properties or occurrences in ways that do not rely on numbers. Often, this data can
+be collected through observation. Examples of qualitative observations include the
+following: the outside air temperature is cooler during the winter season and table
+salt is a crystalline solid.
+(3) Quantitative observations are measurements, which by definition consist of both
+a number and a unit. Examples of quantitative observations include the following
+the melting point of crystalline sulfur is 115.21 degrees Celsius, and 35.9 grams of
+table salt whose chemical name is sodium chloride dissolve in 100 grams of water
+at 20 degrees Celsius.
+(4) After deciding to learn more about an observation or a set of observations,
+scientists generally begin an investigation by forming a hypothesis, a tentative
+explanation for the observations). The hypothesis may not be correct, but it puts
+the scientist’s understanding of the system being studied into a form that can be
+tested.
+28 What does Paragraph (1) say about the scientific method?
+  A) It helps scientists to make questions.
+  B) It is made up of six different procedures.
+  C) It is something that you do only one time.
+  D) It involves different steps that you do many times.
+29 What does Paragraph (2) say about qualitative observations?
+  A) They help explain why we use table salt.
+  B) They mainly deal with the air temperature outside.
+  C) They explain what happens by carefully watching! things.
+  D) They use numbers to discover the reason something happens.
+
+30 Which sentence gives the main idea of Paragraph (2)?
+  A) Observations can be qualitative or quantitative.
+B
+Qualitative observations describe properties or occurrences in ways that do not rely on
+numbers.
+  C) Often, this data can be collected through observation.
+  D) The outside air temperature is cooler during the winter season and table salt is a
+crystalline solid.
+Q31.
+Which sentence gives the main idea of Paragraph (3)?
+A
+Quantitative observations are measurements, which by definition consist of both a
+number and a unit.
+  B) Examples of quantitative observations include the following.
+  C) The melting point of crystalline sulfur is 115.21 degrees Celsius.
+  D) 35.9 grams of table salt-whose chemical name is sodium chloride dissolve in 100
+grams of water at 20 degrees Celsius.
+32 What does Paragraph (4) say about hypothesis?
+  A) It is the same as an observation.
+  B) It is where scientists start their search.
+  C) It always comes at the end of an experiment.
+  D) It helps other people to do what a scientist did.
+33 What is the main idea of the passage?
+  A) Observations can only be made by scientists.
+  B) Observations can use numbers to measure things.
+  C) Observations are an important step in the scientific method.
+  D) Observations are only performed once in the scientific method.
+
+Passage 4
+(اضطراب الوسواس القهري) Obsessive Compulsive Disorde
+(1) As with generalized anxiety and phobias, we can see aspects of our own behavior
+in obsessive-compulsive disorder. We may at times be obsessed with senseless
+or offensive thoughts that will not go away. Or we may engage in compulsive, rigid
+behavior - rechecking a locked door, stepping over cracks in the sidewalk, or lining
+up our books and pencils just so” before studying.
+(2) Obsessive thoughts and compulsive behaviors cross the fine line between
+normality and disorder when they become O persistent that they interfere with the
+way we live or when they cause distress. Checking to see that the door is locked is
+normal; checking the door 10 times is not. Hand washing is normal; hand washing
+so often that one’s skin becomes raw is not. At some time during their lives, often
+during their late teens or twenties, 2 to 3 percent of people cross that line from
+normal preoccupations and fussiness to debilitating disorder. The obsessive
+thoughts become so haunting, the compulsive rituals so senselessly time-
+consuming, that effective functioning becomes impossible.
+(3) One much person was billionaire Howard Hughes. Hughes would compulsively
+dictate the same phrases over and over again. Under stress, he developed an
+obsessive fear of germs. He became reclusive and insisted that his assistants
+carry out elaborate hand washing rituals and wear white gloves when handling
+documents he would later touch. He ordered tape around doors and windows and
+forbade his staff to touch or even look at him. “Everybody carries germs around
+with them,” he explained. “I want to live longer than my parents, so I avoid germs”.
+34 What is the main topic of this passage?
+  A) Habits that people like to repeat a lot.
+  B) A comparison of normal and obsessive behavior.
+  C) Types of anxiety related psychological disorders.
+  D) An examination of the billionaire Howard Hughes.
+35 What is one important idea related to general anxiety and phobias mentioned In P(1)?
+  A) There are three types of behavior.
+  B) We must get neck treatment straight away.
+  C) Compulsive disorders make us hurt others.
+  D) Features of compulsive behavior are present in everyone.
+
+36 What important information about obsessive thoughts and compulsive behavior is
+expressed in Paragraph (2)?
+  A) They take up very little time.
+  B) They negatively affect daily life.
+  C) They affect mainly young people.
+  D) They are perfectly normal to have
+37 What is an example of Hughes’ obsessive behavior in the passage?
+  A) Checking locked doors continuously
+  B) Dictating phrases repeatedly
+  C) Stepping over cracks
+  D) Pencil straightening
+38 What key information is given about Howard Hughes in Paragraph (3)?
+  A) He was a very rich man.
+  B) He always wore white gloves
+  C) He was scared of dying at an early age.
+  D) He became ill because of his assistants
+39 Why does the writer mention Howard Hughes?
+  A) He was a famous person
+  B) He would not leave his home
+  C) He helped treat anxiety disorders.
+  D) He suffered from anxiety and phobias.
+
+Passage 5
+مقدمة في علم النفس - Introducing Psychology
+(1) Psychology is the scientific study of mind and behavior. The word “psychology”
+comes from the Greek words “psyche, meaning life, and “logos,” meaning
+explanation. Psychology is a popular major for students, a popular topic in the
+public media, and a part of our everyday lives. Television shows often feature
+psychologists who provide personal advice to those with personal or family
+difficulties. Crime dramas such as CSI, Lie to Me, and others feature the work of
+forensic psychologists who use psychological principles to help solve crimes. And
+many people have direct knowledge about psychology because they have visited
+psychologists, for instance, school counselors, family therapists, and religious,
+marriage, or bereavement counselors.
+(2) Because we are frequently exposed to the work of psychologists in our everyday
+lives, we all have an idea about what psychology is and what psychologists do.
+In many ways, your conceptions are probably correct. Psychologists do work in
+forensic fields, and they do provide counseling and therapy for people in distress.
+But
+But there are hundreds of thousands of psychologists in the world, and most of
+them work in other places, doing work that you are probably now aware of.
+(3) Most psychologists work in research laboratories, hospitals, and other field
+settings where they study the behavior of humans and animals. For instance,
+experts in the Psychology Department at the University of Maryland study such
+diverse topics as anxiety in children, the interpretation of dreams, the effects of
+caffeine on thinking, how birds recognize each other, how people from different
+cultures react differently in negotiation. Psychologists also work in schools
+and businesses, and they use a variety of methods, including observation,
+questionnaires, interviews, and laboratory studies, to help them understand
+behavior.
+40 What do psychologists do to help people who are nappy in their lives?
+  A) They advise them to stop drinking coffee
+  B) They provide them with treatment services.
+  C) They take them to special hospitals for help.
+  D) They provide them with advice about their food.
+Q41.
+Why does the writer use the word Because in Paragraph (2)?
+  A) To show other examples of jobs psychologists do.
+  B) To explain the result of people talking and dealing with psychologists.
+C
+  D) To show that psychologists are very good at finding criminals and solving crimes.
+To add more information to the deﬁnition of psychology and the work of psychologists.
+
+42 What does the passage say about the work of most psychologists?
+A It is field research
+  B) It is forensic science.
+  C) It is TV entertainment,
+  D) It is personal counseling.
+43 Which word can we use to replace the word “But” in Paragraph (2)?
+  A) In addition,
+  B) Therefore
+  C) Finally,
+  D) However
+44 What does the writer think about our knowledge of psychology?
+  A) It is complete.
+  B) It is INCORRECT.
+  C) It is from university.
+  D) It is from experience.
+Passage 6
+The Spinal Cord (النخاع الشوكي)
+(1) The spinal cord is an information highway connecting the nervous system to the
+brain. Ascending neural areas send up sensory information, and descending areas
+send back motor-control information. A look at the neural pathways that control
+our reflexes, our automatic responses to stimuli, shows the spinal cords work. A
+simple spinal-reflex path is composed of a single sensory neuron and a single motor
+neuron, which often communicate through an interneuron.
+(2) One such path makes up the pain reflex. When your fingers touch a hot stove,
+neural activity excited by the heat travels via sensory neurons to interneurons in
+your spinal cord. These interneurons respond by activating motor neurons to the
+muscles in your arm, causing you to jerk your hand away.
+(3) Because the simple pain-reflex pathway runs through the spinal cord and out, you
+jerk your hand from a candle’s flame before your brain receives and responds to
+the information that causes you to feel pain. Information travels to and from the
+brain by way of the spinal cord. Were the top of your spinal cord severed, you would
+not feel such pain. Or pleasure. Your brain would literally be out of touch with your
+body. Thus, you would lose all sensation and voluntary movement in body regions
+whose sensory and motor neurons connect with the spinal cord below its point of
+injury.
+45 What helps information travel up and down the spine?
+  A) the brain
+  B) neural paths
+  C) the air we breathe
+  D) automatic responses
+46 According to P2, what finally makes you take your hand away from something hot?
+  A) Sensory neurons and interneurons
+  B) Your fingers touching a hot stove
+  C) Motor neurons in arm muscles
+  D) Our natural fear of pain
+
+47 When would your brain stop receiving information from the spinal cord?
+  A) When the pain-reflex pathway ran through the spinal cord and out.
+  B) If there were serious damage to the spinal cord.
+  C) If you stopped experiencing pleasure or pain.
+  D) When you were sleeping very heavily.
+48 The word connecting in Paragraph (1) is closest in meaning to …………
+  A) adding
+  B) feeling
+  C) joining
+  D) moving
+Passage 7
+(رسم بياني عن الحجاج)
+49 Which year had the most pilgrims to Saudi Arabia?
+A
+B
+C
+  D) Passage 8
+(التنظيميات الهيكلية للمشاريع المختلفة)Project organization
+(1) There is no single organizational approach to projects. Each project is organized
+to accomplish the work effectively and efficiently. Several factors influence
+the organizational approach to execute a project. The complexity profile of a
+project, the culture of the parent organization, the preferences of the project
+manager, the knowledge and skills of the team, and a parent organization with a
+project management office are examples of factors that influence the project’s
+organization.
+(2) In developing the project organizational structure, the project manager considers
+the span of control for each manager. The span of control represents the number of
+people reporting to a manager
+(3) Most projects have similar functions that are important to successfully managing
+the project. Included among there are the following:
+•	 Sponsor
+•	 Project manager
+•	 Controls
+•	 Procurement
+•	 Quality
+•	 Administration
+(4) On smaller projects, more than one function can be managed by one person. On
+larger projects, large teams may be needed to accomplish the work within the
+function.
+Project Sponsor
+Project Sponsor
+(5) The project sponsor is outside the day-to-day operations of the project and has the
+organizational authority to provide resources and overcome barriers for the project.
+The project sponsor is typically a leader in the parent organization with an interest
+in the outcome of the project. As a leader in the parent organization, the project
+sponsor can provide input into the project scope and other documents that define
+project success. The guidance and support from the project sponsor enhance the
+ability of the project to successfully meet the parent organization’s objectives.
+Project managers
+Project managers
+(6) Project managers often have the breadth of responsibility associated with
+corporate chief executive officers CEOs). The project manager facilitates the
+start-up of a project and develops the staff, resources, and work processes to
+accomplish the work of the project. He or she manages the project effectively
+and efficiently and oversees the closeout phase. Some projects are larger than
+major divisions of some organizations, with the project manager responsible
+for a larger budget and managing more risk than most of the organizational
+leaders. A mining company that builds a new mine in South Africa, an
+
+automobile manufacturer that creates a new truck design, and a pharmaceutical
+company that moves a new drug from testing to production are examples of
+projects that may consume more resources in a given year than any of the
+organization’s operating divisions.
+(7) The function of the project manager can vary depending on the complexity profile
+and the organizational structure. Defining and managing client expectations and
+start-up activities, developing the scope, and managing change are functions of the
+project manager. On some projects, the project manager may provide direction to
+the technical team on the project. On other projects, the technical leadership might
+come from the technical division of the parent organization.
+(8) Although the functional responsibilities of the project manager may vary, the
+primary role is consistent on every project. The primary role of the project manager
+is to lead to provide a vision of success, to connect everyone involved in the project
+to that vision, and to provide the means and methods to achieve success. The
+project manager creates a goal-directed and time focused project culture. The
+project manager provides leadership.
+Project Procurement
+Project Procurement
+(9) The approach to purchasing the supplies and equipment needed by the project
+is related to the complexity profile of the project. A small project with a low
+complexity level may be able to use the procurement services of the parent
+organization. In an organization where project resources reside in various
+departments, the departments may provide the supplies and equipment each team
+member of the project may need.
+Project quality
+Project quality
+(10) Project quality is often part of the technical manager’s responsibility. On large
+projects or projects with a high degree of technical complexity, the quality is
+sometimes a separate function reporting to the project manager. The project quality
+manager focuses on the quality of the project work processes and not the quality
+of the client’s product. For example, if the project is to design and construct an
+automobile factory, the quality manager focuses on the project work processes and
+meeting the technical specification of the equipment installed by the project team.
+The project quality manager is not responsible for the quality of the car the plant
+produces. If the plant functions to the defined project specifications, the quality
+of the plant output is the responsibility of the plant quality department, and it may
+take several months for the plant to refine the work processes to meet the design
+specifications of the car.
+Project Administration
+Project Administration
+(11) The administrative function provides project specific support such as the
+following
+•	 Accounting services
+•	 Legal services
+•	 Property management
+•	 Human resources HR) management
+•	 Other support functions found in most  parten organizations.
+
+In most organizations, support for these functions is provided by the parent organization.
+For example, people assigned to the project will get human resources HR) support
+from the HR department of the parent organization. Salary, benefits, and HR
+policies for employees assigned to the project will be supported out of the HR
+department. The parent organization will provide accounting functions such as
+determining the cost of cash, taxes, year-end project reports, and property disposal
+at the end of the project
+50 What are two important factors in A project?
+  A) quality and structure
+  B) administration and procurement.
+  C) accounting and le
+  D) Controls and pro……..
+Q51.
+Which activities will ……….. department?
+  A) property dips………….
+  B) salary and benefits
+  C) taxes and yea………
+  D) legal service
+Passage 9
+(قانون التعاقد ) Contract Law
+Contract law is at the heart of almost every business transaction. Laws regarding
+contracts, or agreements
+agreements between parties, originated and developed through
+English common law and are among the earliest laws created. Many present-
+day rules are the same as they were years ago, although these laws have been
+incorporated in both state and federal codes. In addition to these well-established
+contract principles, modern business practices are governed by laws that were
+designed to meet today’s needs. In particular, contracts for the sale of goods are
+governed
+governed by the Uniform Commercial Code and many consumer contracts are
+governed by various consumer protection statutes.
+52 The word agreements in the passage is closest in meaning to ……..
+  A) discussions
+  B) talks
+  C) arrangements
+  D) fights
+53 The word governed in the passage is closest in meaning to ………..
+  A) celebrated
+  B) controlled
+  C) achieved
+  D) advertised
+
+Passage 10
+(الشركات وتمويل األبحاث)Company funded research
+(1) A soda company sponsoring nutrition research. An oil company helping fund a
+climate-related research meeting. Does the public care who’s paying for science?
+(2) In a word, yes. When industry funds science, credibility suffers. And this does not
+bode well for the types of public-private research partnerships that appear to be
+becoming more common as government funding for research and development
+reduces.
+(3) The recurring topic of conflict of interest has made headlines in recent weeks. The
+National Academies of Science, Engineering, and Medicine has revised its conflict-
+of-interest guidelines following questions about whether members of a recent
+expert group on GMO’s had industry connections or other financial conflicts were
+not disclosed in the panel’s final report.
+(4) This indicates how hard it may be for the public to see research as useful when
+produced with an industry partner, even when that company is just one of several
+collaborators.
+What people think of funding sources.
+(5) When a research team included an industry partner, the public were generally less
+likely to think the scientists would consider a full range of evidence and listen to
+different voices. An industry partner also reduced how much participants believed
+any resulting data would provide meaningful guidance for making decisions.
+(6) You may think that including a diverse array of partners in a research collaboration
+might remove the negative perceptions that come with industry involvement.
+But, while including scientists from a non-industry organization Particularly a
+nongovernmental organization) made some difference, the effect was small. Adding
+a government partner provided no real additional benefit.
+(7) Participants who were asked to describe what they thought about the research
+partnership in their own words said they were skeptical whether an industry
+partner could ever be trusted to release information that might hurt its profits.
+(8) Stories of Pharmaceutical companies conducting less than rigorous clinical trials
+for the benefit of their marketing departments, or the tobacco industry steadfastly
+denying the connection between smoking and cancer in the face of mounting
+evidence, help explain public concern about industry-funded science.
+55 How are the ideas that “not all evidence is considered” and “not all findings are released”
+related?
+  A) Both are part of the tobacco industry’s research.
+  B) Not all evidence is considered” is an example of “not all findings are released”
+  C) Both are examples of public opinion about the type of research.
+  D) One represents NGO research and the other company-funded research.
+
+56 Which of the following is an opinion?
+  A) They were Skeptical whether an industry partner could ever be trusted to release
+information that might hurt its profits.
+  B) The National Academies of Science, Engineering and Medicine has revised its conflict-of-
+interest guidelines.
+  C) An industry partner also reduced how much participants believed any resulting data
+would provide meaningful guidance for making decisions.
+  D) Including scientists from a non-industry organization made some difference, but the
+effect was small.
+57 How is the public’s view about funding science different from the industry’s view?
+  A) The public think that the industry should use their money to do more researches.
+  B) The public think that public-private research partnerships work well.
+  C) The public think that government research is less efficient.
+  D) The public think that the industry mainly cares about money.
+58 What can we understand from the text about company-funded research?
+  A) It is less reliable than government-funded research.
+  B) The government often chooses the area of research.
+  C) Companies often receive money from governments
+  D) It usually involves more than one company.
+59 What can we understand from the passage about government funding for
+research?
+  A) Public health research receives most of the money.
+  B) The public think it’s a waste of money.
+  C) There used to be more money available.
+  D) Government funding is a slow process.
+
+
+GRAMMAR
+========================================
+
+ًنموذج أكثر تكرارًا
+Q61.
+Choose the BEST WAY to make the sentences to paragraph.
+(1) His children go to King Faisal School
+(2) He is married and has two children
+(3) Ali is 30 years old and works in a bank.
+(4) When they get older, he hopes that they will go to a good university
+  A) (3), (1), (4), (2)
+  B) (3), (1), (2), (1)
+  C) (3), (1), (2), (4)
+  D) (3), (2), (1), (4)
+Q62.
+I don’t study Biology as ------- as I study Physics.
+  A) plenty
+  B) much
+  C) many
+  D) more
+Q63.
+You need---------- of money to buy all the books for this course
+  A) so much
+  B) a lot
+  C) too much
+  D) large amount
+Q64.
+Hey Dave, ---------- you please turn down the TV. I’m trying to study
+  A) shall
+  B) would
+  C) should
+  D) must
+Q65.
+I’ve been lazy this week. I haven’t read a single page in the book…..…Sunday
+  A) for
+  B) from
+  C) until
+  D) since
+Q66.
+When I came to school this morning, I realized that class……..to another room
+  A) had been moved
+  B) being moved
+  C) is moved
+  D) moved
+Q67.
+When the students-------- their exam, they will go home
+  A) finish
+  B) finished
+  C) will finish
+  D) would finish
+
+Q68.
+Sara worked -------- for many years to finish her PhD.
+  A) intense
+  B) intensity
+  C) intensely
+  D) intention
+Q69.
+Are you sure you left your pens in the classroom? I didn’t see ---------
+  A) any
+  B) a lot
+  C) much
+  D) some
+Q70.
+If Bob works hard, he ----------next term.
+  A) graduated
+  B) had graduated
+  C) will graduate
+  D) would graduate
+Q71.
+Mona is ---------- writer in our class
+  A) quicker
+  B) quickly
+  C) most quick
+  D) the quickest
+Q72.
+Emma couldn’t ---------- her paper last night. She was too tired
+  A) to write
+  B) write
+  C) writing
+  D) wrote
+Q73.
+I haven’t seen Matt for a long time. ---------- he study Physics?
+  A) Has
+  B) Had
+  C) Does
+  D) Would
+Q74.
+John: Do you know --------- taught Business Administration last semester?
+Mark: Yes, it was Mr. Jackson
+  A) who
+  B) whom
+  C) which
+  D) whose
+Q75.
+My professor has been teaching the same course.……...15 years now, and he still loves it
+  A) for
+  B) yet
+  C) since
+  D) about
+
+Q76.
+Kate was outside the university when the lecture -------------.
+  A) start
+  B) started
+  C) has started
+  D) had started
+Q77.
+George: Do you need any help with your term paper?
+Jack: No, thanks. I’ll write it-----------.
+  A) myself
+  B) mine
+  C) my
+  D) me
+Q78.
+Mrs. Nora hadn’t taught English for a long time, so she………..prepare herself a lot
+before each class
+  A) would to
+  B) should to
+  C) can to
+  D) had to
+Q79.
+The graduate student ----------- did our exams is quite young
+  A) who
+  B) which
+  C) that he
+  D) who he
+Q80.
+I don’t know how ----------- to miss the lecture. We left the house early
+  A) did we manage
+  B) we managed
+  C) did manage we
+  D) managed we
+Q81.
+Mr. Hill, the teacher ………. I told you about, is here to see us now
+  A) she
+  B) her
+  C) whom
+  D) which
+Q82.
+Did you know that neither Mr. Taylor…… Mr. Wilson teaches English anymore?
+  A) nor
+  B) also
+  C) either
+  D) neither
+Q83.
+If I had been a serious student, I …………from university.
+  A) graduated
+  B) had graduated
+  C) would graduate
+  D) would have graduated
+
+Q84.
+It’s very important to have a teacher………… knows his subject.
+  A) whose
+  B) who
+  C) who he
+  D) he
+Q85.
+The students seem……………this course. They always participate actively
+  A) that they enjoy
+  B) they will enjoy
+  C) to enjoy
+  D) enjoying
+Q86.
+The food science course ………….by several different teachers
+  A) was teaching
+  B) has taught
+  C) has been teaching
+  D) has been taught
+Q87.
+I …………. for the final exam the whole time I visited my grandparents last month
+  A) study
+  B) studied
+  C) have studied
+  D) had studied
+Q88.
+Dave ----------- in the library since early this morning
+  A) read
+  B) was reading
+  C) has been reading
+  D) had been reading
+Q89.
+When the other students said there was too much work in the course, Chris used to
+encourage them to make them ----------- better
+  A) felt
+  B) to feel
+  C) feeling
+  D) feel
+Q90.
+Choose the sentence with the RIGHT CAPITAL LETTERS
+  A) My friends and I travelled to New Zealand last august
+  B) My friends and I travelled to New Zealand last August
+  C) My Friends and I travelled to New Zealand last august
+  D) My friends and i travelled to New Zealand Last August
+Q91.
+I haven’t seen the new Toyota ------------
+  A) yet
+  B) before
+  C) already
+  D) yesterday
+
+Q92.
+Which one of the underlined words or phrases is WRONG?
+She couldn’t come to the party because she had see her grandfather
+  A) couldn’t
+  B) the
+  C) had see
+  D) her
+Q93.
+Which sentence has the RIGHT WORD ORDER?
+  A) I lived on the Farasan Islands for years
+  B) On the Farasan Islands for years I lived
+  C) Years for the Farasan Islands I lived on
+  D) The Farasan Islands lived I on for years
+Q94.
+Ali goes to Jeddah every month ------------ it has the best beaches
+  A) but
+  B) however
+  C) so
+  D) because
+Q95.
+Choose the sentence with the RIGHT CAPITAL LETTERS
+  A) Sara is a student at King Saud University.
+  B) Sara is a Student at King Saud University.
+  C) Sara is a student at king Saud University
+  D) Sara is a student at King Saud university
+Q96.
+Which one of the underlined words or phrases is INCORRECT?
+The cats always gathering around the man’s front door every morning in expectation of their breakfast.
+  A) gathering
+  B) every
+  C) expectation
+  D) their
+Q97.
+In which sentence is all CAPITALIZATION correct?
+  A) When living in Saudi arabia, sarah loved the coolness of the desert winters, but loathed the
+heat of the desert summers.
+  B) When living in Saudi arabia, Sarah loved the coolness of the desert winters, but loathed the
+heat of the desert summers.
+  C) When living in Saudi Arabia, Sarah loved the coolness of the desert winters, but loathed
+the heat of the desert summers.
+  D) When living in Saudi Arabia, sarah loved the coolness of the desert winters, but loathed the
+heat of the desert summers.
+
+Q98.
+Which one or the underlined words or phrases is INCORRECT?
+One of the questions on the test were very easy, but the rest of them were quite difficult. I am afraid I failed it.
+  A) were
+  B) of them
+  C) quite
+  D) it
+Q99.
+Which sentences has the CORRECT WORD ORDER?
+  A) Unless his mother let him eat, the boy did not want to eat his lunch while watching the
+football match
+  B) The boy did not want to eat his lunch unless his mother let him eat while watching the
+football match
+  C) While watching the football match, the boy did not want to eat his lunch unless his mother
+let him eat
+  D) The boy did not want to eat his lunch while watching the football match, unless his mother
+let him eat
+100 The car is very beautiful, ---------------- it is very badly made,
+  A) so
+  B) as
+  C) since
+  D) though
+
+ANSWER KEY
+--------------------
+Q61: D
+Q62: B
+Q63: B
+Q64: B
+Q65: D
+Q66: A
+Q67: A
+Q68: C
+Q69: A
+Q70: C
+Q71: D
+Q72: B
+Q73: C
+Q74: A
+Q75: A
+Q76: B
+Q77: A
+Q78: D
+Q79: A
+Q80: B
+Q81: C
+Q82: A
+Q83: D
+Q84: B
+Q85: C
+Q86: D
+Q87: B
+Q88: C
+Q89: D
+Q90: B
+Q91: A
+Q92: C
+Q93: A
+Q94: D
+Q95: A
+Q96: A
+Q98: A
+Q100: D

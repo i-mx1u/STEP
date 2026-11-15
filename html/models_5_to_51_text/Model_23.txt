@@ -1,0 +1,896 @@
+MODEL 23
+========================================
+
+READING
+========================================
+
+Model
+Q23.
+PASSEGE 1
+PASSEGE 1
+The fire
+(1) Over the roar of the fire, Mike heard Ben shout, “Hurry! The fire is almost on us!”
+Mike’s arms were sore and tired, but he swung his axe even faster. He didn’t even
+stop to wipe the tears from his stinging eyes. The greedy fire kept coming. The more
+the fire destroyed, the more it wanted. Mike worked shoulder to shoulder with the
+other smokejumpers to build a firebreak. His only thought was to stop the flaming
+monster that was raging through the forest
+(2) At last, the smoke jumpers finished the firebreak. If the fire were powerful enough,
+it would jump over the firebreak that they had worked so hard to make. Then they
+would have to start all over again. Mike stood motionless, his face black with ash,
+his shirt wet with sweat. He was too exhausted to move because he had given all of
+himself to fighting the fire. He turned his head and noticed Ben watching him.
+(3) Suddenly all that Ben had taught Mike about proving his bravery was clear. A man
+was not brave if he did something just to prove his
+his courage. He was brave only
+when he forgot about himself. Today Mike had showed that he cared very much
+about the others with whom he was working.
+Q21.
+According to Paragraph (2), Mike was too exhausted to move because............
+  A) he had sweat all over him.
+  B) he was covered with back ash.
+  C) Ben did not give him much help.
+  D) he had given so much to fight the fire.
+22 According to Paragraph  (3), Ben taught Mike that being brave involves.............
+  A) working with proper tools
+  B) avoiding fire hazards
+  C) losing one’s courage
+  D) caring for others
+23 The pronoun his in Paragraph (3) refers to …………
+  A) Ben
+  B) Mike
+  C) a fireman
+  D) a man
+
+Passage 2
+Giant Panda
+(1) An American-born giant panda will soon be traveling to China. The Chinese
+government has an agreement with foreign zoos to lend giant pandas out only for
+scientific study. After a few years, they, and any cubs they may produce, must all be
+returned to China. Mei Lan, a three-year-old female, is being prepared for her trip
+to China, where her parents were born. A special FedEx flight from the U.S. is being
+arranged for her.
+(2) Chinese zookeepers are getting ready for her arrival by planning a special diet,
+and even language lessons for her. They are advertising for a tutor to teach Mei
+Lan Chinese. The caretakers at her new home, the Chengdu Panda Research
+Center in Sichuan, want to help her adapt quickly and feel comfortable in her
+new environment. Mei Lan has lived at a zoo in the city of Atlanta, Georgia, since
+her birth, and she is unfamiliar with Chinese. The teacher must have a bachelor’s
+degree or higher and be fluent in both English and Chinese.
+24 According to Paragraph (2), why do the Chinese zookeepers want Mei Lan to learn
+Chinese?
+  A) so that she can speak with her caretakers
+  B) so that she will feel at home in China
+  C) so that she can forget her English
+  D) so that she will like her new diet
+25 According to Paragraph (2), where has Mei Lan been living?
+  A) in Sichuan, China
+  B) in Atlanta, Georgia
+  C) in an American research center
+  D) in the Chengdu Panda Research Center
+
+Passage 3
+Nanotechnology
+(1) Anybody who doesn’t know much about nanotechnology should begin with geckos.
+These are the lizards that are probably the world’s best climbers. Watching them
+climb upside down on a horizontal pane of glass, you realize that Spiderman should
+really have been called Geckoman. These guys out-climb spiders any day.
+(2) With perfect case they can hang from a single toe, and they do so by pure
+adhesion, not by sticking a toe in a hole or by curling it round something they can
+grip. With all the toes on the glass, scientists guess that if the rest of the body were
+strong enough it could take the weight of a 100kg person suspended below it.
+Although each toe is equipped with a tiny hook-like claw at the end, these are of no
+use on the glass. What keeps them up there is the amazing structure of the skin of
+the toe.
+(3) Seen under the microscope, each toe has around two million tiny hairs on its
+underside. Under the higher magnification of an electron microscope the end
+of each of these hairs is seen to split into hundreds of even tinier nano-hairs,
+which scientists have called spatulae. These hairs are so small that they are
+able to establish contact with the molecular structure of the surface the gecko is
+walking on. With that near-perfect contact the hairs are stuck to the surface by
+electromagnetic forces called Van der Waals forces. The molecules on the feet and
+on the surface have areas of slight positive or negative charge that attract each
+other like mini magnets when they get really close.
+(4) Scientists have been working for over 15 years now to try to unlock the secrets
+of the stickiness of gecko toes and find a way to artificially reproduce the same
+structure of nano-hairs. The hypothesis at the moment is that if any material can be
+shaped into nano-hairs they will have the same properties as those on gecko toes,
+so scientists are looking for a different material with which to make the stickiest
+synthetic surface ever.
+(5) This is one example of research in the field now known as nanotechnology. In this
+field, the technology being created can be measured in a few nanometers (one
+nanometer is a millionth of a millimeter). Interest in developing technology at this
+level was largely inspired by Richard Feynman at the beginning of the 1960s, but
+the ‘nano catchphrase was coined in the 1990s by Dr. Eric Drexler, who spurred
+scientists on through a series of speeches and a book with the title “Engines of
+Creation: The Coming Era of Nanotechnology”.
+(6) The scientists working on the geckos see an enormously wide range of possible
+applications for the kind of adhesive nanotechnology that they will develop the one
+that will make the biggest splash in the media will be the gloves and the boots that
+will allow rock climbers to take their sport to hitherto undreamed-of heights.
+
+But the technology could also be used in surgery to keep the edges of wounds
+together without the need for stitches. There will also be a huge potential in the
+manufacturing sector to stick millions of components together tighter than ever
+before without glue or screws.
+26 How many hairs does a gecko have at the bottom of each toe?
+  A) fifteen
+  B) hundreds
+  C) around two thousand
+  D) around two million
+27 What are the forces that allow geckos to climb upside down on glass called?
+  A) Van der Waals forces
+  B) Sticking forces
+  C) Electric forces
+  D) Spatulae forces
+28 Who started using the popular phrase “nano”?
+  A) Geckoman
+  B) Eric Drexler
+  C) Albert Einstein
+  D) Richard Feynman
+
+Passage 4
+(1)Ultrafine aerosol particles found in polluted urban air can contribute to more
+intense storms in the Amazon rainforest, with potential knock-on effects for
+weather and climate patterns in the region and beyond researchers have warned.
+(2)Particles smaller than 50 nanometers in diameter have a substantial influence on
+cloud formation in the Amazon. In turn, the rainforest has a strong influence on
+climate regulation worldwide, and aerosol effects observed in this region could also
+trigger climate shifts globally according to a study published in science.
+(3)Until this study, ultrafine particles were thought to be too small to affect the
+formation of clouds. This has now been overturned, at least in the specific
+circumstances of the Amazon. “These tiny particles were thought to be too small
+to aid droplet formation”, says meteorologist Luiz Augusto Machado, from the
+Brazilian Institute for Space Research’s Center for Weather Forecasting and
+Climate Studies, and one of the study’s authors. “Now we verified that their
+presence is one reason why some storms become so strong and produce so much
+rain in the Amazon region”.
+(4)Pérola de Castro Vasconcellos, a chemist at the University of Sao Paulo’s Laboratory
+of Atmospheric Chemistry Studies, added: “this study changes the way clouds
+are to be represented in models used for weather forecasting, as well as the way
+researchers understand the workings of tropical rain”.
+(6) The research team analyzed the influence of ultrafine particles on cloud cycles in
+the rainforest during the 2014 rainy season, when there were no forest fires and
+the only source of pollution was Manaus, the largest city in the Amazon.
+29 What important information about the research study does the writer mention in
+Paragraph (s (4) and (5)?
+  A) team of people did the research.
+  B) There were no forest fires.
+  C) Manaus is in the Amazon.
+  D) The study was in 2014.
+30 What is one important idea related to ultrafine particles that the writer mentions in
+Paragraph ( (3)?
+  A) There are many of them in the air in the Amazon.
+  B) They help produce bigger storms in the Amazon.
+  C) They are too small to have an effect on the weather.
+  D) The Brazilian Institute for Space Research is studying them
+
+Q31.
+What is Manaus an example of?
+  A) a large university city
+  B) a large Amazon rainforest
+  C) an area with high pollution
+  D) an ultrafine aerosol particle
+32 What is the main topic of the passage?
+  A) effects of aerosol use on weather in the Amazon
+  B) pollution and aerosol use in the Amazon
+  C) weather forecasting in the Amazon
+  D) storms in the Amazon
+
+Passage 5
+World Quality Standards
+(1) Different companies have different perceptions of quality. Without a common
+standard of quality. However, customers may be at the mercy of manufacturers
+and vendors. As the number of companies competing in the world marketplace
+has increased, so has the seriousness of this problem. To deal with the problem
+of standardization, the International Organization for Standardization (ISO),
+a nongovernmental organization with headquarters in Geneva, Switzerland,
+was created. The ISO is a network of national standards institutes and similar
+organizations from 161 different countries that is charged with developing
+standards for quality products and services that are traded throughout the globe.
+(2) Standardization is achieved through consensus agreements between national
+delegations representing all the economic stakeholders - suppliers, customers, and
+often governments. The member organization for the United States is the American
+National Standards Institute located in Washington, D.C.
+(3) In 1987, the panel published ISO 9000 (iso is Greek for “equal”, which sets the
+guidelines for quality procedures that businesses must use to receive certification.
+Certification by independent auditors and laboratory testing services serves as
+evidence that a company meets the standards for quality control procedures in
+design, production processes and product testing.
+(4)
+(4) Although
+Although certification is not a legal requirement to do business globally, the
+organization’s 161 member countries have approved the ISO standards. In fact,
+ISO standards are so prevalent around the globe that many customers refuse to do
+business with non-certified companies. As an added bonus, companies completing
+the certification process often discover new. cost-efficient ways to improve their
+existing quality-control programs.
+33 What does Paragraph ( (2) say about standardization?
+  A) Guidelines must be used to get certifications.
+  B) Everyone has different ideas about standardization.
+  C) It is controlled by the American National Standards Institute.
+  D) It is a result of agreements between business and governments.
+34 How was the problem of different perceptions of quality solved?
+  A) People created ISO and developed standards of quality.
+  B) More companies started to compete in the world marketplace.
+  C) Customers stopped doing business with non-certified companies.
+  D) National delegations started to represent suppliers, customers and governments.
+
+35 Why does the writer use the phrase in fact in Paragraph (4)?
+  A) To give more information about the importance of the international ISO standards.
+  B) To give an example of how the ISO standards help businesses in member countries.
+  C) To show that the common use of ISO standards came after the 161-member
+countries agreed to them.
+  D) To prove that the 161-member countries approved the ISO standards because
+customers refused to do business with non-certified companies.
+36 Which word can replace the word Although in Paragraph (4)?
+  A) Afterwards
+  B) As a result
+  C) However
+  D) While
+37 What does the writer think is an added advantage of ISO certification?
+  A) He thinks many customers will only want to do business with ISO certified companies.
+  B) He thinks ISO certification is special because business must use independent
+auditors and laboratory testing to prove that they meet the standards.
+  C) He thinks the process of certification helps companies save money by improving
+their processes.
+  D) He thinks that having 161-member countries approve the ISO standards makes the
+standards prevalent around the world.
+
+Passage 6
+(1) According to a recent study in The Analyst’s Accounting Observer, 90 percent
+of companies in the Standard Poor’s 500-stock index reported
+reported nonstandard
+accounting results last year, up from 72 percent in 2009.
+(2) Regulations still require corporations to report their financial results under
+accounting rules. But companies often steer investors instead to massaged
+calculations that produce a better outcome.
+(3) Among 380 companies that were in existence both last year and in 2009, the study
+showed net income was up 6.6 percent in 2015 compared with the previous year
+when non-standard accounting was used.
+(4) However, under generally
+generally accepted accounting principles, net income at the same
+380 companies in 2015 actually declined almost 11 percent from 2014.
+(5) Another striking fact: Thirty companies in the study generated losses under
+accounting rules in 2015 but magically produced profits when they did the math
+their own way. Most were in the energy sector, which has been devastated by
+plummeting oil prices, but health care companies and information technology
+businesses were also in this group.
+(6) How can a company turn losses into profits? By excluding some of its costs of doing
+business. Among the more common expenses that companies remove from their
+calculations are restructuring and acquisition costs, stock-based compensation and
+write-downs of impaired assets.
+38 According to the text, what is one important effect of non-standard accounting?
+  A) It reduces the cost of doing business.
+  B) It increases the number of employees.
+  C) It allows companies to choose the results they show.
+  D) It has mainly helped companies that produce energy.
+39 What is the reason for companies hiding some business costs?
+  A) It makes them seem more successful.
+  B) It is common when prices are falling
+  C) It is easier for them to do their own neath.
+  D) It gives them more time to pay for these costs.
+
+40 The word generally in Paragraph ( (4) is closest in meaning to ………………….
+  A) finally
+  B) especially
+  C) quickly
+  D) usually
+Q41.
+The word reported in Paragraph ( (1) is closest in meaning to ……………………
+  A) opened
+  B) believed
+  C) described
+  D) explained
+Passage 7
+42 In which year was the freshwater level the highest in Morocco?
+A
+B
+C
+  D) 43 How much did the freshwater levels decrease in Syria between 1967 and 2011?
+  A) about 800 cubic meters
+  B) about 500 cubic meters
+  C) about 400 cubic meters
+  D) about 250 cubic meters
+
+Passage 8
+Software Ownership
+(1) Most people know that software can be very expensive. However, many people do
+not know that even though you pay a lot for software, you do not necessarily own
+it. What happens, then, when you pay for a piece of software? Very few developers
+grant you actual ownership of a program, even after you ‘purchased it. Instead
+of buying the software itself, you are actually paying for a license that grants you
+permission to install and use the software.
+Why a License?
+Software developers have good reason for licensing software instead of selling it
+outright: Piracy - software piracy, which costs developers billions of dollars every
+year, is the act of copying software without the developer’s consent and without
+paying the developer and then selling or giving away the copies. If you install the
+program on multiple computers at the same time, that is piracy too. By licensing
+their products and maintaining some ownership of them, developers can take
+action against pirates.
+(1) Modifications - Most license agreements state that you cannot make
+modifications to a program’s source code. If developers allowed this, it would be
+an easy matter for others to make changes to a program and then try to claim the
+modified program as their own.
+(1) But even though the developer keeps most rights to a program, you have some
+rights, too. If the program does not perform as you expected, you have the right to
+return or exchange it.
+44 Which of the following is the writer’s opinion?
+  A) Software licensing benefits the software companies.
+  B) Pirates copy billions of dollars of software every year.
+  C) Customers can usually make one backup copy of software.
+  D) Software licensing brings many advantages to the customer.
+45 What can we understand from the passage about software piracy?
+  A) It is a trivial problem for the software industry.
+  B) It makes a lot of money for the software industry.
+  C) It is a bigger issue in the USA than in other countries.
+  D) It is the main reason software companies prefer licensing.
+
+46 What can we understand from the passage about a lot of people who purchase
+software?
+  A) They try to modify their software.
+  B) They make many copies of their software.
+  C) They like having a software license agreement.
+  D) They fail to read their software license agreement.
+Passage 9
+Catalysts
+Catalysts are very important in controlling the rate of reactions. A catalyst is
+a chemical that increases the speed or rate of a chemical reaction without
+undergoing
+undergoing permanent chemical change. Many industrial and biological processes
+need catalysts for efficiency; the reactions are too slow without them. Catalysts
+are fascinating chemicals. The reaction between hydrogen and nitrogen gas to
+form ammonia does not occur at a significant rate, even at high pressures and high
+temperatures. If some finely divided iron is added to the vessel, however, the rate
+of the reaction increases dramatically and the reaction becomes productive. Iron is
+not a reactant and does not chemically change in the reaction. The iron functions as
+a catalyst.
+47 The word undergoing is closest in meaning to ……………………………..
+  A) adding
+  B) preventing
+  C) controlling
+  D) experiencing
+
+Passage 10
+Evidence
+Direct Evidence
+(1)Evidence is either direct or circumstantial. Direct evidence proves a point. The
+testimony of an eyewitness is direct evidence. Consider the following statement: ‘I
+stole Susan’s purse. This would appear to be a criminal confession. This statement
+is direct evidence. In a civil action, a statement admitting liability
+liability by a defendant is
+direct evidence.
+For example:
+I am so sorry that I hit your car. I knocked over my coffee and looked down just for a
+minute. Is everyone okay?
+Circumstantial Evidence
+(2)Circumstantial evidence is more common. This form of evidence is indirect.
+Circumstantial evidence provides the trier of fact with information from which
+inferences.
+48 The word liability in Paragraph (1) is closest in meaning to …………………………
+  A) knowledge
+  B) crime
+  C) fault
+  D) fact
+
+Passage 11
+Ancient Birds
+(1) Giant birds of the past have names that speak for themselves. The Elephant bird,
+a native of Madagascar and the largest known giant bird, stood at over nine feet
+tall and weighed in at 1,000 pounds or more, until it went extinct about 1,000
+years ago. Australia’s Mthirung, nicknamed “Thunderbird,” which disappeared
+nearly 50,000 years ago, is thought to have been nearly seven feet tall and weighed
+between 500 and 1,000 pounds. But until now, no one had ever found evidence of
+these towering avians in Europe.
+(2) Today, researchers describe the first fossil of a giant bird found in Crimea. Dated
+at around 1.8 million years old, the specimen makes experts question previous
+assumptions that giant birds were not part of the region’s fauna during that period.
+(3) A team of paleontologists dug up the fossil.. an unusually large femur bone.. in
+Taurida Cave, located on the Crimean Peninsula in the northern Black Sea. The cave
+was only discovered last June when the construction of a new highway revealed its
+entrance.
+(4) Based on the femur’s dimensions, the team calculated that the bird would have
+weighed around 992 pounds as much as an adult polar bear-making it the third
+largest bird ever recorded. Daniel Field, a scientist at the University of Cambridge,
+says, “It raises exciting questions about the factors that gave rise to these giant
+birds, and the factors that drove them to extinction”.
+49 What two phrases does the writer use to say that the birds were very large?
+  A) giant bird and towering avian
+  B) elephant bird and native of Madagascar
+  C) large femur bone and the region’s fauna
+  D) seven feet tall and nicknamed “Thunder bird”
+50 Which of the following does the writer say is a fact?
+  A) The Thunderbird lived in Australia and Europe.
+  B) The femur is the largest bone in the body.
+  C) The Elephant bird was over nine feet tall.
+  D) Researchers found a polar bear fossil
+
+Q51.
+How are researchers’ views since the new discovery different from the views held
+before?
+  A) They now know what the birds ate.
+  B) They now know what the birds looked like.
+  C) They now know when the birds became extinct.
+  D) They now know a new place in which the birds lived.
+52 What can we understand about the giant bird of Crimea from Paragraph (3)?
+  A) Researchers found it at the bottom of the Black Sea.
+  B) Highway workers found it at a construction site.
+  C) Researchers did not find all the bones.
+  D) We can see it in the Crimea Museum.
+53 What can be understood about Daniel Field from Paragraph (4)?
+  A) He studies fossil
+  B) He found the fossil.
+  C) He weighed the fossil
+  D) He studies at Cambridge University
+
+Passage 12
+Passage A: Sole traders to the UK
+(1)A sole trader is a business owned by one person. They are usually small in size,
+Hairdressers, butchers, and electricians often operate as sole traders, solo
+traders often use their own savings, bank loans or loans from friends and family
+to help them start and finance their business. There are several benefits of being
+a sole trader. They keep all the profit they make for themselves and get to run
+the business as they see fit, making all the key decisions by themselves. It is
+also simple to start a business as a sole trader as there are very few rules and
+regulations to follow.
+(2)However, sole traders take on all the risks of starting their own business and have
+the disadvantage of unlimited liability, meaning that sole trader is personally
+responsible for the organization’s debt. This means that personal assets such as
+a car or house are at risk of being sold to pay off business debts. Moreover, sole
+traders tend to work long hours. This is because they have full responsibility for all
+of their business. To keep labor costs to a minimum they will often avoid delegating
+tasks such as purchasing or advertising to others, preferring to save money by
+doing the work themselves. Sole traders can only raise limited finance, they will
+receive money from family and friends or use their own savings.
+Partnerships can have a minimum of 2 and a maximum of 20 partners. Lawyers,
+estate agents, doctor and dental practices often operate as partnerships
+Partnerships can raise more finance than sole traders. Banks are more likely to lend
+money to an organization that has many partners than to a sole trader. Partners can
+share the workload and responsibility of the business between them. In comparison
+a sole trader has no-one with whom to share their workload and responsibilities.
+Partners may disagree and argue about the future direction of their business. In
+contrast, a sole trader has the advantage of being the only decision maker.
+Any profit made is shared between two to twenty people. A sole trader has the
+advantage of receiving all profit.
+Like sole traders, partnerships have unlimited liability. All partners have the worry
+of being liable for any business debt the partnership has.
+Unlimited liability can be a major disadvantage for sole traders and partnerships.
+Private limited companies have limited liability, meaning an investor only loses the
+initial stake if a company goes bust.
+In law, a private limited company is separate from the people who own it. Its
+finances are separate from their personal finances. Because limited companies
+have their own legal identity, their owners are not personally liable for the firm’s debts
+54 What is one advantage partnerships and private limited companies have over sole traders?
+  A) It is easier to motivate people working in the business.
+  B) It is easier to make decisions about the business.
+  C) It is easier to find money to grow the business.
+  D) It is easier to find customers for the business.
+
+Q55.
+
+What is one advantage sole traders and partnerships have over private limited companies?
+  A) They can share the work.
+  B) They are less expensive to establish.
+  C) It is easier to agree on a business strategy.
+  D) Business owners can find more free time.
+Q56.
+
+How is a partnership different from a Sole trader and a private limited company?
+  A) It usually has two owners.
+  B) It can be a family business.
+  C) It always has multiple owners.
+  D) It must have a legal document.
+57 In which business(es) do the owners have to use their personal money if the business
+fails?
+  A) Sole trader only.
+  B) Sole trader and partnership.
+  C) Partnership and limited company.
+  D) Sole trader, partnership and limited company.
+
+(1) The Holy Quran tells us that insects form communities (Surat al-An’am, 38)
+and that they can communicate with one another (Surat an-Naml, 18) and work
+together to produce food (Surat al-Nahl, 68-9). Modern science, more than 1,400
+years afterwards, has accepted that this information is indeed correct. Now,
+scientists in the United Kingdom are learning that some of these amazing creatures
+these amazing creatures
+may also have feelings and emotions similar to those of humans.
+(2) At Newcastle University, they are trying to discover how some insects feel. In
+recent years, honeybee numbers have been declining worldwide at a disturbing
+rate. Many explanations have been given for this. Some say the bees are dying
+because of disease and pesticides. Others say it may be due to pollution or
+microwave towers. At any rate, this is a very serious situation, for humans as well
+as for the bees. At least one-third of the world’s crops depend on bees. Farmers
+are worried. What about the bees? How do they feel? Are they scared, sad or
+depressed?
+(3) The researchers trained a group of bees to tell the difference between two smells.
+After one smell, they were always given a sweet sugar reward. After the other
+smell, they were given a bitter substance
+bitter substance. They quickly learned to choose the smell
+with the sweet prize and to stick out their tongues to get it. The scientists wanted
+to see what the bees would do if they were put in a stressful situation. They shook
+up half of the bees, to make them think they were in danger. These stressed bees
+refused to put out their tongues for new smells, and only chose the old smell which
+they knew would be followed by a sweet treat. Even though there was an equal
+chance that a strange smell would taste good, it seemed they believed it would
+taste bad and were afraid to try it. These bees had become “pessimists”. The other
+half-the unstressed bees-were much more likely to try tastes from new smells, thus
+remaining “optimists
+optimists”.
+(4) When humans are stressed, anxious, worried or depressed, they have lower levels
+of the brain hormone serotonin. So did the stressed bees. This may mean that the
+feelings of anxious and stressed bees are similar to those of humans with mood
+disorders. This knowledge, along with further investigations into bee behavior
+and “feelings” can hopefully be used to understand and remedy their declining
+numbers, for their sake and for ours.
+58 The words these amazing creatures in Paragraph (1) refer to …………….
+  A) bees
+  B) insects
+  C) scientists
+  D) communities
+Passage 13
+Bees
+
+59 The words these amazing creatures in Paragraph (1) refer to …………….
+  A) They have communities and can communicate.
+  B) They are necessary to produce our food crops.
+  C) They are becoming more numerous than us.
+  D) They have feelings like us.
+60 Which paragraph describes how the scientists trained the bees?
+  A) Paragraph (1)
+  B) Paragraph (2)
+  C) Paragraph (3)
+  D) Paragraph (4)
+
+ANSWER KEY
+--------------------
+Q21: D
+Q22: D
+Q23: D
+Q24: B
+Q25: B
+Q26: D
+Q27: A
+Q28: B
+Q29: B
+Q30: B
+Q31: C
+Q32: A
+Q33: D
+Q34: A
+Q35: A
+Q38: C
+Q39: A
+Q40: D
+Q41: D
+Q42: A
+Q43: A
+Q44: A
+Q45: D
+Q46: D
+Q47: D
+Q48: C
+Q49: A
+Q50: C
+Q52: C
+Q53: A
+Q54: C
+Q56: C
+Q57: B
+
+
+GRAMMAR
+========================================
+
+ًنموذج أكثر تكرارًا
+Q61.
+If it rains tomorrow, I ………………. my raincoat.
+  A) wear
+  B) am wear
+  C) will wear
+  D) going to wear
+Q62.
+Adam ………………… a book now.
+  A) reads
+B
+  C) is reads
+  D) is reading
+Q63.
+When I go to King Saud University Library, I usually …………………………
+  A) am studying
+  B) will study
+  C) studied
+  D) study
+Q64.
+Which one of the underlined words or phrases is INCORRECT?
+I don’t had enough money to buy a bus ticket, so I’II have to walk to school today
+  A) had
+  B) to buy
+  C) so
+  D) have to
+Q65.
+Which of the following sentences has the CORRECT WORD ORDER?
+  A) Fun subjects to study both physics and sociology are, but the mathematics in physics than
+the psychology in sociology is more interesting.
+  B) Physics and sociology are fun subjects to study both, but in physics is more interesting the
+mathematics than in sociology the psychology.
+  C) Both physics and sociology are fun subjects to study, but the mathematics in physics is
+more interesting than the psychology in sociology.
+  D) But in physics the mathematics is more interesting than the psychology in sociology, fun
+subjects to study both physics and sociology are
+Q66.
+Which sentence is correct?
+  A) Your visit will be next Saturday.
+  B) You’re visit will be next Saturday
+  C) You’re visit is next Saturday.
+  D) Your visit has next Saturday
+Q67.
+In which of the following sentences is all PUNCTUATION correct?
+  A) After all, the office’s are finished, whos’ going to have the biggest room?
+  B) After all the offices are finished, who’s going to have the biggest room.
+  C) After all the offices are finished, who’s going to have the biggest room?
+  D) After all, the offices are finished, whos going to have the biggest room.
+
+Q68.
+Karen was too upset to fall asleep last night, ……… she went for a long walk
+  A) because
+  B) why
+  C) but
+  D) so
+Q69.
+Which sentence has the CORRECT WORD ORDER?
+  A) Adam said he would like to live in the UAE, after he has finished his studies and found a
+good job.
+  B) Adam said he would like to live in the UAE, and has found a good job, after he has finished
+his studies
+  C) Adam said he would like to live in, and found a good job, the UAE after he has finished his
+studies.
+  D) Adam said he would like to visit, after he has finished his studies and found a good job, the
+UAE
+Q70.
+Jack drove a Ford for years before he …………… a GMC
+  A) buys
+  B) is buying
+  C) bought
+  D) has bought
+Q71.
+Has anyone seen Chris recently? I ……………. to contact him since last Monday
+  A) try
+  B) am trying
+  C) have been trying
+  D) had tried
+Q72.
+The teacher was in a bad mood and spoke to everyone …………………
+  A) aggressive
+  B) aggressiveness
+  C) aggressively
+  D) aggression
+Q73.
+The lady …………………. you just spoke with can help with your problem
+  A) whose
+  B) whom
+  C) which
+  D) where
+Q74.
+If Sarah has free time, she ……………. her favorite programs on Netflix
+  A) going to watch
+  B) had watched
+  C) watched
+  D) watches
+Q75.
+Anna …………. with joy when she saw her brother for the first time in months
+  A) jumps
+  B) jumped
+  C) have jumped
+  D) had jumped
+
+Q76.
+Tom and Adam developed a new app all by …………………
+  A) ourselves
+  B) oneselves
+  C) theirselves
+  D) themselves
+Q77.
+Tony has been trying to call STC ……………………… three days
+  A) during
+  B) since
+  C) from
+  D) for
+Q78.
+By the time Maria arrived at the meeting, the main topic ……………….
+  A) had been discussed
+  B) being discussed
+  C) is discussed
+  D) discussed
+Q79.
+I am booking my tickets for my summer holiday. ………travel agency do you think I
+should use?
+  A) who
+  B) Where
+  C) Which
+  D) Why
+Q80.
+I can’t come jogging; I don’t have …………… running shoes.
+  A) some
+  B) any
+  C) a lot
+  D) much
+Q81.
+I have not gone to Dubai ………………….. May last year
+  A) for
+  B) from
+  C) since
+  D) until
+Q82.
+I had a great business idea while I ……………… my last English essay
+  A) have written
+  B) wrote
+  C) write
+  D) was writing
+Q83.
+Let me know when you …………………. the task. I will give you another to do.
+  A) completed
+  B) complete
+  C) completes
+  D) completing
+Q84.
+I don’t know where …………………….
+  A) can be bought the best used cars
+  B) can be the best used cars bought
+  B) the best used cars bought can be
+  D) the best used cars can be bought
+
+Q85.
+The teacher suggested he……Jan and A grade, but in the end, he decided on a B
+  A) gives
+  B) giving
+  C) has given
+  D) would give
+Q86.
+If Tim ………………. better at work, he would have received a promotion.
+  A) had performed
+  B) performed
+  C) has performed
+  D) would perform
+Q87.
+The teacher ………………. you can see between 10 and 11 am, has your feedback for
+you
+  A) which
+  B) whom
+  C) him
+  D) he
+Q88.
+Both brothers want to study in England, but neither Ahmed ………………… Ali passed
+the entry test
+  A) nor
+  B) also
+  C) either
+  D) neither
+Q89.
+You are so late for the class that you …………. not understand the lesson
+  A) must
+  B) could
+  C) might
+  D) should
+Q90.
+I wouldn’t have bought a Chinese car if I ……………. they were unreliable
+  A) know
+  B) knew
+  C) have known
+  D) had known
+Q91.
+Eric often dreamed of ……………………… a summer in Japan
+  A) spending
+  B) to spend
+  C) spend
+  D) spent
+Q92.
+Which one of the underlined words or phrases is INCORRECT?
+Football players like run, shooting, and scoring goals, both in their training sessions and in matches. After a
+training session, they need a couple of days to rest before playing a match.
+  A) run
+  B) their
+  C) After
+  D) playing
+
+Q93.
+Which of the underlined words or phrases is INCORRECT?
+Yesterday, John sends two messages to his friend Ken about their trip to the desert
+  A) sends
+  B) his friend
+  C) about
+  D) trip
+Q94.
+Lucy saw her brother …………… she went home during her holiday
+  A) although
+  B) during
+  C) when
+  D) so
+Q95.
+In which sentence is all CAPATALIZATION correct?
+  A) Three days ago, he bought two tickets to prepare for the match at london stadium next
+week.
+  B) Three days ago, he bought two tickets to prepare for the match at London Stadium next
+week.
+  C) Three days ago, he bought two tickets to prepare for the match at London stadium next
+week.
+  D) Three days ago, He bought two tickets to prepare for the match at London Stadium next
+Q96.
+In which sentence is all CAPATALIZATION correct?
+  A) At first, my sister, Mona, wanted to study biology at King Fahd University, but one of
+her teachers, Mr. Cater, persuaded her to join the College of Engineering after she fin­
+ishes the first semester in January.
+  B) At first, my sister, Mona, wanted to study Biology King Fahd University, but one of her
+Teachers, Carter, persuaded her to join the College of engineering after she finishes the First
+Semester in January.
+  C) At first, my sister, mona, wanted to study Biology at King Fahd university, but one of her
+Teachers, Mrs. Carter, persuaded her to join the college of Engineering after she finishes the
+first semester in January.
+  D) At First, my sister, Mona, wanted to study biology at King Fahd University, but one of her
+teachers, mrs. Carter, persuaded her to join the College of engineering after she finishes the
+First Semester in January.
+Q97.
+He did not have ………money in his wallet, so the stopped by the cash machine
+  A) tots
+  B) much
+  C) plenty
+  D) many
+
+Q98.
+Would someone please tell him the correct answer to the question that he……?
+  A) asked
+  B) asking
+  C) asked it
+  D) is asking it
+Q99.
+The strawberries …………………… by the children who picked them
+  A) have all eating
+  B) were all eaten
+  C) were all eating
+  D) had all eaten
+100 Mr. Amir,…………….the students call Uncle Amir, taught the boys physical education
+several times a week
+  A) he
+  B) him
+  C) whom
+  D) which
+
+ANSWER KEY
+--------------------
+Q61: C
+Q62: D
+Q63: D
+Q64: A
+Q66: A
+Q67: C
+Q68: D
+Q70: C
+Q71: C
+Q72: C
+Q73: B
+Q74: D
+Q75: B
+Q76: D
+Q77: D
+Q78: A
+Q79: C
+Q80: B
+Q81: C
+Q82: D
+Q83: B
+Q84: D
+Q85: D
+Q86: A
+Q87: B
+Q88: A
+Q89: C
+Q90: D
+Q91: A
+Q92: A
+Q93: A
+Q94: C
+Q96: A
+Q97: B
+Q98: A
+Q99: B
+Q100: C

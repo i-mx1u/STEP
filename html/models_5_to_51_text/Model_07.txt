@@ -1,0 +1,732 @@
+MODEL 7
+========================================
+
+READING
+========================================
+
+Q35.
+Passage 1
+(صورة الشيف)
+21 If Khalid has 10 riyals he could buy ….
+  A) Meat
+  B) Fish
+  C) Chicken
+  D) Sandwich
+Passage 2
+(تلوث الهواء الداخلي )
+(1)Air is the ocean we breathe. It supplies us with oxygen which is essential for our
+bodies. Air is made up of a mixture of nitrogen, Oxygen, water vapor and inert
+gases. Human activities release substances into the air and some of these can cause
+problems for humans, Plants and animals. These Problems are usually referred to as
+air pollution.
+(2)There are several problems that result from air pollution. The main ones we usually
+hear about are smog, acid rain, the greenhouse effect and “holes” in the ozone layer.
+Each of these problems has serious implications for our health and well-being as
+well as for the environment as a whole.
+(3)The release of particles into the air from burning fuel for energy is often discussed
+as a huge problem. Diesel smoke is a good example of the particulate matter that
+results in this pollution. The particles are very small pieces of matter measuring about
+2.5 microns or 0.0001 centimeter. This type of pollution is sometimes referred to as
+“Black Carbon” pollution. The exhaust from burning fuels in automobiles, homes,
+and industries is a major source of pollution in the air Authorities also believe that
+the burning of the wood and charcoal in fireplaces and barbeques release significant
+quantities of soot into the air.
+(4)Another type of pollution is the release of noxious gases, such as sulfur dioxide,
+carbon monoxide, nitrogen oxides, as well as chemical vapors. These take part in
+chemical reactions once they are in the atmosphere, resulting in smog and acid rain.
+(5)We must also consider air pollution inside our homes, offices, and schools. Some
+pollutants are created by indoor activities such as smoking and cooking. Most people
+spend about 80-90% of their time inside buildings. That means our exposure to
+harmful indoor pollutants can be serious. It is therefore important to consider both
+indoor and outdoor air pollutions.
+22 According to Paragraph ( 1), which of the following are constituents of air?
+  A) nitrogen and water vapor, but NOT oxygen.
+  B) nitrogen and oxygen, but NOT water vapor.
+  C) nitrogen, oxygen and water vapor
+  D) nitrogen, oxygen, and fuel.
+
+Q36.
+23 The word essential in Paragraph ( 1) is closest in meaning to .......
+  A) healthy
+  B) important
+  C) dispensable
+  D) comprehensive
+24 What is a good example of particles released into the air that are a source of
+pollution?
+  A) indoor pollution
+  B) human activity
+  C) diesel smoke
+  D) acid rain
+25 What is pollution resulting from diesel smoke called?
+  A) black carbon
+  B) burning fuel
+  C) exhaust
+  D) micron
+26 Indoor air pollution can be more serious than outdoor pollution because people.....
+  A) spend most of their time in
+buildings
+  B) often bum charcoal for cooking
+  C) sleep, smoke and cook indoors
+  D) often bum wood for heating
+
+Q37.
+Passage 3
+(نوم الحيوانات )
+(1) All animals must rest, but do they really sleep as we know it? The answer to this
+question seems obvious. If an animal regularly stops its activity and stays quiet and
+unmoving - if it looks as though it is sleeping - then why not simply assume that it is
+in fact sleeping? But how can observers be sure that an animal is sleeping?
+(2) They can watch the animal and notice whether its eyes are open or closed, whether
+it is active or lying quietly, and whether it responds to light or sound. These factors
+are important clues, but they often are not enough. Horses and cows, for example,
+rarely close their eyes whereas fish and snakes cannot close them. Yet this does not
+necessarily mean that they do not sleep. Have you ever seen a cat dozing with one
+eye partly open? Even humans have occasionally been observed sleeping with one
+eye or both eyes partially open. Animals don’t necessarily lie down to sleep either
+Elephant fآor example often sleep standing up with their tusks resting in the fork of
+a tree. Finally, while sleeping animals often seem unaware of changes in the sound
+and light and other stimuli around them, that does not really prove they are sleeping
+either.
+(3)  Observation alone cannot fully answer the question of whether or not animals sleep.
+The answers come from scientists doing experiments in sleep laboratories using a
+machine called the electroencephalograph (EEG). The machine is connected to the
+anآimals measures their brain signals, breathing, heartbeat and muscle activity.
+The measurements are different when the animals appear to be sleeping than when
+they appear to be awake. Using the EEG, scientists have confirmed that all birds and
+mammals studied in laboratories do steep.
+(4) There is some evidence that reptiles, such as snakes and turtles, do not truly sleep,
+although they do have periods of rest each day, in which they are quiet and unmoving.
+They also have discovered that some animals like chimpanzees, cats and moles who
+live underground) are good sleepers while others like sheep, goats and donkeys are
+poor sleepers. Interestingly, the good sleepers are nearly all hunters with resting
+places that are safe from their enemies. Nearly all the poor sleepers are animals
+hunted by other animals; they must always be afraid.
+27 Which of the following statements gives the main idea of the passage?
+  A) Animals and humans differ with regard to their sleeping behavior.
+  B) Some animals lie down to sleep while others sleep standing up.
+  C) How animals rest and sleep.
+  D) Scientists have been able to study animals’ sleeping behavior.
+28 All animals..........
+  A) A react to sound while sleeping
+  B) sleep some time each day
+  C) spend some time resting
+  D) close their eyes to rest
+
+Q38.
+29 The word clues in Paragraph (2) is closest in meaning to ........
+  A) signs
+  B) results
+  C) factors
+  D) procedures
+30 According to Paragraph (2), cows and horses, while sleeping, are two examples of
+animals that .........
+  A) NEVER close their eyes
+  B) always close their eyes
+  C) usually open their eyes
+  D) seldom open their eyes
+Q31.
+The word dozing in Paragraph (2) is closest in meaning to..........
+  A) opening only one eye
+  B) waking up
+  C) dreaming
+  D) sleeping
+32 According to Paragraph (2), the elephant is an example of an animal that ........
+  A) is a good sleeper
+  B) sleeps with its eyes open
+  C) wakes to dangerous sounds
+  D) does NOT always sleep lying down
+33 The word stimuli in Paragraph (2) is closest in meaning to .......
+  A) animal reaction to sound
+  B) reactions produced by living things
+  C) light changes to which animals do not react
+  D) things which produce a reaction in living organisms
+34 Which of the following sentences is NOT TRUE according to Paragraph (2)?
+  A) In order to Study animals sleeping manners, the EEG must be attached to their
+bodies.
+  B) Scientists have used the EEG to study animals’ sleeping behavior.
+  C) Fish and snakes sleep with their eyes open because they DON’T like to close them.
+  D) Snakes have some resting periods during the day.
+35 The word their in Paragraph (3) refers to .........
+  A) animals
+  B) scientists
+  C) experiments
+  D) laboratories
+36 According to Paragraph (3), what is the best way to tell if an animal is asleep?
+  A) Observe if it’s moving.
+  B) See if its eyes are open.
+  C) Use the electroencephalograph.
+  D) Check if it reacts to light or sound.
+
+Q39.
+37 According to Paragraph (4), snakes .........
+  A) may NOT really sleep
+  B) may NOT need to rest
+  C) CANNOT be studied with the EEG
+  D) are NOT studied in sleep laboratories
+38 According to Paragraph (4), which of the following animals DON’T sleep much?
+  A) cats
+  B) sheep
+  C) moles
+  D) chimpanzees
+39 According to Paragraph (4), some animals are better sleepers than others because
+they….
+  A) can lie down
+  B) have safe places to sleep
+  C) sleep faster than other animals
+  D) are often tired from being hunted
+Passage 4
+(جائزة الملك فيصل)
+The King Faisal Prize is an annual award sponsored by King Faisal Foundation
+allocates
+allocates to “dedicated men and women whose contributions make a positive
+difference”.
+It is held once a year in January of each year and the handover ceremony is within two
+months of the announcement of the winner.
+The foundation awards prizes in five categories: Service to Islam; Islamic studies; the
+Arabic language and Arabic literature; science; and medicine.
+The prize in each of the five categories consists of: cash, medal, or even certificates.
+The number of people who received the Faisal Prize 253 represents 44 countries. A
+son of King Faisal Serves as chairman of the King Faisal Prize.
+40 According to Paragraph (1), the King Faisal Prize is awarded ……….
+  A) Once every two years
+  B) Once a year
+  C) Twice a year
+  D) More than twice a year
+Q41.
+The recipients of the King Faisal Prize receive……
+  A) A cash award, a memorial statue, and a certificate
+  B) A certificate, a medal and a cash award
+  C) A summary and a golden medal
+  D) A summary and a cash reward
+
+Q40.
+42 According to Paragraph (2), a son of King Faisal …….
+  A) Won the first King Faisal Prize
+  B) Limits the Foundation activities for the Prize
+  C) Donates his own money for the King Faisal
+  D) Serves as chairman of the King Faisal Prize
+43 The word “allocates” in Paragraph ( 2), is closest in meaning to ……
+  A) Locating something missing
+  B) Naming candidates for the Prize
+  C) Assigning the money for the Prize
+  D) Specifying the money for the ceremony
+Passage 5
+(وصف المعدة)
+“ It’s inside the body, and it is where food goes after you eat. “
+44 Which body part is being described?
+  A) Stomach
+  B) Mouth
+  C) Heart
+  D) Brain
+Passage 6
+(الزراعة بين الماضي والحاضر)
+A comparison was made between cultivation in the past in 1900 and the present time.
+Where it was found that in the year 1900, 40% of the workers were working in the
+field of agriculture, and farmers were producing per day enough food for an average
+of 5 people, for themselves
+themselves and their families, and working manually. But at the
+moment there is much more equipment, machinery and production.
+45 The word “themselves” in Paragraph (1) refers to ……
+  A) Agriculture
+  B) Americans
+  C) Labor force
+  D) Farmers
+46 Which of the following does NOT characterize farming in 1900?
+  A) The typical farmer produced food for five people
+  B) Farmers were less productive than farmers today
+  C) Only half the labor force worked in agriculture
+  D) Farmers used manual methods to do chores
+
+Q41.
+Passage 7
+(فصائل الدم)
+(1) A blood type also called a blood group) is a classification of blood, based on the
+presence and absence of antibodies and inherited antigenic substances on the
+surface of red blood cells RBCs). You can receive blood from a donor with the same
+blood type as you. You can also receive blood from a donor with a compatible blood
+type. There are different systems to classify blood types. In ABO system, we have
+four main types:
+•	 Type A blood has the Group A antigens and makes antibodies to fight Group B
+blood
+•	 Type B blood has the Group B antigens and makes antibodies to fight Group A
+blood.
+•	 Type AB blood has both Groups A and B antigens, but doesn’t make antibodies
+for either one.
+•	 Type O blood doesn’t have either type of antigen.
+(2) So, who can receive and who can donate in ABO system?
+•	 Type A only receives from A and O.
+Blood type B receives only B and O.
+AB blood type receives all types, and only can donate to people with type AB
+blood.Type O blood receives only from O.
+Blood type O negative is given to all blood types
+47 Which of the following is not TRUE about the ABO system?
+  A) All blood types are compatible with themselves
+  B) Type O is compatible with all other blood types
+  C) Type AB can only be given to patient AB blood
+  D) The ABO system is the only system to classify blood types
+48 The word “compatible” in Paragraph ( 1) is closest in meaning to ……
+  A) Available
+  B) Matching
+  C) Common
+  D) Identical
+49 Which blood type can accept from any other blood type?
+  A) Type A
+  B) Type B
+  C) Type O
+  D) Type AB
+
+Q42.
+Passage 8
+(جسر الملك فهد \جسر البحرين)
+(1) King Fahd Causeway is a sea bridge that connects the Kingdom of Saudi Arabia with
+the Kingdom of Bahrain. The idea of building a bridge linking the Kingdom of Bahrain
+to the Eastern region of the Kingdom of Saudi Arabia was born out of King Saud’s
+wish to develop and further solidify the links between the two Kingdoms, during an
+official visit to the State of Bahrain in 1954.
+(2) In 1965, the desire to construct the causeway began to take form officially when
+Sheikh Khalifah bin Salman Al Khalifah the Prime Minister of the State of Bahrain paid
+a courtesy visit to King Faisal and the king expressed his wish to have the causeway
+constructed.
+(3) In 1968, both countries formed a joint committee. They formed it to assess the
+financial undertaking required for the task. As a result, the World Bank was requested
+by the committee to contribute their assistance in methods of implementation of the
+mammoth-sized project. This required taking into account the environmental and
+geographical aspects of the Saudi-Bahrain region.
+(4) In the summer of 1973, King Faisal, in a meeting which included Amir ShaikhIsa bin
+Salman Al Khalifa as well as the then prince, Fahd bin Abdul Aziz and Shaikh Khalifa
+bin Salman Al Khalifa, suggested that committee overlook the economic and financial
+aspects of the project and concentrate on the actual construction of the causeway.
+(5) In 1975, the World Bank submitted its study and advice after seeking assistance
+from specialist international expertise in studying the geographic, environmental
+factors and maritime currents.
+(6) In the spring of 1976, during a visit by King Khalid bin Abdul Aziz to Shaikh Isa bin
+Salman Al Khalifa, the two monarchs agreed to set up a ministerial committee from
+the two countries to work on the implementation of the project
+50 The best title for this passage is ……
+  A) Global Engineering
+  B) Saudi Arabian Highways
+  C) Visiting the Kingdom of Bahrain
+  D) Building Bridges Between Nations
+Q51.
+According to Paragraph (1) and 2), the plan to build a bridge was first visualized by..
+  A) King Saud
+  B) King Faisal
+  C) Sheikh Salman
+  D) Sheikh Khalif
+52 The word “it” in Paragraph ( 3) refers to ……...
+  A) Saudi
+  B) Bahrain
+  C) The project
+  D) The joint committee
+
+Q43.
+53 It can be understood from Paragraph (3) that the World Bank provided …...
+  A) Relevant studies and advice
+  B) Financial aid and assistance
+  C) Contractors and construction workers
+  D) Geographical and environmental factors
+57 According to the passage which of the following is NOT found at the border station?
+  A) Dining facilities
+  B) Shopping facilities
+  C) Official buildings
+  D) Religious buildings
+58 An additional Paragraph at the end of the passage would most likely be about …..
+  A) Repairs that need to be carried out on the causeway
+  B) New causeways to be constructed to other countries
+  C) Passport and visa requirements to cross the causeway
+  D) Statistics for projected causeway traffic for the next ten years
+Passage 9
+(تمثال الحرية)
+Statue of Liberty. The official name of this statue is “Liberty Enlightening the World.” It
+represents democracy or Liberal Thought.
+It is a sculptural artwork that France gifted to the United States of America on October
+28, 1886 as a memorial gift, with the aim of strengthening friendship between the two
+countries on the occasion of the centenary of the American Revolution 1775-1783).
+Surrounding the statue as a whole is a star shaped wall a star with 10 heads).
+The Statue of Liberty is very popular with many visitors around the world, especially
+New York City, and visitors can take a great experience by going up to the huge crown
+above the statue’s head.
+59 The purpose of the passage is to give a...
+  A) Narrative
+  B) Description
+  C) Definition
+  D) Comparison
+60 What does the passage say about the statue of liberty?
+  A) There is NO significance to the number of spikes in the crown
+  B) Her hands are by side holding a torch and a book
+  C) It is recognized by people around the world
+  D) It was completed in 1776
+
+ANSWER KEY
+--------------------
+Q21: D
+Q22: C
+Q23: B
+Q24: C
+Q25: A
+Q27: C
+Q28: C
+Q29: A
+Q30: C
+Q31: D
+Q32: D
+Q33: D
+Q34: C
+Q35: A
+Q36: C
+Q37: A
+Q38: B
+Q39: B
+Q40: B
+Q41: B
+Q42: D
+Q43: C
+Q44: A
+Q45: D
+Q46: C
+Q47: D
+Q48: B
+Q49: D
+Q50: D
+Q51: A
+Q52: D
+Q53: D
+Q57: B
+Q58: B
+Q59: B
+Q60: C
+
+
+GRAMMAR
+========================================
+
+Q44.
+Q61.
+Mark is ……………. than Sami.
+  A) smart
+  B) smarter
+  C) smartest
+  D) smartly
+Q62.
+In which sentence is all PUNCTUATION correct?
+  A) All in all; this is a great achievement,
+indeed.
+  B) All in all, this is a great achievement: indeed.
+  C) All in all this is a great achievement;
+indeed.
+  D) All in all, this is a great achievement
+indeed.
+Q63.
+Could you please open the windows? We need …………..
+  A) fresh air
+  B) fresh airs
+  C) a fresh air
+  D) an air fresh
+Q64.
+I’m really sorry George. I don’t have …………. money with me, but I can bring you
+some tomorrow.
+  A) any
+  B) some
+  C) a few
+  D) many
+Q65.
+Dr. Carter was unable to read the letter ……….. he spilled water on it.
+  A) because
+  B) also
+  C) that
+  D) but
+Q66.
+We should listen to other people. We can learn many things from ………
+  A) it
+  B) their
+  C) them
+  D) his
+Q67.
+In which sentence is all CAPITALIZATION correct?
+  A) King Khalid Mosque is in Riyadh.
+  B) king Khalid mosque is in Riyadh.
+  C) King Khalid Mosque is in RIYADH.
+  D) King Khalid mosque is in riyadh.
+Q68.
+Ali is fixing his brother’s bicycle, and he…….... some help. Can you help him?
+  A) is needing
+  B) needed
+  C) needs
+  D) need
+
+Q45.
+Q69.
+If we………..up early, we will miss the flight. We have to be at King International
+Airport at 7 AM.
+  A) Get
+  B) don’t get
+  C) did not get
+  D) had not get
+Q70.
+Does everyone……….. that the final exam will be on Thursday?
+  A) knew
+  B) know
+  C) known
+  D) knowing
+Q71.
+That old man sitting on the green bench…….......a popular TV show when you were a
+little child.
+  A) use to host
+  B) uses to host
+  C) used to host
+  D) used to hosting
+Q72.
+Hey,……………..ate my sandwich?
+  A) whom
+  B) who
+  C) which
+  D) whose
+Q73.
+I have been living in Dammam …………….. three years now.
+  A) for
+  B) yet
+  C) since
+  D) about
+Q74.
+Would you be able to wait……………. tomorrow for the delivery?
+  A) to
+  B) until
+  C) since
+  D) through
+Q75.
+We need ……………. butter to make this cake.
+  A) any
+  B) much
+  C) many
+  D) some
+Q76.
+A: Did you enjoy ………………
+B: Yes, we did.
+  A) yours
+  B) yourself
+  C) ourselves
+  D) yourselves
+
+Q46.
+Q77.
+A well-known athlete …………….. in the park right now.
+  A) exercises
+  B) exercised
+  C) is exercising
+  D) has exercised
+Q78.
+Which one of the underlined words or phrases is INCORRECT?
+The decision to go nor stay was difficult to reach.
+  A) to go
+  B) nor
+  C) was
+  D) to reach
+Q79.
+Children should always clean their rooms by ________.
+  A) themselves
+  B) theirselves
+  C) himself
+  D) herself
+Q80.
+In which sentence is all PUNCTUATION correct?
+  A) After they traveled the world, they returned home to their families; and went back to their
+old routines.
+  B) After they traveled the world, they returned home, to their families, and went back, to their
+old routines.
+  C) After they traveled the world: they returned home, to their families and went back, to their
+old routines.
+  D) After they traveled the world, they returned home to their families and went back to
+their old routines.
+Q81.
+There are several steps a student should follow before starting to answer an
+exam……….. , he or she should read the question carefully.
+  A) First
+  B) Also
+  C) Then
+  D) Next
+Q82.
+Which of the following sentences has the CORRECT WORD ORDER?
+  A) And tried to fall asleep, they could hear the pattering of the rain on the roof at night while
+they lay in their beds.
+  B) On the roof at night while they lay in their beds, they could hear and tried to fall asleep, the
+pattering of the rain.
+  C) They could hear the patterning of the rain on the roof at night while they lay in their
+beds and tried to fall asleep.
+  D) At night, they could hear while they lay in their beds, the pattering of the rain on the roof,
+and tried to fall asleep.
+
+Q47.
+Q83.
+Choose the CORRECT ORDER to make the following sentences into a paragraph
+(1) Near them is a man fishing.
+(2) There is a shady place near the river.
+(3) He is holding a wooden pole.
+(4) Two children are sitting there under a tree.
+  A) (4), (2), (1), (3)
+  B) (4), (3), (2), (1)
+  C) (2), (1), (3), (4)
+  D) (2), (4), (1), (3)
+Q84.
+Fruits and vegetables provide lots of vitamins and minerals in our diet………….., they
+contain a lot of fiber.
+  A) In addition
+  B) In contrast
+  C) For example
+  D) As a result
+Q85.
+When you call the office, you should give your message to anyone ………… answers the
+phone.
+  A) who he
+  B) whose
+  C) who
+  D) he
+Q86.
+The manager …………… we met was really interesting.
+  A) Whose
+  B) Whom
+  C) When
+  D) Where
+Q87.
+Shh! There is a noise outside. ………………. that?
+  A) Are you hearing
+  B) Do you hear
+  C) Are you hear
+  D) You hearing
+Q88.
+Reaching the summit of the mountain was ……… challenge of Ali’s life.
+  A) big
+  B) bigger
+  C) the bigger
+  D) the biggest
+Q89.
+My doctor told me that I should ………. more vegetables.
+  A) eating
+  B) to eat
+  C) eat
+  D) ate
+Q90.
+Yesterday, the teacher…………. listening for her twin sister Kate.
+  A) mistakes
+  B) mistook
+  C) mistaking
+  D) mistaken
+
+Q48.
+Q91.
+Choose the CORRECT ORDER to make the following sentences into paragraph:
+(1) As a result, the ostrich cannot fly.
+(2) The largest bird in the world is the ostrich.
+(3) This is a lot of weight to lift in the air.
+(4) It can weigh as much as 135 kilograms.
+  A) (4), (2), (1), (3)
+  B) (2), (4), (3), (1)
+  C) (2), (1), (3), (4)
+  D) (4), (3), (2), (1)
+Q92.
+Which one of the underlined words or phrases is INCORRECT
+My sister loves shopping. She doesn’t buy many, but she likes wandering round the shopping malls,
+looking for bat gams. I keep telling her that it’s a waste of time, but she doesn’t listen to me!
+  A) Many
+  B) Wandering
+  C) Looking for
+  D) Waste of time.
+Q93.
+Student: Sir, I have finished the quiz.
+Teacher: What? We only started ten minutes ago. You______ possibly have finished
+  A) shouldn’t
+  B) wouldn’t
+  C) couldn’t
+  D) won’t
+Q94.
+Mike: What do you do on weekends?
+Roger: Well, normally I’m busy, but I have _______ hours to go out with my friends for entertainment
+  A) little
+  B) a little
+  C) a few
+  D) much
+Q95.
+If Chris had wanted to go on the trip, he would __________to you.
+  A) have responded
+  B) be responding
+  C) responding
+  D) responded
+Q96.
+Jack: where did Mike go?
+Eric: I don’t know where …………….
+  A) Did go he
+  B) Went he
+  C) He did go
+  D) He went
+
+Q49.
+Q97.
+Which sentence has the CORRECT WORD ORDER?
+(1) Thoughtlessly destroying our environment, the book states that if we continue at the present pace, the
+extinction of many species is inevitable.
+(2) If we continue at the present pace, the book states that extinction of many species thoughtlessly
+destroying our environment is inevitable
+(3) At the present pace, the book states that thoughtlessly destroying our environment is inevitable if we
+continue the extinction of many species.
+(4) The book states that the extinction of many species is inevitable if we continue thoughtlessly destroying
+our environment at the present pace.
+  A) (1)
+  B) (2)
+  C) (3)
+  D) (4)
+Q98.
+We………….an afternoon of sightseeing until it started raining heavily.
+  A) enjoy
+  B) were enjoy
+  C) were enjoying
+  D) have been enjoying
+Q99.
+It is 3 pm, and I ________ for Peter for over 30 minutes.
+  A) Wait
+  B) Am waiting
+  C) had waited
+  D) Have been waiting
+100 I lost my wallet at the mall. I walked around asking if anyone _____ it.
+  A) seen
+  B) was seeing
+  C) is seeing
+  D) had seen
+
+ANSWER KEY
+--------------------
+Q61: B
+Q63: A
+Q64: A
+Q65: A
+Q66: C
+Q67: A
+Q68: C
+Q69: B
+Q70: B
+Q71: C
+Q72: B
+Q73: A
+Q74: B
+Q75: D
+Q76: D
+Q77: C
+Q78: B
+Q79: A
+Q81: A
+Q83: D
+Q84: A
+Q85: C
+Q86: B
+Q87: B
+Q88: D
+Q89: C
+Q90: B
+Q91: B
+Q92: A
+Q93: C
+Q94: C
+Q95: A
+Q96: D
+Q97: D
+Q98: C
+Q99: D
+Q100: D

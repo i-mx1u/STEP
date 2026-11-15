@@ -1,0 +1,40 @@
+# Render Blueprint — STEPWISE API
+# Docs: https://render.com/docs/blueprint-spec
+#
+# This blueprint deploys the Express API only, for use with the Vercel frontend.
+# For a single-service deployment where Express also serves the React build,
+# change buildCommand to `npm ci && npm run build` and set SERVE_STATIC=true.
+
+services:
+  - type: web
+    name: stepwise-api
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: npm ci && npm run build -w server
+    startCommand: npm start
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: 24
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true
+      - key: JWT_EXPIRES_IN
+        value: 30d
+      - key: SERVE_STATIC
+        value: false
+      - key: TRUST_PROXY
+        value: true
+      - key: DATABASE_PROVIDER
+        value: supabase
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      # Set this to your Vercel production URL, e.g.
+      # https://stepwise.vercel.app
+      - key: CLIENT_ORIGIN
+        sync: false

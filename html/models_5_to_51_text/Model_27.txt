@@ -1,0 +1,993 @@
+MODEL 27
+========================================
+
+READING
+========================================
+
+Passage 1
+Giant Panda
+(1) An American-born giant panda will soon be travelling to China. The Chinese
+government has an agreement with foreign zoos to lend giant pandas out only for
+scientific study. After a few years, they, and any cubs they may produce, must all be
+returned to China. Mei Lan, a three-year-old female, is being prepared for her trip
+to China, where her parents were born. A special FedEx flight from the U.S. is being
+arranged for her.
+(2) Chinese zookeepers are getting ready for her arrival by planning a special diet,
+and even language lessons for her. They are advertising for a tutor to teach Mei
+Lan Chinese. The caretakers at her new home, the Chengdu Panda Research
+Center in Sichuan, want to help her adapt quickly and feel comfortable in her
+new environment. Mei Lan has lived at a zoo in the city of Atlanta, Georgia, since
+her birth, and she is unfamiliar with Chinese. The teacher must have a bachelor’s
+degree or higher and be fluent in both English and Chinese.
+Q21.
+According to Paragraph (2), why do the Chinese zookeepers want Mei Lan to learn
+Chinese?
+  A) so that she can speak with her caretakers
+  B) so that she will feel at home in China
+  C) so that she can forget her English
+  D) so that she will like her new diet
+Q22.
+According to Paragraph (2), where has Mei Lan been living?
+  A) in the Chengdu Panda Research
+Center
+  B) in an American research center
+  C) in Atlanta, Georgia
+  D) in Sichuan China
+
+Passage 2
+Stars
+(1) If we look at the night sky carefully, we will see that the stars are of many different
+colors. Some are red, others are yellow and some are blue. This is also shown when
+we take color photographs of the night sky. You can take such a photograph with an
+ordinary camera as long as itit is kept steady. A thirty second exposure is sufficient.
+(2) Astronomers have been able to classify stars according to color. They have found
+that blue stars are the largest and red stars the smallest. However, there are a few
+stars which cannot be classified in this way. These are the superstars. For example,
+Ryiejol is a blue superstar as big as 40.000 suns and Beetlejuice is a superstar with
+a size equal to 17.000 suns.
+(3) Suppose an astronomer observes two stars, one brighter than the other. If neither
+of them is a superstar. he will know immediately that the brighter star is closer.
+Astronomers have instruments like light meters which can measure the brightness
+of a star quite accurately. It is possible to measure a star’s distance from the earth
+it astronomers know the color, brightness and whether or not it is a superstar.
+Q23.
+The pronoun it in Paragraph (1) refers to the ……………………..
+  A) photograph
+  B) exposure
+  C) camera
+  D) star
+Q24.
+The word brighter in Paragraph  (3) is closest in meaning to ……………..
+  A) more colorful
+  B) more shiny
+  C) smaller
+  D) larger
+Q25.
+Which of the following colors is NOT mentioned in the passage?
+  A) green
+  B) yellow
+  C) blue
+  D) red
+
+Passage 3
+Computers through the 1970s and 1980s
+(1) (1)The first commercially available microcomputer, the Altair 880, is the first
+computer to be called a “personal computer.” It has 64km of memory and an open
+100line bus structure. Selling for about $400, the Altair 880 comes in a kit to be
+assembled by the user.
+Two young college students, Paul Allen and Bill Gates, unveil the BASIC language
+interpreter for the Altair computer.
+(2)Steve Jobs and Steve Wozniak build the Apple I computer. It is less powerful than
+the Altair, but it is also less expensive and less complicated.
+(3)The Apple II computer is unveiled. It comes already assembled in a case, with a
+built-in keyboard. Users must plug in their own TVs for monitors. Fully assembled
+microcomputers hit the general market, with Radio Shack, Commodore, and Apple
+all selling models.
+(4)Intel releases the 8086 microprocessors, a 16-bit chip that sets a new standard for
+power, capacity, and speed in microprocessors.
+(5)Intel introduces the 8088-microprocessor featuring 16-bit internal architecture and
+an 8-bit external bus.
+Motorola introduces the 68000-chip used in early Macintosh computers Micropro
+International introduces WordStar, the commercially successful processing
+program for IBM-compatible microcomputers.
+(6)IBM chooses Microsoft to provide the operating system for its upcoming PC
+Microsoft purchases a program developed by Seattle Computer Products called
+Q-DOS and modifies it to run on IBM hardware.
+(7)IBM introduces the IBM-PC, with a 4.77 MHZ Intel 8088 CPU. 16KB of memory. a
+keyboard
+and monitor for price lag of $2.495 Xerox Unveils the Xerox Star computer its high
+price dooms the computer to commercial failure, but its features inspire a whole
+new direction in computer design. Its little box on wheels (the first mouse) can
+execute commands on screen.
+
+(8)AutoCAD, a program for designing 2-D and 3-D objects is released. AutoCAD will go
+on to revolutionize the architecture and engineering industries Work begins of the
+development of TCP/IP. The term internet is used for the first time to describe the
+worldwide network of computers.
+(9)Apple introduces the l.isa, the first commercial computer with a purely graphical
+operating system and mouse. The industry is excited, but Lisa’s $10.000 price tag
+discourages buyers.
+(10)Adobe systems release its PostScript system, allowing printers to produce
+crisp print in a number of typefaces, as well elaborate graphical images. Apple
+introduces the friendly Macintosh microcomputer and satellite Software
+international introduces the WordPerfect word processing program.
+(11)Aldus release PageMaker for the Macintosh, the first desktop publishing software
+for microcomputers Microsoft announces the Windows 1.0 Operating environment,
+featuring the first graphical user interface for PCs.
+(12)IBM delivers the PC convertible. IBM’S first laptop computer and the first el-based
+computer with a 3.5inch floppy disk drive. Microsoft sells its first public stock for
+$21 per share, raising $61 million in the initial public offering.
+(13)The Macintosh II computer aimed at the desktop publishing market is introduced
+by Apple. It features an SVGA monitor.
+(14)Apple Computer files the single biggest lawsuit in the computer industry against
+Microsoft and Hewlett-Packard. Claiming copyright infringement of its operating
+system A virus
+called the “Internet Worm” is released on the internet, disabling about ten percent
+of all Internet host computers.
+(15)Tim Berners-Lee develops software around the hypertext concept. Enabling users
+to click on a word or phrase in a document and jump either to another location
+within the document or another file with the doc or to another file. This software
+provides the foundation for the development of the World Wide Web, and it is the
+basis for the first Web browsers.
+Q26.
+What is the name of the first personal computer?
+  A) Altair 880
+  B) BASIC
+  C) Apple I
+  D) Dell
+
+Q27.
+Which company purchased the Q-DOS program?
+  A) Apple
+  B) IBM
+  C) Microsoft
+  D) Hewlett Packard
+Q28.
+In which year was the Macintosh II introduced?
+A
+B
+C
+  D) Passage 4
+Using taxes to change social behavior
+(1) Taxes can be used to change people’s behavior and are often used to reduce the
+amount of demerit goods people buy. Demerit goods are products which can cause
+negative effects in an economy. Cigarette smoking is one example and taxing
+smokers should, in theory, reduce the demand for cigarettes. Taxes are also used
+to protect the natural environment by charging those who pollute or damage it.
+For example, countries such as the UK and China tax cars based on the engine size
+because vehicles with larger engines tend to cause more pollution.
+(2) Another example is the tax on plastic bags. Before July 2009, Hong Kong used
+an average of 30 million plastic bags every day! For quite a small population of
+7 million people, this meant the average person in Hong Kong was using more
+than four plastic bags every day, often just using each plastic bag once only. This
+amazing figure meant that the country’s landfills would be unable to cope with the
+bags when they were thrown away.
+(3) Hong Kong’s introduction of a small tax (6.5 US cents) on the use of plastic bags
+has encouraged people to use recycled shopping bags. In fact, demand for plastic
+bags fell by 85 percent within the first 2 days of the tax being introduced. This
+follows similar moves made by other countries such as China (in 2007) and Ireland
+in 2002).
+Q29.
+What is one important idea related to demerit goods mentioned in Paragraph (1)?
+  A) the environment
+  B) taxes
+  C) behavior
+  D) engine size
+Q30.
+Which two countries put higher taxes on cars with larger engines?
+  A) Hong Kong and Ireland
+  B) The UK and Hong Kong
+  C) The UK and China
+  D) China and Ireland
+
+Q31.
+What important idea related to plastic bags is mentioned in Paragraph (2) and (3)?
+  A) Hong Kong followed the examples of other countries.
+  B) The tax was introduced in Hong Kong in July 2009.
+  C) The tax worked almost immediately in Hong Kong.
+  D) Hong Kong has a population of 7 million people.
+Q32.
+What is the main topic of the passage?
+  A) More countries should follow the examples of Hong Kong, China and Ireland.
+  B) Taxes help change people’s behavior and protect the environment.
+  C) Demerit goods are generally bad for a country’s economy.
+  D) Good ideas are usually copied by other countries.
+
+Passage 5
+Financial Crash
+(1) From the mid-1990s, financial institutions were putting more and more money into
+new kinds of very risky investments. Some of these investments are very difficult
+to understand, but the particular investments are a less important factor than the
+technique called leverage that was (and is used to make those investments.
+(2) So, what is leverage? In essence, it just refers to the practice of borrowing money
+to make an investment. To see how it works and to see both how attractive it can
+seem and how extremely risky it is, let’s compare leverage with an old-fashioned
+investment. Say you have $20,000 to invest in property. You buy land worth
+$20,000. Over a period of time its market value increases by 10%. You make
+$2,000. In the old days you might have been happy with that. $2,000 is nice, but
+more would be better, wouldn’t it? So why not leverage?
+(3) If you have $20,000, you should be able to persuade a financial institution to lend
+you a lot more. Let’s say you are loaned 19 times your original amount, making the
+total sum $400,000. Wow! So, you invest $400,000 in property. The value increases
+by 10%. You sell the property and count your profits and find that you have made
+$40,000. Instead of the 10% profit you would have made with the old-fashioned
+technique, you have made 200%!! Of course, you have to pay interest on the money
+you borrowed, and that might cut your profits in half, but 100% profit ($20,000) is
+still way, way better than 10% ($2,000).
+Q33.
+What does Paragraph  (2) say about old-fashioned investments?
+  A) They are an older leverage technique.
+  B) They include a minimum investment of $20,000.
+  C) They used to increase by 200% before the 1990s.
+  D) They receive lower returns than leveraged investments.
+Q34.
+How did leverage solve the issue of low investment returns?
+  A) It increased the value of investments by $40,000.
+  B) It allowed people to borrow more money to invest.
+  C) It helped people to find the best locations to invest in.
+  D) It promised loans up to 19 times the amount a person had to invest.
+
+Q35.
+Why does the writer use the word Instead in Paragraph  (3)?
+  A) to give more information about old-fashioned investments
+  B) to show that investments made using leverage can gain greater profits
+  C) to give an example of how using leverage was a bad investment technique
+  D) to show that you had to make old-fashioned investments before you can use leverage
+promised loans up to 19 times the amount a person had to invest.
+Q36.
+Which word can we use to replace the word So in Paragraph (3)?
+  A) Particularly
+  B) Though
+  C) Although
+  D) Afterwards
+Q37.
+What does the writer think about old-fashioned investment?
+  A) He thinks it was only popular in the 1990s.
+  B) He thinks it can only be used to invest in property.
+  C) He thinks it is good, but financial institutions dislike it.
+  D) He thinks it is good, but leverage you a better return.
+
+Passage 6
+Increase in life expectancy
+(1) The life expectancy is the average age to which a newborn baby can be expected
+to live. In Europe between 1830 and 1900 the life expectancy was 40-50 years.
+Between 1900 and 1950 it rose to 65 and now it is 73-74 years. In central Africa,
+life expectancy was rising to 58 years until the AIDS epidemic caused it to fall back
+to about 45 years.
+(2) These figures are averages. They do not mean, for example, that everyone in the
+developing world will live to the age of 58. In the developing world, 40% of the
+deaths are of children younger than 5 years and only 25 - 30% are deaths of people
+over 60. In Europe’s, only 5 - 20% of deaths are those of children below the age of
+5, but 70-80% are of people over 60.
+(3) An increase in the number of people over the age of 60 does not change the rate
+of population growth much, because these people are past the age when they
+can have children. On the other hand, if the death rate among children falls and
+the extra children survive to have children of their own, then the population will
+continue to grow. This is the chief reason for the rapid population growth in the
+developing world since 1950
+Q38.
+What did AIDS lead to in central Africa?
+  A) A drop in the population growth rate.
+  B) A drop in the average expected life time.
+  C) A drop in the number of babies born alive.
+  D) A drop in the health of children under the age of 5.
+Q39.
+What can cause growth in population rate?
+  A) an increase in numbers of 74-year-old people
+  B) an increase in numbers of women over 45 who have children
+  C) an increase in numbers of people living until the age of 60
+  D) an increase in numbers of young people living and having children
+Q40.
+The word rapid in Paragraph  (3) is closest in meaning to …………….
+  A) low
+  B) quick
+  C) normal
+  D) average
+
+Q41.
+The word chief in Paragraph  (3) is closest in meaning to …………….
+  A) simple
+  B) only
+  C) main
+  D) strange
+Passage 7
+Q42.
+What was the lowest number of paid holidays for any city?
+  A) 4.2 days
+  B) 6.1 days
+  C) 8.0 days
+  D) 9.7 days
+
+Passage 8
+Increase in life expectancy
+(1)Muscle tissue is specialized for contraction. When muscle cells contract, they
+shorten   and bring about some type of movement. There are three types of muscle
+tissue: skeletal, smooth, and cardiac. The movements each can produce have very
+different purposes.
+Skeletal muscle
+Skeletal muscle
+(2)Skeletal muscle may also be called striated muscle or voluntary muscle. . Each
+one describes particular aspect of this tissue, as you will see. The skeletal muscles
+cells are cylindrical have several nuclei each, and appear striated or striped. The
+striations are the result of the precise arrangement of the contracting proteins
+within the cells, skeletal muscle tissue makes up the muscle that are attached to
+bones. These muscles are supplied with motor nerves, and this move the skeleton.
+They also produce a significant amount of heat, which is important to help maintain
+the body’s constant temperature. Each muscle cell has its own motor nerve ending.
+The nerve impulses that can then travel to the muscles are essential to cause
+contraction. Although we do not have to consciously, plan all our movements.
+The nerve impulses for them originate in the cerebration. The “thinking” part of
+the brain. Let us return to the three names for this tissue “skeletal” describes its
+location, “striated” describes its appearance, and “voluntary” describes how it
+functions.
+Smooth Muscle
+Smooth Muscle
+(3)Smooth muscle may also be called involuntary muscle or visceral muscle. The cells
+of smooth muscle have tapered ends, a single nucleus. and no striations. Although
+nerve impulses do bring about contractions, this is not something most of us can
+control, once the name involuntary. The rerun visceral refers to internal organs,
+many of which contain smooth muscle. The function of smooth muscle are actually
+functions of the organs in which muscle is found in the smooth and infections,
+smooth muscle contracts in waves called peristalsis to propel food through the
+digestive tract. In the walls of arteries and values, smooth muscle constricts or
+dilates the velars to maintain normal blood pressure. The inks of the eye have two
+types of smooth muscle. There to constrict or dilates the pupil which regulates
+the amount of light that strikes the retime. Other functions of smooth muscle are
+mentioned in later chapters. This is an important time that you will come across
+again and again in our study of the injured body.
+
+(4)The cells of the heart, cardiac muscle, are branched have one muscles each, and
+have faint serration. The cell membranes at the ends of these cells are somewhat
+folded and fit into matching folds of the membranes of the next cells. (Interlock
+the fingers of both hands to get an idea of what these adjacent members look like.)
+These interlocking folds are called intercalated discs, and permit the electrical
+impulses of muscle confection to pass swiftly from cell to cell. This enables the
+heart to beat in a very perceive wave of contractions from the upper chambers to
+the lower chambers.
+Cardiac muscle
+Cardiac muscle
+(4)cardiac muscle as a whom is called the myocardium, and forms the walls of the
+four chambers of the heart. Its function. Therefore, is the function of the heart, to
+bump blood. The contractions of the myocardium create blood pressure and keep
+blood circulating throughout the body,so that the blood can carry out its many
+functions. Cardiac muscle cells have the ability to contract by themselves. Thus, the
+heart maintains its own beat. The rule of nerve impasses is to increase or decrease
+the heart rate, depending upon whatever is needed by the body in the particular
+situation.
+Nerve Tissue
+Nerve Tissue
+(5)Nerve tissue consists of nerve cells called neurons and some specialized cells found
+only in the nervous system. The nervous system has two divisions: the central
+nervous system (CNS) and the peripheral nervous system (PNS). The brain and
+spinal cord are the organs of the CNS. They are made of nervous and specialized
+cells called neuroglia. the PNS consistencies of all the nerves that energy from
+the CNS and supply the rest of the body. there nerves are made of neurons and
+specialized cells called Schwann cells. the Schwann cells form myelin sheaths to
+electrically instate nervous. Nervous are capable of generating and transmuting
+electrochemical impulses. There are carry different kinds of nervous. but they all
+have the same basic structure. The cell body contains the muscles and is essential
+for the continuing life of the nervous. An axon is a process (the name “process” here
+means “something that sticks cell.” a cellular extension) that carries impulses away
+from the cell body. Its neuron has only one axon. Dendrites into processes that
+carry impulses forward the cell body, a neuron may have several dendrites. A nerve
+impulse travels along the cell membrane of a nervous and is electrical. But where
+nervous need there is a small space called synapse. Which an electrical imputes
+cannot cross.   At a synapse, between the axon of the neuron and the dendrite of
+cell body of the next neuron, impales transmission depends upon chemicals called
+neurotransmitters
+Q43.
+What are two other muscle names for skeletal muscle?
+  A) striated and voluntary.
+  B) striated and striped.”
+  C) voluntary and striped
+  D) contracting and striated
+
+Q44.
+What are two other names for smooth muscle?
+  A) tapered and internal.
+  B) internal and visceral.
+  C) involuntary and internal
+  D) involuntary and visceral
+Q45.
+What are two divisions of the nervous system?
+  A) central and insulate
+  B) central and peripheral
+  C) insulate and peripheral
+  D) specialized and insulate
+Passage 9
+Automation
+The principal benefit of supermarket automation is inventory control. The
+computer has a comprehensive record of each item sold as well as a record of the
+quantity still in stock. Once this information is in the computer’s memory, it is a
+simple matter to have the computer printout daily a list of those items that have
+gone below a predetermined number and, so, need to be reordered. In effect,
+the responsibility of having to decide whether to reorder each of perhaps 8,000
+products is taken from the store manager, who cannot accurately analyze every one
+of the 8,000 situations simultaneously, and is given to a system ideally suited for
+such routine decision-making
+Q46.
+The word comprehensive in the passage is closest in meaning to……………
+  A) complete
+  B) average
+  C) global
+  D) universal
+Q47.
+The word ideally in the passage is closest in meaning to ……………
+  A) elegantly
+  B) correctly
+  C) mentally
+  D) perfectly
+
+Passage 10
+Hyperinflation
+(1) Because Germany had no goods to trade after its defeat in WW1, the Weimar
+government simply printed money. For Weimar government leaders this seemed
+an attractive solution. It paid off its debts in the failing German currency, the mark,
+including war loans of over €2200 million. The great industrialists were able to pay
+of all their debts as well.
+(2) This set off a chain reaction. With so much money in circulation prices and wages
+rocketed, but people soon realized that this money was useless. Workers needed
+trolleys to carry home their pay. Wages began to be paid daily instead of weakly.
+The price of goods could rise between joining the back of a queue in a shop and
+Teaching the front!
+(3) While you might think that the poor suffered most, some historians argue that the
+greatest casualties were middle-class Germans - those with saving A prosperous
+middle-class family would find that their savings in the bank, which might have
+bought them a house in 1921. by 1923 would not even buy a loaf of bread.
+Pensioners found that their previously adequate monthly pension would not even
+buy a cup of coffee.
+(4) It was clear to all, both inside and outside Germany, that the situation needed
+urgent action. In August 1923 a new government under Gustav Stresemann took
+over He called off the passive resistance in the Ruhr. He called in the useless marks
+and burned them, replacing them with a new Currency - the American-backed
+Retenmark. He negotiated to reduce Germany’s debt and receive American loans
+under the Dawes Plan In addition, Germany repaired relations with its neighbors
+and reopened tune with renewed trade and the flow of American dollars, life
+improved. The economic crisis was shed very quickly. Some historians suggest that
+this is evidence that many problems were not as severe as its politicians had made
+out.
+(5) It is also increasingly clear, however, that the hibernation had done great political
+damage to the Weimar government. Their right-wing opponents had yet another
+problem to blame them for the movement had lost the part of the middle classes
+Q48.
+What phrase other than “economic crisis” does the writer use to describe the
+problems caused by hyperinflation?
+  A) replacing currency
+  B) political damage
+  C) urgent action
+  D) war loans
+
+Q49.
+Which of the following is an opinion?
+  A) From 1921-1923 the German middle class DID NOT buy houses.
+  B) Workers needed trolleys to carry home their wages
+  C) A new government took power in 1923.
+  D) Germany’s problems were NOT as severe as its politicians had said.
+50 How is some historians’ view of hyperinflation victims different from the common
+view?
+  A) They believe that people who DIDN’T money suffered.
+  B) They believe that people who had savings suffered most.
+  C) They believe that people were starving in the streets.
+  D) They believe other European states suffered more.
+Q51.
+What can we understand from Paragraph  (5) about the opponents of the Weimar
+government?
+  A) They blamed the government for losing the war.
+  B) They used the economic crisis to gain power.
+  C) They refused American support.
+  D) They were middle class citizens.
+Q52.
+What can we understand from Paragraph (4) about the solution to the crisis?
+  A) It hurt Gustav Stresemann’s opponents.
+  B) It was very difficult to achieve.
+  C) It depended on American money.
+  D) It damaged Germany’s relations with its neighbors.
+
+Passage 11
+Alchemy الخيمياء
+The branch of science now called chemistry was in medieval times called alchemy.
+Alchemists believed that any substance could be transformed into any other
+substance, and many of them tried unsuccessfully to turn ordinary metals into
+gold. With the advances of the Scientific Revolution, the experiments of alchemists
+were abandoned. However, some of their practices - especially the manipulation of
+metals and acids - set the stage for modern chemistry
+Q53.
+The word abandoned in the passage is closest in meaning to ……….
+  A) begun
+  B) stopped
+  C) increased
+  D) continued
+
+Passage 12
+Passage A: What Is Mania
+(1) Mania is state of elevated energy, mood, and behavior. It is most often seen those
+with mental illnesses such as bipolar disorder, or schizoaffective disorder. Mania
+may also appear in people who have taken certain drugs or medications. While
+the feelings present in mania can be positive. Full of energy, or even euphoric
+(extremely happy). They may also be negative-felling of anger, fear, or grandiosity
+(false belief in the level of your own importance).
+(2) The symptoms of mania can go from mild (known as hypomania) to strong (known
+as a manic episode): at its highest level main can cause delusions (false believes).
+Violence and an increased risk of suicide a mania episode can test anywhere from
+several days to several months and symbols will usually get worse and worse.
+Hypomania can sometimes have appositive effects. Like increased ability to get
+work done and grater feelings of hopes.
+(3) Bipolar disorder is the most command courses of mania though symptoms of
+depression occur most frequently in bipolar disorder. All people suffering from
+the illness also experience some form of mania at least once. When mania is
+accompanied by desirous.  Schizoaffective disorder is more likely to be indicated
+tenement for the mania of these disorder (illnesses) usually includes drags to
+control mood, such as lithium: take therapy is also recommended to help patients,
+learn to deal with symptoms and develop healthy living plans there many reduce
+their risk of suffering from mains in the future.
+Passage B: Bipolar Disorder
+(1) Bipolar disorder is a mental  that illness that causes unusual changes in mood,
+energy, activity levels, concentration, and the ability to carry out everyday tasks.
+(2) Mood changes go from periods of extrorsely “up”, happy, “angry” or energized
+behavior, known as mania, to very “down” sad, indifferent, or hopeless periods,
+known as depression. Depression is the most common feature of the illness.
+(3) Sometimes people experience symptoms of mania and depression in the same
+time. These periods are called episodes with mixed features. People experiencing
+an episode with mixed features may feel very sad, empty, or hopeless, while at the
+same time felling extremely energized.
+(4) A person may have bipolar even if their symptoms are less extreme. For example,
+some people with bipolar disorder expertness hypomania, a milder form of mania.
+During hypomania period, a person may feel very good, successfully finish tasks,
+and keep up will everyday life. The person may not feel that anything is wrong, but
+family and friends may recognize the changes in mood or activity levels as possible
+bipolar disorder. Without proper filament, people with hypomania can develop
+severe mania or depression.
+
+(5)  Bipolar disorder is typically identified when patients are teenagers or young
+adults. occasionally, bipolar symptoms can appeal in children. Bipolar disorder
+can also appear in women when they first become pregnant. Victims of the illness
+require treatment their whole lives. therapy and medication can help people
+manage symptoms and improve their quality of live.
+Q54.
+What can we understand from passages A and B about hypomania?
+  A) It may lead to depression.
+  B) Symptoms occur most often in children.
+  C) People experiencing it may still complete their work.
+  D) Family and friends may be the only ones to notice symptoms.
+55 Which of the following are symptoms of bipolar disorder according to passages A
+and B?
+  A) mania and episodes with mixed
+features
+  B) mania and mood episodes
+  C) mania and delusions
+  D) mania and depression
+Q56.
+What do passages A and B say about bipolar disorder?
+  A) It can make people feel sad and full of energy at the same time.
+  B) Treatment includes prescription drugs and counseling.
+  C) It is the most frequent cause of mania.
+  D) Symptoms are usually mild.
+Q57.
+What can we understand from passages A and B about depression?
+  A) It is the most often occurring symptom of bipolar disorder.
+  B) The depression of bipolar disorder is a generally mild form.
+  C) People can experience it at the same time they experience mania.
+  D) It is a symptom of various illnesses, but it is also a major illness by itself.
+
+Passage 13
+Strange Substance المادة الغريبة
+(1) A mysterious, orange, sticky gel, found on the beaches of Kivalina, a village
+situated on the Alaskan coast between Kotzebue and Point Hope, was recently
+the source of much interest. Many people thought that the sticky gel was some
+strange compound that had spread as a result of a chemical reaction. Others had
+more farfetched ideas about the substance’s origins ranging from aliens to volcanic
+remains.
+(2) Scientists at an Alaskan laboratory have been busy analyzing the unknown
+substance. They have concluded that itit is a formation of microscopic eggs. One of
+the scientists said that there are traces of oil in the eggs, and this is what is causing
+the strange, orange color.
+(3) The scientists have discovered that the eggs belong to a small invertebrate
+– a spineless animal, but they have not been able to identify the exact species.
+Q58.
+According to Paragraph  (1), the strange, orange substance was found ……..
+  A) on the beaches of Kotzebue
+  B) on the beaches of Point Hope
+  C) close to a compound in Alaska
+  D) between Kotzebue and Point Hope
+Q59.
+The word far-fetched in Paragraph  (1) is closest in meaning to ……….
+  A) difficult to believe
+  B) easy to believe
+  C) definite
+  D) clear
+Q60.
+The pronoun it in Paragraph (2) refers to……………..
+  A) traces of oil
+  C) the unknown substance
+  D) one of Alaska’s laboratories
+
+ANSWER KEY
+--------------------
+Q21: B
+Q22: C
+Q23: C
+Q24: B
+Q25: A
+Q26: A
+Q27: C
+Q28: D
+Q29: B
+Q30: C
+Q31: C
+Q32: B
+Q33: D
+Q34: B
+Q35: B
+Q36: D
+Q37: D
+Q38: B
+Q39: D
+Q40: B
+Q41: C
+Q42: B
+Q43: A
+Q44: D
+Q45: B
+Q46: A
+Q47: D
+Q48: B
+Q49: D
+Q50: B
+Q51: A
+Q52: C
+Q53: B
+Q54: A
+Q55: D
+Q56: A
+Q57: C
+Q58: D
+Q59: A
+Q60: C
+
+
+GRAMMAR
+========================================
+
+ًنموذج أكثر تكرارًا
+Q61.
+If it rains tomorrow, I …………… my raincoat.
+  A) wear
+  B) am wear
+c
+will wear
+  D) going to wear
+Q62.
+Now it is 10:00 PM. The train ………….. at 11:00 pm.
+  A) arriving
+  B) arrived
+  C) has arrived
+  D) will arrive
+Q63.
+If you promise to keep a secret, I ……….. you what happened
+  A) tell
+  B) telling
+  C) will tell
+  D) would tell
+Q64.
+Which of the following sentences has the CORRECT WORD ORDER?
+  A) He burned incense so that his house would smell nice, for an hour in the morning, through
+the rest of the day.
+  B) So that his house would smell nice, he burned incense for an hour in the morning, through
+the rest of the day.
+  C) Through the rest of the day he burned incense for an hour in the morning so that his house
+would smell nice.
+  D) He burned incense for an hour in the morning so that his house would smell nice
+through the rest of the day.
+Q65.
+Which of the underlined words or phrases is INCORRECT?
+My mother she gave that book to me when I graduated from middle school.
+  A) she
+  B) to me
+  C) graduated
+  D) middle school
+Q66.
+Mark flew to Paris from London and then he ………………..
+  A) an Uber to my office took to surprise me
+  B) to surprise me to my office took an Uber
+  C) took an Uber to surprise me to my office
+  D) took an Uber to my office to surprise me
+
+Q67.
+The basketball game started at 6 o’clock, ……………….
+  A) and just for the second quarter in time we arrived
+  B) and we for the second quarter just arrived in time
+  C) and just in time we arrived for the second quarter
+  D) and we arrived just in time for the second quarter
+Q68.
+Which one of the underlined words or phrases is INCORRECT?
+Tomorrow we are going to review some of the things we discuss in our last meeting.
+  A) Tomorrow
+  B) to review
+  C) discuss
+  D) Last
+Q69.
+In which sentence is all CAPITALIZATION correct?
+  A) she came here on Sunday, August 14.
+  B) She came here on Sunday, august 14.
+  C) She came here on sunday, August 14.
+  D) She came here on Sunday, August 14.
+Q70.
+Alex, ………… you please help me with my homework?
+  A) shall
+  B) would
+  C) should
+  D) must
+Q71.
+You have school tomorrow. You …………… watching TV at 9 P.M.
+  A) must stopping
+  B) must stop
+  C) must
+  D) must to stop
+Q72.
+If Ben gets a new job, he ……………. a nice apartment.
+  A) bought
+  B) had bought
+  C) will buy
+  D) would buy
+Q73.
+Cathy ………….. a holiday if she completes her project.
+  A) would take
+  B) will take
+  C) had taken
+  D) took
+
+Q74.
+Bob ……………… swimming in Jeddah last month.
+  A) go
+  B) went
+  C) has gone
+  D) had gone
+Q75.
+He met an old friend while he …………... for new shoes.
+  A) have shopped
+  B) shopped
+  C) shop
+  D) was shopping
+Q76.
+Okay everyone, ………... can tell me about the water cycle?
+  A) whom
+  B) who
+  C) which
+  D) whose
+Q77.
+I wanted to know if he usually …………. Hyde Park when he lived in London.
+  A) visited
+  B) visit
+  C) visiting
+  D) has visited
+Q78.
+The food has been cooking ……………30 minutes. Could you switch it off?
+  A) for
+  B) from
+  C) since
+  D) during
+Q79.
+Hey Chris,………….. one of your courses has three credit hours?
+  A) that
+  B) which
+  C) what
+  D) this
+Q80.
+The cola is over there. Could you pass ……….. to me?
+  A) these
+  B) him
+  C) it
+  D) those
+Q81.
+The father warned his son …………..
+  A) angry
+  B) angriness
+  C) angrily
+  D) ange
+Q82.
+Ask Diana to help you; she’s much …………. than Dave.
+  A) cleverly
+  B) cleverest
+  C) cleverer
+  D) clever
+
+Q83.
+Please complete this application. It will only take ……..minutes.
+  A) a few
+  B) many
+  C) a little
+  D) several
+Q84.
+I am happy to make her ………… the test again.
+  A) took
+  B) to take
+  C) taking
+  D) take
+Q85.
+You should buy travel insurance before …….. to another country.
+  A) flying
+  B) you flying
+  C) are flying
+  D) was flying
+Q86.
+If I ………….. you, I’d stop eating so many sweets. It’ll rot your teeth.
+  A) am
+  B) were
+  C) being
+  D) been
+Q87.
+You normally visit Canada. You …………. like to try Mexico this year.
+  A) must
+  B) could
+  C) might
+  D) should
+Q88.
+Emma, …………………. works on Tuesdays, can help you with your question.
+  A) whose
+  B) who
+  C) who she
+  D) she
+Q89.
+Do you know where ……………?
+  A) is the nearest pharmacy
+  B) is the pharmacy nearest
+  C) the pharmacy nearest is
+  D) the nearest pharmacy is
+Q90.
+One of my new colleagues said he …………. me how to use the program later.
+  A) show
+  B) showing
+  C) has shown
+  D) would show
+Q91.
+If they ………… with a guarantee, they would be able to get it fixed now.
+  B) will purchase
+
+  A) purchased
+  C) w
+o
+u
+l
+d
+
+s
+h
+o
+w
+w
+o
+u
+l
+d
+
+s
+h
+o
+w
+w
+o
+u
+l
+d
+
+s
+h
+o
+w
+w
+o
+u
+l
+d
+
+s
+h
+o
+w
+  D) purchases
+had purchased
+
+Q92.
+Which phrase correctly replaces the INCORRECT underlined phrase?
+Walk through the park, he saw something that looked like a cat.
+  A) Walking through the park
+  B) Walks through the park
+  C) Through the park walk
+  D) The park through
+Q93.
+To which sentence can we add the following clause? ……………….. until it boils.
+(1) Making a cup of coffee is not difficult.
+(2) First, you heat the water.
+(3) Then, pour it into the coffee filter.
+(4) Wait for the water to run through the filter and then drink it.
+  A) (1)
+  B) (2)
+  C) (3)
+  D) (4)
+Q94.
+Peter was preparing the hot dogs…………. Paul was lighting the barbeque fire.
+  A) while
+  B) until
+  C) so that
+  D) even if
+Q95.
+The students returned from the trip………… they had visited many places and enjoyed
+themselves a lot.
+  A) before
+  B) after
+  C) until
+  D) unless
+Q96.
+Which of the underlined words or phrases is INCORRECT?
+I think all childs should help their parents. When they’re busy, help them look after their younger brothers
+and sisters and make sure they don’t get into trouble.
+  A) childs
+  B) their
+  C) look after
+  D) don’t
+Q97.
+If she had more talent, she …………. in art school.
+  A) enrolls
+  B) would enroll
+  C) had enrolled
+  D) is going to enroll
+Q98.
+In the game of Monopoly, if a player gets a “go to jail card”, he…..directly to jail.
+  A) must going
+  B) must to go
+  C) must go
+  D) must
+
+Q99.
+Mr. Amir, …………. the students call Uncle Amir, taught the boys physical education
+several times a week.
+  A) he
+  B) him
+  C) whom
+  D) which
+100 If I ………….. more time, I ………….. more languages.
+  A) had / learn
+  B) have / learn
+  C) had / would learn
+  D) have / would learn
+
+ANSWER KEY
+--------------------
+Q61: D
+Q62: D
+Q63: C
+Q65: A
+Q66: D
+Q67: D
+Q68: C
+Q69: D
+Q70: B
+Q71: B
+Q72: C
+Q73: B
+Q74: B
+Q75: D
+Q76: B
+Q77: A
+Q78: A
+Q79: B
+Q80: C
+Q81: C
+Q82: C
+Q83: A
+Q84: D
+Q85: A
+Q86: B
+Q87: C
+Q88: B
+Q89: D
+Q90: D
+Q92: A
+Q93: B
+Q94: A
+Q95: B
+Q96: A
+Q97: B
+Q98: C
+Q99: C
+Q100: C

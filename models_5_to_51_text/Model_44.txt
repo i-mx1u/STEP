@@ -1,0 +1,1017 @@
+MODEL 44
+========================================
+
+READING
+========================================
+
+Passage 1
+
+My uncle Ahmad is a physician. He helps people when they are sick. When his
+patients go to the office, he may ask them to breathe while he listens to their chest.
+Then he listens to the sound of the air in their lungs. He may have to ask them many
+questions and
+
+examine
+
+them to see what is making them sick.
+He helps people have better health.
+Q21.
+
+This passage is about…………..
+  A) university teacher
+
+  B) medical doctor
+  C) patient
+
+  D) nurse
+Q22.
+
+The word examine in the passage is closest in meaning to ……………… closely.
+
+  A) talking
+
+  B) looking
+  C) listening
+
+  D) questioning
+Passage 2
+“Adam is not as tall as Eric”
+Q23.
+
+The passage says that………….
+  A) Eric is taller
+
+  B) Eric is shorter
+  C) Adam is taller
+
+  D) Adam and Eric are short
+Passage 3
+The buildings and monuments that we can see today at Mada’in Saleh are remnants
+of the great and very rich Nabatean Kingdom. Other famous buildings of this
+civilization are found in northern Syria and in Petra in Jordan, which was the
+Nabatean capital.
+Q24.
+
+What does the passage say about Petra?
+  A) It is in northern Syria.
+
+  B) It is the capital of Jordan.
+  C) It was the Nabatean capital.
+
+  D) It was a successful commercial city.
+
+Passage 4
+(1) The period from the late Renaissance to the early Industrial Revolution was one of
+such massive technological upheaval that its effects can be clearly appreciated in
+statistical form: before 1600, 12 famines swept through England every 100 years;
+in the next century, thanks to agricultural innovation, there were only four. In 1750,
+the journey on horseback from London to Edinburgh took 10 to 12 days; by 1850, it
+took 17 hours by steam train.
+(2) These fundamental changes to the way we lived were the result of invention on an
+unprecedented scale, the scientific revolution that accompanied the Renaissance
+had borne technological fruits and the evolution of a self-conscious technique of
+innovation: what has come to be called ‘the invention of the invention’.
+(3) With a political, commercial and social environment that valued inventors and
+inventions, Britain led the world in applying scientific enquiry to technological
+improvement, which it used to expand its world influence. The main examples
+are Robert Boyle’s and Otto von Guericke’s experiments with gases and vacuums,
+which led to the invention of the steam engine by Thomas Newcomen in 1712.
+This has effects throughout industry and society, not least because steam power,
+developed to pump water from mines, created a demand for fuel that in turn
+prompted the coal industry to expand and innovate. A product of this was Richard
+Trevithick’s invention of the steam train to move coal from the pit.
+(4) That conditions in Britain in the early 18th century were ripe for innovation
+was partly the result of the invention in 1701 of the seed drill by Jethro Tull, an
+English farmer. Often seen as the beginning of the Agrarian Revolution, this event
+was in fact the trigger of the Industrial Revolution. In the early 18th century,
+improvements in cultivation techniques, the wider use of horses as draught
+animals, the policy of enclosure and the mechanization of agriculture begun by
+Tull, meant that for the first time the majority of men were liberated from the daily
+struggle for subsistence. As a result, large portions of the rural population moved
+to towns (London’s population grew from more than 100,000 in 1600 to more than
+one million in 1800). This stimulated an even larger requirement for more efficient
+food production and provided the unskilled labor needed to work in the factories
+that emerged following James Watt’s development in 1781 of rotary steam power
+to drive the wheels of industry.
+(5)Steam power transformed the metal industry, increasing supplies of coal to smelt
+iron and produce steel, and enabling new techniques of working with metals. The
+improvements in iron manufacture can be seen in the progression from the cast-
+iron bridge, known as the ‘Stonehenge of the Industrial Revolution’ and completed
+in 1779 at Ironbridge in Shropshire, to the elegant glass-and-iron Crystal Palace
+exhibition hall erected in Hyde Park in 1851.
+
+(6)With the harnessing of steam, technology truly released the brake of history,
+leading to an extraordinary quickening in the rate of change in manufacturing
+that far outpaced the innovation we are currently experiencing in electronics and
+computers. Capital and banking systems were established to initiate investments
+in mass-production techniques that saw more than 100,000 power looms with
+9,330,000 spindles put into service in England and Scotland between 1790 and
+1830.
+(7)The unpleasant consequence of the Industrial Revolution was a devaluation of the
+craft skills of artisans, as cottage industries gave way to mechanized manufacturing
+in the mills. The creation of the modern factory, which relied on unskilled labor
+doing tedious tasks, introduced the concept of payment by wages rather than the
+quality of the finished goods, a change that discouraged further innovation.
+25 How many hours did it take to travel from London to Edinburgh by steam train?
+A
+B
+C
+  D) 24
+26 Who invented the seed drill?
+  A) Robert Boyle
+  B) James Watt
+  C) George Smith
+  D) Jethro Tull
+27 In which year was the bridge known as the “Stonehenge of the Industrial
+Revolution” completed?
+A
+B
+C
+  D) Passage 5
+Statistics
+(1) Statistics is a branch of mathematics. It involves gathering information and
+summarizing it. The numbers that result from this work are also called statistics.
+They can help to predict such things as the weather and how sports teams will
+perform. They also can describe specific things about large groups of people-
+for example, the reading level of students, the opinions of voters, or the average
+weight of a city’s residents.
+(2) The people who gather statistics are called statisticians. They collect pieces of
+information, or data, in three basic ways. They refer to trustworthy sources, such
+as newspapers and reports from reliable organizations. They perform scientific
+experiments. They also conduct surveys, or ask people questions.
+(3) Sometimes statisticians cannot gather data about every member of a group, often
+because the group is too large. In such cases they study only part of the group,
+called a sample. A sample must accurately represent the larger population. For
+example, if women make up 60 percent of the population, then 60 percent of the
+sample must be women.
+(4) Once statisticians have collected their information, they summarize it. They often
+put the data in graphs or charts, which are easier to read than long lists of data.
+Statisticians also summarize data by calculating numbers called averages. There
+are three kinds of averages: mean, mode, and median. The mean is the sum of a set
+of numbers divided by the number of elements in the set. The mode is simply the
+number that occurs most often in a sample. The median is the number right in the
+middle of the sample.
+Q28.
+  A) It is too long.
+  B) It needs to include women.
+  C) It studies a part of a group.
+  D) It needs to represent the larger population.
+29 What are statistics an example of?
+  A) survey
+  B) information
+  C) mathematics
+  D) experiments
+30 What is median an example of?
+  A) sample
+  B) element
+  C) average
+  D) population
+What is one important idea related to collecting data from a sample from
+Paragraph (3)?
+
+  A) They help people keep their jobs.
+  B) They control software development.
+  C) They control computer-related advertisement.
+  D) They decide right from wrong when using computers.
+Q31.
+
+What is the main topic of the passage?
+  A) definition of averages
+
+  B) definition of sample
+  C) definition of statistics
+
+  D) definition of math
+Passage 6
+Computer Ethics
+(1)Computer ethics is a set of principles set out to regulate the use of computers.
+Three factors are considered:
+• Intellectual Property Rights - this covers, for example, copying of software without the
+
+permission of the owner.
+• Privacy Issues - this covers, for example, hacking or any illegal access to another
+
+person’s personal data.
+• Effect of computers on society - this covers factors such as job losses, social impacts
+
+and so on.
+(2)Use of the internet has led to an increase in plagiarism - this is when a person takes
+another person’s idea/work and claims it as their own.
+
+While
+
+it is perfectly fine to
+quote another person’s idea, it is essential that some acknowledgement is made
+so that the originator of the idea is known to others.
+
+This can be
+
+done by a series of
+references at the end of
+
+a document or footnotes on each page where a reference
+needs to be made.
+
+Software exists that can scan text and
+
+then
+
+look for examples of
+plagiarism by searching web pages on the internet.
+(3)The ACM (Association for Computer Machinery) and IEEE (Institute of Electrical and
+Electronics Engineers) have published the following code of ethics:
+1. to accept responsibility in making decisions consistent with the safety, health and
+
+welfare of the public, and to disclose promptly the factors that might endanger
+
+the public or the environment;
+2. to be honest and realistic in stating claims or estimates based on available data;
+3. to maintain and improve our technical ability and to undertake technological tasks
+
+for others only if qualified by training or experience;
+4. to assist colleagues and co-workers in their professional development and to
+
+support them in following this code of ethics.
+Q32.
+
+What does Paragraph (1) say about computer ethics?
+
+33 How could writers avoid plagiarism?
+  A) by asking for permission
+  B) by searching the internet for examples
+  C) by writing a reference at the end of a document
+  D) by asking a professional to check the document
+B
+  C) 34
+
+Why does the writer use the word while in Paragraph (2)?
+  A) to give an example of quoting.
+  D) to show that quoting is OK if made clear.
+Q35.
+
+Which word can we use to replace the word then at the end of Paragraph (2)?
+  A) even though
+
+  B) in addition
+  C) in contrast
+
+  D) after that
+Q36.
+
+How does the writer feel about intellectual property rights?
+  A) He believes that privacy issues are more important.
+  B) He believes these should be fully acknowledged.
+  C) He believes people DON’T respect these ethics.
+  D) He believes computer users DON’T like them.
+
+Passage 7
+Motor Development
+(1) As an infant’s muscles and nervous system mature, more complicated skills
+emerge. With minor exceptions, the sequence of physical (motor) development is
+universal. Babies roll over before they sit unsupported, and they creep on all fours
+before they walk. These behaviors reflect not imitation but a maturing nervous
+system; blind children too, crawl and walk.
+(2) But there are individual differences in the timing of this sequence. In the United
+States, for example, 25 percent of all babies walk by age 11 months, 50 percent
+within a week after their first birthday, and 90 percent by age 15 months.
+(3) There are also cultural differences in timing. Although such differences could be
+genetic, experiments reveal that experience does predict motor behavior. Consider
+Ugandan babies, for example, who usually walk by 10 months. Unlike babies
+from other cultures who spend much of the day lying in a crib, Ugandan babies
+experience more intimate and rhythmic physical contact while being carried on the
+back. Two-week-old babies wave their arms more if they can see them, suggesting
+that they are learning to visually control their movements. Although 3-month-
+old infants still cannot efficiently reach and grab something, their seemingly
+spontaneous kicking movements become more purposeful and coordinated when
+they activate a mobile.
+(4) But nature (genes) plays a major role, too. Identical twins typically begin sitting
+up and walking on nearly the same day. Biological maturation - including the rapid
+development of the cerebellum at the brain’s rear - creates a readiness to learn
+walking within 2 or 3 month of age 1.
+37 Why can Ugandan babies usually walk by 10 months?
+  A) They imitate their mothers.
+  B) They wave their arms more.
+  C) Their muscles develop faster.
+  D) Their mothers carry them more.
+38 What is the effect of infants being able to see their arms?
+  A) They move them more.
+  B) Their kicking improves.
+  C) Their brains develop faster.
+  D) They reach and grab sooner
+  A) Improvement
+  B) Experience
+  C) Success
+  D) Order
+  A) Usual
+  B) Possible
+  C) Important
+  D) Different
+Q39.
+
+The word sequence in Paragraph  (1) is closest in meaning to......
+Q40.
+
+The word major in Paragraph (4) is closest in meaning to......
+
+Passage 8
+Q41.
+How much did life expectancy increase in Latin America between 1960 and 2010?
+  A) almost 25 years
+  B) almost 20 years
+  C) almost 15 years
+  D) almost 10 years
+42 What was the average life expectancy at birth in Sub-Saharan Africa in 1970?
+  A) about 45
+  B) about 50
+  C) about 55
+  D) about 60
+
+Passage 9
+Skyscraper
+(1) A skyscraper is a very tall, multistoried building. The term skyscraper was first
+used during the 1880s, when the first tall buildings were constructed in the
+United States. These original skyscrapers were about 10 to 20 stories high. By the
+late 20th century, however, the term skyscraper was used to describe high-rise
+buildings of unusual height, generally greater than 40 or 50 stories.
+(2) The increase in urban commerce in the United States in the second half of the 19th
+century augmented the need for city business space, and the installation of the first
+safe passenger elevator (in the Haughwout Department Store, New York City) in
+1857 made practical the erection of buildings more than four or five stories tall.
+(3) As the population density of urban areas has increased, so has the need for
+buildings that rise rather than spread. The skyscraper, which was originally a form
+of commercial architecture, has increasingly been used for residential purposes as
+well.
+(4) The earliest skyscrapers rested on extremely thick masonry walls at the ground
+level. However, architects soon began to use a cast-iron and wrought-iron
+framework to support the weight of the upper floors. In New York City, New York,
+in 1848, James Bogardus built the Cast Iron Building with a rigid frame of iron
+providing the main support for the upper floors and the roof.
+(5) In the 1860s, steel became widely available in the United States. Since it is
+stronger and lighter than iron, the use of a steel frame made it possible to construct
+truly tall buildings. Generally considered the world’s first skyscraper, the first
+building to use steel-girder construction was William Le Baron Jenney’s 10-story
+Home Insurance Company Building (1884-85) in Chicago, Illinois. Jenney’s
+skyscrapers also were the first to use the curtain wall, an outer covering of masonry
+or other material that is affixed to and supported by the steel skeleton. Structurally,
+skyscrapers consist of a substructure of piers beneath the ground, a superstructure
+of columns and girders above the ground, and a curtain wall hung on the girders.
+(6)The design and decoration of skyscrapers have changed over time. Jenney and
+his protégé Louis Sullivan styled their buildings with delineated columns rising
+from the ground to the top. By the early 20th century, previous architectural styles
+influenced builders. The Metropolitan Life Insurance Building in New York City
+(1909), for example, was modeled by Napoleon Le Brun after the Campanile of St.
+Mark’s in Venice, Italy. The Woolworth Building (1913), by Cass Gilbert, is a prime
+example of neo-Gothic decoration. Even the Art Deco carvings on such towers
+as the Chrysler Building (1930), the Empire State Building (1931), and the RCA
+Building (1931) in New York City, which were then considered as modern as the
+new technology, are now viewed as more related to the old ornate decorations than
+to truly modern lines.
+
+(7) After World War II, skyscrapers were mostly designed in the International Style,
+with simple lines and lack of ornamentation. Notable early examples of this
+style are the Seagram Building (1958) in New York City and the Lake Shore Drive
+Apartments (1951) in Chicago. During the 1970s, urban architecture began to
+incorporate the human element by designing plazas and parks into and around the
+bases of skyscrapers. Office towers, such as the Sears Tower (1973; now called
+Willis Tower) in Chicago, continued to be built, but most of them featured space for
+shopping and entertainment at the street level. By the late 20th century. energy
+conservation began to influence skyscraper design and construction. For example,
+sealed windows that required continuous forced-air cooling gave way in mid-rise
+buildings to operable windows and glass walls that were tinted to reflect the sun’s
+rays.
+(8)In 1996 the Petronas Twin Towers, in Kuala Lumpur, Malaysia, surpassed the Sears
+Tower to become the world’s tallest buildings. Since then, many skyscrapers have
+been built in Asia. At 2,717 feet (828 meters), the 162-story Burj Khalifa, in Dubai,
+United Arab Emirates, was hundreds of feet taller than any other structure when
+it opened in 2010. The title of tallest building in the United States was claimed by
+One World Trade Center in 2014. The building, initially called Freedom Tower when
+its design was announced, is 1,776 feet (541 meters) in height. It is located in New
+York City, near the site of the World Trade Center towers that fell in the terrorist
+attacks of September 11, 2001. Burj Khalifa, One World Trade Center, and many
+other new skyscrapers have spires that extend the measured height far above the
+highest occupied floor.
+43 Which two materials were used to build tall buildings in the 19th century?
+  A) iron and concrete
+  B) steel and brick
+  C) iron and steel
+  D) wood and concrete
+44 What were the first two examples of skyscrapers in the United States?
+  A) The Chrysler Building and the RCA Building.
+  B) The Woolworth Building and the Empire State Building.
+  C) The Home Insurance Company Building and the Empire State Building.
+  D) The Home Insurance Company Building and the Metropolitan Life Insurance
+Building.
+45 Which two cities had the first examples of skyscrapers?
+  A) Venice and Chicago.
+  B) Kuala Lumpur and Dubai.
+  C) New York City and Venice.
+  D) New York City and Chicago.
+
+Passage 10
+Theory of motivation
+(1)
+
+Professor Frederick Herzberg was a clinical psychologist and later Professor of
+
+Management at the University of Utah. Herzberg carried out a motivation study
+
+on 200 accountants and engineers who worked in companies in the USA. These
+
+subjects of the study were asked two questions: When did you feel particularly
+
+good about your job? When did you feel really bad about your job?
+(2)
+
+The responses that Herzberg obtained were interesting and fairly
+
+consistent.
+
+Reported good feelings were usually associated with job experiences and job
+
+content. One example of these was the head of an accounting department; he was
+
+given the job of installing new computer equipment. He took pride in his work and
+
+was pleased to know that the new equipment made a big difference in how his
+
+department performed.
+(3)
+
+Reported bad feelings, on the other hand, were usually associated with the
+
+surrounding or
+
+peripheral
+
+aspects of the job - the job context. An example of these
+
+feelings was given by an engineer; his first job was routine record keeping and
+
+managing the office when the boss was gone. His boss was always too busy to train
+
+him and became annoyed if he tried to ask questions. The engineer said that he
+
+was frustrated in this job context and that he felt that he was just an unimportant
+
+assistant in a dead-end job.
+(4)
+
+Herzberg concluded that job satisfiers are related to job content and that job
+
+dissatisfiers are related to job context. Herzberg named the satisfiers ‘motivators’
+
+and he called the dissatisfiers ‘hygiene factors’.
+Q46.
+
+The word consistent in Paragraph (2) is closest in meaning to……….
+
+  A) routine
+
+  B) steady
+  C) accurate
+
+  D) preserved
+Q47.
+
+The word peripheral in Paragraph (3) is closest in meaning to………….
+
+  A) secondary
+
+  B) crucial
+  C) annoyin
+
+  D) unimportant
+
+Passage 11
+The Spanish Flu
+(1) From 1918 to 1920 the virus known as the Spanish Flu infected 500 million people
+worldwide, killing 50 to 100 million of them. The only continent it did not reach
+was Antarctica; deaths were registered from northern Alaska to the islands of
+Samoa. The virus began in conditions that were perfect to help it spread across
+the globe, turning the battlefields of World War I into huge centers of infection.
+Though the flu had long been a familiar disease, the subtype (special type) of 1918
+took scientists by surprise. They were shocked as much by the speed of its spread
+as by the number of people it killed. Though some experts believe the virus’s
+origins were in Europe, the theory most accepted today suggests that it began in
+the United States, and later travelled on an army ship to the battlefields of France.
+From there, an army of disease germs, like enemy soldiers in a secret war ‘Ashgan’,
+spread out through the air and infected a third of the world’s population, killing
+between 2.5% and 5% of everyone on earth. In the future, suggests the World
+Health Organization, there will be more and perhaps more deadly flu pandemics
+(worldwide diseases), threatening global health and security and putting the future
+of human society at risk. The virus won’t need a great war to help it cover the earth;
+it will be enough for one carrier to get on an airplane and, in less than 20 hours,
+cover the distance between Tokyo and New York, or between Sydney and Doha.
+48 What phrase other than “Spanish Flu” does the writer use to describe the deadly virus of
+1918?
+  A) enemy soldiers
+  B) World War I
+  C) familiar disease
+  D) centers of infection
+49 Which of the following statements about the Spanish Flu is an opinion?
+  A) It began in the United States.
+  B) It killed at least 50 million people.
+  C) There were no infections in Antarctica.
+  D) Now it could spread across the world in one day.
+50 How is the view of some experts about the origins of the Spanish Flu different from
+the most common view?
+  A) They believe there were two types of the virus.
+  B) They believe it started in the United States.
+  C) They believe it was a biological weapon.
+  D) They believe it began in Europe.
+
+Q51.
+What can we understand from the passage about World War I?
+  A) It was a secret war.
+  B) It was the origin of the Spanish Flu.
+  C) It increased deaths from the Spanish Flu.
+  D) It killed between 50 and 100 million people.
+52 What can we understand from the passage about the Spanish Flu?
+  A) Governments lied about it.
+  B) It would spread faster now.
+  C) It will come back in the future.
+  D) Fewer people would die from it now.
+Passage 12
+Passage A: The Industrial Revolution in Europe
+(1) The Industrial Revolution began in the United Kingdom, and while it’s difficult to
+pinpoint the exact point at which the revolution began, a key invention was James
+Watt’s steam engine, which entered production in 1775. This steam-driven engine
+was adopted by industries to allow for factory production. Machines could now
+be used instead of human or animal labor. Interestingly, a side effect of the steam
+engine was that it enabled better iron production, since iron required an even and
+steady stream of heat. These improvements and new technologies gradually spread
+across Europe, eventually diffusing to the United States and Japan.
+(2) During this time, there were also significant changes in agricultural production.
+The Agrarian Revolution began in the mid-1750s and was based upon a number
+of agricultural innovations. This was the Age of Enlightenment, and the scientific
+reasoning championed during this era was applied to the growing of crops. Farmers
+began using mechanized equipment, rather than relying solely on human or animal
+labor.
+(3) The Agrarian Revolution coupled with the Industrial Revolution profoundly
+changed European geography. Critically, the Agrarian Revolution freed workers
+from having to farm, since fewer farmers were needed to produce the same amount
+of crops, enabling people to find work in the factories. These factories were
+primarily located in cities, and thus it was the combination of these two revolutions
+that dramatically increased urbanization in Europe.
+(4) The shift in labor that occurred during the Industrial Revolution, as people left
+rural farms to find work in factories, led to the specialization of labor that is found
+in Europe today. Areas within Europe tended to specialize in the production of
+particular goods. Northern Italy for example, has maintained a specialty in the
+production of textiles.
+
+Passage B: The Industrial Revolution in the USA
+(1) As the Industrial Revolution began in the United Kingdom in the mid-1700s and spread
+across Europe, the United States was still primarily based on agriculture and natural
+resource production. Some of the early innovations in industry were thus based on
+these raw resources, such as the cotton mill and textile factories. Water power was the
+key source of energy for these early manufacturing plants and thus they were located
+almost exclusively in the north-eastern United States. the only area with fast-moving
+rivers. After the Civil War in the 1860s, steam power manufacturing spread through the
+United States allowing the southern states to industrialize.
+(2) The geography of North America shaped industrial development and regional
+specializations. In the Pittsburgh-Lake Erie region, for example, abundant deposits of
+iron fueled steel manufacturing, inspiring the name of Pittsburgh’s professional football
+team. In the south, textile manufacturing developed and remains a regional specialty
+in many areas still today. Coal from Appalachia fueled industrial development in the
+Mid- Atlantic States.
+(3) The Industrial Revolution shaped the pattern of human settlement in North
+America. As in Europe, industrial development occurred in urban areas spurring
+people to move from rural farming communities to the cities to find work. In 1790,
+around 5 percent of the US population lived in urban areas. At the end of the Civil
+War, as industrialization began to diffuse across the continent, around 20 percent
+lived in cities. By 1920, more people lived in cities than in rural areas. Today, over
+80 percent of people in the US live in cities.
+53 According to Passages A and B, which invention led to industrialization?
+  A) Steel
+  B) steam engine
+  C) water power
+  D) agricultural equipment
+54 What can we understand from Passages A and B about the Industrial Revolution?
+  A) It led to more textile production.
+  B) It was only possible in areas with rivers.
+It began in Europe then spread to the USA.
+It was associated with the Agrarian Revolution.
+55 According to Passages A and B, which change followed the Industrial Revolution?
+  A) People moved to cities.
+  B) Agriculture used more machines.
+  C) The Civil War ended immediately.
+  D) More cotton mills were established.
+56 According to Passages A and B, which industry flourished after the Industrial
+Revolution?
+  A) Textiles
+  B) Football
+  C) Coal
+  D) Steel
+C
+  D) Passage 13
+1)	Language is a way to communicate. We begin to learn language as infants and
+become accustomed to our native language. language therefore becomes a problem
+for immigrants, especially between the first and second generations. This language
+barrier also results in the second generation losing their identity.
+2)	First generation immigrants in America suffer in lots of areas because of language
+difficulties. Naturally, they want their children to speak English both at home
+and at school in order to be more successful. This results in their children losing
+their ethnic identity and even more. Ignoring their parents because there is now a
+language between them.
+3)	For example, my three children and they were all born in the States. The eighteen-
+years- old daughter speaks both English and Korean very well. She has no problems
+talking with her parents, but she does have trouble understanding Korean jokes,
+and there are sometimes misunderstandings. The second daughter is fourteen
+years old and she resists speaking Korean. My aunt often gets upset with her
+because she is much Americanized and they cannot understand each other Even
+when my ant punishes her, this daughter does not understand what my aunt is
+talking about. I felt sympathy for my aunt whenever my fourteen-year-old cousin
+said, "Mom, what is your problem?
+4)	The third child is a twelve-year-old son. He speaks English to his parents and my
+aunt speaks Korean to him he does to the second canter. He also has a problem
+communicating with his parents. My aunt is trying to encourage him to learn both
+languages, but it is very hard for him because he speaks English all day and fail to
+understand why he should learn Korean.
+5)	Immigrants try to preserve their native language in their new country while string
+to learn a new language. My aunt was her children to succeed in the US, but she
+also wants to help them understand the Korean language in order to understand
+the Korean heritage. The second generation often gets confused about their
+Identity. My aunt's children, for example, see themselves as being different
+from others in both places in the US they look Korean and in Korea they act like
+Americans. My cousins told me that when they visited Korea a few years ago, they
+felt different because they wore different clothes and walked differently.
+6)	Language is important and valuable for any reasons. Immigrants must imagine
+a strong mutual understanding with the family and enable their children to
+appreciate the heritage. Being at ease in using both the first and second languages
+is important not only for attaining familial harmony, but also in helping the second
+generation establish the identity.
+
+59 According to Paragraph (3), which of the following is NOT TRUE about the 18-year-
+old daughter?
+
+  A) She was born in the U.S.
+  B) She speaks only English very well
+  C) She sometimes misunderstands things in Korean
+  D) She communicates better with her parents than her brother and sister do.
+Q60.
+
+The pronoun they in Paragraph (3) refers to the mother and her
+
+  A) second
+
+daughter
+  B) eldest daughter
+  C) children
+  D) son
+
+Q58.
+
+The word suffer in Paragraph (2) is closest in meaning to having
+
+  A) problems
+
+  B) accidents
+  C) injuries
+  D) Skills
+
+ANSWER KEY
+--------------------
+Q21: B
+Q22: B
+Q23: A
+Q24: C
+Q26: D
+Q27: B
+Q28: D
+Q29: C
+Q30: C
+Q31: C
+Q32: D
+Q33: C
+Q34: D
+Q35: D
+Q36: B
+Q37: A
+Q38: A
+Q39: D
+Q40: C
+Q41: B
+Q42: A
+Q43: C
+Q45: D
+Q46: B
+Q47: A
+Q48: A
+Q49: A
+Q50: D
+Q51: C
+Q52: B
+Q53: B
+Q54: C
+Q55: A
+Q56: A
+Q60: A
+
+
+GRAMMAR
+========================================
+
+Model
+Q44.
+Q61.
+He went to university in the UK …………. a PhD in physics
+  A) get
+  B) getting
+  C) to get
+  D) to getting
+Q62.
+In my opinion, it is not economical ……………. your money on cheap, poor-quality
+products
+  A) spend
+  B) spent
+  C) to spend
+  D) be spending
+Q63.
+Which sentence has the CORRECT WORD ORDER?
+  A) He claimed he was simply meditating, but when asked about it later, Adam had obviously
+fallen asleep while sitting on the couch.
+  B) While sitting on the couch, but when asked about it later, he claimed he was simply medi­
+tating, Adam had obviously fallen asleep.
+  C) Adam had obviously fallen asleep while sitting on the couch, he claimed he was simply
+meditating, but when asked about it later.
+  D) Adam had obviously fallen asleep while sitting on the couch, but when asked about it
+later, he claimed he was simply meditating
+  A) but
+  B) so
+  C) because
+  D) while
+Q65.
+I want to go to university ……… get a good job in the future
+  A) for to
+  B) and for
+  C) so that to
+  D) in order to
+Q66.
+Which one of the underlined words or phrases is INCORRECT?
+Kate forgot where she have put her keys when she was going to work so she came back to look for them
+  A) forgot
+  B) have
+  C) when
+  D) came
+Q67.
+Roger came to see us………..the evening
+  A) with
+  B) to
+  C) on
+  D) in
+Q64.
+
+Steve’s watch was not working properly,…… he took it to a repair shop.
+
+Q68.
+……….Mark didn’t have much money, he wanted to buy a really expensive car.
+  A) In spite of
+  B) Although
+  C) In case
+  D) Even
+Q69.
+Professor Smith presented some very good arguments, ………… Mr. Carter was still
+able to win the debate
+  A) so
+  B) but
+  C) and
+  D) because
+Q70.
+There are ………….. people on the train.
+  A) a load
+  B) plenty of
+  C) quite a bit
+  D) a small amount
+Q71.
+If the company gets the permission, they ………. a new bridge.
+  A) were built
+  B) have built
+  C) would build
+  D) will build
+Q72.
+Tom’s eyes hurt. He ………… to watch so much TV.
+  A) ought not
+  B) must not
+  C) should not
+  D) has not
+Q73.
+We’re driving from Paris to Munich ……. Frankfurt. We’ll have a short stopover in
+Frankfurt
+  A) Via
+  B) during
+  C) off
+  D) within
+Q74.
+Look, there’s the woman ……… father we met last night.
+  A) whose
+  B) which
+  C) who
+  D) that
+Q75.
+Mrs. Hill’s daughter, …….... lives next door to her, has recently got married
+  A) who
+  B) which
+  C) what
+  D) that
+Q76.
+I’ll join you for lunch as soon as I …………. the call
+  A) will finish
+  B) finished
+  C) finish
+  D) would finish
+
+Q77.
+I asked for something to drink, and I ………… a glass of water
+  A) was given
+  B) has given
+  C) gives
+  D) gave
+Q78.
+Hannah suddenly knew she ………. the wrong decision the night before
+  A) made
+  B) has made
+  C) had made
+  D) has been making
+Q79.
+I miss my wife. I wish she………here.
+  A) is
+  B) were
+  C) will be
+  D) may be
+Q80.
+The kids …………….to watch TV, but then they fell asleep
+  A) will
+  B) would
+  C) is going
+  D) were going
+Q81.
+Fatima doesn’t eat fish, so …………… we have chicken for lunch?
+  A) may
+  B) shall
+  C) would
+  D) have
+Q82.
+He was so angry, he refused………..to me.
+  A) talk
+  B) to talk
+  C) talking
+  D) to talking
+Q83.
+Mike: Is that your laptop? Paul: No, it’s Tom’s. My laptop ………
+  A) is still repaired
+  B) is still repairing
+  C) is still being repaired
+  D) has still been repairing
+Q84.
+At the age of eighty, ………. since he was sixteen, Roger finally retired
+  A) had been working
+  B) being worked
+  C) having worked
+  D) will have been working
+Q85.
+If we had planned the project more carefully, millions of dollars could………...
+  A) be saving
+  B) be saved
+  C) have been saving
+  D) have been saved
+
+Q86.
+Children are welcome to join us on our next trip …… they behave themselves
+  A) unless
+  B) whereas
+  C) even though
+  D) provided that
+Q87.
+Tom’s car broke down, so he’s ………. He didn’t know how to fix it himself.
+  A) got it fixing
+  B) had it fixed
+  C) been it fixing
+  D) done it fixed
+Q88.
+These profits ………… over the past couple of years.
+  A) are made
+  B) are making
+  C) have been made
+  D) have been making
+Q89.
+My uncle lived ……….. the age of eighty. He died at 85.
+  A) throughout
+  B) beneath
+  C) beyond
+  D) within
+Q90.
+I’d rather you …………. the sandwich in the kitchen.
+  A) would eat
+  B) will eat
+  C) ate
+  D) eat
+Q91.
+The new project …………….. in two years.
+  A) is being finished
+  B) is going to finish
+  C) will be finishing
+  D) will be finished
+Q92.
+You can learn many different languages at university. ……….., you can learn English,
+French, and Spanish
+  A) For example
+  B) In addition
+  C) in contrast
+  D) However
+Q93.
+Choose the Best way to make the following sentences paragraph
+(1) His dream would come true at last, so he was very happy.
+(2) My brother, Mike, was working at a car dealership.
+(3) My father was never able to save enough to buy a nice car, but he always dreamed of having one.
+(4) He decided to invite our father there and surprise him with a nice new car.
+  A) (3). (2), (4), (1)
+  B) (4). (1). (3), (2)
+  C) (1), (4), (2), (3)
+  D) (4), (3), (2), (1)
+
+Q94.
+Which sentence has the CORRECT WORD ORDER?
+  A) Its first, in 1926 opened Route 66 the U.S. government called major highway.
+  B) In 1926, the U.S. government opened its first major highway, called Route 66.
+  C) Route 66 opened the U.S, government called its first major highway in 1926.
+  D) Opened the U.S. government called Route 66 its first major highway in 1926.
+Q95.
+Fawzia speaks Arabic fluently, ………… her friend’s Arabic is terrible
+  A) but
+  B) then
+  C) since
+  D) therefore
+Q96.
+Which phrase correctly replaces the INCORRECT underlined phrase?
+Alex: I cleaned my house yesterday.
+Ben: Really? Have you be a clean before?
+  A) Have you been clean
+  B) Were you ever cleaned
+  C) Have you ever cleaned
+  D) Are you cleaning
+Q97.
+He worked ……… forty years before he decided to retire
+  A) for
+  B) from
+  C) since
+  D) during
+Q98.
+Wife: The maintenance man was here today.
+Husband: Good! …………. You remember to tell him to fix the stairs?
+  A) Are
+  B) Were
+  C) Do
+  D) Did
+Q99.
+Does Chris have to go home now? Let him …… a while longer
+  A) stay
+  B) stays
+  C) to stay
+  D) staying
+100 Ashgan cannot remember …….
+  A) where are kept the files
+  B) where are the files kept
+  C) where the files kept are
+  D) where the files are kept
+
+ANSWER KEY
+--------------------
+Q61: C
+Q62: C
+Q64: B
+Q65: D
+Q66: B
+Q67: D
+Q68: B
+Q69: B
+Q70: B
+Q71: D
+Q72: A
+Q73: A
+Q74: A
+Q75: A
+Q76: C
+Q77: A
+Q78: C
+Q79: B
+Q80: D
+Q81: B
+Q82: B
+Q83: C
+Q84: C
+Q85: D
+Q86: D
+Q87: B
+Q88: C
+Q89: C
+Q90: C
+Q91: D
+Q92: A
+Q93: A
+Q94: B
+Q95: A
+Q96: C
+Q97: A
+Q98: D
+Q99: A
+Q100: D

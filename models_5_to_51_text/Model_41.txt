@@ -1,0 +1,1265 @@
+MODEL 41
+========================================
+
+READING
+========================================
+
+Passage 1
+23 According to Paragraph (1), Soon after Ibn Sina finished his study of medicine, he
+became the …………
+  A) manager of the Royal Library.
+  B) assistant of the Prime Minister.
+  C) teacher of the Ruler of Bukhara.
+  D) doctor for the Ruler of Bukhara.
+24 According to Paragraph (3), Al Qanon fi Al Tibb, consists of……..
+  A) 5 volumes.
+  B) 16 encyclopedias.
+  C) 21 chapters.
+  D) 100 treatises
+(1)
+
+Husayn ibn Abdullah Ibn Sina is well known in the Arab world simply as «Ibn
+
+Sina». He is also well known in the West by the name «Avicenna» which simplifies
+
+the pronunciation. In 980 A.D. Avicenna was born in Bukhara which is now part
+
+of Russia and known as Uzben. By the age of 10, he was already
+
+profificient
+
+in
+
+the Qur’an and Arabic classics. By the age of 16, he finished Islamic law studies,
+
+geometry, anatomy, logic and philosophy. By the age of 18. he completed the study
+
+of medicine. Soon after that, he became the Prime Minister and the physician of the
+
+Ruler of Bukhara. The Ruler was impressed by the intelligence and endurance of his
+
+Prime Minister and opened for him Library which was unique in its literary richness.
+(2)
+
+Avicenna’s life was extraordinarily exhausting. All day long he was busy with his
+
+patients and government work. At night, he was busy lecturing and writing books.
+
+After many years of hard work and many achievements, Avicenna died in 1037 A.D.
+
+at the age of 57.
+(3)
+
+Avicenna wrote 100 treatises: 21 of them were major of which 16 were in
+
+medicine. He wrote a book in medicine named Al Qanon fi Al Tibb. It was translated
+
+into many languages. Al Qanon fi Al Tibb is an encyclopedia containing more than
+
+one million words. It consists of five volumes.
+Q21.
+
+The word “proficient” in Paragraph (1) is closest in meaning to………..
+
+  A) Skilled
+
+  B) Trained
+  C) Dedicated
+
+  D) Disciplined
+Q22.
+
+According to par 1) why does the Western world use a different name for Ibn-Sina?
+  A) They did NOT like Arabic names.
+  B) They did NOT want the world to know his nationality.
+  C) Names change when used by speakers of a different language.
+  D) He did NOT speak their language.
+
+Passage 2
+The Motor Car
+(1)
+
+The growth of the car has been an extraordinary story, as remarkable for its
+
+destructive power as its benefits. Only 100 years ago, horses were the primary
+
+transport and speeds across London were faster than they are today in a car. Yet
+
+London was chocking in a sea of manure, and horses were an expensive luxury, so
+
+for the most part, people simply did not travel far. By the end of the century, the
+
+world’s car makers employed nearly four million people to produce 35,801,618
+
+cars in a single year to add the estimated 500 million in daily use around the globe.
+(2)
+
+The first self-propelled vehicle could have appeared around 350 years ago. In the
+
+13th century, Roger Bacon mentioned the possibility of carriages propelled with the
+
+use of animals, and in the 15th century, Leonardo da Vinci sketched a self-moving
+
+car, but the first record of a powered vehicle comes from Astronomia Europea,
+
+published in 1687. It describes a small steam-powered model carriage constructed
+
+under Pierre Verbiest. He spent a large part of his life in China and was appointed
+
+Astronomer Royal to Emperor Kang-Hi. The small vehicle, apparently constructed
+
+around 1662, was fueled with a pan of hot coals. Steam turned a simple turbine,
+
+which was geared to the front axle of the vehicle.
+(3)
+
+The first successful steam wagon built by Nicholas-Joseph Cugnot in 1770 to pull
+
+cannon also provided a lesson in the dangers of powered transport. His carriage
+
+hit the wall of the Paris Arsenal to become the earliest recorded powered vehicle
+
+accident.
+The First
+st Te
+Test
+st Drive
+ve
+(4)
+
+The motor car’s time came in the 19th century with the emergence of volatile fuels
+such as coal, gas, and liquid petroleum spirit. In 1829, Samuel Brown of Brompton,
+London, produced a vehicle powered by a four horsepower, gas-vacuum engine.
+This was a true three-stroke internal combustion engine, but was uneconomical
+compared with the steam engines of the time and little came of it.
+(5)
+
+In 1862, the French engineer Alphonse Beu de Rochas proposed four-stroke
+explosion cycle, the basis on which almost all modern cars operate. Rocha’s paper
+coincided with the work of Nikolaus Otto, who had been developing the first
+commercially available gas engine in 1860. In 1862, Otto prepared a gas-powered
+engine that operated on the four-stroke cycle but it promptly blew to pieces. Otto
+was then joined by Gottlieb Daimler, the son of a German baker, who patented a
+high-speed petrol engine in 1876.
+(6)
+
+At the same time, in Mannheim, Karl Benz was working on a petrol tricycle. Benz’s
+tricycle took to the streets in 1885, was patented the following year, and offered for
+sale as the ‘patent motor wagon’ in 1887; the modern motor industry was born.
+(7) In August, Berta Benz borrowed her husband’s 1886 Benz tricycle-car without
+
+permission. She packed provisions and her two young sons on board and drove off
+
+to visit relatives in Pforzheim some 75 miles from Mannheim. On route, she had to
+
+refuel with dry cleaning fluid when she ran out of fuel; she repaired a short
+
+circuit with garter elastic, unblocked a fuel line with a hatpin and found a cobbler to
+reline a brake. She arrived safely and five days later she drove home again; it was
+the first ever long-distance journey by motor car.
+Q25.
+
+Who developed the gas engine that later blew to pieces?
+
+  A) Karl Benz
+
+  B) Nikolaus Otto
+  C) Samuel Brown
+
+  D) Alexander Graham Bell
+Q26.
+
+In which year was the motor wagon offered for sale?
+A
+
+B
+
+C
+
+  D) Passage 3
+Two dimensional scanners
+(1)
+
+Two-dimensional scanners are the most common form of scanner and are
+
+generally used to record hard-copy (paper) documents. The scanner is to copy
+
+paper documents and put them into an electronic form which can be stored in a
+
+computer. Computers which have optical character recognition (OCR) software can
+
+read text from the scanned document and change it into a text-file format. This
+
+means the scanned image can now be edited by a word processor such as MS Word.
+
+If the original document was a photograph or image, then the scanned image forms
+
+an image file such as JPEG.
+(2)
+
+2D scanners have many uses. One important use is at airports to read passports.
+
+They make use of OCR technology to produce digital images of the passport pages.
+
+Because of the OCR technology, these digital images can be used in a number of
+
+ways. For example, the OCR software is able to review these images, select the
+
+text part and then automatically put the text into the correct fields of an existing
+
+database. It is possible for the text to be stored in ASCII format. It all depends on
+
+how the data is to be used. At many airports the two-dimensional photograph in the
+
+passport is also scanned and stored as a JPEG image. The passenger’s face is also
+
+photographed using a digital camera. The two digital images are compared using
+
+face recognition\detection software.
+Q27.
+
+What does Paragraph (1) say about optical character recognition technology?
+
+  A) It can be used to make Word documents
+  B) It can be used to take photographs.
+  C) It has many formats like ASCII
+  D) It is difficult to use.
+
+  A) They can be used to record hard copy documents.
+  B) They can be used as identification documents.
+  C) They can be used instead of passports.
+  D) They can be used to recognize faces.
+  A) The scanner is used to copy paper documents and put them into an electronic form
+which can be stored in a computer.
+  B) This means the scanned image can now be edited by a word processor such as MS
+Word. If the original document was a photograph or image, then the scanned image
+forms an image file such as JPEG.
+  C) Two-dimensional scanners are the most common form of scanner and are
+generally used to record hard-copy (paper) documents.
+  D) Computers which have optical character recognition (OCR) software can read text
+from the scanned document and change it into a text file format.
+30 What is the main idea of the passage?
+  A) Useful technologies
+  B) features and benefits of scanners
+  C) facial recognition on modern
+scanners
+  D) the use of scanners to improve security.
+Q28.
+
+What does Paragraph (2) say about the way digital images can be used?
+Q29.
+
+Which sentence gives the main idea of Paragraph (1)?
+
+Passage 4
+The Periodic Table
+(1)
+
+Great progress in science come not only when a scientist sees something new,
+
+but also when a scientist sees what everyone else has seen in a new way. In other
+
+words, great scientists see patterns where others have seen only disjointed facts.
+
+Such was the case in 1869 when Dmitri Mendeleev (1834-1907), a chemistry
+
+professor, saw a pattern in the properties of elements. Mendeleev’s insights led to
+
+the periodic law and the periodic table, arguably the single most important tool for
+
+a chemist. Mendeleev’s periodic law and periodic table summarize a large number
+
+of observations, and science moves forward by devising theories that explain the
+
+underlying reasons for these laws and observations. Quantum mechanics is the
+
+theory that explains the underlying reasons for the periodic table.
+(2)
+
+The modern periodic table is credited mainly to the Russian chemist Dmitri
+
+Mendeleev even though a similar organization had been suggested by the German
+
+chemist Julian Lothar Meyer (1830-1895). Mendeleev’s table is based on the
+
+periodic law, which says that when elements are arranged in order of increasing
+
+mass, their properties recur periodically. Mendeleev arranged the elements in
+
+a table in which mass increased from left to right and elements with similar
+
+properties fell in the same columns.
+(3)
+
+Mendeleev’s arrangement was a huge success, allowing him to predict the
+
+existence and properties of yet undiscovered elements such as eka-aluminium
+
+(later discovered and named gallium) and eka-silicon (later discovered and named
+
+germanium).
+Q31.
+
+What is one important idea about great scientists that the writer mentions in Paragraph (1)?
+  A) They were able to discover new elements.
+  B) They move science forward by developing scientific ideas.
+  C) They see regular forms in things when others can’t see them.
+  D) They arranged elements in the periodic table in a specific way.
+Q32.
+
+What is the element “eka-aluminium” an example of?
+
+  A) an element that the periodic table was able to predict.
+  B) an element that was discovered by Julian Meyer.
+  C) an element that has NOT been discovered yet.
+  D) an element that is NOT real.
+
+Q33.
+
+What is the main topic of the passage?
+  A) current advances in chemistry.
+  B) discovering unknown chemical elements.
+  C) Julian Lothar Meyer’s periodic table of elements.
+  D) finding patterns and the development of the periodic table.
+Passage 5
+Real Estate vs. Stocks
+(1)
+
+investing in real estate or stocks is a personal choice that depends on your
+
+financial situation, risk tolerance, goals, and investment style. It’s safe to assume
+
+that more people invest in the stock market
+
+because
+
+it doesn’t take as much time or
+
+money to buy stocks. If you’re buying real estate, you’re going to have to save and
+
+put down a substantial amount of money.
+(2)
+
+When you buy stocks, you buy a tiny piece of that company. In general, you can
+
+make money two ways with stocks; value appreciation as the company’s stock
+
+increases and dividends.
+(3)
+
+When you buy real estate, you acquire physical land or property. Most real estate
+
+investors make money by collecting rents and through the property’s value going
+
+p. Here are some things to consider when it comes to real estate and the risks
+
+associated with it. The most important risk that people miss is that real estate
+
+requires a lot of research. It’s not something you can go into casually and expect
+
+immediate results and returns. Real estate is not an asset that’s easy to sell and
+
+take your cash.
+(4)
+
+Although real estate is not as easy to sell as stocks, the long-term cash flow
+
+provides income and the increases in value. Despite this, it’s important to consider
+
+the amount of money that goes into real estate investments. You need to have the
+
+ability to secure a down payment and financing if you aren’t making all-cash deals.
+
+Other disadvantages include the costs associated with property management and
+
+the investment of time that goes into repairs and maintenance.
+Q34.
+
+What does the passage say about investing?
+  A) Real estate investments can be more work than stocks.
+  B) Investing in stocks is riskier than real estate investing.
+  C) Stock investments require a lot of research.
+  D) Real estate investors make money quickly.
+
+Q35.
+
+Why does the writer use the word Although in Paragraph (4)?
+  A) to explain an example of long-term cash flow and income.
+  B) to give more information about the difficulties of real estate investing.
+  C) to show that the effort and outcome of real estate investing are different
+  D) to show that an increase in income and value are the result of investing.
+Q36.
+
+Which word can we use to replace the word
+
+because
+
+in Paragraph (1)?
+  A) Besides
+
+  B) Although
+  C) Therefore
+
+  D) Since
+Q37.
+
+What does the writer think about investing in stocks?
+  A) It’s a good way to become rich.
+
+  B) It’s a quick way to invest.
+  C) It takes too much time.
+
+  D) It’s too risky.
+
+  C) West Nile virus reaches the brain.
+  D) a fever and Having headache for 3 to 14
+days.
+39 What is one negative effect of West Nile Virus?
+  A) It does NOT pass from person to
+person.
+  B) It spread to the US in 1990.
+  C) It kills dogs and horses.
+  D) People can die from it.
+Passage 6
+West Nile Virus
+(1)
+
+West Nile is a virus that kills many types of birds. It also infects humans and other
+mammals such as dogs and horses. Most human
+
+infections
+
+are mild, but some are
+deadly. For years West Nile virus was found mostly in the Middle East, Africa, and
+western Asia. In the 1990s it spread to Europe and the States.
+(2)
+
+West Nile virus is spread from bird to bird through mosquito bites, Mosquitoes also
+carry the virus from birds to mammals. Unlike other viruses, the West Nile virus
+does not pass from one person to another.
+(3)
+
+Only about one out of every five people infected with West Nile virus becomes
+ill. The symptoms, or signs, of illness start 3 to 14 days after infection. They
+include fever, headache, muscle aches, vomiting, and skin rash. These symptoms
+generally last a few days. A small number of people infected with the virus become
+seriously ill. This mostly happens to people over the Age of 50. In these people
+the virus reaches the brain, causing a condition called encephalitis. Symptoms of
+encephalitis include severe headache, high fever, neck stiffness, muscle weakness,
+and confusion. A person with encephalitis may become paralyzed or die.
+(4)
+
+There is no
+
+cure
+
+for infection with West Nile virus. The best way to keep from
+
+getting infected is to avoid being bitten by mosquitoes. Treatment focuses on
+
+relieving the symptoms. In severe cases people need to stay in a hospital for
+
+treatment.
+Q38.
+
+What is the reason for encephalitis?
+  A) It is spread by birds.
+
+  B) A person becomes paralyzed.
+Q40.
+
+The word
+
+infections
+
+in Paragraph (1) is closest in meaning to……..
+  A) symptoms
+
+  B) treatments
+  C) accidents
+
+  D) illnesses
+Q41.
+
+The word
+
+cure
+
+in Paragraph (4) is closest in meaning to………
+  A) hope
+
+  B) care
+  C) solution
+
+  D) change
+
+Passage 7
+42 What was the value of meat alternative in the US?
+  A) 1,600 million dollars
+  B) 697 million dollars
+  C) 670 million dollars
+  D) 671 million dollars
+43 Which type of plant-based food scored the lowest value in 2018?
+  A) egg substitutes
+  B) dairy alternative
+  C) tofu and tempeh
+  D) meat alternative
+
+Passage 8
+44 In 1980, what percentage of the US population was age 65 years or older?
+  A) 3%
+  B) 14%
+  C) 15%
+  D) 35%
+
+Passage 9
+Vaccination efforts advancing throughout the Americas.
+Vaccination efforts advancing throughout the Americas.
+(1)A year after the first news of the novel coronavirus, the nations of the Americas
+are asking themselves if widespread vaccination will be the only way out of
+the pandemic (worldwide disease). They do this in the middle of a new wave
+of infections that have demonstrated the vulnerability of their backup plans,
+particularly in Latin America. The vaccine seems now to be the only reasonable
+bet for governments that have not managed to place extreme restrictions on the
+movements of their citizens, particularly in economies with high levels of informal
+(or unofficial) employment.
+(2)Countries in Latin America that have announced the start of mass vaccination
+plans include, Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El
+Salvador, Guatemala, Honduras, Mexico, Panama, Paraguay, Peru, the Dominican
+Republic, Uruguay, and Venezuela. To the north, the United States and Canada both
+have their vaccination campaigns well underway. The U.S., having distributed over
+39 doses for every 100 inhabitants, has the highest level of vaccination in North
+America. Chile, having distributed over 47 doses per 100 people, has the highest
+level of vaccination in South America and overall throughout the region.
+Dominant vaccines in the region
+Dominant vaccines in the region
+(3)he Pfizer-BioNTech COVID-19 vaccine, which requires two doses and has proven
+95% effective in clinical trials (“effective” refers to the vaccine’s ability to prevent
+serious illness), is currently the most widely used throughout the Americas.
+Canada, Chile, Costa Rica, Ecuador, the U.S. and Mexico are already using the shot,
+and Columbia plans to begin large-scale use by the end of February. In Argentina,
+plans are underway to begin use of the AstraZeneca vaccine, which requires two
+doses and has proven 70% effective at preventing any level of infection. This
+is in addition to the Russian vaccine, Sputnik V, which is being used currently.
+AstraZeneca, of English origin, has not yet received approval in the United States.
+The Moderna vaccine has been approved and is being widely used and distributed
+throughout the U.S. and Canada, but has been left out of most vaccine packages
+purchased in Latin America, which could be attributed to its high cost per unit.
+Only has confirmed a significant purchase of 10 million doses from Moderna. In
+addition, the Colombian Government went ahead with the vaccine developed by
+Johnson & Johnson, whose trial results in the large countries of Latin America have
+demonstrated an efficacy or effectiveness of around 66%.
+
+  A) AstraZeneca and Johnson & Johnson
+  B) Coronavac and Sputnik V
+  C) Moderna and Pfizer
+  D) AstraZeneca and Pfizer
+46 Which vaccines send genetic instructions to cells to create a specific protein that
+fights the coronavirus?
+  A) Pfizer and Sinovac
+  B) Moderna and AstraZeneca
+  C) Pfizer and Moderna
+  D) AstraZeneca and Johnson & Johnson
+(4)Although AstraZeneca and Pfizer are the two most used vaccines throughout the
+
+Americas, some Latin American countries have also made purchases of vaccines
+
+of Chinese and Russian origin. Chile has acquired as many as 60 million doses
+
+of Coronavac, developed by the Chinese laboratory Sinovac. The efficacy or
+
+effectiveness of this vaccine is registered as 50.3%, although studies carried out
+
+in Brazil initially placed it at higher levels. Brazil has begun to immunize (to treat
+
+with a vaccine) their health personnel with it. Argentina chose the Russian Sputnik
+
+V from the beginning whose efficacy was recently shown to be over 90%, of which
+
+the country has already received more than 600,000 doses.
+Before the results were released publicly, Argentine President Alberto Fernández
+was one of the first people to receive the vaccine in his country, to try to eliminate
+the distrust of a sector of the population. In Mexico, around 24 million doses of
+this vaccine (Sputnik V) have been purchased, 200,000 of which are expected
+shortly. The Bolivian population is now also being treated with Sputnik V. following
+the arrival of 20,000 doses from Moscow. Follow up data reporting the percentage
+of the population that has already received the vaccine is not yet available.
+(5)The vaccines differ not only in their ability to reduce or prevent symptoms, they
+
+also differ in the way they work. The vaccines produced by Pfizer and Moderna
+
+send genetic instructions to cells to create a specific protein that fights the
+
+coronavirus. These vaccines must be kept extremely cold and require special
+
+freezers for storage. The vaccines produced by AstraZeneca, Johnson & Johnson,
+
+and Gamaleya use a similar technique known as vector vaccines” to fight the
+
+coronavirus, but this technology allows the vaccines to be stored in a common
+
+refrigerator. China’s Sinovac is a vaccine that works by using harmless particles
+
+of Covid 19 itself, which, when injected, are expected to produce an immune
+
+reaction (like the one actually registered in the tests) in the body. These vaccines
+
+are all in some ways unique, but what is most important is the way in which they
+
+all resemble one another. So far, they have all demonstrated the ability to almost
+
+eliminate the probability of death from causes associated with COVID-19. In the
+
+clinical trials of AstraZeneca, Coronavac, Johnson & Johnson, Moderna, Pfizer, and
+
+Sputnik V registered to date, no person has died whose death could be directly
+
+related to the treatment.
+Q45.
+
+What are the two most used vaccines throughout the Americas?
+
+47 Which Latin American countries are using the Russ Sputnik V vaccine?
+  A) Argentina, Mexico, and Bolivia.
+  B) Brazil, Argentina, and Bolivia.
+  C) Chile, Brazil, and Argentina.
+  D) Columbia, Ecuador, and Brazil.
+Passage 10
+Pre-classical Economics
+Although economic activity has been a characteristic of human culture since the
+dawn of civilization, there was little formal analysis of that activity until merchant
+capitalism developed in Western Europe during the fifteenth century. At that
+time the chiefly agrarian European societies began increasingly to trade among
+themselves, setting the stage for the birth of economics as a social study. The
+economic studies of this time were not systematic: economic theory evolved
+piecemeal from individual intellectual responses to contemporary problems. No
+grand analytical systems appeared. It was not until the mid-eighteenth century,
+with the emergence of classical economics” under Adam Smith, that economics
+made significant movement toward the status of a full-blown social science.
+48 The word status in the passage is closest in meaning to...........
+  A) level
+  B) group
+  C) area
+  D) meaning
+
+  A) The world remains a dangerous
+place.
+  B) USA spent a lot of money on weapons.
+  C) Many Americans died in Vietnam.
+  D) Nobody won the Cold War.
+Passage 11
+The US response to the End of the Cold War
+(1)
+
+When Mikhail Gorbachev became the leader of the Soviet Union (USSR) in 1985, no
+
+one predicted that the end of Cold War was only six years away
+(2)
+
+It all began in Poland in June 1989. A non-communist party did well in the general
+
+election and people were celebrating in the streets. Everyone expected Gorbachev
+
+to send the army in, but he did nothing at all. European communist governments
+
+under the Soviet influence started to fall one by one. In autumn 1989, East
+
+Germans were knocking down the Berlin Wall. Then communist governments fell in
+
+Hungary, Czechoslovakia and in Romania the people put the president in prison.
+(3)
+
+Demands for freedom soon spread to the Soviet Union and Estonia, Latvia, and
+
+Lithuania announced their freedom from Soviet control. In December 1991. Russia
+
+itself followed these three and declared independence. The USSR was finished.
+
+Gorbachev was a president without a country.
+(4)
+
+Americans were shocked but pleased at these changes. Republicans were quick to
+
+argue that it was their actions that won the Cold War. They believed their spending
+
+policies during the 1980s and 1990s forced the Soviets to spend too much money
+
+on expensive equipment and weapons for its army. However, Professor Parker of
+
+Harvard University argues that it was a joint effort, started 25 years earlier by the
+
+Democrats when Harry Truman was president.
+(5)
+
+Other history professors pointed out that no one really won the Cold War. The
+
+United States spent enormous amounts of money building up their army for a war
+
+with the Soviet Union. This war never came. However, thousands of American lives
+
+were lost in unnecessary wars in Korea and Vietnam
+(6)
+
+Most Americans found it difficult to get used to the idea of no Cold War. Since
+
+1945, Americans were born into a Cold War culture. They were used to thinking
+
+about the Soviet Union as a dangerous enemy with a large Army and nuclear
+
+weapons. Now the enemy was beaten, but the world remained dangerous. In many
+
+ways, facing one large enemy was simpler than the current situation where danger
+
+is unknown and comes from many small terrorist groups.
+Q49.
+
+What idea do the words declared independence repeat?
+  A) did nothing at all
+
+  B) announced their freedom
+  C) put the president in prison
+
+  D) did well in the general election
+Q50.
+
+Which one of the following is an opinion?
+
+Q51.
+How are Parker’s ideas about the end of the Cold War different from the
+Republicans”?
+  A) He thinks that only the Republicans’ policies were important
+  B) He thinks that only the Democrats’ policies were important
+  C) He thinks Gorbachev’s and the Republicans’ policies were important.
+  D) He thinks that the Democrats’ and the Republicans’ policies were important.
+52 What can we understand from the passage about Mikhail Gorbachev?
+  A) He could speak several languages.
+  B) He was the Soviet Union’s last president.
+  C) He wanted Poland to become independent.
+  D) He had several meetings with Harry Truman
+53 What can we understand from the passage about the Soviet Union?
+  A) Its people were rich and lived well.
+  B) It fought a war with America in Vietnam.
+  C) It spent a lot of money on nuclear weapons.
+  D) It was the most powerful country in the world.
+
+Passage 12
+Passage A: Customer Value-Based Pricing
+(1)The price a company charges will fall somewhere between one that is too high to
+produce any demand and one that is too low to produce any profit.
+(2)in the end, the customer will decide whether a product’s price is right. Pricing
+decisions, like other marketing mix decisions, must start with customer value.
+When customers buy a product, they exchange something of value (the benefits
+of having or using the product). Effective, customer-oriented pricing involves
+understanding how much value consumers place on the benefits they receive from
+the product and setting a price that captures this value.
+(3)Customer value-based pricing uses buyers’ perceptions of value, not the seller’s
+cost, as the key to pricing. Value-based pricing means that the marketer cannot
+design a product and marketing program and then set the price. Price is considered
+along with the other marketing mix variables before the marketing program is set.
+(4)Although costs are an important consideration in setting prices, cost-based pricing
+often product driven. The company designs what it considers to be good product,
+adds up the cost of making the product, and sets a price that covers costs plus a
+target profit. Marketing must then convince buyers that the products value at that
+price justifies its purchase. If the price turns out to be too high, the company must
+settle for lower markups or lower sales, both resulting in disappointing profits.
+Passage B: Good-Value Pricing
+(1)Recent economic events have caused a fundamental shift in consumer attitudes
+towards price and quality. In response, many companies have changed their
+pricing approaches to bring them into line with changing economic conditions and
+consumer price perceptions. More and more, marketers have adopted good-value
+pricing strategies - offering just the right combination of quality and good service at
+a fair price.
+(2)In many cases, this has involved introducing less- expensive versions of
+established, brand-name products. To meet the tougher economic times and more
+frugal consumer spending habits, fast-food restaurants such as Taco Bell and
+McDonald’s offer value meals and dollar menu items. Armani offers less-expensive,
+more casual Armani Exchange fashion line. Alberto-Culver’s TRESemme hair
+care line promises ‘A salon look and feel at a fraction of the price.’ And every car
+company now offers small, inexpensive models better suited to
+the strapped consumer’s budget.
+(3)In other cases, good-value pricing has involved redesigning existing brands to offer
+more quality for a given price or the same quality for less. Some companies even
+succeed by offering less value but at rock bottom prices. For example, passengers
+flying low-cost European airline Ryanair won’t get much in the way of free
+amenities, but they’ll like the airline’s unbelievably low prices.
+
+54 What do passages A and B say about consumer price perceptions?
+  A) It is as important as changing economic conditions in determining pricing decisions.
+  B) It made companies introduce less-expensive versions of brand name products.
+  C) It is the key factor in determining pricing decisions.
+  D) It makes products less expensive.
+55 According to passages A and B, what role do marketers play in pricing?
+  A) setting fair prices
+  B) designing products then setting the price
+  C) justifying the price and offering good quality products for a fair price
+  D) redesigning some products to offer more quality products for lower prices
+56 Which of the following statements best summarizes pricing strategies from
+passages A and B?
+  A) Customers’ and seller’s perception of quality determines price.
+  B) Customers’ perception of value means good products for less money.
+  C) Customers’ perception of value and economic conditions are both important in
+determining price.
+  D) Customers’ perception of value helps companies produce good products or
+redesign brand name products at a fair price.
+
+Passage 13
+(1)
+
+Most fabrics are created by weaving long threads together, a technique which
+
+has changed very little throughout history. Hand weaving is done on a frame or
+
+handloom, whereas mechanized weaving is done on a power loom. The main
+
+distinction between hand weaving and mechanized weaving is that the latter
+
+method allows huge quantities of good quality fabric to be produced very quickly,
+
+further allowing the speedy production of consumer items. While the exact shape
+
+or mechanism of any loom might differ, the basic
+
+function
+
+is always the same. On
+
+all looms, weaving is done by intersecting longitudinal threads, called the warp,
+
+with transverse threads, called the weft.
+(2)
+
+Often, handcrafted products like hand-woven rugs and hand-knitted sweaters are
+
+of better quality and much more expensive than machine-made ones. As it may
+
+be impractical for many of us to have every textile-based product we purchase be
+
+handmade, or to make them ourselves, knowing how much effort go into creating
+
+textiles may at least help us better appreciate all the fabrics we use every day.
+Q57.
+
+The word
+
+function
+
+in Paragraph (1) is closest in meaning to……….
+
+  A) Part
+
+  B) Process
+  C) routine
+
+  D) relation
+Q58.
+
+According to Paragraph (2), how can people better appreciate fabrics?
+  A) by knowing how much it costs to manufacture them.
+  B) by knowing whether they are made by hand or by machine.
+  C) by knowing how much effort is put into making them.
+  D) by knowing how they are produced in large quantities.
+
+60 Which unit would most likely discuss violent changes in society in Hispanic
+countries?
+  A) Unit 1
+  B) Unit 2
+  C) Unit 3
+  D) Unit 4
+Passage 14
+Literature and Art: Intermediate Spanish-INDEX
+Unit 1
+Origins of Hispanic Culture: Europe………...1
+Unit 2
+Origins of Hispanic Culture: America………20
+Unit 3
+Religion in the Hispanic World.................35
+Unit 4
+Revolutionary of the Century ………………..60
+Q59.
+
+Which unit would most likely discuss prayer rituals in Hispanic culture?
+  A) Unit 1
+
+  B) Unit 2
+  C) Unit 3
+
+  D) Unit 4
+
+ANSWER KEY
+--------------------
+Q21: A
+Q22: C
+Q23: D
+Q24: A
+Q25: B
+Q26: C
+Q27: A
+Q28: D
+Q30: B
+Q31: B
+Q32: A
+Q33: D
+Q34: A
+Q35: B
+Q36: D
+Q37: B
+Q38: C
+Q39: D
+Q40: D
+Q41: C
+Q42: C
+Q43: A
+Q44: C
+Q45: D
+Q46: C
+Q48: A
+Q49: B
+Q50: D
+Q51: D
+Q52: B
+Q53: C
+Q54: C
+Q55: C
+Q57: B
+Q58: C
+Q59: C
+Q60: D
+
+
+GRAMMAR
+========================================
+
+  A) Most
+  B) More
+  C) Many
+  D) much
+Q62.
+In which sentence is all CAPITALIZATION correct?
+  A) Running late, he yelled, “Stop!” as he chased after the kingdom university bus that took him
+to work every morning.
+  B) Running late, he yelled, “Stop!” as he chased after the Kingdom university bus that took him
+to work every morning.
+  C) Running late, he yelled, “Stop!” as he chased after the Kingdom University bus that
+took him to work every morning.
+  D) Running late, He yelled, “Stop!” as he chased after the Kingdom University bus that took him
+to work every morning.
+Q63.
+Which sentence has the CORRECT WORD ORDER?
+  A) And then they would start getting ready for bed, after eating dinner, the family used to read
+books while drinking tea.
+  B) After eating dinner, the family used to read books while drinking tea, and then they
+would start getting ready for bed
+  C) After eating dinner, and then they would start getting ready for bed, the family used to read
+books while drinking tea.
+  D) The family used to read books while drinking tea, and then they would start getting ready,
+after eating dinner, for bed.
+  A) begin
+  B) to begin
+  C) they begin
+  D) they begin
+Q65.
+Which sentence has the CORRECT WORD ORDER?
+  A) Did you complete your master’s degree where?
+  B) Where did you complete your master’s degree?
+  C) Where your master’s degree did you complete?
+  D) Where you did complete your master’s degree?
+Model
+
+Q41.
+Q61.
+
+The computer costs so …….. money that the family decided not to buy it.
+Q64.
+
+The students had been studying lesson one and the teacher wanted …… lesson two.
+
+  A) Do you go often?
+  B) That’s great news.
+  C) Sounds good to me.
+  D) Yes. Me too.
+Q67.
+Which phrase correctly replaces the INCORRECT underlined phrase?
+Jane: Thanks for all the help. I wouldn’t be able to finish the project without you.
+Sara: It’s due on Monday.
+  A) I will try my best.
+B
+  C) Happy to help.
+  D) 68
+Which phrase correctly replaces the INCORRECT underlined phrase?
+Ben: I would like to buy a ticket for the 4pm flight to Jeddah on Monday.
+Agent: Do you fly a lot?
+  A) Congratulations!
+  B) You can go in another time.
+  C) That’s a good idea.
+  D) Sure. I can help with that.
+Q69.
+In which sentence is all PUNCTIUATION correct?
+  A) After the arrival of their new baby Jane and Dave wanted to buy a bigger house. However,
+they couldn’t afford it.
+  B) After the arrival of their new baby, Jane and Dave wanted to buy a bigger house however,
+they couldn’t afford it.
+  C) After the arrival of their new baby, Jane and Dave wanted to buy a bigger house. However
+they couldn’t afford it.
+Q70.
+German is still not a very popular language among ………
+  A) French
+  B) no French
+  C) the French
+  D) any French
+Q71.
+When our neighbours sold their huge house, they …… lots of money.
+  A) must have made
+  B) have been making
+  C) would have made
+  D) used to make
+Which phrase correctly replace the INCORRECT
+
+underlined
+
+phrase?
+Q66.
+
+Dave: Shall we have a pizza for lunch?
+
+Ted: You’re welcome.
+I am sorry.
+When is the deadline?
+  D) After the arrival of their new baby, Jane and Dave wanted to buy a bigger house.
+However, they couldn’t afford it.
+
+Q72.
+Why don’t we do my homework first? …….. looks much more difficult.
+  A) Yourselves
+  B) Yourself
+  C) Your
+  D) Yours
+  A) aren’t we watched
+  B) not watching
+  C) not to watch
+  D) don’t we watch
+Q74.
+Anna blames her poor education ……… her parents.
+  A) for
+  B) at
+  C) in
+  D) on
+  A) made
+  B) has made
+  C) had made
+  D) has been making
+Q76.
+When Linda and I got married, we ……… engaged for two months.
+  A) used to be
+  B) have been
+  C) had been
+  D) were
+Q77.
+Did you remember ………. Ben to pick up Amy from school? Does he know?
+  A) tell
+  B) told
+  C) to tell
+  D) telling
+  A) as carefully
+  B) as carefully as
+  C) as careful as
+  D) as carful
+Q80.
+Just minutes after ……… his medicine, Adam began to feel better.
+  A) took
+  B) had taken
+  C) was taking
+  D) taking
+Q73.
+
+Since we can’t go out, why ……. the game at home?
+Q75.
+
+Kate didn’t find until later that she …….. the wrong choice.
+Q78.
+
+Does anyone know where Roger is? He still ……………
+
+  A) hasn’t arrived
+
+  B) isn’t arrived
+
+  C) doesn't arrive                                                             D
+
+didn’t arrive
+Q79.
+
+Ted doesn’t feed his baby daughter ……… his wife does.
+
+Q81.
+Our son Paul hopes …… at his grandparents for another week.
+  A) to staying
+  B) staying
+  C) to stay
+  D) stay
+Q82.
+Of the two hotels, we’ve chosen this one because …………… is too far away.
+  A) the others
+  B) the other
+  C) another
+  D) other
+Q83.
+We were so tired we just felt like talking to …… at all.
+  A) nobody
+  B) anybody
+  C) somebody
+  D) everybody
+Q84.
+Then one day, ………. hard all her life, Mrs. Davis finally retired.
+  A) had been working
+  B) being worked
+  C) having worked
+  D) will have been working
+Q85.
+Mohammad and I ………… leave when the boss suddenly walked into our office.
+  A) would have
+  B) were about to
+  C) were going
+  D) would be to
+  A) should be fixing
+  B) should be fixed
+  C) ought have fixed
+  D) ought have been fixing
+Q88.
+The new airport should …….. by the end of the next year.
+  A) build
+  B) be built
+  C) be building
+  D) have been built
+Q89.
+You won’t tell anyone about our conversation, ………… you?
+  A) will
+  B) may
+  C) shall
+  D) could
+Q86.
+
+If I hadn’t worked so hard, I …………. a new car now.
+
+  A) wouldn’t have had
+
+  B) wouldn’t have
+
+  C) hadn’t had
+
+  D) don’t have
+Q87.
+
+The washing machine ………… for only a small charge. I don’t know why it is so
+
+expensive
+
+Q90.
+If only I ……….. more carefully. Unfortunately, I made too many mistakes.
+  A) would work
+  B) was working
+  C) have worked
+  D) had worked
+Q91.
+By the end of the month, I ……… 30,000 SAR- enough to buy my first car.
+  A) will be saving
+  B) will have saved
+  C) am about to save
+  D) am going to be saved
+Q92.
+Jenny and Kate are very excited because they …………. to the Maldives this summer.
+  A) go
+  B) going
+  C) are going
+  D) have gone
+Q93.
+The children were hungry so they asked their mother ……….. some food
+  A) make
+  B) to make
+  C) making
+  D) to making
+Q94.
+Jenny ran out of bread, ………. she drove to the store.
+  A) because
+  B) for
+  C) if
+  D) so
+Q95.
+Which sentence has the CORRECT WORD ORDER?
+  A) Even though Ahmed didn’t know anyone when he first arrived in Paris, he quickly made
+many friends.
+  B) Ahmed didn’t know anyone even though when he first arrived in Paris, he quickly made
+many friends.
+  C) When he first arrived, even though Ahmed didn’t know anyone, many friends he quickly
+made.
+  D) Many friends he quickly made even though when he first arrived in Paris, Ahmed didn’t
+know anyone.
+Q96.
+Lucy: Can you help me move the couch to the other side of the room?
+Mary: We can try, but I think it’s ……… heavy.
+  A) too
+  B) any
+  C) much
+  D) more
+
+Q97.
+I don’t understand this sentence. What ……………….?
+  A) does mean this word
+  B) does this word mean
+  C) this word means
+  D) means this word
+Q98.
+That’s a beautiful new jacket! Where ………… you buy it?
+  A) are
+  B) were
+  C) have
+  D) did
+Q99.
+The children could not ………… out to ride their bikes because it was raining.
+  A) go
+  B) going
+  C) gone
+  D) to go
+100 The box ………… from recycled paper.
+  A) was made
+  B) was making
+  C) made
+  D) make
+
+ANSWER KEY
+--------------------
+Q61: D
+Q64: B
+Q65: B
+Q66: C
+Q67: C
+Q68: D
+Q70: C
+Q71: A
+Q72: D
+Q73: D
+Q74: D
+Q75: C
+Q76: C
+Q77: C
+Q78: A
+Q79: B
+Q80: D
+Q81: C
+Q82: B
+Q83: A
+Q84: C
+Q85: B
+Q86: A
+Q87: B
+Q88: B
+Q89: A
+Q90: D
+Q91: B
+Q92: C
+Q93: B
+Q94: D
+Q96: A
+Q97: B
+Q98: D
+Q99: A
+Q100: A

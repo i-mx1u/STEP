@@ -1,0 +1,897 @@
+MODEL 19
+========================================
+
+READING
+========================================
+
+Model
+Passage 1
+(البرمجيات المفتوحة والسماح بتجربتها ومشاركتها )
+Freeware
+(1) Freeware is software a user can download from the internet free of charge. Once it
+has been downloaded. there are no fees associated with using the software (examples
+include: Adobe, Skype or media players). Unlike free software, freeware is subject to
+copyright laws and users are often requested to tick a box to say they understand and
+agree to the terms and conditions governing the software. This basically means that a
+user is not allowed to study or modify the source code in any way.
+Shareware
+(2) In this case, users are allowed to try out some software free of charge for a trial period.
+At the end of the trial period, the author of the software will request that you pay a fee if
+you like it. Once the fee is paid. a user is registered with the originator of the software and
+free updates and help are then provided. Very often, the trial version of the software is
+missing some of the features found in the full version, and these don’t become available
+until the fee is paid. Obviously, this type of software is fully protected by copyright laws
+and a user must make sure they don’t use the source code in any of their own software.
+Permission needs to be obtained before this software is copied and given to friends.
+family or colleagues.
+Q21.
+What does Paragraph  (1) say about freeware?
+  A) It has source code that can be
+changed.
+  B) It has rules that users must follow.
+  C) It is necessary to update it often.
+  D) It is similar to free software.
+22 Which sentence gives the main idea of Paragraph  (1)?
+  A) Freeware is software a user can download from the internet free of charge.
+  B) Once it has been downloaded, there are no fees associated with using the software
+(examples include: Adobe, Skype or media players).
+  C) Unlike free software, freeware is subject to copyright laws and users are often requested
+to tick a box to say they understand and agree to the terms and conditions governing the
+software.
+  D) This basically means that a user is not allowed to study or modify the source code in any way.
+23 What does Paragraph (2) say about shareware’s trial period?
+  A) You can change the source code.
+  B) You can share it with friends and family.
+  C) You can use all of the software’s features.
+  D) You can use the software for a limited time.
+
+24 Which of the following statements about shareware Paragraph (2) support?
+  A) Users can try it before buying it.
+  B) Users can share it easily with anyone.
+  C) Users can download it on their
+phones.
+  D) Users can create their own software.
+Passage 2
+(االستدامة في بنجالديش)
+(1) If small, largely urbanized countries such as Singapore and small island states
+such as the Maldives are not considered, then Bangladesh has the highest
+population density in the world. At 1,062 people per km2 its population density
+is about twenty times the global average. It compares with 383 per km2 in India
+and 141 per km2 in China – two countries that many people associate with over –
+population. Over – population cannot be judged by population density alone, but
+it is a useful starting point when considering the relationship between population
+and resources in a country.
+(2) The lack of natural resources is a major factor in over – population in Bangladesh,
+as is rapid population growth. The current rate of natural increase in Bangladesh
+is 1.6 per cent. When Bangladesh became an independent country in 1971 its
+population was about 75 million, just under half of the total today! The Population
+Reference Bureau estimates that the population of Bangladesh will rise to 183
+million by 2025 and 226 million by 2050. There is already intense competition for
+the available resources in Bangladesh. How will the country cope in the future
+when it is already experiencing large-scale poverty and so many other problems?
+(3) Extremely high population pressure and the deprivation associated with it is
+characteristic of both rural and urban areas. Four – fifths of the population live
+in rural areas. The very small amount of cultivable land per person has resulted
+in a very high level of rural poverty. Most families have to survive on extremely
+small plots of land. This means that there is not enough work available for many
+people. About 40 per cent of the population is underemployed, working a limited
+number of hours a week at low wages. Underemployment is not just confined to the
+countryside, but affects urban areas too.
+(4) The regular threat of cyclones and flooding makes this problem much worse.
+Eighty per cent of the country is situated on the floodplains of the Ganges,
+Brahmaputra, Meghna and those of several other minor rivers. Much of the
+country is close to sea level and about 40 per cent is regularly flooded during the
+monsoon season. Major floods can cause considerable loss of life and destroy vital
+infrastructure, often setting back development for many years. Where possible,
+people move to higher land, increasing the already overcrowded nature of such
+areas. Major floods increase the level of rural -to- urban migration, with the
+majority of migrants heading for the capital city Dhaka. Other urban areas such as
+
+Chittagong, Khulna and Rajshahi are also growing in population at very rapid rates.
+Around 8,000 hectares of cultivable land is lost every year due to urbanization,
+industrialization and the expansion of infrastructure. This is potential food
+production that Bangladesh can ill afford to lose.
+(5) Living conditions in Dhaka and the other main urban areas are in a continuous
+state of deterioration. Many people lack basic amenities such as electricity and
+clean drinking water. Dhaka has become one of the most crowded cities in the
+world with a population density of 43,000 per km2. This rapidly growing megacity
+was recently ranked as the least
+habitable city among 140 cities surveyed by the Economist Intelligence Unit.
+The 2012 Human Development Index, which ranks all the countries of the world
+according to their quality of life, placed Bangladesh 146th in the world.
+(6) Land is being lost to rising sea levels, a process associated with global warming.
+The United Nations Intergovernmental Panel on Climate Change has predicted that
+as sea levels rise, by 2050 about 35 million people from Bangladesh will cross the
+border into India in search of more secure living conditions.
+(7) Poor governance and corruption have undoubtedly hindered development in
+Bangladesh. However, national and international efforts to improve the lives of the
+population have registered progress. For example, The World Bank noted in 2013
+that the number of people in poverty in Bangladesh had fallen from 63 million in
+2000 to 47 million in 2010.
+25 What is the population density of Bangladesh?
+  A) 383 per km2
+  B) 1,062 per km2
+  C) 147,000 per km2
+  D) 244,000 per km2
+26 How much of the population lives in rural areas?
+  A) four – fifths
+  B) two – thirds
+  C) 40 percent
+  D) 1.6 percent
+27 Which organization noted the number of people in poverty in Bangladesh?
+  A) Human Development Index
+  B) Economic Intelligence Unit
+  C) The United Nations
+  D) The World Bank
+
+Passage 3
+(االستيراد والتصدير) Importing and Exporting
+(1) The history of importing and exporting dates back to the Roman Empire, when
+European and Asian traders imported and exported goods across the vast lands
+of Eurasia. Trading along the Silk Road flourished during the thirteenth and
+fourteenth centuries. Caravans filled with imports from China and India came over
+the desert to Constantinople and Alexandria. From there, Italian ships transported
+the goods to European ports.
+(2) For centuries, importing and exporting has often involved middlemen, due in part
+to the long distances traveled and different native languages spoken. The spice
+trade of the 1400s was no exception. Spices were very much in demand because
+Europeans had no refrigeration, which meant they had to preserve meat using large
+amounts of salt or risk eating half-rotten flesh. Spices disguised the otherwise
+poor flavor of the meat. Europeans also used spices as medicines. The European
+demand for spices gave rise to the spice trade. The trouble was that spices were
+difficult to obtain because they grew in jungles half a world away from Europe.
+The overland journey to the spice-rich lands was difficult and involved many
+middlemen along the way. Each middleman charged a fee and thus raised the price
+of the spice at each point. By the end of the journey, the price of the spice was
+inflated 1,000 percent.
+28 Why did the writer write this passage?
+  A) to entertain
+  B) to persuade
+  C) to explain
+  D) to give an example
+29 What is one important idea that the writer mentions?
+  A) People used salt to preserve meat.
+  B) People make a lot of money in trade
+  C) Europeans used spices as medicines.
+  D) Spices were in great demand in Europe.
+
+Passage 4
+(التعبئة)
+(1) During the French Revolutionary Wars, the French army had a problem. A big.
+potentially deadly problem. It was so big that on this day in 1795, they offered
+12.000 francs to anyone who could successfully solve it.
+(2) That problem – how to store food safely – was one shared by most of the rest of
+humanity, which probably explains why its solution has been so popular and lasting:
+canning. When left out, food, as we all know, goes bad.
+(3) Although
+Although food could be dried, smoked, fermented or pickled before the invention
+of canning, none of these methods were certain to be safe and they didn’t preserve
+flavor. Then came Nicolas Appert, a candy maker and winner of the prize money and
+the title «The Father of Canning».
+(4) Canning works by placing food in jars or cans and heating the whole set-up to a
+temperature that kills bacteria and other microorganisms. As the jars/ cans cool,
+a vacuum seal is formed which prevents other microorganisms from getting in.
+(5) Here’s the thing, though
+though: Appert could never explain why his method worked.
+Appert’s work was centered around the idea of removing air from food. Appert’s
+method started with putting food in jars, which were then corked, and sealed off with
+a wax seal. The jars were wrapped in canvas and then boiled.
+(6) After years of experimentation, Appert decided, correctly, that the two most
+important factors in canning were «the absolute deprivation from contact with the
+exterior air» and «application of the heat in the water bath».
+30 How did the French army deal with its deadly food problem?
+  A) They began to use jars to pickle food.
+  B) The invented a new way to keep food safe for a long time.
+  C) They announced a reward to the person who could fix the problem.
+  D) They bought special boxes that kept their food cool all the time.
+Q31.
+What does the writer think about canning?
+  A) That it has NO purpose today.
+  B) That it solved a problem everyone shared.
+  C) That it helped make Nicholas Appert a war hero.
+  D) That it helped France win the French Revolutionary Wars.
+32 Why does the writer use the word although in Paragraph (3)?
+  A) To show an example of how food was kept safe.
+  B) To give more information about Nicolas Appert’s work.
+  C) To prove that flavor was important in keeping food safe.
+  D) To show that these methods of keeping food safe had some issues.
+
+33 What does the writer think about other methods of storing food before canning?
+  A) He believes that they could preserve flavor.
+  B) He believes that they were a little dangerous.
+  C) He believes that they were more important than canning.
+  D) He believes that they helped Nicholas Appert invent canning.
+34 What does the writer say about Nicolas Appert’s method of canning?
+  A) It worked because he knew how to make candy.
+  B) It worked because he used an old method that he learned in the army.
+  C) It worked because he knew how to explain what he was doing.
+  D) It worked because he kept out the air and boiled the water.
+35 Which word can we use to replace the word though in Paragraph  (5)?
+  A) however
+  B) therefore
+  C) afterwards
+  D) in addition
+36 How did canning stop food from going bad?
+  A) It kept food cool so that bacteria did NOT increase in number.
+  B) It used a special method that filled the jars with a lot of hot air.
+  C) It created a tight seal that stopped the taste of the food from changing.
+  D) It used heat on the jars to destroy the bacteria and stop anything from coming in.
+
+Passage 5
+Personal Finance
+(التمويل الشخصي والشراء واالئتمان والمديونيات)
+(1) An annual survey in 2017 from the National Endowment for Financial Education
+(NEFE) found Americans cited the most significant financial setbacks they
+experienced in 2016 as transportation issues (23 percent), housing repairs/
+maintenance (20 percent), and medical care for an injury/ illness (18 percent). If
+faced with a major unexpected expense, over one third say they would pay for it with
+credit cards or emergency savings – both at 35 percent – followed by cash at 32
+percent.
+(2) The survey also
+also found that nearly half (48 percent) of Americans admit that they
+are living paycheck to paycheck. The main reasons people believe they are living
+paycheck to paycheck are due to
+due to credit card debt (24 percent). employment
+struggles (22 percent). and mortgage/ rent payments (18 percent). Compounding the
+uneasiness, over three quarters (78 percent) say something causes them financial
+stress. Saving money (53 percent) tops the list, followed by managing debt (44
+percent).
+(3) «Get debt under control», says Paul Golden (a spokesman for NEFE). «Take a hard
+look at what you Owe. If there’s a clear warning sign of too much debt. take action.
+Set a goal to reduce your debt load next year by 5 to 10 percent. That might mean
+reducing impulse shopping. Six in 10 people admit they purchase on impulse and
+80 percent of those regret purchases afterwards. When you face temptation, walk
+away for at least 30 minutes and see if you still want it and it’s a good idea».
+37 How do most Americans deal with unexpected costs?
+  A) They borrow from family and friends.
+  B) They use credit or savings.
+  C) They find additional jobs.
+  D) They suffer from stress.
+38 Why does the writer use the word also in Paragraph ( (2)?
+  A) to give an example of the survey results.
+  B) to show a list of answers reported in the survey.
+  C) to give more information about the survey results.
+  D) to show different results from those reported before.
+39 Which expression can we use to replace the expression due to in Paragraph (2)?
+  A) however
+  B) although
+  C) meanwhile
+  D) because of
+40 How does the writer feel about unnecessary shopping?
+  A) He believes it CAN’T be avoided.
+  B) He believes it has a positive effect.
+  C) He believes it has a negative effect.
+  D) He is NOT sure if its effect is positive or negative.
+
+Q41.
+What does the writer say about personal debts in Paragraph ( (3)?
+  A) There are different types.
+  B) They should be dealt with carefully.
+  C) They can cause various family prob­
+lems.
+  D) They should be reduced by 30% every
+year.
+Passage 6
+Global Murder Rates
+(رسم بياني عن معدل الجريمة )
+42 What was the homicide rate per 100,000 people in Europe in 2015?
+A
+B
+C
+  D) 43 How many homicides per 100,000 people happened in Africa in 2005?
+A
+  C) 24
+
+Passage 7
+Psychoanalysis
+(التحليل النفسي)
+What are the aims and methods of psychoanalysis?
+(1) Although most of today’s therapists do not practice therapy as Sigmund Freud
+did, his psychoanalytic techniques survive. Psychoanalysis is part of our modern
+vocabulary, and its assumptions influence many other therapies.
+Aims
+(2) Psychoanalysis assumes that many psychological problems are fueled
+by childhood’s residue of supposedly repressed impulses and conflicts.
+Psychoanalysts try to bring these repressed feelings into conscious awareness,
+where the patient can deal?
+(3) Psychoanalysis is historical reconstruction. Its goal is to unearth the past in hope
+of unmasking the present. But how?
+(4) When Freud discarded hypnosis as unreliable, he turned to free association.
+Imagine yourself as a patient using the free association technique. The analyst
+invites you to relax, perhaps by lying on a couch. He or she will probably sit out
+of your line of vision, helping you focus attention on your internal thoughts and
+feelings. Beginning with a childhood memory, a dream, or a recent experience,
+you say aloud whatever comes to your mind from moment to moment. It sounds
+easy, but soon you notice how often you edit your thoughts as you speak, omitting
+material that seems trivial, irrelevant or shameful. Even in the safe presence of the
+analyst, you may pause momentarily before uttering an embarrassing thought. You
+may make a joking remark or change the subject to something less threatening.
+Sometimes your mind may go blank or you may find yourself unable to remember
+important details.
+(5) To the psychoanalyst, these blocks in the flow of your free associations indicate
+resistance. They hint that anxiety lurks and that you are repressing sensitive
+material. The analyst will want to explore these sensitive areas by making
+you aware of your resistances and by interpreting their underlying meaning.
+The analyst’s interpretations - suggestions of underlying wishes, feelings, and
+conflicts – aim to provide people with insight. If offered at the right moment, the
+analyst’s interpretation – of. say, your not wanting to talk about your mother – may
+illuminate what you are avoiding. You may then discover what your resistances
+mean and how they fit with other pieces of your psychological puzzle.
+(6) Freud believed that another clue to repressed impulses is your dreams hidden
+content. Thus, after inviting you to report a dream, the analyst may offer a dream
+analysis, suggesting its hidden meaning.
+(7) During many such sessions you will probably disclose more of yourself to your
+analyst than you have ever revealed to anyone. Because psychoanalytic theory
+emphasizes the formative power of childhood experiences, much of what you
+reveal will pertain to your earliest memories. You will also probably find yourself
+experiencing strong positive or negative feelings for your analyst. Such feelings
+
+may express the dependency or mingled love and anger that you earlier experienced
+toward family members or other important people in your life. When this happens,
+Freud would say you are actually transferring your strongest feelings from those
+other relationships to the analyst. Analysts and other therapists believe that this
+transference exposes long-repressed feelings, giving you a belated chance to work
+through them with your analyst’s help. By examining your feelings toward the
+analyst, you may also gain insight into your current relationships.
+(8) Note how much of psychoanalysis is built on the assumption that repressed
+memories exist. That assumption is now questioned. This challenge to an
+assumption that is basic to so much of professional and popular psychology is
+provoking intense debate.
+(9) Critics also say that psychoanalysts’ interpretations are hard to refute. If, in
+response to the analyst’s suggested interpretation, you say, «Yes! I see now», your
+acceptance confirms the analyst’s interpretation. If you emphatically say, «No! That
+doesn’t ring true,» your denial may be taken to reveal more resistance. which would
+also confirm the interpretation. Psychoanalysts acknowledge that it’s hard to prove
+or disprove their interpretations. But they insist that interpretations often are a great
+help to patients.
+(10) Traditional psychoanalysis is slow and expensive. It requires up to several years
+of several sessions a week with a highly trained and well-paid analyst. (Three times
+a week for just two years at $100 or more per hour comes to about $30.000.) Only
+those with a high income can afford such treatment.
+(11) Although there are relatively few traditional psychoanalysts, psychoanalytic
+assumptions influence many therapists, especially those who make psychodynamic
+assumptions. Psychodynamic therapists try to understand patients’ current
+symptoms by exploring their childhood experiences. They probe for supposed
+repressed, emotion-laden information. They seek to help people gain insight into
+the unconscious roots of problems and work through newly resurrected feelings.
+Although influenced by Freud’s psychoanalysis, these therapists may talk to people
+face to face (rather than out of the line of Vision). once a week (rather than several
+times Weekly), and for only a few weeks or months (rather than several years).
+44 According to psychoanalysis, what two things from childhood feed psychological
+problems?
+  A) repressed impulses and internal
+thoughts
+  B) repressed impulses and conflicts
+  C) internal thoughts and dependency
+  D) dependency and conflicts
+45 What two things can psychoanalysis begin with?
+  A) an embarrassing thought or joke
+  B) an embarrassing thought or dream
+  C) a childhood memory or joke
+  D) a childhood memory or dream
+
+46 What are two characteristics of traditional psychoanalysis?
+  A) trivial and expensive
+  B) shameful and trivial
+  C) slow and expensive
+  D) slow and shameful
+Passage 8
+Fossil fuels
+(الوقود الحفري )
+(1) Fossil fuels include coal, oil and natural gas, formed from the remains of plants and
+animals which lived millions of years ago and obtained energy originally from the Sun.
+At present they are our main energy source. Predictions vary as to how long they will
+last since this depends on what reserves are recoverable and on the future demands
+of a world population expected to increase from about 7,000 million in 2011 to at
+least 7,600 million by the year 2050. Some estimates say oil and gas will run low
+early in the present century but coal should last for 200 years or so.
+(2) Burning fossil fuels in power stations and in cars pollutes the atmosphere with harmful
+gases such as carbon dioxide and sulfur dioxide. Carbon dioxide emission aggravates
+the greenhouse effect and increases global warming. It is not immediately feasible to
+prevent large amounts of carbon dioxide entering the atmosphere, but less is produced
+by burning natural gas than by burning oil or coal; burning coal produces most carbon
+dioxide for each unit of energy produced.
+(3) When coal and oil are but they also produce sulfur dioxide which causes acid rain.
+The sulfur dioxide can be extracted from the waste gases so it does not enter the
+atmosphere or the sulfur can be removed from the fuel before combustion, but
+these are both costly and risky processes which increase the price of electricity
+produced using these measures.
+47 What is the main topic of the passage?
+  A) The fossil fuels we rely on are destroying the planet.
+  B) The negative effects of fossil fuels can easily be fixed.
+  C) Burning coal produces more carbon dioxide than burning oil.
+  D) Coal and oil will continue to be more important than natural gas.
+48 What is one important idea that the writer mentions about fossil fuels in Paragraph
+(1)?
+  A) The Sun helped to produce them.
+  B) They are our most important form of energy.
+  C) Some of them will decrease faster than others.
+  D) They were formed from plants and animals millions of years ago
+
+49 Why does the writer mention the example of the increasing world population in the future?
+  A) to show why our main energy sources will last forever
+  B) to show that electricity will become more expensive for people
+  C) to show that oil and gas will be more important in the future
+  D) to show how it will affect the amount of fossil fuels we use
+50 What important ideas does the writer mention about sulfur dioxide in Paragraph (3)?
+  A) It is produced by burning natural gas.
+  B) It is produced when cars pollute the atmosphere.
+  C) It is dangerous and expensive to remove from fuel.
+  D) It can aggravate the greenhouse effect and increase global warming
+Passage 9
+(أهمية الهندسة المعمارية )
+Importance of architecture
+Could you build an information system without an architecture? Yes, it is possible to build
+small. isolated information systems without a formal architecture, just as it is possible
+to build a log cabin without one. But as soon as you want to build a building which is
+larger or has multiple
+multiple components – an energy efficient home, an apartment complex,
+an office high – rise – you need an architecture to show where the electric wiring, the
+plumbing, heating and air conditioning, the stairs and the elevators should go and how
+they should work together. The main role of a system architecture is to help manage
+the complexity and size of modern business information systems. The architecture
+embodies important design decisions that have already been made This is a constraint
+constraint
+on the team which is not free to make decisions that run counter to the architecture,
+but it also means that there is some kind of support within the organization – including
+knowledgeable people, development guidelines
+guidelines. reusable code, and implementation
+experience with the architecture – making the team’s job easier.
+Q51.
+The word multiple in the passage is closest in meaning to …….
+  A) few
+  B) enough
+  C) some
+  D) many
+52 The word constraint in the passage is closest in meaning to …….
+  A) limit
+  B) opinion
+  C) attempt
+  D) doubt
+53 The word guidelines in the passage is closest in meaning to …….
+  A) entertainment
+  B) imagination
+  C) instructions
+  D) complaints
+
+Passage 10
+International Pricing
+(التسعير العالمي)
+(1) Companies that market their products internationally must decide what prices to
+charge in the different countries in which they operate. In some cases, a company
+can set a uniform worldwide price. For example, Boeing sells its jetliners at about
+the same price everywhere, whether in the United States, Europe or a third –
+world country. However, most counties adjust their prices to reflect local market
+conditions and cost considerations.
+(2) The price that a company should charge in a specific country depends on
+many factors, including economic conditions, competitive situations, laws and
+regulations, and development of the wholesaling and retailing system. Consumer
+perception and preferences also may vary from country to country, calling for
+different prices. Or the company may have different marketing objectives in various
+world markets, which require changes in pricing strategy. For example, Samsung
+might introduce a new product into mature markets in highly developed countries
+with the goal of quickly gaining a large share of the market – this would call for
+a penetration – pricing strategy where the product is offered at a very low price.
+In contrast, it might enter a less –developed market by using market – skimming
+pricing where the price is set very high initially.
+(3) Costs play an important role in setting international prices. Travelers abroad are
+often surprised to find that goods that are relatively inexpensive at home may
+carry outrageously higher price tags in other countries. A pair of Levi’s selling for
+$30 in the United States might go for $63 in Tokyo or $88 in Paris. A McDonald’s
+Big Mac selling for a modest $3.50 here in Saudi Arabia might cost $7.50 in
+Berlin, Germany. Conversely, a Gucci handbag going for only $140 in Milan, Italy.
+might fetch $240 in the United States. In some cases, such price escalations may
+result from different selling strategies or market conditions. In some instances,
+however, it is simply the result of the higher cost of selling in another country – the
+additional cost of product modifications, shipping and insurance, import taxes.
+exchange-rate fluctuations, and physical distribution.
+54 What word other than «inexpensive» the writer uses to talk about prices at home?
+  A) various
+  B) modest
+  C) additional
+  D) competitive
+55 Which of the following is a fact?
+  A) Levi’s are outrageously expensive in
+Paris.
+  B) $3.50 is a modest price for a Big Mac.
+  C) It costs more to sell internationally.
+  D) Prices are set very high initially.
+
+56 What can we understand from Paragraph (1) about Boeing jetliners?
+  A) Their prices are the highest worldwide.
+  B) Their prices depend on cost considerations.
+  C) Their prices are independent of local market conditions.
+  D) Their prices are relatively inexpensive where they are made.
+
+Passage 11
+Passage A: Health in High – Income Nations
+(1) Obesity, which is on the rise in high-income nations, has been linked to many
+diseases, including cardiovascular problems. musculoskeletal problems, diabetes,
+and respiratory issues. According to the International Organization for Economic
+Cooperation and Development (2011). Obesity rates are rising in all countries. With
+the greatest gains being made in the highest-income countries. The United States
+has the highest obesity rate. Wallace Huffman and his fellow researchers (2006)
+contend that several factors are contributing to the rise in obesity in developed
+countries.
+(2) These include:
+• Improvements in technology and reduced family size have led to a reduction of work
+to be done in household production.
+• Unhealthy market goods, including processed foods, sweetened drinks, and sweet
+and salty snacks are replacing home – produced goods.
+• Leisure activities are growing more sedentary, for example, computer games, web
+surfing, and television viewing.
+• More workers are shifting from active work (agriculture and manufacturing) to
+service industries.
+• Increased access to passive transportation has led to more driving and less walking.
+• Obesity and weight issues have significant societal costs, including lower life
+expectancies and higher shared healthcare costs.
+(3) High – income countries also have higher rates of depression than less affluent
+nations. A recent study shows that the average lifetime prevalence of major
+depressive episodes in the 10 highest – income countries in the study was 14.6
+percent; this compared to 11.1 percent in the eight low – and middle – income
+countries. The researchers speculate that the higher rate of depression may
+be linked to the greater income inequality that exists in the highest – income
+nations.
+Passage B: Health in Low – Income Nations
+(1) In peripheral nations with low per capita income, it is not the cost of health care
+that is the most pressing concern. Rather, low – income countries must manage
+such problems as infectious disease, high infant mortality rates, scarce medical
+personnel, and inadequate water and sewer systems. Such issues, which high –
+income countries rarely even think about, are central to the lives of most people
+in low – income nations. Due to such health concerns, low – income nations have
+higher rates of infant mortality and lower average life spans.
+
+One of the biggest contributors to medical issues in low – income countries is the
+lack of access to clean water and basic sanitation resources. According to a 2011
+UNICEF repot almost half of the developing world’s population lacks improved
+sanitation facilities. The World Health Organization (WHO) tracks health – related
+data for 193 countries. In their 2011 World Health Statistics report, they document
+some of this data.his includes:
+•	 Globally, the rate of mortality for children under five was 60 per 1.000 live births.
+In low – income countries, however, that rate is almost double at 117 per 1,000 live
+births. In high – income countries, that rate is significantly lower than seven per
+1,000 live births.
+• The most frequent causes of death for children under five were pneumonia and
+diarrheal diseases. accounting for 18 percent and 15 percent, respectively.
+These deaths could be easily avoidable with cleaner water and more coverage of
+available medical care.
+• The availability of doctors and nurses in low – income countries is one-tenth that of
+nations with a high income. Challenges in access to medical education and access to
+patients exacerbate this issue for would-be medical professionals in low – income
+countries.
+57 What do the passages say about high – income and low – income nations?
+  A) They have different health concerns.
+  B) They suffer from high obesity rates.
+  C) They have similar rates of depression.
+  D) They have high rates of childhood
+mortality.
+58 According to the passages, which organizations monitor health issues in all
+countries?
+  A) government organizations.
+  B) private organizations.
+  C) local organizations.
+  D) international organizations.
+59 Which subject do both passages discuss?
+  A) obesity
+  B) depression
+  C) life expectancy
+  D) infant mortality
+60 According to the passages, what are the biggest problems in healthcare in low-income
+and high – income countries respectively?
+  A) limited availability and high cost
+  B) poor sanitation and sedentary lifestyles
+  C) limited access to medical education and lack of insurance
+  D) lack of medical professionals and rising income inequality
+
+
+GRAMMAR
+========================================
+
+ًنموذج أكثر تكرارًا
+Q61.
+Which one of the underlined words or phrases is INCORRECT?
+Ted and Tom went to play badminton at the gym hours ago. and still has not returned home yet
+  A) to play
+  B) ago
+  C) has
+  D) yet
+Q62.
+You need …… of money to go to a private university
+  A) large amount
+  B) too much
+  C) so much
+  D) a lot
+Q63.
+Anna and Lucy hurt …… when they fell down the college front stairs
+  A) themselves
+  B) theirselves
+  C) oneselves
+  D) ourselves
+Q64.
+If I had known how difficult the exam was, I …… much better
+  A) prepared
+  B) had prepared
+  C) would prepare
+  D) would have prepared
+Q65.
+I bought two notebooks yesterday, but I don’t have …… pens.
+  A) some
+  B) any
+  C) a lot
+  D) much
+Q66.
+I’ve been looking for Professor Brown.…….30 minutes. Do you know where he is?
+  A) for
+  B) yet
+  C) since
+  D) about
+Q67.
+Mr. Smith just …… his new book last week. He hopes it will be successful
+  A) publish
+  B) published
+  C) publishing
+  D) has published
+Q68.
+If the teacher gives me a bad grade on my essay, I …… to him about it.
+  A) talk
+  B) am talk
+  C) will talk
+  D) going to talk
+
+Q69.
+The security guard …… works in our college is really nice
+  A) who
+  B) which
+  C) that he
+  D) who he
+Q70.
+…………… Sara still live on campus? I haven’t seen her for weeks.
+  A) Has
+  B) Had
+  C) Does
+  D) Would
+Q71.
+When you have a question, you should ask someone …… can give a clear answer, like
+your teacher
+  A) he
+  B) who
+  C) whose
+  D) who he
+Q72.
+Please listen …… to this part of the lecture, it’s the most difficult one.
+  A) attentiveness
+  B) attentively
+  C) attention
+  D) attentive
+Q73.
+Mary …… on her term paper when the phone rang.
+  A) worked
+  B) will work
+  C) is working
+  D) was working
+Q74.
+When I …… writing this paper, I’m going for a coffee
+  A) finish
+  B) finished
+  C) will finish
+  D) would finish
+Q75.
+Drinks …… allowed in the library
+  A) will not
+  B) are not
+  C) do not
+  D) not
+Q76.
+When the teachers …… grading the tests, we’ll get our scores
+  A) finish
+  B) finished
+  C) will finish
+  D) would finish
+Q77.
+Jake hasn’t missed a single class ………………. the beginning of the term.
+  A) for
+  B) until
+  C) from
+  D) since
+
+Q78.
+The chemistry teacher, …… everyone liked, retired last year
+  A) Which
+  B) whom
+  C) him
+  D) he
+Q79.
+Mrs. Hill …………… we saw in class yesterday is moving back to the U.S
+  A) she
+  B) her
+  C) whom
+  D) which
+Q80.
+I don’t like university as …… as I liked high school
+  A) plenty
+  B) more
+  C) many
+  D) much
+Q81.
+I’m sure you will all enjoy …… in the course Physics 101. The teacher is great
+  A) yourselves
+  B) ourselves
+  C) yourself
+  D) yours
+Q82.
+Anna was in the library when Lisa …….
+  A) calls
+  B) called
+  C) has called
+  D) had called
+Q83.
+I have had a lot of coffee today because I had to study so hard. I.……...drink any more
+  A) don’t have to
+  B) must not to
+  C) shouldn’t
+  D) couldn’t
+Q84.
+Neither my father …… my mother has studied at university
+  A) neither
+  B) either
+  C) also
+  D) nor
+Q85.
+When I came home and logged onto the course platform, I saw that the grades……
+  A) reported
+  B) are reported
+  C) being reported
+  D) had been reported
+Q86.
+During my university studies I sometimes thought of …… up.
+  A) give
+  B) gave
+  C) to give
+  D) giving
+
+Q87.
+That poem is …… written
+  A) beautifully
+  B) beautiful
+  C) beauty
+  D) beautification
+Q88.
+Our university …… by over 100,000 people
+  A) has been attending
+  B) has been attended
+  C) has attended
+  D) was attended
+Q89.
+Linda …… books since she was three years old
+  A) read
+  B) was reading
+  C) has been reading
+  D) had been reading
+Q90.
+If I.……..how a good teacher Mr. Taylor was, I would have enrolled in his class years ago
+  A) know
+  B) knew
+  C) had known
+  D) have known
+Q91.
+I’m sorry to make you …… your project again, but it’s not good enough
+  A) submitting
+  B) submitted
+  C) to submit
+  D) submit
+Q92.
+Which of the underlined words in the sentence is INCORRECT?
+To become a teacher and to helping children learn English is one goal that Lucy hopes to achieve after she
+finishes her undergraduate university courses
+  A) to helping
+  B) one goal
+  C) hopes
+  D) finishes
+Q93.
+In which of the following sentences is all PUNCTUATION correct?
+  A) After all, the course’s are finished, whos’ going to be at the top of the class?
+  B) After all the courses are finished, who’s going to be at the top of the class.
+  C) After all the courses are finished, who’s going to be at the top of the class?
+  D) After all, the courses are finished, whos going to be at the top of the class.
+
+Q94.
+In which sentence is all CAPITALIZATION correct?
+  A) Not all americans speak English or are born in the north america; Mexico and Korea are two
+countries that millions of americans come from.
+  B) Not all Americans speak English or are born in north America: Mexico and Korea are two
+Countries that millions of Americans come from.
+  C) Not all americans speak English or are born in North America; Mexico and Korea are Two
+countries that millions of Americans come from.
+  D) Not all Americans speak English or are born in North America; Mexico and Korea are
+two countries that millions of Americans come from.
+Q95.
+In which sentence is all PUNCTUATION correct?
+  A) Chris had a difficult day at work, so when he came home, he didn’t want to talk to his family.
+  B) Chris had a difficult day at work, so when he came home; he didnt want to talk: to his family.
+  C) Chris had a difficult day at work, so when he came home; he didnt want to talk; to his family.
+  D) Chris had a difficult day at work, so when he came home: he didn’t want to talk to his family.
+Q96.
+Which sentence has the CORRECT WORD ORDER?
+  A) Mrs. Smith put them away in the cupboard, after dinner was over, and washed the plates,
+dried them.
+  B) After dinner was over, Mrs. Smith washed the plates, dried them, and put them away in
+the cupboard.
+  C) Mrs. Smith washed the plates, dried them, after dinner was over, and put them away in the
+cupboard.
+  D) Dried them, Mrs. Smith put them away in the cupboard, after dinner was over, and washed
+the plates.
+Q97.
+In which sentence is all PUNCTUATION correct?
+  A) When I was younger my father said my hair looked like a rat’s nest.
+  B) When I was younger my father said, my hair looked like a rats nest.
+  C) When I was younger. My father said my hair looked like a rats’ nest.
+  D) When I was younger, my father said my hair looked like a rat’s nest
+
+Q98.
+In which sentence is all CAPATALIZATION correct?
+  A) At first, my brother, Ali, wanted to study mathematics at King Khalid University, but
+one of his teachers, Mr. Brown, persuaded him to join the College of Business
+after he finishes the first semester in December.
+  B) At first, my Brother, Ali, wanted to study Mathematics at King Khalid University, but one of
+his Teachers, mr. Brown, persuaded him to join the College of business after he finishes the
+First Semester in December.
+  C) At first, my brother, ali, wanted to study Mathematics at King khalid university, but one of
+his Teachers, Mr. Brown, persuaded him to join the college of Business after he finishes the
+first semester in December.
+  D) At First, my brother. Ali, wanted to study mathematics at King Khalid University, but one of
+his teachers, mr. Brown, persuaded him to join the College of business after he finishes the
+First Semester in December
+Q99.
+In which sentence is all CAPITALIZATION correct?
+  A) This year, Maria is studying business studies, math, English, and spanish.
+  B) This Year, Maria is studying. Business Studies, Math, English, and Spanish.
+  C) This year, Maria is studying business studies, math, English, and Spanish.
+  D) This year, Maria is studying Business Studies, Math, English, and Spanish.
+100 Which one of the underlined words or phrases is INCORRECT?
+School children like run, skipping, and jumping in their breaks between lessons. After a break, they need
+some time to settle down before starting the next lesson.
+  A) run
+  B) their
+  C) After
+  D) Starting
+
+ANSWER KEY
+--------------------
+Q61: C
+Q62: D
+Q63: A
+Q64: D
+Q65: B
+Q66: A
+Q67: B
+Q68: C
+Q69: A
+Q70: C
+Q71: B
+Q72: B
+Q73: D
+Q74: A
+Q75: B
+Q76: A
+Q77: D
+Q78: B
+Q79: C
+Q80: D
+Q81: A
+Q82: B
+Q83: C
+Q84: D
+Q85: D
+Q86: D
+Q87: A
+Q88: B
+Q89: C
+Q90: C
+Q91: D
+Q92: A
+Q93: C
+Q95: A
+Q97: D
+Q98: A
+Q99: C
+Q100: A

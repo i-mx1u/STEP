@@ -1,0 +1,944 @@
+MODEL 24
+========================================
+
+READING
+========================================
+
+Passage 1
+Giant Panda
+(1) An American-born giant panda will soon be traveling to China. The Chinese
+government has an agreement with foreign zoos to lend giant pandas out only for
+scientific study. After a few years, they, and any cubs they may produce, must all
+be returned to China. Mei Lan, a three-year-old female, is being prepared for her
+trip to China, where her parents were born. A special FedEx flight from the U.S. is
+being arranged for her.
+(2) Chinese zookeepers are getting ready for her arrival by planning a special diet
+and even language lessons for her. They are advertising for a tutor to teach Mei
+Lan Chinese. The caretakers at her new home, the Chengdu Panda Research
+Center in Sichuan, want to help her adapt quickly and feel comfortable in her
+new environment. Mei Lan has lived at a zoo in the city of Atlanta, Georgia, since
+her birth, and she is unfamiliar with Chinese. The teacher must have a bachelor’s
+degree or higher and be fluent in both English and Chinese.
+Q21.
+According to Paragraph (2), why do the Chinese zookeepers want Mei Lan to learn
+Chinese?
+  A) so that she can speak with her caretakers
+  B) so that she will feel at home in China
+  C) so that she can forget her English
+  D) so that she will like her new diet
+22 According to Paragraph ( (2), where has Mei Lan been living?
+  A) in the Chengdu Panda Research
+Center
+  B) in an American research center
+  C) in Atlanta, Georgia
+  D) in Sichuan China
+
+Passage 2
+Stars
+(1) If we look at the night sky carefully, we will see that the stars are of many different
+colors. Some are red, others are yellow and some are blue. This is also shown when
+we take color photographs of the night sky. You can take such a photograph with an
+ordinary camera as long as it is kept steady. A thirty second exposure is sufficient.
+(2) Astronomers have been able to classify stars according to color. They have found
+that blue stars are the largest and red stars the smallest. However, there are a few
+stars which cannot be classified in this way. These are the superstars. For example,
+Ryiejol is a blue superstar as big as 40.000 suns and Beetlejuice is a superstar with
+a size equal to 17.000 suns.
+(3) Suppose an astronomer observes two stars, one brighter than the other. If neither
+of them is a superstar, he will know immediately that the brighter star is closer.
+Astronomers have instruments like light meters which can measure the brightness
+of a star quite accurately. It is possible to measure a star’s distance from the earth
+if astronomers know the color, brightness and whether or not it is a superstar.
+23 Which of the following colors is NOT mentioned in the passage?
+  A) green
+  B) yellow
+  C) blue
+  D) red
+24 According to Paragraph (2) Beetlejuice is a superstar ……………………
+  A) as big as the sun
+  B) smaller than the sun
+  C) as big as 17,000 suns
+  D) as big as 40.000 suns
+25 According to Paragraph (2), astronomers classify stars according to the following
+EXCEPT ……
+  A) size
+  B) color
+  C) shape
+  D) brightness
+
+Passage 3
+Engineering Innovation
+(1) Rome is known for many things: its military conquests, its civic architecture,
+temples, roads, emperors, and sculpture. Yet none of these would have been
+possible without the most vital resource of all: water. Now, as then, water is
+life, and without effective distribution, there would have been no great Roman
+civilization. Even until relatively modern times, Roman techniques to collect, store,
+and channel water over huge distances remain unsurpassed.
+(2) Such technology, was not, of course, invented from scratch by the Romans, and
+many earlier Mediterranean peoples had poured resources and expertise into
+managing water. On the island of Crete, the Minoans developed sophisticated rain-
+harvesting and filtering systems as early as the middle of the third millennium
+B. C. Cretan water management techniques were later adopted across the Greek-
+speaking world, and examples abound of tunnels, drainage systems, and cisterns,
+sometimes of considerable size.
+(3) Yet although the water management tradition Rome inherited was rich and
+extensive, no previous system came close to the sophistication and reach of the
+Roman aqueduct. Striding across the landscape from Spain to Syria, these awe-
+inspiring structures not only carried life and livelihood but also proclaimed the
+greatness of Rome.
+(4) Aqueducts were costly public works, and not all Roman cities necessarily required
+them. Some cities, such as Pompeii, had their water needs met by wells or public
+and private cisterns dug beneath houses. Some cisterns could reach a colossal
+size, such as the Basilica Cistern (Yerebatan Sarnıcı) in Constantinople (now
+Istanbul, Turkey) and the Piscina Mirabilis in Miseno,Italy. The better built to
+provide drinking water to the populations such as Rome’s—thought to have reached
+one million in the first century AD. needed an entire system of aqueducts not only
+for drinking water but also for supplying ornamental public fountains and baths.
+(5) Rome was supplied by aqueducts totaling 315 miles in length. Of that, 269 miles
+ran underground and 46 total miles above ground; however, only about 36 miles
+consisted of arched structures, just under 12 percent in all.
+(6) Rome had as many as 11 aqueduct systems, the most ancient of which was the
+mile-long Aqua Appia, first operational in 312 B.C. It was named for its sponsor,
+the censor Appius Claudius Caecus, better known for another great pioneering
+structure of ancient Rome: the Appian Way, one of the first major Roman roads.
+(7) Three more aqueducts were built in the third and second centuries B.C.: Aqua Anio
+Vetus, Aqua Marcia, and Aqua Tepula. Aided by his son-in-law Marcus Vipsanius
+Agrippa, Emperor Augustus was particularly active in improving the capital’s water
+supply, repairing old systems and building new ones. The Augustan-era Aqua Virgo
+named, according to legend, for the young girl who directed thirsty soldiers to the
+springs that fed it has been used uninterrupted ever since its construction. During
+his reign, Caligula began building two aqueducts that were finished by Emperor
+Claudius, the Aqua Claudia and Aqua Anio Novus. Trajan built the Aqua Traiana,
+which is 37 miles long, in A.D. 109.
+
+(8)The last of Rome’s aqueducts was the Aqua Alexandrina, nearly 14 miles long, built
+by Alexander Severus in A.D. 226. Some have calculated that, once completed,
+Rome’s aqueducts delivered roughly 1.5 million cubic yards of water per day—
+about 200 gallons per person. Its water network supplied 11 grand scale baths,
+as well as the 900 or so public baths, and almost 1.400 monumental fountains
+and private swimming pools. A crucial later stage in the conveying of water was,
+of course, its disposal. Rome’s Cloaca Maxima sewer, which flowed into the Tiber
+River, became the model for urban sanitation.
+26 Who developed rain harvesting in the third millennium B.C.?
+  A) Minoans
+  B) Romans
+  C) Greeks
+  D) Egyptians
+27 How long were Rome’s aqueducts in total?
+  A) 269 miles
+  B) 46 miles
+  C) 315 miles
+  D) 112 miles
+28 When did Trajan build the Aqua Traiana?
+  A) A.D. 109
+  B) A.D 226
+  C) 312 B.C
+  D) 37 B.C.
+
+Passage 4
+(1) Friction is the force that opposes one surface moving. or trying to move, over
+another. It can be a help or a hindrance. We could not walk if there was no friction
+between the soles of our shoes and the ground. Our feet would slip backwards; as
+they tend to if we walk on ice. On the other hand, engineers try to reduce friction
+to a minimum in the moving parts of machinery by using lubricating oils and ball
+bearings.
+(2) When a gradually increasing force (P) is applied through a spring balance to
+a block on a table, the block does not move at first. This is because an equally
+increasing but opposing frictional force (F) acts where the block and table touch. At
+any instant P and F are equal and opposite.
+(3) If P is increased further, the block eventually moves; as it does so F has its
+maximum value, called starting or static friction. When the block is moving at a
+steady speed, the balance reading is slightly less than that for starting friction.
+Sliding or dynamic friction is therefore less than starting or static friction.
+(4) Placing a mass on the block increases the force pressing the surfaces together
+and increases friction. When work is done against friction, the temperatures of the
+bodies in contact rise (as you can test by rubbing your hands together): mechanical
+energy is being changed into heat energy.
+29 What important point does the writer make about ‘starting friction’ in Paragraph
+(3) and (4)?
+  A) It creates heat in bodies.
+  B) In Math, it is the letter F.
+  C) It presses surfaces together.
+  D) It is greater than sliding friction.
+30 What important idea related to frictional force does the writer mention in
+Paragraph ( (1)?
+  A) It needs lubricating oils and ball bearings.
+  B) It brings advantages for engineers.
+  C) It is both useful and a problem.
+  D) It is zero when walking on ice.
+Q31.
+What point does the writer support with the example of rubbing your hands
+together?
+  A) Friction and movement makes objects hotter.
+  B) There is little friction when we walk on ice.
+  C) Sliding friction is less than starting friction.
+  D) The block moves at the same speed all the time.
+
+32 What is the main topic of the passage?
+  A) Frictional energy
+  B) Starting friction
+  C) Sliding friction
+  D) Frictional force
+Passage 5
+Monitoring Food
+(1) Nutritionists often suggest keeping a food diary to track your meals, avoid
+mindless overeating and keep tabs on nutrients like salt, fat and vitamins. But
+writing down everything you eat is annoying, and many people find themselves
+abandoning their efforts after a few days or weeks.
+(2) In the future, you may be able to track your food intake with a sticker-placed on
+your tooth. Researchers at Tufts University have developed a tooth sensor that can
+track glucose and salt and wirelessly send the information to a device.
+(3) Scientists have developed wearables for monitoring food intake before.
+Most of these have been in the form of mouth guards. American and Brazilian
+scientists created one to check glucose; it contained biosensors and wireless
+communications modules. But it requires, well, wearing a mouth guard, which can
+be uncomfortable.
+(4) Diabetics could theoretically use the new tooth-mounted sensor to monitor their
+sugar intake and broadcast the information to their doctors. It could be helpful for
+people with other medical conditions that require them to monitor their eating, for
+example, patients with high blood pressure who need to limit their salt.
+(5) But, Almquist, a professor of bioengineering at Imperial College London, says,
+there will be “significant hurdles” before the technology is ready for daily use as
+a food diary substitute. “For instance, for continuous monitoring of food intake,
+the sensors will need to be robust enough to withstand abrasion during chewing.
+In addition, foods are complex mixtures of compounds including salts, sugars and
+proteins, and the relative amounts of each that enter into saliva will depend on
+factors such as the nature of the food.
+33 What does the passage say about the new food-control technique?
+  A) It is NOT yet ready to replace older methods.
+  B) It will help patients to use less medicine.
+  C) It will help people who DO NOT exercise enough.
+  D) It can deal with all food ingredients.
+
+34 Why have scientists developed the new food-control technique?
+  A) to help restaurants make healthier food cheaply
+  B) to avoid the need to keep a daily food diary
+  C) to improve the diet of babies and children
+  D) to deal with complex eating processes in the mouth
+35 Which word can we use to replace the phrase “in addition” in Paragraph  (5)?
+  A) also
+  B) besides
+  C) however
+  D) therefore
+36 Why does the writer use the phrase “For instance” in Paragraph (5)?
+  A) to show how the new technique can be used in different ways
+  B) to give examples of patients who can use the new technique
+  C) to show that the new and old techniques are different
+  D) to explain one difficulty in using the new technique
+37 What does the writer think of the old mouth guards?
+  A) He believes they were NOT expensive to make.
+  B) He believes they were rather big.
+  C) He believes they were NOT practical.
+  D) He believes they were difficult to make.
+
+Passage 6
+Cultural Norms
+(1) Humans are social creatures. People have always grouped together into
+communities in order to survive. Living together, people form common habits
+and behaviors—from specific methods of childrearing to preferred techniques
+for obtaining food. In modern day Paris, many people shop daily at outdoor
+markets to pick up what they need for their evening meal, buying cheese, meat,
+and vegetables from different specialty stalls. In the United States, the majority
+of people shop once a week at supermarkets, filling large carts to the brim.
+How would a Parisian perceive U.S. shopping behaviors that Americans take for
+granted?
+(2) Almost every human behavior, from shopping to marriage to expressions of
+feelings, is learned. In the United States, people tend to view marriage as a
+choice between two people, based on mutual feelings of love. In other nations
+and in other times, marriages have been arranged through an intricate process of
+interviews and negotiations between entire families.
+(3) To someone raised in New York City, the marriage customs of a family from Nigeria
+may seem strange, or even wrong. Conversely, someone from a traditional Kolkata
+family might be perplexed with the idea of romantic love as the foundation for
+lifelong commitment. In other words, the way in which people view marriage
+depends largely on what they have been taught.
+(4) Behavior based on learned customs is not a bad thing. Being familiar with
+unwritten rules helps people feel secure and “normal.” Most people want to live
+their daily lives confident that their behaviors will not be challenged or disrupted.
+But even an action as seemingly simple as commuting to work evidences a great
+deal of cultural propriety.
+38 What has the greatest effect on people’s ideas about marriage today?
+  A) their ideas about romantic love
+  B) what they have seen in popular films
+  C) the marriage customs of people in New York
+  D) what they have learned from their own community
+39 What is the main reason people have always lived in social groups?
+  A) friendship
+  B) marriage
+  C) customs
+  D) survival
+
+40 The word obtaining in Paragraph ( (1) is closest in meaning to ……………………
+  A) getting
+  B) ordering
+  C) preparing
+  D) producing
+Q41.
+The word negotiations in Paragraph ( (2) is closest in meaning to ………………
+  A) differences
+  B) discussions
+  C) emergencies
+  D) relationships
+Passage 7
+Steel Use
+42 What percentage of steel does the automotive industry use?
+  A) 5%
+  B) 9%
+  C) 13%
+  D) 16%
+43 What percentage of steel is used by the domestic appliances industry?
+  A) 11%
+  B) 8%
+  C) 5%
+  D) 2%
+
+Passage 8
+(1) Our food is primarily made of carbohydrates, proteins, fats, minerals, vitamins and
+water. We need to regularly ingest food to sustain ourselves.
+(2) Living things do not follow the pattern of decay seen in the rest of the natural
+world. Unlike non-living things (such as rocks), living things maintain themselves.
+They build new cells, tissues and organs in the process of development. Once
+mature, organisms can sustain existing biological structures by cellular division.
+This process, also called mitosis, allows cells to use molecules such as water,
+amino acids (building blocks of proteins), carbohydrates and lipids to create new
+cells. This process requires the transfer of energy among chemical bonds.
+(3) Our cells are regularly being replaced and recycled and this requires a regular
+influx of energy and matter. We obtain energy in the form of food calories:
+new matter in the form of the molecules contained in our food. Not all of these
+molecules are digestible by all animals. These unneeded molecules may be eaten
+along with more desirable molecules. This is part of the reason why animals must
+have an opening in their digestive system
+(4) A balanced diet for humans includes several servings of breads, cereals, fruits and
+vegetables every day. Also essential are smaller servings of milk, dairy, meat and
+eggs. Fats, oils and sweets should make up a very small portion of a balanced diet.
+(5) Human beings eat several hundred pounds of food a year. From this food we obtain
+all the molecules we need so our bodies can operate, grow and replace the cells
+lost to wear, old age, or damage.
+(6) Animals, such as humans, have evolved intricate strategies of intercellular
+communication. Feedback, feed-forward, and inhibition allow us to maintain
+steady-state, or homeostasis. We get hungry because we want to eat. This
+seemingly simple cause and effect is the result of the empty stomach secreting
+the peptide hormone ghrelin into the bloodstream. When this hormone is received
+by the hypothalamus, it stimulates the release of growth hormones, which makes
+us want to eat. After eating to satiation, the release of the peptide hormone leptin
+causes the hypothalamus to inhibit hunger sensations. Leptin is released by a
+variety of tissues including adipose (fat cells), stomach, bone, pituitary, and the
+liver.
+Metabolism
+(7)The word metabolism comes from the Greek root “change” and involves the
+building up or breaking
+down of molecules to be used by the body. These molecules will be used for cell
+growth, fuel and other processes. If the process involves breaking down molecules
+into simpler ones, usually to release energy, it is called catabolic. If building up
+complex molecules, for structures or energy storage, it is called anabolic.
+
+(8) Developed and less active bodies do not need as many energy calories as developing
+and active bodies. Developing bodies are adding cells at a rapid rate, and this requires an
+infusion of both new material (molecules) and energy. Active bodies, likewise, need more
+calories to sustain the energetic demands of more motion
+Proteins
+(9) Proteins are molecules made of nitrogen, carbon, oxygen and hydrogen and
+sometimes sulfur. These molecules are found in animal tissue such as meat
+(including fish), eggs, cheese
+and legumes, and many other plant foods.
+(10) Proteins are large molecules assembled from smaller units called amino acids
+and serve many important roles in living things. Amino acids are linked by covalent
+bonds called peptide bonds. Proteins can serve as enzymes, hormones as well as
+the building blocks of complex physical features. Proteins comprise teeth, bone,
+muscle, tendon, cartilage,
+skin - most of what makes up an organism.
+(11) As enzymes, proteins facilitate chemical reactions that would not otherwise
+happen in the short time, or lower temperatures required by living things. As
+hormones (such as the previously mentioned appetite inhibitor leptin) they are
+protein messengers that deliver information around the body
+Carbohydrates
+(12) Carbohydrates are made of hydrogen, oxygen, and carbon that combine to form
+monosaccharides. These simple sugars are made of five (pentose) or six (hexose)
+carbon rings. Additional hydrogen and oxygen atoms allow these rings to form
+disaccharides (“two sugars”) such as sucrose and lactose or polysaccharides
+(“many sugars”) such as starch.
+(13) Sugars are essential to living things. They provide a way to store chemical energy
+to operate living things. They are also the structural backbone to the information
+storage molecules DNA and RNA, as well as many of the other essential molecules
+in living things. Sugar is transported through the bloodstream in the form of the
+simple sugar glucose. They have 4 calories of energy per gram.
+44 What two things happen to the cells in our body?
+  A) They divide and are digested.
+  B) They are replaced and recycled.
+  C) They are replaced and digested
+  D) They build new cells and give energy.
+
+45 What two things do cells use for mitosis?
+  A) water and dairy
+  B) lipids and cereals
+  C) amino acids and lipids
+  D) amino acids and vegetables
+46 What two hormones make people feel hunger?
+  A) Ghrelin and growth hormones.
+  B) Leptin and ghrelin.
+  C) Ghrelin and peptide.
+  D) Hypothalamus and growth hormones.
+Passage 9
+47 In 2015, how many of Britain’s CEOs were educated at private schools?
+  A) around 38%
+  B) around 55%
+  C) around 70%
+  D) around 87%
+
+Passage 10
+Arrests
+(1) In the US legal system, arrests are made after enough evidence is collected
+to establish probable cause. Arrests are made with or without a warrant, but
+there must always be probable cause to arrest. A criminal defendant is usually
+searched at the time of the arrest.  At the police station the defendant is “booked’.
+The booking process involves finger printing and photographing the defendant.
+Background information on the defendant such as name, address, phone number,
+and so forth is also collected.
+(2) The defendant is searched again before he or she is placed in a jail cell. If the
+defendant’s offense is minor, he or she may be allowed to post bail and appear
+before the judge at a later date. When the offense is not minor, the defendant is
+held until the initial appearance; the judge sets the bail amount at this time.
+48 The word booked in Paragraph ( (1) is closest in meaning to …………………………
+  A) harmed
+  B) registered
+  C) released
+  D) transferred
+49 The word probable in Paragraph ( (1) is closest in meaning to …………………………
+  A) enormous
+  B) suspicious
+  C) reasonable
+  D) complicated
+
+Passage 11
+Advertising
+Defenses of Advertising
+(1) Defenders of advertising claim that it provides many benefits. It informs
+consumers about available products and services. Some adverts promote the
+public interest by informing consumers about health and safety issues. Volvos,
+for example, were among the first vehicles to provide side-door airbags This is
+a definite safety advantage. Defenders of advertising also argue that by giving
+media the financial backing it requires, advertisements allow “free” television
+and internet content. The survival and profitability of many media outlets, such
+as social media, television and radio stations and YouTube channels depend on
+advertising revenue. Finally, advocates of advertising claim that it stimulates
+competition and fuels our mass-consumption economy. It raises the standard
+of living for everyone because it makes “economies of large-scale production”
+possible. Mass production reduces the cost of manufacturing a product, so it is
+less expensive to buy; but mass production requires mass consumption, and mass
+consumption of a product cannot occur unless consumers know that the product
+exists and where it can be bought. So, advertising is required if we are to take
+advantage of the benefits of large-scale production.
+Criticisms of Advertising
+Criticisms of Advertising
+(2)Numerous criticisms have been leveled at advertising First, some critics argue,
+advertising interferes with almost everything we do (studying, reading, driving,
+watching YouTube, browsing the internet). Second, critics say, advertising
+makes citizens materialistic. They only care about possessing more and more. Of
+course, there is nothing wrong with improving your standard of living, but they
+say advertising encourages consumers to measure their worth only by what they
+have, rather than by who they are. And so, advertising weakens social bonds and
+contributes to a shallow, materialistic culture. Third, advertising exploits children
+by targeting dubious messages (sugary cereals are good, cool kids wear brand-
+name clothing) at an audience that is too young to be able to evaluate their content.
+Young people, including college students.
+50 What are two words that the writer uses for “supporter” in Paragraph ( (1)?
+  A) consumer and defender
+  B) consumer and survival
+  C) advocate and survival
+  D) advocate and defender
+Q51.
+Which of the following is an opinion?
+  A) Large scale production makes products cheaper
+  B) Some TV stations need revenue from advertising.
+  C) Advertising makes people want more possessions.
+  D) Advertising gives people information about products.
+
+52 How are college students’ views about advertising different from the advertisers’
+view?
+  A) College students think advertising to young people is ineffective.
+  B) College students think that good advertising can increase sales.
+  C) College students think advertising prevents students from studying.
+  D) College students think advertising on social media should be banned.
+53 What can we understand about advertising from the passage?
+  A) It causes higher prices in the shops.
+  B) It always helps a company increase profits.
+  C) It is a very important and powerful industry.
+  D) Its disadvantages are greater than its benefits.
+54 What can we understand about YouTube from the passage?
+  A) People use it to make money.
+  B) It is popular with young people.
+  C) It stops students from studying
+  D) It has more adverts than television.
+
+Passage 12
+Renewable Energy Sourcesالمتجددة الطاقة مصادر
+Passage A
+Solar Energy
+(1)The energy falling on the Earth from the Sun is mostly in the form of light and
+the light that falls in one hour equals the total energy used by the world in a
+year. Unfortunately, its low energy density requires large collecting devices and
+its availability varies. Its greatest potential use is as an energy source for low-
+temperature water heating. This uses solar panels as the energy transfer devices,
+which convert light into heat energy. They are used increasingly to produce
+domestic hot water at about 70°C and to heat swimming pools.
+(2)Solar energy can also be used to produce high temperature heating, up to 3000°C
+or so, if a large curved mirror (a solar furnace) focuses the Sun’s rays on to a small
+area. The energy can then be used to turn water to steam for driving the turbine of
+an electric generator in a power station.
+(3)Solar cells, made from semiconducting materials, convert sunlight into electricity
+directly. A number of cells connected together can be used to supply electricity
+to homes and to the electronic equipment in communication and other satellites.
+They are also used for small-scale power generation in remote areas of developing
+countries where there is no electricity supply. Recent developments have made
+large-scale generation more cost effective and there is now a large solar power
+plant in California. There are many designs for prototype light vehicles run on solar
+power
+Wind energy.
+(4)Giant windmills called wind turbines with two or three blades each up to 30m long
+drive electrical generators. “Wind farms” of 20 to 100 turbines spaced about 400m
+apart, supply about 400MW (enough electricity for 250,000 homes) in the UK and
+provide a useful “top up” to the National Grid. Wind turbines can be noisy and may
+be considered unsightly so there is some environmental objection to wind farms,
+especially as the best sites are often in coastal or upland areas of great natural
+beauty.
+Passage B
+Wave energy
+(5)The rise and fall of sea waves have to be transferred by some kind of wave-energy
+converter into the rotary motion required to drive a generator. It is a difficult
+problem and the large-scale production of electricity by this means is unlikely in
+the near future, but small systems
+are being developed to supply island communities with power.
+
+Tidal and hydroelectric energy
+(6)The flow of water from a higher to a lower level from behind a tidal barrage
+(barrier) or the dam of a hydroelectric scheme is used to drive a water turbine
+(water wheel) connected to a generator.
+(7)One of the largest working tidal schemes is the La Grande I project in Canada.
+Feasibility studies have shown that a 10-mile-long barrage across the River
+Severn Estuary could produce about 7% of today’s electrical energy consumption
+in England and Wales. Such schemes have significant implications for the
+environment, as they may destroy wildlife habitats of water birds for example, and
+also for shipping routes.
+(8)In the UK, hydroelectric power stations generate about 2% of the electricity
+supply. Most are located in Scotland and Wales where the average rainfall is higher
+than in other areas. With good management hydroelectric energy is a reliable
+energy source, but there are risks connected with the construction of dams, and a
+variety of problems may result from the impact of a dam on the environment. Land
+previously used for forestry or farming may have to be flooded.
+55 According to both passages, why is it difficult to use energy from renewable
+sources?
+  A) Renewable sources require large amounts of energy to generate power.
+  B) The availability of renewable energy differs and can only be used for water heating.
+  C) Large collecting devices are required and it’s difficult to get permission from
+governments.
+  D) t’s difficult to convert motion to drive a generator and crude oil prices are so cheap
+that it’s not worth it.
+C
+  D) Hydroelectricity powers 2 percent of homes and wind power could provide power for
+another 10 percent of homes.
+
+Wind turbines supply electricity to some homes and hydroelectricity powers 2
+percent of homes in the UK.
+Q56.
+
+What do the passages say about the UK?
+  A) Wind turbines are unpopular in the UK, but they provide 400 MW of energy.
+  B) The UK has up to 100 wind turbines that can provide energy to other countries.
+
+57 Which of the following statements best summarizes renewable energy from both
+passages?
+  A) The UK is the leading country in the world using alternative energy sources.
+  B) Renewable energy sources make up a small portion of the energy supply.
+  C) Wind turbines cause too much environmental damage to be used widely.
+  D) Canada is the leading country in hydroelectric energy.
+Passage 13
+Floor Damage
+(1) The damage you described in your letter dated 7 July has now been inspected.
+(2) The faults in the wiring appear to have been caused by dripping water from the
+floor above. The electrical contractor, who installed the wiring in February, tells
+me that the wall was dry at the time he replaced the old wires. However, we will
+arrange for repairs to be made and seal off that section.
+(3) Durafloor is one of the most hardwearing materials of its kind on the market and
+we were surprised to hear that it had worn away within six months, so we made
+a closer inspection. We noticed that the floor had been cut into and this seems
+to have been the result of dragging heavy metal boxes across it. The one-year
+guarantee we offer on our workmanship is against “normal wear and tear”, and
+the treatment the floor appears to have been subjected to does not fall into this
+category. I am quite willing to arrange for the surface to be replaced, but we will
+have to charge you for the materials and work involved. If I may, I would like to
+suggest that you instruct your staff to use trolleys when shifting heavy containers.
+(4) I am sorry about the inconvenience you have experienced and will tell the fitters to
+repair the damage as soon as I have your confirmation that they can begin work.
+58 According to Paragraph (2), the problems with wiring were caused by …………..
+  A) the electrical contractor
+  B) the new wires
+  C) the old wires
+  D) leaking water
+59 According to Paragraph (4), the replacement of the damaged floor surface.......
+  A) is going to begin when the customer notifies the contractor
+  B) is going to begin when the workmen are available
+  C) has already finished
+  D) has already begun
+
+60 The word inconvenience in Paragraph (4) is closest in meaning to ……………
+  A) time pressure
+  B) coincidence
+  C) bad luck
+  D) trouble
+
+ANSWER KEY
+--------------------
+Q21: B
+Q22: C
+Q23: A
+Q24: C
+Q25: C
+Q26: A
+Q28: A
+Q29: D
+Q30: C
+Q31: A
+Q32: D
+Q33: A
+Q34: B
+Q35: B
+Q36: D
+Q37: C
+Q38: D
+Q39: D
+Q40: A
+Q41: B
+Q42: C
+Q43: D
+Q44: B
+Q45: C
+Q46: A
+Q47: A
+Q48: B
+Q49: C
+Q50: D
+Q51: C
+Q52: C
+Q53: C
+Q54: A
+Q57: B
+Q58: D
+Q59: A
+Q60: D
+
+
+GRAMMAR
+========================================
+
+Q61.
+If it rains tomorrow, I …………………..my raincoat
+  A) wear
+  B) am wear
+  C) will wear
+  D) going to wear
+Q62.
+People over forty need …………. regular check-ups at least once a year
+  A) get
+  B) to get
+  C) getting
+  D) that they get
+Q63.
+In which of the following sentences is all PUNCTUATION correct?
+  A) After all, the exams are finished, whos going to be the first in the class.
+  B) After all the exams are finished, who’s going to be the first in the class.
+  C) After all, the exam’s are finished, whos’ going to be the first in the class?
+  D) After all the exams are finished, who’s going to be the first in the class?
+Q64.
+Which of the underlined words or phrases is INCORRECT?
+Last night, Alia makes Vietnamese rice pudding with black-eyed peas for dessert
+  A) makes
+  B) with
+  C) for
+  D) dessert
+Q65.
+Which of the following sentences has the CORRECT WORD ORDER?
+  A) A lot of protein both tea and coffee contain, but the acids in the tea than the caffeine in the
+coffee are healthier.
+  B) Tea and coffee contain protein both a lot, but in the tea are healthier the acids than in coffee
+the caffeine.
+  C) Both tea and coffee contain a lot of protein, but the acids in the tea are healthier than
+the caffeine in the coffee.
+  D) But in the tea the acids are healthier than in the coffee the caffeine, a lot of protein both tea
+and coffee contain.
+Q66.
+Which sentence is correct?
+  A) Your job interview will be next Tuesday
+  B) You’re job interview will be next Tuesday.
+  C) You’re job interview is next Tuesday.
+  D) Your job interview has next Tuesday.
+
+Q67.
+In which of the following sentences is all PUNCTUATION correct?
+  A) After all, the matche’s are finished, whos’ going to be at the top of the league?
+  B) After all the matches are finished, who’s going to be at the top of the league.
+  C) After all the matches are finished, who’s going to be at the top of the league?
+  D) After all, the matches are finished, whos going to be at the top of the league.
+Q68.
+Which of the underlined words or phrases is INCORRECT?
+Last month, Anna speaks three times about her new business plan to her manager
+  A) speaks
+  B) about
+  C) plan
+  D) her manager
+Q69.
+Ben lost his essay…………. his laptop broke
+  A) although
+  B) during
+  C) when
+  D) so
+Q70.
+Excuse me Jan, …………... you please buy some pens from the bookshop for me?
+  A) would
+  B) should
+  C) shall
+  D) must
+Q71.
+If you want to be a college professor you …………… hard for many years.
+  A) must
+  B) must work
+  C) must working
+  D) must to working
+Q72.
+If you watch Jonson’s lecture on YouTube, you ………... the finance course much better
+  A) understood
+  B) will understand
+  C) had understood
+  D) would understand
+Q73.
+If Mrs. Hill finishes writing her new book, she ………… with her family
+  A) celebrated
+  B) will celebrate
+  C) had celebrated
+  D) would celebrate
+Q74.
+I actually ……. to study English, but my friends told me to study Spanish instead
+  A) want
+  B) wanted
+  C) had wanted
+  D) have wanted
+
+Q75.
+I felt a sleep while I ……………… the project.
+  A) have written
+  B) was writing
+  C) wrote
+  D) write
+Q76.
+Sara, …………………… is teaching Math 101?
+  A) whose
+  B) which
+  C) whom
+  D) who
+Q77.
+The teacher told students …………. about the exam
+  A) no worrying
+  B) don’t worry
+  C) not to worry
+  D) not worry
+Q78.
+Professor Harris has been reading in his office …………… eight hours without taking a
+break
+  A) during
+  B) since
+  C) from
+  D) for
+Q79.
+George’s favorite book is “crime and punishment” ………. one is yours?
+  A) this
+  B) that
+  C) what
+  D) which
+Q80.
+Joe: Do you have time to watch the news or are you too busy with your studies?
+Ted: Yes, I watch …………….. every day
+  A) it
+  B) him
+  C) those
+  D) these
+Q81.
+I will travel to England next term; It will be…………… amazing
+  A) define
+  B) defined
+  C) definition
+  D) definitely
+Q82.
+You need to work much ………….. Linda This is a difficult course
+  A) hard
+  B) hardly
+  C) harder
+  D) hardest
+Q83.
+Dave has almost finished reading the book. He only has …………… pages left
+  A) many
+  B) a few
+  C) a little
+  D) several
+
+Q84.
+A good teacher makes his students …………., not just memorize information
+  A) think
+  B) to think
+  C) thinking
+  D) thought
+Q85.
+Don’t feel stressed when …………. your term paper. You need to work carefully if you
+want it to be good
+  A) writing
+  B) you writing
+  C) are writing
+  D) was writing
+Q86.
+I wouldn’t study art history if I ……………….. you.
+  A) am
+  B) been
+  C) were
+  D) being
+Q87.
+Jenny needs this book for her course; she ………………. want us to buy it for her.
+  A) must to
+  B) might
+  C) can
+  D) must
+Q88.
+College is much easier for a student …………. has gone to a good high school
+  A) who he
+  B) whose
+  C) Who
+  D) he
+Q89.
+Yesterday Mr. Carter told me he doesn’t know from which bookshop ………….
+  A) is available the marketing book.
+  B) is the marketing book available.
+  C) the marketing book is available.
+  D) the marketing book available is
+Q90.
+He said that the class …………….. at 1:30, but it actually started at 6:30
+  A) would start
+  B) has started
+  C) starting
+  D) start
+Q91.
+The students ………….… a new way to process water for six months now
+  A) have been developing
+  B) has developed
+  C) is developing
+  D) develops
+
+Q92.
+Which Sentence is CAPITALIZATION correct?
+  A) Last week, she listened to three lectures to prepare for her lectures at london university
+tomorrow.
+  B) Last week, she listened to three lectures to prepare for her lectures at London Universi­
+ty tomorrow.
+  C) Last week, she listened to three lectures to prepare for her lectures at London university
+tomorrow.
+  D) Last week, She listened to three lectures to prepare for her lectures at london University
+tomorrow
+Q93.
+Roger was too lazy to work last night, ………… he had a cup of coffee and watched
+some YouTube videos
+  A) because
+  B) why
+  C) but
+  D) so
+Q94.
+Which sentence has the CORRECT WORD ORDER?
+  A) Mark said he would like to visit Brazil, after he has finished his studies and found a good
+job.
+  B) Mark said he would like to visit Brazil, and has found a good job, after he has finished his
+studies.
+  C) Mark said he would like to visit, and found a good job, Brazil after he has finished his studies.
+  D) Mark said he would like to visit, after he has finished his studies and found a good job, Brazil
+Q95.
+Which one of the underlined words or phrases is INCORRECIT?
+University professors like read, writing, and publishing during their work day. After a lot of reading, they
+need some time relax before starting to write
+  A) read
+  B) their
+  C) After
+  D) starting
+Q96.
+In which sentence is all CAPITALIZATION correct?
+  A) At first, my sister, Kate, wanted to study chemistry at King Faisal University, but one of
+her teachers, Mrs. Carter, told her to join the College of Engineering after she finishes
+the first semester in January.
+  B) At first, my Sister, Kate, wanted to study Chemistry at King Faisal University, but one of her
+Teachers, mrs. Carter, told her to join the College of engineering after she finishes the First
+Semester in January.
+  C) At first, my sister, Kate, wanted to study Chemistry at King faisal university, but one of her
+Teachers, Mrs. Carter, told her to join the college of Engineering after she finishes the first
+semester in January.
+  D) At First, my sister, Kate, wanted to study chemistry at King Faisal University, but one of her
+teachers, mrs. Carter, told her to join the College of engineering after she finishes the First
+Semester in January.
+
+Q97.
+A: Is it Rami’s turn to start the game?
+B: No, it isn’t. It’s …………………
+  A) you
+  B) you’re
+  C) your
+  D) yours
+Q98.
+Airplanes usually travel ………….. helicopters
+  A) more faster than
+  B) faster than
+  C) fastest than
+  D) the fastest than
+Q99.
+All members of my family.…….the pilgrimage to Makkah at least once in their lives
+  A) are performing
+  B) have performed
+  C) were performed
+  D) have been performed
+100 Mr. Amir, -------------- the students call Uncle Amir, taught the boys physical education
+several times a week
+  A) he
+  B) him
+  C) whom
+  D) which
+
+ANSWER KEY
+--------------------
+Q61: C
+Q62: B
+Q63: D
+Q64: A
+Q66: A
+Q67: C
+Q68: A
+Q69: C
+Q70: A
+Q71: B
+Q72: B
+Q73: B
+Q74: B
+Q75: B
+Q76: D
+Q77: C
+Q78: D
+Q79: D
+Q80: A
+Q81: D
+Q82: C
+Q83: B
+Q84: A
+Q85: A
+Q86: C
+Q87: B
+Q88: C
+Q89: C
+Q90: A
+Q91: A
+Q93: D
+Q95: A
+Q96: A
+Q97: D
+Q98: B
+Q99: B
+Q100: C

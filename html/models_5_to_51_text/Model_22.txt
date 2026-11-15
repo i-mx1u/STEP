@@ -1,0 +1,949 @@
+MODEL 22
+========================================
+
+READING
+========================================
+
+Passage 1
+Sleep Disorders النوم اضطرابات
+(1) The idea that “everyone needs 8 hours of sleep” is untrue. Newborns spend nearly
+two-thirds of their day asleep, most adults no more than one-third. Age. related
+differences in average time spent sleeping are rivaled by differences in the normal
+amount of sleep among individuals at any age. Some people thrive with fewer than
+6 hours of sleep per night; others regularly sleep 9 hours or more. Sleep patterns
+may be genetically influenced. When two researchers, Wilse Webb and Scott
+Campbell, checked the pattern and duration of sleep among fraternal and identical
+twins, only the identical twins were strikingly similar.
+(2) Whatever their normal need for sleep, some 10 to 15 percent of adults complain
+of insomnia - persistent problems in falling or staying asleep. True insomnia is not
+the occasional inability to sleep that we experience when anxious or excited. For
+a stressed organism, alertness is natural and adaptive. Moreover, from middle age
+on, sleep is seldom uninterrupted. Occasional awakenings become the norm, not
+something to fret over or treat with medication.
+(3) Sometimes people fret unnecessarily about their sleep. Scientists have learned to
+doubt people’s fretful sleep reports. In laboratory studies, insomnia complainers
+do get less sleep than others, but they typically overestimate, by about double,
+how long it took them to fall asleep, and they underestimate by nearly half how
+long they actually slept. Even if we’ve been awake only an hour or two, we may
+think we’ve had little sleep. because it’s the waking part we remember. When
+researchers awaken people repeatedly during the night, some recall having slept
+soundly.
+(4) The most common quick fixes for true insomnia - sleeping pills - can aggravate
+the problem. Both reduce REM sleep and can leave a person with next-day blahs.
+With continued use, one needs bigger doses to get an effect, and when the drug
+is discontinued, the insomnia may worsen. Scientists are searching for natural
+chemicals that are abundant during sleep and might be synthesized as a sleep
+aid without side effects. In the meantime, sleep experts offer other natural
+alternatives:
+•	Relax before bedtime, using dimmer light.
+•	Avoid caffeine (this includes chocolate) after late afternoon and avoid rich foods
+before bedtime. A glass of milk may help. (Milk provides raw materials for the
+nufacture of serotonin, a neurotransmitter that facilitates sleep.)
+Sleep on a regular schedule (rise at the same time even after a restless night) and
+avoid naps. A regular sleep schedule boosts daytime alertness, too, as shown in a
+recent experiment in which University of Arizona students slept 7.5 hours a night
+on either a varying or consistent schedule
+
+•	Exercise regularly but not in the late evening. (Late afternoon is best.)
+•	Reassure yourself that the temporary loss of sleep causes no great harm, certainly
+nothing worth losing sleep over.
+•	If nothing else works, aim for less sleep; go to bed later or get up earlier.
+(5)More rare but also more severe than insomnia are the sleep disorders narcolepsy
+and sleep apnea. People with narcolepsy (from narco, “numbness, “and lepsy,”
+seizure”) suffer periodic, overwhelming sleepiness. This usually lasts less than 5
+minutes but sometimes occurs at the most inopportune times, perhaps just after
+taking a terrific swing at a softball or when laughing loudly or shouting angrily. In
+severe cases, the person may collapse directly into a brief period of REM sleep, with
+its accompanying loss of muscular tension. Those who suffer from narcolepsy - 1 in
+2000 people, estimates the Stanford University Center for Narcolepsy - must live
+with extra caution.
+(6)The National Heart, Lung, and Blood Institute reports that 1 in 25 people (mostly
+overweight men) suffer from sleep apnea - a treatable disorder that was unknown
+before modern sleep research. They intermittently stop breathing during sleep.
+(Apnea means “stopping respiration”) After an airless minute or so, decreased
+blood oxygen arouses the sleeper to awaken and snort in air for a few seconds. The
+process can repeat more than 400 times a night, depriving the person of slow-wave
+sleep. Apart from complaints of sleepiness and irritability during the day - and their
+friends’ complaints about their loud “snoring”- apnea sufferers are often unaware
+of their disorder.
+Q21.
+What percentage of adults have problems falling asleep?
+  A) 2-3 percent
+  B) 6-8 percent
+  C) 10-15 percent
+  D) 20-25 percent
+22 How many people suffer from narcolepsy?
+  A) 1 in 5 people
+  B) 1 in 25 people
+  C) 1 in 400 people
+  D) 1 in 2000 people
+23 Who did a study on sleep apnea?
+  A) The University of Arizona
+  B) The New York Center for Sleep Apnea
+  C) The National Heart, Lung, and Blood Institute
+  D) The Stanford University Center for Narcolepsy
+
+24 What did Wilse Webb and Scott Campbell study?
+  A) different types of men
+  B) different types of twins
+  C) different types of adults
+  D) different types of parents
+25 Who usually experiences sleep apnea?
+  A) fat men
+  B) thin women
+  C) normal adults
+  D) identical twins
+Passage 2
+Oceans
+(1) The oceans make up 70 percent of the planet and contain 97 percent of all the
+water on Earth. It also makes up the vast majority of water stores, the majority
+of the planet’s moisture, terrestrial energy, and heat from the sun. This energy is
+transferred between the equator and the two poles by larger surface currents,
+by winds and deep ocean currents driven by differences in ocean density. It also
+provides the moisture and energy for storm systems and ultimately global climates.
+(2) As terrestrial creatures, humans think of the importance of the planet’s land
+surfaces, yet Earth is a planet consisting of 70 percent water. From space, the
+dominance of water is obvious because most of it is stored in Earth’s oceans.
+(3) Earth would not be the same planet without its oceans. The oceans, along with the
+atmosphere, keep Earth’s surface temperatures fairly constant worldwide. Some
+places on Earth reach as cold as -20 degrees Celsius, whereas other places reach
+as hot as 55 degrees Celsius. Yet on other planets like Mercury, temperatures range
+from -180 degrees Celsius to 430 degrees Celsius.
+26 What is the writer’s main purpose?
+  A) to recommend
+  B) to complain
+  C) to advise
+  D) to inform
+27 What is one important idea that the writer mentions?
+  A) Both poles are covered in ice.
+  B) Earth is cooler than Mercury.
+  C) Oceans are extremely important.
+  D) Water is essential to living things.
+
+Passage 3
+Cost Benefit Analysis
+(1)Cost-benefit analysis weighs the gains and losses to different individuals and
+suggests carrying out changes that provide greater benefits than harm. For
+example, a property tax used to build a local park creates a benefit to those who
+use the park, but harms those who own property (although, by increasing property
+values, even non-users obtain some benefits). Since some of the taxpayers won’t
+use the park, it won’t be the case that everyone benefits on balance. Cost-benefit
+analysis weighs the costs against the benefits. In the case of the park, the costs are
+readily monetized (turned into dollars), because the costs to the tax-payers are just
+the amount of the tax.
+(2)In contrast, the benefits are much more challenging to estimate. Conceptually, the
+benefits are the amount the park users would be willing to pay to use the park if the
+park charged admission. However, if the park doesn’t charge admission, we would
+have to estimate willingness-to-pay. In principle, the park provides greater benefits
+than costs if the benefits to the users exceed the losses to the taxpayers.
+(3)The first step in the process is to compile a comprehensive list of all the costs and
+benefits associated with the project or decision. Costs should include direct and
+indirect costs, intangible costs, opportunity costs and the cost of potential risks.
+Benefits should include all direct and indirect revenues and intangible benefits,
+such as increased production from improved employee safety and morale, or
+increased sales from customer goodwill.
+28 What is the main idea in the passage?
+  A) Employee production increases when they get more benefits.
+  B) Some taxpayers may benefit less from certain public services.
+  C) Indirect and intangible costs are always important to consider.
+  D) Cost-benefit analysis helps to reduce costs and increase benefits.
+29 Which sentence gives the main idea of Paragraph ( (1)?
+  A) Cost-benefit analysis weighs the gains and losses to different individuals and
+suggests carrying out changes that provide greater benefits than harm.
+  B) For example, a property tax used to build a local park creates a benefit to those who
+use the park, but harms those who own property.
+  C) Since some of the taxpayers won’t use the park, it won’t be the case that everyone
+benefits on balance.
+  D) In the case of the park, the costs are readily monetized (turned into dollars), because
+the costs to the tax-payers are just the amount of the tax.
+
+30 What does Paragraph ( (1) say about local parks?
+  A) Local parks lower property values
+  B) People pay less taxes when local parks are built.
+  C) People prefer those local parks are built in larger neighborhoods
+  D) Local parks are useful for the people who take advantage of them.
+Q31.
+Which of the following statements about property values does Paragraph ( (1) support?
+  A) Property values go up when a local park is built.
+  B) Property values are used to find out property taxes.
+  C) Property values increase and decrease at different times.
+  D) Property values are equal to the gains and losses people have.
+
+Passage 4
+Stages or Economic Activity
+(1) There are three main stages of economic activity, these stages are typical of nearly
+all production, and they are called the levels of economic — or business - activity:
+(2) Stage 1 is called the primary stage of production. This stage involves the earth’s
+natural resources. Activities in the primary sector of industry include farming,
+fishing, forestry and the extraction of natural materials, such as oil and copper ore.
+(3) Stage 2 is called the secondary stage of production. This stage involves taking the
+materials and resources provided by the primary sector and converting them into
+manufactured or processed goods. Activities in the secondary sector of industry
+include building and construction, car manufacturing and computer assembly.
+(4) Stage 3 is called the tertiary stage of production. This stage involves providing
+services to both consumers and other businesses. Activities in the tertiary sector of
+industry include transport, banking, retail, insurance, hotels and hairdressing.
+(5) In some countries, primary industries such as mining employ many more people
+than manufacturing or service industries. These tend to be countries — often called
+developing countries — where manufacturing industry has only recently been
+established. As most people still live in the rural areas with low incomes, there is
+little demand for services such as transport, hotels and insurance. The levels of
+both employment and output in the primary sector in these countries are likely to
+be high. In countries which started up manufacturing industries many years ago,
+the secondary and tertiary sectors are likely to employ many more workers than the
+primary sector. The level of output in the primary sector is often small compared to
+the other two sectors.
+32 What is the main topic of the passage?
+  A) Production is the first stage.
+  B) The level of output is highest in stage three.
+  C) Employment is highest in stage two.
+  D) Economic activity occurs in three stages.
+33 Which stage of production are hotels an example of?
+  A) Primary
+  B) Secondary
+  C) Tertiary
+  D) Elementary
+34 What is one important idea in Paragraph ( (3) related to the secondary stage of production?
+  A) Employment is high
+  B) Services are performed.
+  C) New goods are made.
+  D) It is the most important stage.
+
+Passage 5
+(1) Since 1876, when Henry Heinz first started selling ketchup in glass bottles, people
+have been arguing over the best way to get the condiment out of the packaging and
+onto their plates. A physicist decided to apply a little science to the matter and now
+has found what he calls a scientifically optimized method for getting the ketchup to
+flow.
+(2)
+(2) While
+While it may look like a liquid, ketchup is actually a non-Newtonian fluid. Instead
+of flowing consistently the viscosity of these substances change with the amount of
+force put on them.
+(3) Because of the physics that govern ketchup’s viscosity, packaging them in
+glass bottles makes it much harder to hit that pressure sweet spot. But if you’re
+dedicated on sticking to the classics and not switching to squeeze bottles, Stickland
+has developed a method based on physics for coaxing ketchup out of the bottle,
+Daisy Meager reports for Munchies.
+(4) You have to start by giving the sauce a good shake,” Stickland says in a statement.
+(5) The next step is to flip the bottle upside-down (with the lid still on). Then, shake
+the bottle until the ketchup has slid into its neck. Lastly, turn the bottle so that it’s
+pointing towards your meal at a 45-degree angle and uncap. If needed, Stickland
+says to give the ketchup a little “encouragement” by tapping on the bottom of the
+bottle-gently at first, but with increasing force until it finally slides out and onto the
+plate. “The trick is to get the sauce flowing, but not too fast.”
+35 What is the most important step in getting ketchup to flow?
+  A) holding the bottle at a 45-degree angle
+  B) mixing the ketchup with water
+  C) keeping the ketchup warm
+  C) shaking the bottle well
+36 Which word can we use to replace the word While in Paragraph ( (2)?
+  A) Because
+  B) Although
+  C) However
+  D) Besides
+37 What does the passage say about ketchup sold in glass bottles?
+  A) Large amounts are easier to get out of a glass bottle than small amounts.
+  B) Henry Heinz suggested the best way to get ketchup out of a glass bottle.
+  C) A scientist designed a glass bottle that makes ketchup flow more easily.
+  D) Getting ketchup out of a glass bottle can be made easier by science.
+
+38 Why does the writer use the word then in Paragraph (5)?
+  A) to show that shaking the bottle is part of a list of steps.
+  B) to give an example of how you should shake the bottle.
+  C) to give more information about the making of ketchup.
+  D) to show that tapping the bottle is different from shaking it.
+Passage 6
+Recent Palm Expansion
+39 How many hectares of palm area did the Private Estate reach by 2008?
+  A) 1 million
+  B) 2.3 million
+  C) 1.3 million
+  D) 3.5 million
+
+Passage 7
+Human Impact on the Water Cycle
+(1) Human impact on precipitation
+(1) Human impact on precipitation
+There are a number of ways in which human activity affects precipitation. Cloud
+seeding has probably been one of the more successful. Rain requires particles, such
+as dust and ice, on which to form. Seeding introduces silver iodide, solid CO2 (dry
+ice) or ammonium nitrate to attract water droplets.
+(2) Human impact on evaporation and transpiration
+2) Human impact on evaporation and transpiration
+The human impact on evaporation and transpiration is relatively small in relation to
+the rest of the hydrological cycle but is nevertheless important.
+(3) Dams – there has been an increase in evaporation due to the construction of large
+dams. For example, Lake Nasser behind the Aswan Dam loses up to a third of its
+water due to evaporation. Water loss can be reduced by using chemical sprays on
+the surface, by building sand-fill dams and by covering the dams with plastic.
+(4) Urbanization leads to a huge reduction in evapotranspiration due to the lack of
+vegetation. There may also be a slight increase in evaporation because of higher
+temperatures and increased surface storage.
+(5) Human impact on infiltration and soil water
+(5) Human impact on infiltration and soil water
+Human activity has a great impact
+impact on infiltration and soil water. Land use changes
+are important. Urbanization creates an impermeable surface, with compacted soil.
+This reduces infiltration and increases overland runoff and flood peaks. Infiltration
+is up to five times greater under forests compared with grassland.
+40 What causes a reduction in evapotranspiration?
+  A) NO surface storage
+  B) higher temperatures
+  C) lower overland runoff
+  D) NOT enough vegetation
+Q41.
+What is one important effect of building dams?
+  A) an increase in cloud seeding
+  B) changing how land is used
+  C) reducing chemical sprays
+  D) a rise in evaporation
+42 The word reduction in Paragraph (4) is closest in meaning to ……………..
+  A) fall
+  B) choice
+  C) success
+  D) possibility
+
+43 The word impact in Paragraph ( (5) is closest in meaning to ………………..
+  A) damage
+  B) effect
+  C) benefit
+  D) connection
+Passage 8
+Internet Language
+44 How many people used the internet in Chinese in 2017?
+  A) 1277W million
+  B) 985 million
+  C) 771 million
+  D) 2017 million
+45 In June 2017, how many users explored the internet in English?
+  A) 897 million
+  B) 985 million
+  C) 1,000 million
+  D) 3,886 million
+
+Passage 9
+Greenhouse effect
+(1) The greenhouse effect is a naturally occurring process that aids in heating the
+Earth’s surface and atmosphere. It results from the fact that certain atmospheric
+gases, such as carbon dioxide, water vapor, and methane, are able to change the
+energy balance of the planet by absorbing long wave radiation emitted from the
+Earth’s surface. Without the greenhouse effect life on this planet would probably
+not exists, as the average temperature of the Earth would be a chilly-18 º Celsius,
+rather than the present 15 º.
+(2) As energy from the Sun passes through the atmosphere a number of things take
+place.A portion of the energy (26% globally) is reflected or scattered back to space
+by clouds and other atmospheric particles. About 19% of the energy available is
+absorbed by clouds, gases (like ozone), and particles in the atmosphere. Of the
+remaining 55% of the solar energy passing through the Earth’s atmosphere. 4%
+is reflected from the surface back to space. On average, about 51% of the Sun’s
+radiation reaches the surface. This energy is then used in a number of processes,
+including the heating of the ground surface; the melting of ice and snow and the
+evaporation of water; and plant photosynthesis.
+(3) The heating of the ground by sunlight causes the Earth’s surface to become a
+radiator of energy in the long wave band (sometimes called in the radiation). This
+emission of energy is generally directed to space. However, only a small portion of
+this energy actually makes it back to space. The majorly of the outgoing infrared
+radiation is absorbed by the greenhouse gases.
+(4) Absorption of long wave radiation by the atmosphere Causes additional
+heat energy to be added to the Earth’s atmospheric system. The now warmer
+atmospheric greenhouse gas molecules begin radiating long wave energy in all
+directions. Over 90% of this emission of long wave energy is directed back to the
+Earth’s surface where it once again is absorbed by the surface. The heating of the
+ground by the long wave radiation causes the ground surface to once again radiate,
+repeating the cycle described above, again and again, until no more long wave is
+available for absorption.
+(5) The amount of heat energy added to the atmosphere by the greenhouse effect is
+controlled by the concentration of greenhouse in the Earth’s atmosphere. All of the
+major greenhouse gases have increased in concentration since the beginning of the
+industrial Revolution. As a result of these higher concentrations. Scientists predict
+that the greenhouse effect will be enhanced and the Earth’s climate will become
+warmer. Predicting the amount of warming is accomplished by computer modeling
+Computer models suggest that a doubling of the concentration of the main
+greenhouse as carbon dioxide, may raise the average global temperature between 1
+and 3º Celsius.
+
+However, the numeric equations of computer models do not accurately simulate
+the effects of a number of possible negative feedbacks. For example, many of the
+models cannot property Simulate late the negative effects that increased cloudier.
+These extra clouds would then reflect a greater proportion of the sun’s energy back
+to space reducing  the amount of molar radiation absorbed by the atmosphere and the
+Earth’s surface. With less solar energy being absorbed at the surface,  the effects of an
+enhanced greenhouse effect may be counteracted.
+(6) A number of gases are involved in the human caused enhancement of the
+greenhouse effect. These gases include carbon dioxide (CO2): methane (CH4):
+nitrous oxide: (N2O): chlorofluorocarbons (CFC): and troposphere ozone (O3).
+Of these gases the single most important gas in carbon dioxide, which accounts
+for about 55% of the change in the intensity of the Earth’s greenhouse effect.
+The contributions of the other gases are 25% for chlorofluorocarbons, 15% for
+methane, and 5% for nitrous oxide. Ozone’s contribution to the enhancement of
+greenhouse effect is still yet to be quantified.
+(7) Average concentrations of atmospheric carbon dioxide in the year 2005 were
+about 380 parts per million. Prior to 1700, levels of carbon dioxide were about 280
+parts per million. This increase in carbon dioxide in the atmosphere is primarily
+due to the activities of humans. Beginning in 1700, societal change brought about
+by the industrial Revolution. Increased the amount of carbon dioxide entering
+the atmosphere. The major Sources of this gas include fossil fuel combustion
+for industry, Transportation, space heating, electricity generation, and cooking,
+and vegetation changes in natural prairie, woodland, and forested ecosystems.
+Emissions from fossil fuel combustion account for about 65% of the extra carbon
+dioxide now found in our atmosphere. The remaining 35% is derived from
+deforestation and the conversion of prairie, woodland and forested ecosystems
+primarily into agricultural systems.
+(8) Artificially created chlorofluorocarbons (CFCs) are the strongest greenhouse gas
+per molecule. However, low concentrations in the atmosphere reduce their overall
+importance in the enhancement of the greenhouse effect. Current measurements
+in the atmosphere indicate that the concentration of these chemicals may soon
+begin declining because of reduced emissions. Reports of the development of ozone
+holes over the North and South Boles and a general decline in global Stratosphere
+ozone level over the last two decades has caused many nations to cut back on their
+production and use of the chemicals. In 1987, the signing of the Montreal Protocol
+agreement by forty-six nations established an immediate timetable for the global
+reduction of CFC production and use.
+
+(9) Since 1750, methane concentrations in the atmosphere have increased by
+more than 150%. The primary sources for the additional methane added to the
+atmosphere (in order of importance) are rice cultivation, domestic grazing animals,
+termites, landfills, coal mining, and oil, and gas extraction.  Anaerobic conditions
+associated with rice paddy flooding results in the formation of methane gas.
+However, an accurate estimate of how much methane is being produced from rice
+paddies has been difficult to obtain. More than 60% of all rice paddies are found
+in India and China were scientific data concerning emission rates are unavailable.
+Nevertheless, scientists believe that the contribution of rice paddies is large
+because this form of crop production has more than doubled since 1950.
+46 How much energy is reflected into space by the earth’s atmosphere and the earth’s
+surface?
+  A) 26% (by atmosphere) and 4% (by surface)
+  B) 19% (by atmosphere) and 4% (by surface)
+  C) 26% (by atmosphere) and 19% (by surface)
+  D) 51% (by atmosphere) and 19% (by surface)
+47 Which three man-made gases have had the greatest greenhouse effect?
+  A) Carbon dioxide, chlorofluorocarbons and methane
+  B) Carbon dioxide, methane and nitrous oxide
+  C) Carbon dioxide, water vapor and methane
+  D) Carbon dioxide, ozone and methane
+
+Passage 10
+Mining and Refining
+(1) In an industrial society like the United States, the most important nonfuel
+resources are iron ore, aluminum ore, copper ore, and minerals containing
+nitrogen, phosphorus, and potassium used in fertilizers, a lot of energy is used in
+mining operations and the transportation of ore. To make the task of any physical
+extraction and transportation worthwhile
+worthwhile, the ores must contain enough of the
+required compound or clement. Some low-grade ore is not usable because of the
+cost of the mining process.
+(2) Materials extracted
+extracted from the earth are processed by screening, separating,
+washing and grinding. Often, the useful element in an ore is in a chemical form that
+is not usable and must be changed to a desirable
+desirable form. For instance, the aluminum
+in aluminum ore is in the form of aluminum ion. To be useful, the aluminum ion
+needs to be changed to aluminum metal.
+48 The word worthwhile in Paragraph (1) is closest in meaning to …………………
+  A) correct
+  B) difficult
+  C) typical
+  D) useful
+49 The word extracted in Paragraph (2) is closest in meaning to …………………
+  A) removed
+  B) replaced
+  C) returned
+  D) reflected
+50 The word desirable in Paragraph  (2) is closest in meaning to ……………
+  A) complete
+  B) special
+  C) colorful
+  D) required
+
+Passage 11
+Automationاألتمتة
+(1)Knowing how and where robots and machines could impact the global economy
+will help financial executives in a competitive edge in their industries but predicting
+which countries are likely to be impacted most by workforce automation and when
+isn’t as simple as comparing industries across the globe.
+(2)A recent McKinsey Global Institute report. A Future That Works: Automation,
+Employment, and Productivity, Analyzed the automation potential of 46 countries,
+representing 80% of the global workforce. Several factors are considered, including
+the percentage of work activities that could be automated using current technology,
+the number of full-time employees that could be affected and wages.
+(3)The types of activities that have a high potential for automation are physical tasks
+in highly structured and predictable environments, data processing and data
+collection. Those that have a considerably lower potential for automation are
+unpredictable physical work, interactions with others, applying expertise, and
+managing others, which is the least susceptible to automation.
+(4)Vast differences are expected in how automation will play out across the globe, as
+technical, economic, and social factors will determine the pace and extent of it. But
+it’s hard to say how quickly automation will become reality, according to the report.
+(5)Take manufacturing, for example. One country may save a larger concentration
+of work hours in jobs that have higher automation potential, such as production
+and administrative support. And another country may have a higher proportion of
+work hours in jobs that are less likely to be automated, such as management and
+engineering.
+Q51.
+What idea do the words “susceptible to automation” repeat?
+  A) workforce automation
+  B) robots and machines
+  C) automation potential
+  D) competitive edge
+52 What can we understand from Paragraph  (2) about the McKinsey Global Institute
+research?
+  A) It was a large study.
+  B) It was an automated study.
+  C) It used current technology.
+  D) It had an effect on full-time employees.
+53 Which of the following is an opinion in the passage?
+  A) The report considered several factors in the automation process.
+  B) Automation of work will become a reality for all workers.
+  C) The speed of change to automation is difficult to predict.
+  D) The McKinsey report studied 46 different countries.
+
+54 Which of the following is a fact?
+  A) Physical work can be unpredictable.
+  B) The report considered information from 46 countries.
+  C) Technology has the greatest effect on full-time employees.
+  D) The writers of the report interviewed 80% of the global workforce.
+55 What idea do the words “administrative support” repeat?
+  A) Management and engineering
+  B) Data processing and data collection
+  C) Technical, economic and social
+factors
+  D) Applying expertise and managing others
+56 What can we understand from Paragraph (s (4) and (5) about automation around
+the world?
+  A) It will be very difficult to achieve.
+  B) It will become a reality very quickly.
+  C) It will be different in different countries.
+  D) It will have the biggest effect on manufacturing.
+
+Passage 12
+Passage A:
+
+Keeping Time in the Paleolithic Era
+(1)
+
+How would have a Paleolithic forager living 100,000 years ago kept track of time?
+We have little direct evidence about Paleolithic time-tracking. However, we can
+study modern foraging societies for hints. In a foraging society. the rhythms of the
+natural world are critical. You need a pretty good sense of the changing seasons
+and of the schedule That other species keep. then you can decide when to move to a
+new campground, what plants to collect, and what animals to hunt. Modern foragers
+sense such changes with a precision no modern city dweller can match
+(2)
+
+Keeping track of the time of day and the time of year was not difficult in early
+societies ancient people typically spent most of their time outdoors. They could find
+out all they needed to know by the positions of the sun and the stars. And aligning
+your activities with those of your family and friends was much less complicated than
+it is today. Back then, people lived in small groups and met face to face.
+(3)
+
+Meetings with other communities often happened based on the season. There was
+no need for precise scheduling. If a group normally met with a neighboring tribe
+when the reader returned it didn’t really matter if their schedules were a few days,
+off. Foraging Societies were much more forgiving about appointments than we are.
+(4)
+
+So, no special instruments were required for timekeeping. But there are clues that
+even Paleolithic forms didn’t rely entirely on their memories and their   senses to
+keep track of time.
+Passage B: Keeping Time in Agrarian societies
+(1)
+
+Agrarian societies began to appear 11.000 years ago. As they exploded, they linked
+up with their neighbors. Now they needed more ratable methods of keeping time. If
+you wanted to sell some vegetables in a country town or warship at a nevtry temple
+you had to know exactly when the markets and religious rights were held- and you
+needed to know in advance. Now you needed calendars that everyone agreed on
+and shared. If your village depended on irrigation, everyone needed to know exactly
+when the irrigation gates would be opened.
+(2)
+
+Similarly, seeds were planted at particular times. the harvest was also collected
+according to seasonal calendars.  These early calendars were based on Earth’s orbit
+around the sun and associated climate patterns.
+(3) This is why new devices began to appear that could track time more precisely. one
+method of timekeeping was to watch the sun’s shadow using sundials.
+Q57.
+
+What do passages A and B say about time- keeping in both eras?
+  A) that it became more precise over the years.
+  B) that it was closely linked to animals’ schedules.
+  C) that it was crucial for trading between villages.
+  D) that it had little impact on agricultural
+activities.
+
+58 According to Passages A and B, which time-keeping methods were used in both
+eras?
+  A) stick in the ground
+  B) sand-filled containers
+  C) the sun and the stars.
+  D) spending time outdoors
+Q59.
+
+According to Passages A and B, what did seasons specify for early humans?
+  A) time to interact with neighboring communities
+  B) time to open irrigation gates
+  C) time to hold religious ceremonies
+  D) time to live in small groups
+Q60.
+
+What can we understand from Passages A and B about people’s lives in both eras?
+  A) They had well-developed calendars.
+  B) They always relied on their sense of time.
+  C) Some religious events took place on specific dates.
+  D) They collected certain plants in specific seasons.
+
+ANSWER KEY
+--------------------
+Q21: C
+Q22: D
+Q23: C
+Q24: B
+Q25: A
+Q26: D
+Q27: C
+Q28: D
+Q30: D
+Q31: A
+Q32: D
+Q33: C
+Q34: C
+Q35: A
+Q36: B
+Q37: D
+Q38: A
+Q39: D
+Q40: D
+Q41: D
+Q42: A
+Q43: B
+Q44: C
+Q45: B
+Q46: A
+Q47: A
+Q48: D
+Q49: A
+Q50: D
+Q51: C
+Q52: A
+Q54: B
+Q55: B
+Q56: C
+Q57: A
+Q58: C
+Q59: A
+
+
+GRAMMAR
+========================================
+
+Model
+Q22.
+ًنموذج أكثر تكرارًا
+Q61.
+Choose the sentence with the RIGHT WORD ORDER
+  A) Do you football often play?
+  B) Do you football play often?
+  C) Do you play often football?
+  D) Do you often play football?
+Q62.
+Hey John, …………….. took my book
+  A) whom
+  B) who
+  C) which
+  D) whose
+Q63.
+Kate’s teacher told her …………… the main idea in her paper
+  A) no repeating
+  B) not to repeat
+  C) don’t repeat
+  D) not repeat
+Q64.
+Peter studied very hard for four years before he ………………. from university
+  A) graduates
+  B) is graduating
+  C) graduated
+  D) has graduated
+Q65.
+I drank several cups of tea while I …………… this essay
+  A) have written
+  B) wrote
+  C) write
+  D) was writing
+Q66.
+Mr. Ahmad: Ali, you need to submit your economics essay today.
+Ali: But I haven’t finished it ………….. !
+  A) already
+  B) just
+  C) still
+  D) yet
+
+Q67.
+
+The  finance course wasn’t very popular. It didn’t have
+
+……… students
+  A) many
+  B) much
+  C) more
+  D) some
+Q68.
+Dave: Do you want me to pick the book up for you?
+Bob: No. I’ll do it …………….
+  A) myself
+  B) mine
+  C) my
+  D) me
+
+Q69.
+There is so much work in this course! I wish there ……………. a lot less
+  A) is
+  B) will be
+  C) were
+  D) may be
+Q70.
+Mr. Jackson has worked at our university …………………. a very long time
+  A) for
+  B) from
+  C) since
+  D) during
+Q71.
+Lisa forgot her bag at the university, so she ……………..go back and get it.
+  A) would to
+  B) should to
+  C) can to
+  D) had to
+Q72.
+Mona has been sick ……………. two months
+  A) for
+  B) from
+  C) since
+  D) during
+Q73.
+My favorite subject is English. ……………. One is yours?
+  A) That
+  B) Which
+  C) What
+  D) This
+Q74.
+Let’s go for a coffee when ……………. writing your paper.
+  A) finished
+  B) finish
+  C) finishes
+  D) finishing
+Q75.
+I have almost completed my degree. I only have ………. courses left
+  A) much
+  B) little
+  C) a little
+  D) a few
+Q76.
+I have extra pens, I always ……………. them to other students
+  A) lend
+  B) lended
+  C) had lent
+  D) am going to lend
+Q77.
+If I graduate this year, I ……………... with my family
+  A) would celebrate
+  B) will celebrate
+  C) had celebrated
+  D) celebrate
+
+Q78.
+If Susan had more time, she ………………… every day after school.
+  A) works out
+  B) would work out
+  C) had worked out
+  D) is going to work out
+Q79.
+That’s a really nice bag. Where ……………. you buy it?
+  A) are
+  B) were
+  C) have
+  D) did
+Q80.
+If Jenny ………………. that her friend Kate was in the same course, she would have
+asked to borrow her books
+  A) know
+  B) knew
+  C) has known
+  D) had known
+Q81.
+You look tired today. …………… all night?
+  A) Do you work
+  B) Have you work
+  C) Are you working
+  D) Have you been working
+Q82.
+John: Did you like the physics video I sent you?
+Chris: Yes, I watch …………. every day
+  A) these
+  B) him
+  C) it
+  D) those
+Q83.
+Mike couldn’t see his friends yesterday because he …………….. go to a seminar
+  A) would
+  B) could
+  C) must to
+  D) had to
+Q84.
+Mrs. Johnson, …………… we all have missed so much, is back at the university
+  A) she
+  B) her
+  C) whom
+  D) which
+Q85.
+Our college is………… far away to reach without a car.
+  A) so
+  B) too
+  C) very
+  D) somewhat
+
+Q86.
+Mr. Brown thought that the course book ………….no more than 300 pages, but it had
+  A) has
+  B) having
+  C) has had
+  D) would have
+Q87.
+Mike tries …….. close to the university every day, but there are never any free spaces.
+  A) that he parks
+  B) to parking
+  C) parking
+  D) Park
+Q88.
+If I had more money, I …………  all my course books right now
+  A) buy
+  B) would buy
+  C) had bought
+  D) am going to buy
+Q89.
+The report must ……………….. before the end of work on Wednesday
+  A) submit
+  B) submitting
+  C) be submit
+  D) be submitted
+Q90.
+Which sentence has the RIGHT WORD ORDER?
+  A) On the Farasan Islands for years I lived.
+  B) I lived on the Farasan Islands for years.
+  C) Years for the Farasan Islands I lived on.
+  D) The Farasan Islands lived I on for years
+Q91.
+Which sentence has the RIGHT WORD ORDER?
+  A) You need eggs to make an omelet.
+  B) To make an omelet eggs you need.
+  C) Eggs to make an omelet you need.
+  D) An omelet to make eggs you need.
+Q92.
+Choose the sentence with the RIGHT PUNCTUATION.
+  A) When will you travel to America?
+  B) When, will you travel to America!
+  C) When will you travel, to America?
+  D) When, will you, travel to America.
+
+Q93.
+Although many more people die each year in road accidents than in plane crashes,
+driving isn’t more dangerous. This is because people spend far less time flying than
+driving. ………….. the number of deaths for each hour of driving and flying is about
+the same
+  A) Alternatively
+  B) Moreover
+  C) In contrast
+  D) In fact
+Q94.
+Which sentence has the CORRECT PUNCTUATION?
+  A) My teacher is Mrs, Asmaa
+  B) I am from Dammam?
+  C) Riyadh is a big city.
+  D) English class is fun?
+Q95.
+Which sentence has the RIGHT WORD ORDER?
+  A) Khalid goes every camping weekend
+  B) Camping Khalid goes every weekend.
+  C) Weekend every Khalid goes camping.
+  D) Khalid goes camping every weekend.
+Q96.
+It is advisable to go by taxi, …………… there are other forms of transport
+  A) but
+  B) since
+  C) despite
+  D) because
+Q97.
+Which sentence has the CORRECT WORD ORDER?
+  A) Because it lacks water and a suitable atmosphere, some scientists on the planet Mars be­
+lieve that life cannot exist.
+  B) That life cannot exist some scientists believe on the planet Mars because it lacks water and
+a suitable atmosphere.
+  C) Because it lacks water and a suitable atmosphere, that life cannot exist on the planet Mars
+some scientists believe.
+  D) Some scientists believe that life cannot exist on the planet Mars because it lacks water
+and a suitable atmosphere.
+Q98.
+Which sentence has the CORRECT WORD ORDER?
+  A) In the world, more people are trying to learn English other than any language.
+  B) More people are trying to learn English than any other language in the world.
+  C) English more other than any language in the world people trying to learn in.
+  D) To learn English in the world, more people are trying than any other language
+
+Q99.
+Which sentence has the CORRECT WORD ORDER?
+  A) Abdullah’s boss noticed he was a hard worker, so he decided to promote
+him to a   managerial position for the new calendar year.
+  B) For the new calendar year, Abdullah’s boss noticed he was a hard worker, so he decided to
+promote him to a managerial position.
+  C) So, he decided to promote him, Abdullah’s boss noticed he was a hard worker, to a
+managerial position for the new calendar year.
+  D) To a managerial position for the new calendar year, Abdullah’s boss noticed he was a hard
+worker so he decided to promote him.
+Q100.
+Which of the underlined words or phrases is INCORRECT?
+Adam don’t seem to mind whether he studies at home or abroad
+  A) don’t
+  B) whether
+  C) studies
+  D) abroad
+
+ANSWER KEY
+--------------------
+Q61: D
+Q62: B
+Q63: B
+Q64: C
+Q65: D
+Q66: D
+Q67: A
+Q68: A
+Q69: C
+Q70: A
+Q71: D
+Q72: A
+Q73: B
+Q74: D
+Q75: D
+Q76: A
+Q77: B
+Q78: B
+Q79: D
+Q80: D
+Q81: D
+Q82: C
+Q83: D
+Q84: C
+Q85: B
+Q86: D
+Q87: C
+Q88: B
+Q89: D
+Q90: B
+Q91: A
+Q92: A
+Q93: D
+Q94: C
+Q95: D
+Q96: C
+Q98: B
+Q100: A

@@ -1,0 +1,846 @@
+MODEL 39
+========================================
+
+READING
+========================================
+
+Passage 1
+(Paper)
+(1) The paper we use today is made by machine. Trees are cut up and processed into
+a mixture called wood pulp. The pulp, containing tiny cellulose fibers, is pressed and
+rolled out to form sheets of paper.
+(2) The first manmade writing material was not paper. About 4,000 years ago, the
+ancient Egyptians took the fibrous stems of the papyrus plant, flattened them
+them, laid
+them crosswise and pressed them down to stick them together. When dried, this
+made a piece of papyrus that could be written on.
+(3) Paper was first made in China around the year 105 CE by a man called Ts’ailun.
+He found a way to make paper from the stringy inner bark of the mulberry tree. The
+bark was pounded in water to separate the fibers. This mixture was then poured into
+a bamboo tray to let the water drain out. After that, the soft mat of paper was moved
+onto a smooth, flat surface to dry. Later, someone discovered that the paper could be
+improved by brushing it with starch to make it stronger.
+(4)  Chinese traders travelled around Asia as far as Samarkand. There, they met
+with Arab merchants who learned the secret of making paper and took it to Spain.
+Afterwards, the art of papermaking spread throughout the rest of Europe.
+(5)  Since then, many kinds of machines have been invented and improved methods
+discovered for making paper. One of the most important, for example, was a machine
+developed in France in 1798. This machine could make a continuous sheet or web of
+paper. Before, paper could only be produced in separate sheets.
+Q21.
+The word them in Paragraph (2) refers to ……
+  A) Ancient Egyptians
+  B) writing materials.
+  C) papyrus stems
+  D) paper
+22 The first real paper was made in ………
+  A) China
+  B) Egypt
+  C) France
+  D) Samarkand
+23 According to the passage, who introduced the paper-making process to Europe?
+  A) Ts’ailun
+  B) Chinese traders.
+  C) the Arabs
+  D) the Spanish
+
+24 Which component is necessary for making both paper and papyrus?
+  A) tree bark
+  B) tree wood.
+  C) plant starch
+  D) fibrous material
+Passage 2
+(The Universe)
+(1) In a very rough sense, you could think of the solar system as your house or
+apartment and the Galaxy as your town, made up of many houses and buildings.
+In the twentieth century, astronomers were able to show that, just as our world is
+made up of many, many towns, so the universe is made up of enormous numbers
+of galaxies. (We define the universe to be everything that exists that we can see.)
+Galaxies go as far into space as our telescopes can see and many billions of them
+within the reach of modern instruments. When they were first discovered, some
+astronomers called galaxies island universes, and the term is very appropriate
+because galaxies do look like islands of stars in the enormous, dark seas of empty
+space.
+(2) The nearest galaxy, discovered in 1993, is a small one that lies 75,000 light-years
+from the Sun in the direction of the constellation Sagittarius, where the light in our
+own Galaxy makes it especially difficult to see. (A constellation, we should note,
+is one of the 88 sections into which astronomers divide the sky, each named after
+an important star pattern within it.) Beyond this Sagittarius dwarf galaxy lie two
+other small galaxies, about 160,000 light-years away. First recorded by Magellan’s
+crew as he sailed around the world, these are called the Magellanic Clouds. All
+three of these small galaxies are satellites of the Milky Way Galaxy, interacting with
+it through the force of gravity. In the end, all three may even be swallowed by our
+much larger Galaxy, as other small galaxies have been over the course of cosmic
+time.
+(3) The nearest large galaxy is a quite similar to our own, located in the constellation
+of Andromeda, and is thus called the Andromeda Galaxy
+Andromeda Galaxy. It is also known by one of
+its catalog numbers, M31. This galaxy is a little more than 2 million light-years away
+and, along with the Milky Way, is part of a small cluster of more than 50 galaxies,
+which is called the Local Group.
+(4) At distances of 10 to 15 million light-years, we find other small galaxy groups, and
+then at about 50 million light-years there are much bigger systems with thousands
+of member galaxies. We have discovered that galaxies occur mostly in clusters,
+both large and small.
+(5) Some of the clusters themselves form into larger groups called superclusters. The
+Local Group
+Local Group is part of a supercluster of galaxies, called the Virgo Supercluster,
+Virgo Supercluster,
+which stretches over a diameter of 110 million light-years. We are just beginning
+to explore the structure of the universe at these enormous scales and are already
+learning many new things.
+
+(6) At even greater distances, where many ordinary galaxies are not bright enough to
+see, we
+find quasars. These are brilliant centers of galaxies, glowing with the light of an
+extremely energetic process. The enormous energy of the quasars is produced by
+gas that is heated to a temperature of millions of degrees as it falls toward and
+turns into a huge black hole. The brightness of quasars makes them the most far
+away lights we can see in the dark oceans of space. They allow us to explore the
+universe 10 billion light-years away or more, and thus 10 billion years or more in
+the past.
+(7) With quasars we can see way back close to the Big Bang explosion that marks the
+beginning of time. Beyond the quasars and the farthest visible galaxies, we have
+discovered the weak glow of the explosion itself, filling the universe and coming
+to us from all directions in space. The discovery of this “afterglow of creation” is
+considered to be one of the most significant events in twentieth-century science,
+and we are still exploring the many things it has to tell us about the earliest times of
+the universe.
+(8) Measurements of the properties of galaxies and quasars in far-away locations
+require large telescopes, advanced light-amplifying devices, and careful work.
+Every clear night, at observatories around the world, astronomers and students
+are at work on such mysteries as the birth of new stars and the structure of the
+universe, fitting their results into what we already understand
+25 How far is the nearest galaxy from the sun?
+  A) 75,000 light-years
+  B) 160,000 light-years
+  C) 110 million light-years
+  D) 112 million light-years
+26 What is the name of nearest large galaxy?
+  A) Magellanic clouds
+  B) Andromeda
+  C) Virgo
+  D) Cartwheel
+27 How wide is the Virgo Supercluster?
+  A) 175,000 light-years
+  B) 160,000 light-years
+  C) 110 million light-years
+  D) 75,000 light-years
+
+Passage 3
+(Earthquakes)
+(1) An earthquake is sudden ground movement caused by the release of energy
+stored in rocks, called the elastic rebound theory. Earthquakes happen when
+so much stress is transmitted by seismic waves. Each year there are more than
+150,000 earthquakes strong enough to be felt by people and 900,000 recorded by
+seismometers.
+(2) Nearly 95% of all earthquakes take place along one of the three types of tectonic
+plate boundaries, but earthquakes do occur along all three types of plate
+boundaries. About 80% of all earthquakes strike around the Pacific Ocean basin
+because it is lined with convergent and transform boundaries. Called the Ring
+of Fire, this is also the location of most volcanoes around the planet. About 15%
+take place in the Mediterranean-Asiatic Belt, where convergence is causing the
+Indian Plate to run into the Eurasian Plate creating the largest mountain ranges in
+the world. The remaining 5% are scattered around other plate boundaries or are
+intraplate earthquakes.
+28 What is the writer’s main purpose?
+  A) to entertain
+  B) to argue
+  C) to explain
+  D) to convince
+29 What is one important idea that the writer mentions?
+  A) that earthquakes happen in all oceans.
+  B) that energy in the earth causes earthquakes
+  C) that land earthquakes are called Rings of Fire
+  D) that earthquakes are the worst natural disasters
+
+Passage 4
+(Brand)
+(1) A brand creates value for business over and what its products and services are
+worth. It communicates what the business is about and may encompass much
+more than its products, often including the business’ value. Creating a brand
+identity is important for both large and small businesses in that it creates a unique
+identity that communicates to the marketplace. A brand is the image the customer
+has of the product or company. It conveys the nature of the user, a personality, core
+values, a culture, product benefits and product attributes. Attributes include price,
+safety, quality, and performance. Benefits are what the customer gets from the
+product which may include functional benefits along with image benefits. A strong
+brand will have a strong emotional appeal and captures the top of the pyramid.
+(2) Customers have varying levels of perception of brand. Brand awareness is when
+customers know what the brand is. When this awareness is present, the company
+has captured customer mind share. Brand preference is when the customer will
+choose the brand if it is available but may choose another brand if it is not. Brand
+loyalty is when the customer will only choose that brand. Brand loyalty connotes
+capture of heart share. This all culminates in increasing market share. Brand
+loyalty translates into brand equity or a value assigned to the brand. Businessweek
+estimates that the Top 2009 brand, Coca Cola, is worth $68 Billion.
+30 Which of the following statements about “performance” does Paragraph ( (1)
+support?
+  A) It’s one of the product benefits
+  B) It’s what the business is about
+  C) It’s about the user’s personality
+  D) It’s one of the product attributes
+Q31.
+Which of the following statements about “brand” does Paragraph ( (2) support?
+  A) All customers have brand loyalty
+  B) Brand preference means brand quality
+  C) Brand loyalty helps increase the market share
+  D) Customers all understand brand in the same way
+
+32 Which of the following statements about a strong brand does Paragraph ( (1)
+support?
+  A) It must be safe.
+  B) It must attract everyone.
+  C) It must be successful in the market.
+  D) It must create an emotional connection
+33 Which sentence gives the main idea of Paragraph ( (2)?
+  A) Customers have varying levels of perception of brand.
+  B) Brand awareness is when customers know what the brand is.
+  C) This all culminates in increasing market share.
+  D) Brand loyalty translates into brand equity or a value assigned to the brand.
+34 What is the main idea in the passage?
+  A) A brand is all about communications
+  B) A brand must only focus on image benefits.
+  C) A brand can only be successful if the customer only chooses it over other brands.
+  D) A brand is important because it makes the customer know the importance of a certain
+business.
+
+Passage 5
+(Plants)
+(1) Hundreds of thousands of different kinds of plants grow on Earth. Some plants
+are so small that people can hardly see them. Others are trees that grow as tall
+as buildings. Most plants have several things in common. For example, they need
+sunshine, water, and air to grow. They are not able to move around.
+(2) Plants grow nearly everywhere on Earth. Most plants grow in soil or dirt. They get
+the water and nutrients or food they need from the soil. But some plants do not
+need soil. Plants called epiphytes grow on hard surfaces, such as other plants or
+rocks. They get most of the water and nutrients they need from rain and the air. Still
+other plants float in water such as water lilies and lotus plants.
+(3) Plants are very important to life on Earth. They provide food for people and
+animals. They also make the oxygen that other living things breathe. Plants produce
+the oxygen as part of the process of photosynthesis.
+(4) Human beings use planets in countless ways. For example, they get many foods,
+drinks, and flavorings from plants. They build homes from wood and many other
+parts of plants. People also burn wood for heat and energy. Many of the fibers used
+to make cloth come from plants, especially cotton. Other useful things made from
+plants such as medicines, paper, chewing gum, cork, rubber, and cocoa butter.
+(5) People also use flowers for decoration. They plant trees and flowers in their yards
+and in large formal gardens
+35 What is one important idea related to plants that the writer mentions in Paragraph
+(2)?
+  A) Plants have different size.
+  B) Plants are useful for life.
+  C) Water lilies grow in water.
+  D) Plants grow in different places.
+36 What is one important idea related to plants that the writer mentions in Paragraph
+(4)?
+  A) Plants are used for decoration.
+  B) Plants provide food and oxygen.
+  C) Plants are useful in several ways.
+  D) Plants are used to make fibres.
+
+37 What are lotus plants an example of?
+  A) Plants that grow in soil.
+  B) Plants that grow in water.
+  C) Plants that grow on hard surfaces.
+  D) Plants that produce paper and fibres.
+38 What is the main topic of the passage?
+  A) the importance of plants.
+  B) how to grow plants at home.
+  C) the use of plants in decoration.
+  D) how to grow plants around cities.
+
+Passage 6
+(Overfishing the Seas)
+(1) In 1950, about 1.7 million fishing vessels of all shapes and sizes plied the world’s
+oceans, but just 20 percent of them had motors, limiting their range and the amount
+of fish they could collect. Now, 65 years later, the number of boats has jumped to
+3.7 million fishing vessels, 68 percent of which are motorized in some form, an
+increase that is putting more and more pressure on the world’s oceans.
+(2) The boom in fishing vessels doesn’t mean there’s plenty of fish in the sea. In fact,
+it’s quite the opposite. To understand the health of fisheries, ecologists calculate
+“catch per unit of effort (CPUE)” or the amount of effort and resources it takes to
+catch a fish. Fishing boats today only catch about 20 percent of the fish for the
+same amount of effort as boats in 1950.
+(3) The increase in fishing vessels, however, did not happen evenly across the globe.
+While fish stocks in most of North America, Europe and Australia have stabilized
+in recent decades due to more stringent regulations, that’s not the case in much of
+the rest of the world. Fleets in Asia, for example, have increased by 400 percent
+over the same time period. And the number of fishing boats hitting the water won’t
+decrease anytime soon-the study estimates that by 2050, another 1 million fishing
+boats will be chasing fish.
+(4)  And there’s not that much left to go around. According to the United Nations
+Conference on Trade and Development, 90 percent of the world’s fish stocks are
+either currently overused or completely exhausted.
+39 What does the passage conclude about the world’s fish stock?
+  A) Twenty percent less fish are being caught.
+  B) Fish stock is stabilizing around the world.
+  C) It is overused or completely exhausted.
+  D) Fish stock is about to recover.
+40 How can countries stabilize their fish stock?
+  A) decrease the number of fishing vessels with motors.
+  B) fish in different locations.
+  C) decrease the number of fishing vessels in Asia.
+  D) create stringent regulations.
+
+Q41.
+Why does the writer use the term “however” in Paragraph ( (3)?
+  A) to show growth number of fishing boats was different in different parts of the
+world.
+  B) to show that number of vessels and number of fish are similar.
+  C) to show the number of boats is because of the number of fish.
+  D) to show why the number of boats has increased.
+42 Which word can we use to replace the word “stabilized” in Paragraph ( (3)?
+  A) changed
+  B) preserved
+  C) replenished
+  D) depleted
+43 What does the writer think about the stringent regulations some countries employ?
+  A) They are increasing over time.
+  B) Their effect is minimal on vessels.
+  C) They are having a positive effect on fish stocks.
+  D) They work for some countries.
+
+Passage 7
+(Vitamin D)
+(1) Vitamin D is the only vitamin that the body can manufacture, when the skin is
+exposed
+exposed to sunlight. However, for 6 months of the year (October to April), much of
+Western Europe does not receive enough UV rays in sunlight to make vitamin D in
+the skin. So, many people living there are at risk of not getting enough vitamin D
+unless they get it in their diet. Also, people who have darker skin, such as people
+of African, African-Caribbean and South Asian origin, are at risk because their skin
+reduces UV light absorption.
+(2) Foods that provide vitamin D includes oily fish such as sardines and mackerel, fish
+liver oil, butter, milk, cheese and egg-yolk. In addition, many manufactured food
+products contain vitamin D supplements.
+(3) Vitamin D helps in the absorption of calcium and phosphorus through the gut wall.
+Bone is made of the mineral calcium phosphate. A lack of the vitamin therefore
+results in poor calcium and phosphorus deposition in bones, leading to softening.
+The weight of the body can deform bones in the legs, causing the condition called
+rickets in children. Adults deficient in vitamin D can suffer from osteo-malacia; they
+are very vulnerable to fracturing bones if they fall.
+44 What causes Western Europeans to have little vitamin D?
+  A) lighter skin
+  B) unhealthy diet
+  C) indoor lifestyles
+  D) NOT enough sunlight
+45 What can happen when your body DOESN’T get enough vitamin D?
+  A) skin problems
+  B) weaker bones
+  C) weight problems
+  D) old people falling
+46 The word exposed in Paragraph ( (1) is closed in meaning to …………
+  A) shown
+  B) closed
+  C) connected
+  D) responds
+
+Passage 8
+(Graph – 10 Biggest Airlines by Passengers)
+47 According to the graph, which airline served fewest number of passengers?
+  A) Air Canada
+  B) Air China
+  C) easyJet
+  D) Lufthansa
+Passage 9
+(Velocity)
+(1) The velocities described in the above examples are average velocities. The velocity
+of an object at any moment in time is known as its instantaneous velocity. The
+instantaneous velocity is the speed in a stated direction at a particular moment in
+time.
+(2) Since displacement and velocity have both magnitude (size or strength) and
+direction, they are called vector quantities. These quantities cannot be specified
+specified
+completely by a number. They must be demonstrated using arrows. Another
+example of a vector quantity is acceleration. Speed, which has magnitude but not
+direction, is not a vector quantity. Like all vectors. velocity can also be represented
+represented
+graphically by an arrow whose length is proportional to its magnitude
+Q48.
+The word “represented” in Paragraph ( (2) is closest in meaning to……….
+  A) illustrated
+  B) stated
+  C) analyzed
+  D) increased
+
+49 The word “specified” in Paragraph ( (2) is closest in meaning to………
+  A) changed
+  B) affected
+  C) explained
+  D) decreased
+Passage 10
+(Solids, Liquids, and Gases)
+(1) Matter exists in two principle
+principle forms: solid and fluid. Fluid is further sub-divided
+into liquid and gas. Distinguishing features among these are:
+(2) The solids, liquids and gases exhibit
+exhibit different characteristics on account of their
+different molecular structure. Spacing and the latitude of the motion of molecules
+is large in a gas, small in a liquid and extremely small in a solid. Accordingly, the
+intermolecular bonds are very weak in a gas, weak in a liquid and very strong in a
+solid. It is due to these aspects that solid is very compact and rigid in form, liquid
+accommodates
+accommodates itself to the shape of its container, and gas fills up the whole of the
+vessel containing it
+50 The word “exhibit” in Paragraph ( (2) is closest in meaning to……….
+  A) display
+  B) view
+  C) share
+  D) include
+Q51.
+The word “accommodates” in Paragraph ( (2) is closest in meaning to……….
+  A) attaches
+  B) allows
+  C) fits
+  D) divides
+52 The word “principle” in Paragraph ( (1) is closest in meaning to……….
+  A) primary
+  B) large
+  C) weak
+  D) whole
+
+Passage 11
+What are the economics of meat?
+(1) Food and farming is one of the biggest economic sectors in the world. We are
+no longer in the 14th century, when as much as 76% of the population worked
+in agriculture but farming still employs more than 26% of all workers globally.
+And that does not include the people who work along the meat supply chain: the
+slaughterers, packagers, retailers and chefs.
+(2) Recently, the world’s meat production was estimated at 317 metric tons, and that
+is expected to continue to grow. Figures for the value of the global meat industry
+vary wildly from $90bn to as much as $741bn, but it is in fact, closer to the upper
+end.
+(3) Although the number of people directly employed by farming is currently less
+than 2% in the UK, the food chain now includes the agribusiness companies,
+the retailers, and the entertainment sector. According to the UK Department for
+Environment, in 2014 the food and drink manufacturing sector contributed £27bn
+to the economy, and employed 3.8 million people.
+What about its cultural and social importance?
+What about its cultural and social importance?
+(4) Is meat still crucial to human life? Some nutritionists argue that, just because
+we’ve always eaten meat, that doesn’t mean we always have to. If we can get all
+the dietary nutrients and protein that we need elsewhere, should we?
+(5) Well, cooked meat may have been partially responsible for the large brains that
+characterize humans and put us where we are now. Cooking made calories from
+meat (and from vegetables) easier to consume and absorb than in a raw form.
+How has meat production changed?
+How has meat production changed?
+(6) The old-fashioned vision of a mixed farm with wheat and chickens and cattle
+still exists. More than half of the farms in the US, for example, were small enough
+in 2012 to have sales of less than $10,000 dollars. But the 20th century saw the
+application of the principles of the industrial revolution to agriculture - how could
+inputs be minimized and profits be maximized?
+(7) The result was the factory farm, first for chickens, and more recently cattle.
+Producers discovered that animals could be kept inside, and fed grain, and could be
+bred to grow more quickly and get fatter in the right places.
+53 What two words does the writer use to talk about 14th century industry?
+  A) farming and chefs
+  B) agriculture and retailers
+  C) retailers and chefs
+  D) farming and agriculture
+
+54 Which of the following is an opinion?
+  A) Meat production will continue to grow.
+  B) Few people work farming in the UK.
+  C) The meat industry is worth closer to $174 million.
+  D) In the UK, 3.8 million are employed and 27 billion is made by the food industry.
+55 How is the writer’s view on eating meat different from some nutritionists’ view?
+  A) He believed meat is not essential.
+  B) He believes humans cannot function at all without meat.
+  C) He believes meat negatively affects human health.
+  D) He believes meat is important for human development.
+56 What can we understand about modern farming from Paragraph (s (6) and (7)?
+  A) More can be produced for less effort.
+  B) It is part of the industrial revolution.
+  C) Profits for farmers have been falling.
+  D) All animals are now kept inside.
+Passage 12
+Strong winds will raise dust and sand, reducing visibility over the northern and
+central Kingdom between Makkah and Madinah, with the possibility of increasing
+temperatures over these regions. Suspended haze will spread over Qassim, Hail
+and northern parts of the Riyadh region, limiting visibility and making driving
+hazardous. Parts of the central and eastern Kingdom will be partly cloudy, with
+chances of rain. Storm clouds may form over the southwestern and Western
+highlands, including Abha, Baha,and Taif
+57 Which parts of the Kingdom may receive rain?
+  A) the central and eastern parts
+  B) the central and northern parts
+  B) the northern and eastern parts
+  D) the northern and western parts
+58 The forecast for Makkah and Medina is………….
+  A) clear and sunny
+  B) stormy and cool
+  C) rainy and cool
+  D) dusty and hot
+
+59 Which city may expect to see storm clouds?
+  A) Makkah
+  B) Riyadh
+  C) Hail
+  D) Baha
+60 Where will it probably be difficult to see clearly while driving?
+  A) Taif
+B
+Qassim
+  C) the western highlands
+  D) the eastern part of the Kingdom
+
+ANSWER KEY
+--------------------
+Q21: C
+Q22: A
+Q23: C
+Q24: D
+Q25: A
+Q26: B
+Q27: C
+Q28: C
+Q29: B
+Q30: D
+Q31: C
+Q32: D
+Q33: A
+Q34: A
+Q35: D
+Q36: C
+Q37: B
+Q38: A
+Q39: C
+Q40: D
+Q42: B
+Q43: C
+Q44: D
+Q45: B
+Q46: A
+Q47: B
+Q48: A
+Q49: C
+Q50: A
+Q51: C
+Q52: A
+Q53: D
+Q55: D
+Q56: A
+Q57: A
+Q58: D
+Q59: D
+Q60: B
+
+
+GRAMMAR
+========================================
+
+Model
+Q39.
+Q61.
+Go outside and ……………………the gardener some water. He needs a break.
+  A) bring
+  B) to bring
+  C) bringing
+  D) will bring
+Q62.
+In which sentence is all CAPITALIZATION correct?
+  A) Among John’s favorite places to travel were malaysia, morocco, and any exotic location
+with a nice, clean beach.
+  B) Among John’s favorite places to travel were Malaysia, Morocco, and any Exotic location with
+a nice, clean beach
+  C) Among John’s favorite places to travel were Malaysia, Morocco, and any exotic location
+with a nice, clean beach.
+  D) Among John’s favorite Places to Travel were Malaysia, Morocco, and any exotic location with
+a nice, clean beach.
+Q63.
+George: May I speak to Mr. Ben, please?
+Secretary: I’m afraid he …………….a meeting right now. Could you call back?
+  A) runs
+  B) is running
+  C) ran
+  D) has run
+Q64.
+The boys’ mother told them to finish all of their breakfast, …………….they stuffed
+their mouths until their plates were empty.
+  A) however
+  B) since
+  C) as
+  D) so
+Q65.
+it takes many years of study ……………become a doctor.
+  A) for to
+  B) and for
+  C) so that to
+  D) in order to
+Q66.
+which one of the underlined words or phrases is INCORRECT?
+Tom and Adam arrived home with a lot of takeout food, but they were too late.Lisa and kat have already
+finished eating.
+  A) arrived
+  B) hey
+  C) too
+  D) have
+
+Q67.
+Mr. Smith has bad eyesight, so he hates driving…………night.
+  A) with
+  B) on
+  C) at
+  D) in
+Q68.
+…………..the new iPhone was so expensive, George bought it because he loved the
+design.
+  A) Even
+  B) In case
+  C) Even though
+  D) In spite of
+Q69.
+Cathy had a great CV and lots of experience, ………she didn’t do well in the interview
+and didn’t get the job.
+  A) so
+  B) but
+  C) and
+  D) because
+Q70.
+It’s fairly easy …………any amount of money.
+  A) to spending
+  B) to spend
+  C) was spending
+  D) have spent
+Q71.
+You should learn to eat…………..
+  A) more slowly
+  B) more slow
+  C) slowier
+  D) slower
+Q72.
+I’m not really worried about Mark, although he ………..me yet.
+  A) isn’t being called
+  B) wasn’t calling
+  C) hasn’t called
+  D) hasn’t been calling
+Q73.
+My mom says I …………to eat sweets before meals.
+  A) shouldn’t
+  B) mustn’t
+  C) oughtn’t
+  D) hasn’t
+Q74.
+Cathy’s flying from Moscow to Paris…………..Prague. She has a three-hour stopover in
+Prague.
+  A) off
+  B) during
+  C) via
+  D) within
+
+Q75.
+I’ve got my passport, but I haven’t found……………
+  A) Your
+  B) Yours
+  C) Yourself
+  D) Yourselves
+Q76.
+And here’s Emma, the friend ……………. lives next door.
+  A) whose
+  B) which
+  C) what
+  D) that
+Q77.
+Which country is bigger, China or the USA? Who ………..the answer?
+  A) is known
+  B) do know
+  C) knows
+  D) Know
+Q78.
+My mom was angry with me yesterday because I …………..to do the shopping.
+  A) used to forget
+  B) was forgetting
+  C) have forgotten
+  D) had forgotten
+Q79.
+I think this is the worst chocolate cake I …………..
+  A) ever eat
+  B) had ever eaten
+  C) have ever eaten
+  D) would ever have eaten
+Q80.
+When Fatima got off the train, I knew we …………a few weeks before.
+  A) met
+  B) had met
+  C) have met
+  D) used to meet
+Q81.
+Mr. Harris has no brothers or sisters, ………………..?
+  A) didn’t he
+  B) did he
+  C) doesn’t he
+  D) does he
+Q82.
+By the time I ……………in Jeddah, I was hungry. Therefore, I bought a pizza.
+  A) arrived
+  B) am arriving
+  C) have arrived
+  D) have been arriving
+Q83.
+George borrowed my mobile ………………a phone call.
+  A) In order make
+  B) so as make
+  C) so to make
+  D) to make
+
+Q84.
+Children can fly alone on international flights …………….they’re at least six years old
+  A) unless
+  B) whereas
+  C) provided that
+  D) even though
+Q85.
+I can’t imagine how ………fast food every day could be good for your health.
+  A) eating
+  B) have eaten
+  C) be eating
+  D) eat
+Q86.
+Mrs. Smith asked the teacher …………..angry with her son.
+  A) mustn’t be
+  B) not being
+  C) don’t be
+  D) not to be
+Q87.
+Too many phone calls ……….from my phone today. The battery’s now dead.
+  A) are made
+  B) are making
+  C) have been made
+  D) have been making
+Q88.
+My own sister didn’t recognize me at first, so she talked to me as if we ………before.
+  A) had never met
+  B) have never met
+  C) were never met
+  D) were never going to meet
+Q89.
+By the end of the year, my new book ………
+  A) will have been published
+  B) will have been publishing
+  C) are going to publish
+  D) are being published
+Q90.
+Unfortunately, Mona is……………into trouble with the law.
+  A) old enough to getting
+  B) enough old to getting
+  C) old enough to get
+  D) enough old to get
+Q91.
+I wish I ………….harder to achieve my goals. Instead, I’d hang out with my friends ev­
+ery night.
+  A) would work
+  B) was working
+  C) have worked
+  D) had worked
+
+Q92.
+British people love eating lots of international food.  …………………., Chinese Indian
+and Thai food.
+  A) For example
+  B) In addition
+  C) In contrast
+  D) However
+Q93.
+Choose the best way to make the following sentences in a paragraph:
+After that, he was sure to always try his best.
+The manager told him that it was a possibility depending on how well he worked.
+Steve went to see his boss about a possible pay rise.
+At the end of the year, Steve was pleasantly surprised to see his new salary.
+  A) (3), (2), (1), (4)
+  B) (2), (1), (3), (4)
+  C) (1), (3), (4), (2)
+  D) (4), (3), (1), (2)
+Q94.
+Which sentence has the CORRECT WORD ORDER?
+  A) He was disappointed to hear Ben was ahead of him in geography Tom was first in his class
+at but math and science.
+  B) Tom was first in his class at math and science, but he was disappointed to hear Ben was
+ahead of him in geography.
+  C) Was disappointed to hear Ben was ahead of him in geography but Tom he was first in his
+class at math and science.
+  D) Tom was first in his class at math and science, but to hear Ben was ahead of him in geogra­
+phy he was disappointed.
+Q95.
+Kate visits her grandmother every weekend, ………….her brother doesn’t always
+come along.
+  A) but
+  B) then
+  C) also
+  D) therefore
+Q96.
+Jane: I love eating at KFC.
+Sara: Me too.  ………………..their new spicy chicken?
+  A) have you been trying
+  B) were you tried
+  C) have you tried
+  D) are you try
+Q97.
+Which one of the underlined words or phrases is INCORRECT
+Tom and Adam went to play tennis at the sports club hours ago, and still has not returned home for lunch
+yet.
+  A) to play
+  B) ago
+  C) has
+  D) yet
+
+Q98.
+Working in a university last year…………….very interesting.
+  A) is
+  B) was
+  C) can be
+  D) could be
+Q99.
+All of your travel plans have been made. When you arrive, someone ………..for you at
+the airport.
+  A) waits
+  B) will wait
+  C) is waiting
+  D) will be waiting
+100 Dairy products should…………..to keep them fresh.
+  A) refrigerate
+  B) refrigerating
+  C) be refrigerate
+  D) be refrigerated
+
+ANSWER KEY
+--------------------
+Q61: A
+Q63: B
+Q64: D
+Q65: D
+Q66: D
+Q67: C
+Q68: C
+Q69: B
+Q70: B
+Q71: A
+Q72: C
+Q73: C
+Q74: C
+Q75: B
+Q76: D
+Q77: C
+Q78: D
+Q79: C
+Q80: B
+Q81: D
+Q82: A
+Q83: D
+Q84: C
+Q85: A
+Q86: D
+Q87: C
+Q88: A
+Q89: A
+Q90: C
+Q91: D
+Q92: A
+Q93: A
+Q95: A
+Q96: C
+Q97: C
+Q98: B
+Q99: D
+Q100: D

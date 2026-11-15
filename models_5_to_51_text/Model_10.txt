@@ -1,0 +1,787 @@
+MODEL 10
+========================================
+
+READING
+========================================
+
+Q82.
+Passage 1
+(من خمس سنوات اكتشف العلماء شيئا عن المريخ)
+Just five years ago, astronomers viewed Mars as an essentially dead world. Recent
+discoveries made by the Mars Global Surveyor spacآecraft and gleaned from
+Martian meteorites have changed that opinion.
+Q21.
+When did scientists discover Mars Global?
+  A) Less than five ago.
+  B) Exactly five years ago.
+  C) More than five years ago
+  D) More than ten years ago
+Passage 2
+(محمد علي كالي القطعة الصغيرة)
+(1) Muhammad Ali is a famous heavyweight boxer. He was born as Cassius Clay in
+Louisville, Kentucky, in the USA in 1942.
+(2) He had a very successful professional boxing career. In fact, he won the world
+heavyweight championship three times. The first time was when he beat the former
+champion, Sonny Liston, in 1964. In the same year, he became a Muslim and
+assumed the name Muhammad Ali.
+(3) Ten years later, in 1974, he became world champion again when he beat George
+Foreman in Zaire. He became champion for the third time in 1978 after beating
+Leon Spinks. Ali fought his last professional fight in 1981 against Trevor Berbick
+and then retired from boxing.
+22 How old was Muhammed Ali when he became Muslim?
+  A) 34
+  B) 36
+  C) 22
+  D) 23 How old was Ali when he won the championship for the third time?
+  A) 34
+  B) 36
+  C) 22
+  D) 62
+
+Q83.
+Passage 3
+(جدول مندليف وكتاب ميور المشهور )
+Dmitri Mendeleyev has been hailed as the “genius who discovered the periodic table”.
+However, Mendeleyev wasn’t even the third person to come up with the idea of the
+periodic table. That honor belongs to the German chemist and physician Lothar
+Meyer 1830-1895). Meyer wrote a popular book, The Modern theory of chemistry
+published in. While he was preparing the book, he noticed the relationship between
+the properties of a chemical element and its atomic weight.
+24 What does the passage say about Meyer?
+  A) He worked with Mendeleyev.
+  B) He knew about Mendeleyev.
+  C) He wrote a famous textbook.
+  D) He read many books.
+Passage 4
+(التالل اخفض من الجبال )
+A mountain is a landform that extends above the surrounding area. A mountain is
+generally higher and steeper than a hill.
+25 What does the passage say about hills?
+  A) They are lower than mountains.
+  B) They are as high as mountains.
+  C) They are higher than mountains.
+  D) They are steeper than mountains.
+Passage 5
+(كلمة احتفل تعني استمتع)
+The ashes is a test cricket series played between England and Australia. It is one of
+the most celebrated rivalries in international cricket and dates back to 1882.
+26 The word celebrated in the passage is closest in meaning to -------.
+  A) enjoyed
+  B) preserved
+  C) performed
+  D) recommended
+
+Q84.
+Passage 6
+(king Faisal prize)
+The King Faisal International Prize is awarded annually to a person or group of
+persons who have done distinguished work in different fields. Nominations for
+recipients of the Prize are accepted from scientific and academic institutions
+worldwide, irrespective of race, nationality or creed.
+27 Where do the King Faisal Prize nominations come from?
+  A) the sons of King Faisal
+  B) governmental agencies
+  C) philanthropic organizations
+  D) universities and scientific institutions
+Passage 7
+(المسواك )
+(1) Before disposable, plastic toothbrushes were invented, some people might not have
+cleaned their teeth at all, while other might have just done their best by washing
+their mouths with water and rubbing their teeth with some cloth or a finger. But for
+Muslims way back in the 6th century, dental hygiene was a very important matter.
+(2) While the practice of cleaning one’ teeth with a piece twig from the Slavadorapersica
+tree predated Islam, it is the Prophet Muhammad – peace be upon him – who
+commended its regular use and had Muslims start it. The twig, called a MISWAK or
+SIWAK in Arabic, was described by him as a purification of the teeth and a means of
+pleasing God. The Prophet himself – peace be upon him – used the miswak to clean
+teeth before every prayer, and said that he would order his followers to do the same,
+had he not at it might over-burden them.
+28 What is the purpose of Paragraph (2)?
+  A) To criticize people who did NOT clean their teeth very well.
+  B) To introduce the reader to good dental hygiene practices.
+  C) To show how plastic toothbrushes were an important invention.
+  D) To create interest in a method for cleaning teeth used by Muslims.
+29 What does Paragraph (2) say about Muslims use of the miswak?
+  A) Muslims used it regularly because of the prophet’s (peace upon him) recommendation.
+  B) The Muslims who used it had already used it before becoming Muslim.
+  C) Only the most devoted Muslims used it regularly, while others did not clean their teeth.
+  D) Some considered it a burden
+
+Q85.
+Passage 8
+( بطريق ميتين على شواطئ البرازيل512 حيرة العلماء حول)
+Partly, 512 penguins have washed up dead on the shores in southern Brazil. Marine
+biologists and veterinarians are working together to determine the cause of the
+mysterious deaths. But so far, details remain hazy. The penguins don’t pearl
+physically injured or malnourished, and the researchers have no traces of oil on
+their bodies. The lack of clues, and with the sheer number of the penguins, have left
+puzzled.
+30 What did the scientist find out about the dead penguins?
+  A) They were killed by oil.
+  B) They died on the beaches.
+  C) They DON’T know what killed them.
+  D) They were NOT killed while migrating.
+Passage 9
+(المقاهي التقليدية والكافيات الحديثة تزدهر في الشرق األوسط )
+Coffee shops and cafés are a big industry in the Middle East, cabining to form a USA
+billion market in Egypt, Saudi Arabia and the UAE. Deeply-ingrained coffee-drinking
+actions have collided with investment from international creating a thriving
+segment of modern coffee shops are now battling with traditional cafés. Growth is
+high and competition is fierce, but unlike in most major markets, cafés coffee shop
+chains are both finding impressive growth.
+Q31.
+What can we understand from the passage?
+  A) Cafés are causing coffees decline
+  B) Coffee shops are causing Cafés to decline
+  C) Coffee shops and cafés are thriving around the world.
+  D) Coffee shops and cafés are thriving in the Middle East.
+
+Q86.
+Passage 10
+(محتوى برامج تلفزيونيه ومقاطع موسيقية تقدم للحيوانات)
+(1) The cat TV program Meow TV features squirrels running up and down trees to fast-paced
+music. DOG TV, on the other hand, shows three kinds of programs: calming, stimulating,
+and good behavior reinforcement. All their programs use the colors and sounds that dogs
+can see and hear. The idea is to keep dogs calm and occupied when their owners have to
+leave them home alone.
+(2) Dogs and cats in America are not the only animals being exposed to television these days.
+On a Russian dairy farm near Moscow, the cows are watching TV. Farm workers installed
+six large plasma screens in the cow farm. Then they selected 20 cows for an experiment.
+They divided them into two equal groups. There is no special channel or program designed
+for cows, so the farmer showed non-stop videos of beautiful, green grassy meadows and
+landscapes to the first group. The other group got only the background music without the
+video. After a month, the cows that were watching television produced on average three
+liters more milk than those that were not. Veterinarians say the images relax the cows and
+put them in a good mood for milking.
+32 What is the topic of Paragraph (1)?
+  A) Squirrels and wild cats on TV
+  B) How TV shows can train dogs.
+  C) How dogs perceive sound and color.
+  D) The content of pet programs and TV
+shows
+33 According to Paragraph (2), why did the one group of cows give more milk?
+  A) The farmer showed them movies about
+cows.
+  B) The farmer kept them in the barn.
+  C) They were happy and relaxed.
+  D) They liked the music.
+Passage 11
+(محمد يونس مؤسس بنك بنجالديش لمساعدة النساء والفقراء)
+Since Muhammad Yunus founded Grameen Bank, it has made about 5.7 billion dollars
+in micro-credit loans to more than six million people in Bangladesh. The program has
+enabled millions of Bangladeshis, almost all women, to buy everything from cows to
+cell phones in order to start and run their
+their own businesses. Yunus’ strategy has been
+the opposite of traditional banks. He would say: “If the banks lent to the rich, lent to
+the poor. If banks lent to men, I lent to women. If banks required collateral, my loans
+were collateral free. If banks required a lot of paperwork, my loans were illiterate
+friendly. if you had to go to the bank, my bank went to the village.”
+34 The word their in the passage refers to ..............
+  A) banks
+  B) millions
+  C) businesses
+  D) Bangladeshis
+
+Q87.
+35 What can we understand from the passage?
+  A) Banks in Bangladesh require their clients to be illiterate.
+  B) Traditional banks in Bangladesh have failed to help women and the poor.
+  C) Micro-credit has a strong focus on lending to men
+  D) The majority of the micro-credit loans bought cows and mobiles.
+Passage 12
+(سباق الهجن )
+A champion camel can be worth hundreds of thousands of  royals in price money to be
+owner, rider, and trainer. Also, it is important to the partly celebrated prestige and
+distinguished honor of having a winner.
+36 The word winner in this passage refers to
+  A) Owner
+  B) Rider
+  C) Camel
+  D) Trainer
+Passage 13
+(تاريخ اللغة اإلنجليزية في جنوب افريقيا )
+The English language history of South Africa has many strands. There was initially a
+certain amount of regional dialect variation among the different groups of British
+settlers, with the speech of the London area predominant in the Cape, and Midlands and
+Northern speech strongly represented in Natal; but in due course a more homogenous
+accent emerged – an accent that shares many similarities with the accents of Australia,
+which was also being settled during this period. In addition, English came to be used,
+along with Afrikaans and often other languages, by those with an ethnically mixed
+background; and it was also adopted by the many immigrants from India, who arrived
+in the country from around 1986.
+37 Which English dialect was similar to the one in the Cape?
+  A) London
+  B) Midlands
+  C) Northlands
+  D) Australian
+38 What word best describes the history of the English language at South Africa?
+  A) short
+  B) simple
+  C) Complex
+  D) marginal
+
+Q88.
+Passage 14
+Vegetarian Indian immigrants to Great Britain began to suffer from pernicious anemia
+not long after their arrival. It was discovered that the cause of the disease was the
+overly-hygienic dried fruits and packaged foods they were consuming in Britain.
+Back in India, there were minute amounts of insect parts in the dried fruits, and this
+provided them with enough Vitamin B, to prevent anemia. Once food is sterilized,
+sanitized, freeze-dried, artificially colored and preserved (all untouched by human
+hands), it is probably no longer fit for consumption anyway.
+39 What causes pernicious anemia?
+  A) freeze-dried foods
+  B) lack of Vitamin B12
+  C) insect parts in food
+  D) too many dried fruits
+Passage 15
+(العود القطعة الصغيرة)
+Processing Oud through distillation produces extracts used in perfumes. As part of the
+distillation process, Oud chips are heated in water. As the water evaporates and forces
+vapor into coiled piped the remaining liquid separated from the water is the Oud oil.
+From this liquid, perfumes are created that can then be applied directly to the body or
+hair.
+40 The processing of Oud for perfumes requires .......... the chips.
+  A) evaporating
+  B) coiling
+  C) burning
+  D) distilling
+Passage 16
+(حركة البروليتاريا كانت حركة مجتمعيه)
+In its modern form, communication grew out of the socialist movement of 19th century
+Europe. As the Industrial Revolution advanced, socialist articles planned capitalism
+for the misery of the proletariat a new class of urban factory workers who labored
+under often hard conditions. Foremost among these critics were Marx and his associate
+Friedrich Engels. In 1848, Marx and Engels offered a new definition of communication
+and proletariated the term in their famous pamphlet the Communist.
+Q41.
+Which of the following is TRUE?
+  A) The proletariat was a communist
+movement
+  B) Marx and Engels wrote about Communism
+  C) Factories were safe places to work
+  D) Engels opposed the proletariat
+
+Q89.
+Passage 17
+(الجرافيم )
+(1) Scientists often discover clever methods to advance their research. In 2003, one
+ingenious physicist took a block of graphite, some Scotch tape and a lot of patience
+and fashioned a remarkable new wonder material that is a million times thinner
+than paper, more conductive than copper, and stronger than diamond. It is called
+grapheme, and physicists were wildly excited when the first research article about
+grapheme describing the newly developed carbon material appeared the following
+year.
+(2) Grapheme is a “wonder material”, a super-conductive form of carbon, made from
+sheets a single atom thick. Physicists are so excited about it because it has the
+potential to completely transfigure the field of electronics and nanotechnology.
+(3) The man who first isolated grapheme is Andre Geim. He works in an English
+university, but studied at the Moscow Physical-Technical University and earned his
+PhD from the Institute of Solid-State Physics in Chernogolovka, Russia.
+42 what does grapheme (1) say about graphene?
+  A) it is a form of carbon
+  B) it is a kind of copper
+  C) it is made of scotch tape
+  D) it is more precious than diamond
+43 The word transfigure in Paragraph (2) is closest in meaning to ......
+  A) replace
+  B) inform
+  C) deform
+  D) change
+44 According to Paragraph (3), where is Andre Geim employed?
+  A) in Cherngolovka
+  B) in Moscow
+  C) in England
+  D) at IBM
+
+Q90.
+Passage 18
+(جزر الهاواي ظهورها وسبب تكونها)
+(1) The formation of the Hawaiian Islands was very different from the formation of
+the continents. Geologists believe that the islands appeared separately and more
+recently. According to the geological evidence, they were formed by volcanoes only
+about 30 million years ago.
+(2) These volcanoes began when some cracks appeared on the bottom of the Pacific
+Ocean. Deep under the earth’s surface, the rocks are very hot, so hot that they are
+in a liquid from called lava. This lava can sometimes come up through openings on
+the surface of the earth. The piles
+piles of lava slowly build up and become mountains.
+When the openings are on the ocean floor, the mountains are at first underwater.
+They may eventually become tall enough to rise above the water and form islands.
+This is how the Hawaiian Archipelago was created.
+(3) Younger Hawaiian Islands are still growing. The Big Island of Hawaii has two active
+volcanoes which are still adding new lava to the island. There are also new islands
+in the archipelago in the process of formation. Geologists have found an underwater
+volcano about 30 miles south of the island of Hawaii. Now about 3.000 feet below
+the surface of the ocean, it will probably rise above the water. Someday, this
+volcano could become another Hawaiian island.
+45 What is the main topic of the passage?
+  A) How geologists discovered volcanoes in the Hawaiian Islands.
+  B) How the Hawaiian Islands appeared and were formed in the sea.
+  C) How a beautiful semi-circle reef surrounds the Hawaiian Islands.
+  D) How mountains can be seen underwater near the Hawaiian shores
+46 According to Paragraph (1), how and when do geologists say that the islands
+emerged?
+  A) all at once less than 30 million years
+ago
+  B) one by one less than 30 million years ago
+  C) at all once more than 30 million years
+ago
+  D) one by one more than 30 million years
+ago
+47 The word piles in Paragraph (2) is closest in meaning to ..........
+  A) files
+  B) bands
+  C) stacks
+  D) assortments
+48 The word it in Paragraph (3) refers to …………….
+  A) volcano
+  B) ocean
+  C) island
+  D) surface
+
+Q91.
+49 According to Paragraph (3), volcanoes cause ........
+  A) the Hawaiian Island to disappear
+  B) more Hawaiian Islands to form
+  C) the ocean water to be warmer
+  D) coral reefs to form
+Passage 19
+(قناة السويس و أهميتها ألوروبا )
+(1) In 1859, thanks to the efforts of a French diplomat and politician, Ferdinand de
+Lesseps, work started on the Suez Canal. Though he was not an engineer, he had
+been haunted by the idea of the canal since his youth. De Lesseps spent a decade
+supervising the massive operation that involved the excavation of about 97 million
+cubic yards of earth.
+(2) De Lesseps first established an artificial harbor at Port Said as a base and had a
+canal dug from the Nile to the Suez to provide fresh-water for the 20.000 laborers.
+(3) The official opening was on November 17, 1869. Representatives of almost every
+European royal family attended the inauguration celebration. Ships from France,
+Russia, Austria, Italy, Britain, and the United States sailed through the canal and de
+Lesseps’ dream was finally a reality. The total cost of the project was an estimated
+$ 105 million, which at the time was a lot of money. This was more than twice the
+original estimate, but it was a tiny sum compared with the value of the canal to
+world trade.
+50 According to Paragraph (1), De Lesseps was everything EXCEPT....
+  A) an engineer
+  B) a diplomat
+  C) a politician
+  D) a Frenchman
+Q51.
+According to Paragraph (2), what was Port Said?
+  A) a Mediterranean port
+  B) a useful natural harbor
+  C) a large new city
+  D) a man-made harbor
+52 What does Paragraph (3), say about building the Suez Canal compared to modern
+standards?
+  A) It was very important politically.
+  B) It was extremely inexpensive.
+  C) It was very time-consuming.
+  D) It was extremely inefficient.
+53 According to Paragraph (3), to whom was building the canal the most important?
+  A) the Arab world
+  B) the Europeans
+  B) the Egyptians
+  D) the royalty
+
+Q92.
+Passage 20
+(لعبة العجلة الدوارة وتطبيقاتها الفيزياية)
+(1) If you’re studying physics, there are few more exhilarating things to learn about
+than a roller coaster. Roller coasters are driven almost entirely by basic inertial and
+gravitational forces, all manipulated in the service of a great ride.
+(2) Roller coasters have a long, fascinating history. The direct ancestors
+ancestors of roller coasters
+were monumental ice slides that were popular in Russia in the 16th and 17th centuries.
+(3) Roller coaster historians diverge on the exact evolution of these ice slides into actual
+rolling carts. The most widespread account is that a few entrepreneurial Frenchman
+imported the ice slide idea to France. The warmer climate of France tended to melt
+the ice   , so the French started building waxed slides instead, eventually adding wheels
+to the sleds.
+(4) The first American roller coaster was the Mauch Chunk Switchback Railway, built in
+the mountains of Pennsylvania in the mid-1800s. the track, originally built to send
+coal to a railway, was reconfigured as a “scenic tour.” For one dollar, tourists got
+a leisurely ride up to the top of the mountain followed by a wild, bumpy ride back
+down. Over the next 30 years, these scenic rides continued to thrive and were joined
+by wooden roller coasters similar to the ones we know today.
+54 According to Paragraph (1), why are roller coasters of interest to physics students?
+  A) They offer a great ride.
+  B) They are fast and complex.
+  C) They run on various fascinating forces.
+  D) They all work on the same fundamental principles.
+55 The word ancestors in Paragraph (2) is closest in meaning to ..........
+  A) developments
+  B) predecessors
+  C) competitors
+  D) link
+56 According to Paragraph (3), why did the French change to rolling carts?
+  A) they were entrepreneurial
+  B) France is warmer than Russia
+  C) the ice slides evolved over time
+  D) ice slides COULDN’T be imported
+57 What of the following can we understand from Paragraph (4)?
+  A) Switchback is no longer used to send coal to the railway.
+  B) The Switchback Railway was built for scenic tours.
+  C) The ride from the top of the mountain was calm and leisurely.
+  D) Very little development took place in the roller coaster industry after Switchback.
+
+Q93.
+Passage 21
+With lignin and appropriate architecture, we truly have wood. It is wood that makes
+trees. In practice, it is mainly the cells of the conducting vessels that become
+lignified, and they and their surrounding supporting cells are the main ingredient in
+timber.
+58 The word they in the passage refers to ......................
+  A) cells
+  B) vessels
+  C) trees
+  D) lignin and architecture
+Passage 22
+(1) All applicants for graduate study at Central Institute of Technology (CIT) are
+required to submit a personal statement of educational objectives.
+(2) You may wish to address: (1) why you are applying to your chosen degree program,
+(2) what you hope to achieve through your education, (3) how your degree program
+will relate to your long-range career objectives, (4) what personal or non-academic
+qualities you will contribute to the learning environment in your program, (5) what
+(if any) prior experience you have with respect to your chosen program, and (6)
+specifically, why you want to attend CIT.
+59 The word address in Paragraph (2) is closest in meaning to ............
+  A) talk about something
+  B) send to a destination
+  C) research
+  D) conclude
+60 What is NOT included in the list in Paragraph (2)?
+  A) Reasons for choosing the program
+  B) Future professional goals
+  C) Teaching experience
+  D) Personal qualities
+
+ANSWER KEY
+--------------------
+Q21: B
+Q22: C
+Q24: C
+Q25: A
+Q26: A
+Q27: D
+Q28: D
+Q29: A
+Q30: C
+Q31: D
+Q33: C
+Q34: D
+Q36: C
+Q37: A
+Q38: C
+Q39: B
+Q40: D
+Q42: A
+Q43: D
+Q44: C
+Q45: B
+Q46: B
+Q47: C
+Q48: A
+Q49: B
+Q50: A
+Q51: D
+Q52: B
+Q53: B
+Q54: D
+Q55: B
+Q56: B
+Q57: A
+Q58: B
+Q59: A
+Q60: C
+
+
+GRAMMAR
+========================================
+
+Q94.
+Q61.
+Paul works --------------.
+  A) careful
+  B) carefully
+  C) more careful
+  D) most careful
+62 Muhammad: Are they your children? Ahmad: No, they aren’t. they’re………
+  A) Alis’
+  B) Ali’s
+  C) Ali’z
+  D) Aliz
+63 Which sentence has the CORRECT WORD Order?
+  A) Did you finish your homework when?
+  B) When did you finish your homework?
+  C) Did your homework finish you when?
+  D) When you did finish your homework?
+64 “How…………… do you study?” the teacher asked the student
+  A) a little
+  B) few
+  C) far
+  D) long
+65 At our local market, it is possible to buy………….. things, but people usually go there
+when they want to buy gold.
+  A) much
+  B) many
+  C) a lot
+  D) no
+66 They……………….yesterday morning
+  A) arrive
+  B) arrived
+  C) are arriving
+  D) were arrived
+67 After graduating, Turki got a job as…………in the Ministry of Transport.
+  A) official
+  B) officials
+  C) a official
+  D) an official
+68 When I was 25 years old, I........... lift 30 kilograms with one hand.
+  A) should
+  B) could
+  C) may
+  D) can
+
+Q95.
+69 Egyptians and Qataris .............. speak Arabic.
+  A) any
+  B) two
+  C) both
+  D) each
+70 The first time Bob met his aunt; he immediately began to tell her all about………….
+and what he enjoyed doing.
+  A) himself
+  B) him
+  C) he
+  D) she
+Q71.
+Excuse me, can you ................ me the way to the police office?
+  A) to showing
+  B) showing
+  C) to show
+  D) show
+72 Would you take out the garbage when you leave…………..party today?
+  A) for
+  B) For an
+  C) For one
+  D) for the
+73 The second half has already begun, so the game………in about 45 minutes
+  A) finish
+  B) Finished
+  C) will finish
+  D) has been finished
+74 This book ............. for university students
+  A) written
+  B) had written
+  C) being written
+  D) has been written
+75 Yesterday, all passengers…………free meal because of the flight delay.
+  A) receive
+  B) received
+  C) receiving
+  D) are receiving
+76 This old computer is broken! I ………………….. it.
+  A) replace
+  B) replacing
+  C) must replace
+  D) ought replace
+
+Q96.
+77 Have you seen my new book……………..?
+  A) where
+  B) nowhere
+  C) anywhere
+  D) Everywhere
+78 Which phrase correctly replaces the INCORRECT underlined phrase?
+Mona: sorry, I can’t join you tonight.
+Amy: Let’s go swimming.
+  A) You tell we why?
+  B) How about swimming?
+  C) I very pleased to hear this
+  D) OK, Maybe some other time.
+79 Which phrase correctly replaces the INCORRECT underlined phrase?
+Mr. Brown: Thank you very much. You have been of great help.
+Carter: I’ll tell you later.
+  A) Please take another
+  B) It was my pleasure
+  C) I am very sorry
+  D) Worry about it
+80 We won’t see Ali on Friday because he ……… into a new house next weekend.
+  A) moves
+  B) moving
+  C) is moving
+  D) has moved
+Q81.
+I always ……………….. my grandmother on the weekend
+  A) visit
+  B) visits
+  C) visiting
+  D) will to visit
+82 Tom’s mother asked him ……………. the dishes for her
+  A) dry
+  B) to dry
+  C) drying
+  D) to drying
+83 Which phrase correctly replaces the INCORRECT underlined phrase?
+Helen: I think I should go to work early tomorrow; I have some work to finish.
+Emma: Why do you have to do that?
+  A) I very glad to hear that
+  B) Aren’t you late already?
+  C) Did you plan for that?
+  D) That’s a good idea
+
+Q97.
+84 Which one of the underlined words or phrases is INCORRECT?
+Health authorities claim that one reason diseases get spread are that people do not wash their hands
+property after using.
+  A) claim
+  B) get spread
+  C) are that
+  D) after using
+85 Which sentence has the CORRECT WORD ORDER?
+  A) Yuri Gagarin, the Russian cosmonaut, is remembered as the first human to fly into outer
+space, having spent one hour and forty-eight minutes in a complete orbit around the earth.
+  B) Around the earth, as the first human to fly into outer space, is remembered Yuri Gagarin, the
+Russian cosmonaut, having spent one hour and forty-eight minutes in a complete orbit.
+  C) Having spent one hour and forty-eight minutes in complete orbit around the earth. Yuri
+Gagarin, the Russian cosmonaut, as the first human to fly into outer space, is remembered.
+  D) As the first human to fly into outer space, is remembered Yuri Gagarin, the Russian cosmonaut
+having spent one hour and forty-eight minutes in complete orbit around the earth.
+86 Sara: I have 1.000 riyals, and that necklace costs 11000 riyals. I can’t afford it.
+Mona: No, you can’t. it’s ........expensive.
+  A) too
+  B) any
+  C) much
+  D) more
+87 Choose the CORRECT ORDER to make the following sentence into a paragraph:
+(1) Then, pour it into a cup with a teabag and wait a couple of minutes.
+(2) Now, you can remove the teabag and drink it.
+(3) First, you heat the water.
+(4) Making a cup of tea is easy.
+  A) (4), (3), (2), (1)
+  B) (4), (1), (2), (3)
+  C) (3), (1), (4), (2)
+  D) (4), (3), (1), (2)
+88 To which sentence can we add the following phrase ?
+Having always spent their money to help others, ...............
+(1)Sara and Ahmad were never able to save enough to perform their hajj.
+(2)Their granddaughter, Mona, was living in Makkah with her family.
+(3)She decided to invite them to come and stay with her.
+(4)Their pilgrimage would be possible at last, so the old folks were overjoyed.
+A
+B
+C
+  D) 98
+89 Our boss ………………. important people every Tuesday.
+  A) meeting
+  B) was met
+  C) is meet
+  D) meets
+90 Which of the following sentences has the CORRECT WORD ORDER?
+  A) In the world affected by climate change, Peru likely to be the most top three nations is rated
+among.
+  B) Among the top three nations us most likely Peru rated to be change affected by climate in
+the world.
+  C) Peru is rated among the top three nations likely to be most affected by climate change
+in the world.
+  D) Climate change in the world is most likely to be affected by Peru rated among the top three
+nations.
+Q91.
+In which of the following sentences is all PUNCTUATION CORRECT?
+  A) Maryam was tired of walking around all day at the mall, however, when she saw the sale
+sign at her favorite store, she immediately felt energized.
+  B) Maryam was tired of walking around all day at the mall, however, when she saw the sale
+sign at her favorite store she immediately felt energized.
+  C) Maryam was tired of walking around all day at the mall; however, when she saw the
+sale sign at her favorite store, she immediately felt energized.
+  D) Maryam was tired of walking around all day at the mall; however, when she saw the sale
+sign at her favorite store she immediately felt energized.
+92 How long …………..to fly from London to New York?
+  A) does it take
+  B) does it takes
+  C) is it takes
+  D) takes it
+93 If you had turned up the volume, I ……………. the TV much better.
+  A) would have heard
+  B) am hearing
+  C) could hear
+  D) heard
+94 The boy, ……………….. bicycle was stolen, got a new one yesterday.
+  A) who
+  B) that
+  C) which
+  D) whose
+
+Q99.
+95 The man………….by a dog when he climbed over a wall and reached safely.
+  A) is being chased
+  B) has been chased
+  C) was being chased
+  D) have been chased
+96 Physics is the science which ………… light, heat, sound and electricity.
+  A) studies
+  B) studied
+  C) studying
+  D) is studying
+97 The pilot landed the plane safely despite the fault with…………..controls
+  A) him
+  B) he
+  C) its
+  D) it
+98 when Chris was living in Riyadh, he……….around the neighborhood every evening dinner.
+  A) used to jog
+  B) is jogging
+  C) has to jog
+  D) jogging
+99 the boy walked ………….. down the street.
+  A) calm
+  B) calmly
+  C) calmed
+  D) calming
+100 ……………. we were not allowed to take the test, was annoying
+  A) That
+  B) since
+  C) after
+  D) Because
+
+ANSWER KEY
+--------------------
+Q61: B
+Q62: B
+Q63: B
+Q64: D
+Q65: B
+Q66: B
+Q67: D
+Q68: B
+Q69: C
+Q70: A
+Q71: D
+Q72: D
+Q73: C
+Q74: D
+Q75: B
+Q76: C
+Q77: C
+Q78: D
+Q79: B
+Q80: C
+Q81: A
+Q82: B
+Q83: D
+Q84: C
+Q86: A
+Q87: D
+Q88: A
+Q89: D
+Q92: A
+Q93: A
+Q94: D
+Q95: C
+Q96: A
+Q97: C
+Q98: A
+Q99: B
+Q100: A

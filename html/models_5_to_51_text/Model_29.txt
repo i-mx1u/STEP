@@ -1,0 +1,1013 @@
+MODEL 29
+========================================
+
+READING
+========================================
+
+Passage1
+Purity
+(1) Government legislation
+legislation requires that a lot of testing takes place before a new
+pharmaceutical is marketed.
+(2) Throughout the chemical, pharmaceutical and food industries it is essential that
+the substances used be pure. The purity of a substance can be gauged by:
+1-Its melting point - if it is a pure solid it will have a sharp melting point. If an
+impurity
+impurity is present then melting takes place over a range of temperatures.
+2-Its boiling point - if it is a pure liquid the temperature will remain steady at
+its boiling point. If the substance is impure then the mixture will boil over a
+temperature range.
+3-Chromatography - if it is a pure substance, it will produce only one well-defined
+spot on a chromatogram. If impurities are present then several spots will be seen
+on the chromatogram
+Q21.
+The word legislation in Paragraph  (1) is closest in meaning to ……………
+  A) announcement
+  B) law
+  C) ban
+  D) bureaucracy
+22 The word Impure in the passage is closest in meaning to ………..
+  A) dirty
+  B) clean
+  C) neutral
+  D) tested
+
+Passage 2
+Company Stock
+(1) There are three types of stock that a business can hold: stocks of raw materials
+(inputs brought from suppliers waiting to be used in the production process), work
+in progress (incomplete products still in the process of being made) and stocks
+of finished products (finished goods of acceptable quality waiting to be sold to
+customers).
+(2) The aim of stock control is to minimize the cost of holding these stocks whilst
+ensuring that there are enough materials for production to continue and be able
+to meet customer demand. Obtaining the correct balance is not easy and the
+stock control department will work closely with the purchasing and marketing
+departments.
+(3) The marketing department should be able to provide sales forecasts for the coming
+weeks or months (this can be difficult if demand is seasonal or prone to unexpected
+fluctuation) and so allow stock control managers to judge the type, quantity and
+timing of stocks needed.
+(4) It is the purchasing department’s responsibility to order the correct quantity and
+quality of these inputs, at a competitive price and from a reliable supplier who will
+deliver on time.
+(5) As it is difficult to ensure that a business has exactly the correct amount of stock at
+any one time, the majority of firms will hold buffer stock. This is the “safe” amount
+of stock that needs to be held to cover unforeseen circumstances
+23 What is the writer’s main purpose?
+  A) to explain
+  B) to describe
+  C) to convince
+  D) to entertain
+24 What is one important idea that the writer mentions?
+  A) The stock control department often holds buffer stocks.
+  B) Managers of the stock control departments need to be well-trained.
+  C) The stock control department works closely with the marketing department.
+  D) The stock control department aims to achieve the correct balance of stocks.
+
+Passage 3
+Separating Mixtures
+(1) Many mixtures contain useful substances mixed with unwanted material. In order
+to obtain these useful substances, chemists often have to separate them from the
+impurities. Chemists have developed many different methods of separation.
+Filtering
+(2) When a cup of tea is poured through a tea strainer, this is a filtering process.
+Filtration is a common separation technique used in chemistry laboratories
+throughout the world. It is used when a solid needs to be separated from a liquid.
+For example
+For example, sand can be separated from a mixture with water by filtering through
+filter paper. The filter paper contains holes that are large enough to allow the
+molecules of water through but not the sand particles. The sand gets trapped in the
+filter paper and the water passes through it.
+Decanting
+(3) Vegetables do not dissolve in water. When you have boiled some vegetables, it
+is easy to separate them from the water by pouring it off. This process is called
+decanting. This technique is used quite often to separate an insoluble solid (a solid
+that doesn’t dissolve) from a liquid.
+Centrifuging
+(4) Another way to separate a solid from a liquid is to use a centrifuge. It is usually
+used when the solid particles are so small that they spread out throughout the
+liquid and remain mixed. They do not settle to the bottom of the container, as
+heavier particles would do, under the force of gravity. The technique of centrifuging
+involves the liquid being spun round very fast in a centrifuge so that the solid gets
+flung to the bottom of the tube
+25 What does the writer think about the process of separating mixtures?
+  A) He thinks it’s a new technique that needs to be developed.
+  B) He thinks it’s an ancient process that is useful in cooking.
+  C) He thinks it’s important because it helps to take out the substances that have
+benefits.
+  D) He thinks it’s important because it keeps impurities from creating new diseases.
+Q26.
+
+What does Paragraph (2) say about filtering?
+  A) It is usually used in making coffee.
+  B) It only works if the filter paper has a special number of holes.
+  C) It is a process that only works when separating sand from a mixture.
+  D) It works best, when the filter paper is able to stop the solid from passing.
+
+  C) to show that centrifuging is the longest process for separating the tiny solid particles
+from a liquid.
+  D) to show that the process of spinning the liquid around quickly in centrifuging
+causes the tiny solid particles to become separated.
+29 How does centrifuging solve the problem of separating very small solids from a
+liquid?
+  A) It moves the liquid around very quickly to get the solids to stay at the bottom.
+  B) It uses a special heating technique that is only available in some laboratories.
+  C) It uses boiling to separate an insoluble solid from a liquid.
+  D) It uses a filter to separate solids, like sand, from a liquid.
+Q27.
+
+Which words can we use to replace the words “for example” in Paragraph (2)?
+  A) of course
+
+  B) above all
+  C) for instance
+
+  D) at the same time
+Q28.
+
+Why does the writer use the word “so” at the end of Paragraph (4)?
+  A) to give more information about centrifuging.
+  B) to show that centrifuging is different from decanting.
+
+Passage 4
+Agriculture in the Middle East
+(1) From the 8th century, the medieval Islamic world underwent a transformation
+in agricultural practice, described by the historian Andrew Watson as the Arab
+agricultural revolution. This transformation was driven by a number of factors
+including the diffusion of many crops and plants along Muslim trade routes, the
+spread of more advanced farming techniques, and an agricultural-economic system
+which promoted increased yields and efficiency. The shift in agricultural practice
+changed the economy, population distribution, vegetation cover, agricultural
+production, population levels, urban growth, the distribution of the labor force,
+cooking, diet, and clothing across the Islamic world.
+(2) Muslim traders covered much of the Old World, and trade enabled the diffusion
+of many crops, plants and farming techniques across the region, as well as the
+adaptation of crops, plants and techniques from beyond the Islamic world. This
+diffusion introduced major crops to Europe by way of Al-Andalus, along with the
+techniques for their cultivation and cuisine. Sugar cane, rice, and cotton were
+among the major crops transferred, along with citrus and other fruit trees, nut
+trees, vegetables such as eggplant, and spinach and the use of spices such as
+cumin, coriander and cinnamon, Intensive irrigation crop rotation and agricultural
+manuals were widely adopted. Irrigation, partly based on Roman technology, made
+use of water wheels, water mills, dams and reservoirs.
+30 What is one important idea in the passage?
+  A) Cumin is a spice.
+  B) The economy changed.
+  C) Farming provided food to Europe.
+  D) Muslim traders introduced new crops to Europe.
+
+Passage 5
+US Coffee Consumption
+Coffee availability in the United States peaked in 1946
+Q31.
+How many gallons of coffee did people drink in 1950?
+  A) around 50
+  B) around 40
+  C) around 30
+  D) around 20
+32 In what year was coffee drinking the lowest in the U.S?
+A
+B
+C
+  D) Passage 6
+33 In which year is the percentage change the lowest?
+A
+B
+C
+  D) Passage 7
+Stages of Economic Activity
+(1) There are three main stages of economic activity. These stages are typical of nearly
+all production and they are called the levels of economic — or business activity:
+(2) Stage 1 is called the primary stage of production. This stage involves the earth’s
+natural resources. Activities in the primary sector of industry include farming,
+fishing, forestry and the extraction of natural materials, such as oil and copper ore.
+(3) Stage 2 is called the secondary stage of production. This stage involves taking the
+materials and resources provided by the primary sector and converting them into
+manufactured or processed goods. Activities in the secondary sector of industry
+include building and construction car manufacturing and computer assembly.
+(4) Stage 3 is called the tertiary stage of production. This stage involves providing
+services to both consumers and other businesses. Activities in the tertiary sector of
+industry include transport, banking, retail, insurance, hotels and hairdressing.
+(5) In some countries, primary industries such as mining employ many more people
+than manufacturing or service industries. These tend to be countries —often called
+developing countries — where manufacturing industry has only recently been
+established. As most people still live in the rural areas with low incomes, there is
+little demand for services such as transport, hotels and insurance. The levels of
+both employment and output in the primary sector in these countries are likely to
+be high. In countries which started up manufacturing industries many years ago,
+the secondary and tertiary sectors are likely to employ many more workers than the
+primary sector. The level of output in the primary sector is often small compared to
+the other two sectors.
+34 What is the main topic of the passage?
+  A) Production is the first stage.
+  B) Employment is highest in stage two.
+  C) Economic activity occurs in three stages.
+  D) The level of output is highest in stage three.
+Q35.
+  A) elementary
+  B) primary
+  C) secondary
+  D) tertiary
+36 Which stage of production are hotels an example of?
+  A) elementary
+  B) primary
+  C) secondary
+  D) tertiary
+What is one important idea related to the secondary stage of production in
+Paragraph (3)?
+
+صفحةReading
+  C) change
+  D) accident
+39 The word rates in Paragraph ( (1) is closest in meaning to ……………………
+  A) calendars
+  B) amounts
+  C) wholes
+  D) tables
+Q37.
+
+What is one important idea related to jobs in developing countries in Paragraph (5)?
+  A) They are equal in all stages. Most are in stage 1.
+  B) Most are in stage 1.
+  C) Most are in stage 2.
+  D) Most are in stage 3.
+Passage 8
+The Demographic Transition
+(1) Human societies had equally high birthrates and death rates during most of history.
+
+But over the past century, population growth in the United States, Japan, and much
+
+of Europe slowed dramatically. Demographers developed a hypothesis to explain this
+
+shift. According to this hypothesis, these countries have completed the demographic
+
+transition, a dramatic change from high birthrates and death rates to low birthrates
+
+and death rates. The demographic transition is divided into three stages.
+(2) To date, the United States, Japan and Europe have completed the demographic
+
+transition. Parts of South America, Africa, and Asia, are passing through stage II.
+
+(The United States passed through stage II Between 1790 and 1910.) A large part of
+
+human population growth is happening in only ten countries, with India and China in
+
+the lead. Globally, human population is still growing rapidly, but the rate of growth is
+
+slowing down.
+Fu
+F
+
+t
+u
+
+u
+t
+
+r
+u
+
+e
+r  e
+
+P
+
+o
+P
+
+p
+o
+
+u
+p
+
+l
+u
+
+a
+l
+
+t
+a
+
+it
+
+o
+i
+
+n
+o
+n
+
+G
+
+r
+G
+
+o
+r
+
+w
+o
+
+t
+w
+
+h
+th
+(3) To predict how the world’s population will grow, demographers consider many
+
+factors, including the age structure of each country and the effects of diseases on
+
+death rates, especially in Africa and parts of Asia. Current projections suggest that
+
+by 2050 the world population will reach 9 billion people. Will the human population
+
+level out and become stable? This may happen if countries that are currently growing
+
+rapidly complete the demographic transition.
+(4) Current data suggest that global human population will grow more slowly over the
+
+next 50 years than it grew over the last 50 years. But because the growth rate will
+
+still be higher than zero in 2050, our population will continue to grow.
+Q38.
+
+The word shift in Paragraph ( (1) is closest in meaning to …………………
+  A) plan
+
+  B) result
+
+40 What will lead countries to have a stable population growth?
+  A) decreasing birth rates only
+  B) passing birth control laws
+  C) finding the right hypothesis
+  D) completing the demographic transition
+Q41.
+Why will the population continue to grow in 2050?
+  A) because there will be fewer diseases
+  B) because there will be more growth in China
+  C) because the death rate will be less than zero
+  D) because the growth rate will be more than zero
+
+Passage 9
+Psychoanalysis
+What are the aims and methods of psychoanalysis?
+(1) Although most of today’s therapists do not practice therapy as Sigmund Freud
+did, his psychoanalytic techniques survive. Psychoanalysis is part of our modern
+vocabulary, and its assumptions influence many other therapies.
+Aims
+Aims
+(2) Psychoanalysis assumes that many psychological problems are fueled
+by childhood’s residue of supposedly repressed impulses and conflicts.
+Psychoanalysts try to bring these repressed feelings into conscious awareness,
+where the patient can deal with them. By gaining insight into the origins of the
+disorder - by fulfilling the ancient imperative to know thyself” in a deep way - the
+patient “works through” the buried feelings. The theory presumes that healthier,
+less anxious living becomes possible when patients release the energy they had
+previously devoted to id-ego-superego conflicts.
+Methods
+Methods
+(3) Psychoanalysis is historical reconstruction. Its goal is to unearth the past in hope
+of unmasking the present. But how?
+(4) When Freud discarded hypnosis as unreliable, he turned to free association.
+Imagine yourself as a patient using the free association technique. The analyst
+invites you to relax, perhaps by lying on a couch. He or she will probably sit out
+of your line of vision, helping you focus attention on your internal thoughts and
+feelings. Beginning with a childhood memory, a dream, or a recent experience,
+you say aloud whatever comes to your mind from moment to moment. It sounds
+easy, but soon you notice how often you edit your thoughts as you speak, omitting
+material that seems trivial, irrelevant, or shameful. Even in the safe presence of
+the analyst, you may pause momentarily before uttering an embarrassing thought.
+You may make a joking remark or change the subject to something less threatening.
+Sometimes your mind may go blank or you may find yourself unable to remember
+important details.
+(5)To the psychoanalyst, these blocks in the flow of your free associations indicate
+resistance. They hint that anxiety lurks and that you are repressing sensitive
+material. The analyst will want to explore these sensitive areas by making you
+aware of your resistances and by interpreting their underlying meaning. The
+analyst’s interpretations - suggestions of underlying wishes, feelings, and conflicts
+- aim to provide people with insight. If offered at the right moment, the analyst’s
+interpretation - of, say, your not wanting to talk about your mother - may illuminate
+what you are avoiding. You may then discover what your resistances mean and how
+they fit with other pieces of your psychological puzzle.
+
+(6) Freud believed that another clue to repressed impulses is your dreams’ hidden
+content. Thus, after inviting you to report a dream, the analyst may offer a dream
+analysis, suggesting its hidden meaning.
+(7) During many such sessions you will probably disclose more of yourself to your
+analyst than you have ever revealed to anyone. Because psychoanalytic theory
+emphasizes the formative power of childhood experiences, much of what
+you reveal will pertain to your earliest memories. You will also probably find
+yourself experiencing strong positive or negative feelings for your analyst. Such
+feelings may express the dependency or mingled love and anger that you earlier
+experienced toward family members or other important people in your life. When
+this happens,Freud would say you are actually transferring your strongest feelings
+from those other relationships to the analyst. Analysts and other therapists believe
+that this transference exposes long-repressed feelings, giving you a belated chance
+to work through them with your analyst’s help. By examining your feelings toward
+the analyst, you may also gain insight into your current relationships.
+(8) Note how much of psychoanalysis is built on the assumption that repressed
+memories exist. That assumption is now questioned. This challenge to an
+assumption that is basic to so much of professional and popular psychology is
+provoking intense debate.
+(9) Critics also say that psychoanalysts’ interpretations are hard to refute. If, in
+response to the analyst’s suggested interpretation, you say, “Yes! I see now”, your
+acceptance confirms the analyst’s interpretation If you emphatically say, “No! That
+doesn’t ring true,” your denial may be taken to reveal more resistance, which would
+also confirm the interpretation Psychoanalysts acknowledge that it’s hard to prove
+or disprove their interpretations. But they insist that interpretations often are a
+great help to patients.
+(10) Traditional psychoanalysis is slow and expensive. It requires up to several years
+of several sessions a week with a highly trained and well-paid analyst. (Three times
+a week for just two years at $100 or more per hour comes to about $30,000.) Only
+those with a high income can afford such treatment.
+(11) Although there are relatively few traditional psychoanalysts, psychoanalytic assumptions
+influence many therapists, especially those who make psychodynamic assumptions.
+Psychodynamic therapists try to understand patients’ current symptoms by exploring their
+childhood experiences, They probe for supposed repressed, emotion-laden information. They
+seek to help people gain insight into the unconscious roots of problems and work through newly
+resurrected feelings. Although influenced by Frend’s psychoanalysis, these therapists may talk to
+people face to face (rather than out of the line of vision), once a week (rather than several times
+weekly), and for only a few weeks or months (rather than several years).
+
+42 What two things can psychoanalysis begin with?
+  A) an embarrassing thought or joke
+  B) an embarrassing thought or dream
+  C) a childhood memory or joke
+  D) a childhood memory or dream
+43 What are two characteristics of traditional psychoanalysis?
+  A) slow and shameful OB
+  B) slow and expensive
+  C) shameful and trivial
+  D) trivial and expensive
+Passage 10
+Nano wood
+(1) Expanded polystyrene (or “Styrofoam”) is an excellent insulator. That’s why it’s
+
+a popular material for insulating buildings—and why those cheap little cups of
+
+deli coffee still burn your tongue after 30 minutes. But its environmental record
+
+leaves something to be desired. It’s non-biodegradable, harmful to animals
+
+who accidentally eat it and made from potential carcinogens or cancer-causing
+
+chemicals.
+(2) Researchers at the University of Maryland have developed a super-lightweight
+
+insulating material they say could prove to be a better, more eco-friendly
+
+alternative. The material, made from tiny wood fibers, is called Nano wood. It
+
+blocks heat at least 10 degrees better than Styrofoam or silica aerogel, a common
+
+insulator, and it can take a least 30 times more pressure than 45n crushed.
+(3) Working in the lab of materials scientist Liang Bing Hu. postdoctoral researcher
+
+Tain Li is the lead author on the study, published in the journal science Advances.
+(4) Hu and his team had been working on Nano cellulose, the Nano-sized version
+
+of the fibrous material that makes plants and trees rigid. Nano cellulose has an
+
+impressive strength-to-weight ratio, about eight times greater than of steel.
+(5) For the Nano wood, the team removed the lignin, the polymer that holds the cells
+
+of wood together Removing the lignin, a heat conductor. gave the resulting product
+
+powerful capabilities. It also turned the product white which means it reflects light.
+
+The think Nano wood has enormous potentials as a green, material. Using it could
+
+potentially «save billion» in energy costs says Li.
+Q44.
+
+What is one negative effect of Styrofoam?
+
+  A) It has chemicals that may lead to cancer.
+  B) It blocks a great amount of heat.
+  C) Animals are unable to eat it.
+  D) It is weaker than steel.
+
+48 How many millionaires did Australia lose between 2015 and 2016?
+  A) 10,000
+  B) 11,000
+  C) 12,000
+  D) 13,000
+Q45.
+
+The word alternative in Paragraph  (2) is closest in meaning to ……
+  A) ingredient
+
+  B) material
+  C) option
+
+  D) connection
+Q46.
+
+The word Impressive in Paragraph  (4) is closest in meaning to …………..
+
+  A) unknown
+
+  B) extraordinary
+  C) huge
+
+  D) powerful
+Q47.
+
+What happens when lignin is removed from Nano wood?
+  A) Nano wood can hold greater pressure.
+  B) Nano wood becomes stronger than steel.
+  C) Nano wood is used as eco-friendly building material.
+  D) Nano wood’s ability to hold heat is greatly increased
+Passage 11
+Global Millionaires
+
+Passage 12
+Statistics
+(1) In statistics, we generally want to study a population. You can think of a population
+as a collection of persons, things, or objects under study. To study the population,
+we select a sample. The idea of sampling is to select a portion of the larger
+population and study that portion (the sample) to gain information about the
+population.
+(2) Data are the result of sampling from a population. Because it takes a lot of time
+and money to examine an entire population, sampling is a very practical technique.
+IfIf you wished to calculate the overall grade point average at your school, it
+would make sense to select a sample of students who attend the school. The
+data collected from the sample would be the students’ grade point averages. In
+presidential elections, opinion poll samples of 1,000 to 2,000 people are taken.
+The opinion poll is supposed to represent the views of the people in the entire
+country. Manufacturers of canned carbonated drinks take samples to determine if
+a 16-ounce can contain 16 ounces of carbonated drink. From the sample data, we
+can calculate a statistic. A statistic is a number that represents a property of the
+sample.
+(3) One of the main concerns in the field of statistics is how accurately a statistic
+estimates a parameter. The accuracy really depends on how well the sample
+represents the population. The sample must contain the characteristics of the
+population in order to be a representative sample.
+49 How can statistics be more accurate?
+  A) by using a lot of time and money.
+  B) by finding the overall average
+  C) by asking people’s opinions.
+  D) by using the right sample.
+  A) To show that you would select a sample after finding the average.
+  B) To show that you would select a sample instead of finding the average.
+  C) To show that you would select a sample unless you want to find the average.
+  D) To show that you would select a sample because you want to find the average.
+Q51.
+What does the writer think the selected sample should do?
+  A) closely represent the population
+  B) be the main concern of statistics
+  C) be a small section of the population
+  D) have more accuracy than an entire population
+Q50.
+
+Why does the writer use the word If in Paragraph (2)?
+
+Q52.
+
+What does the passage say about statistics?
+  A) They help us know what the total population is.
+  B) They only use a sample of the population.
+  C) They accurately estimate a parameter.
+  D) They help politicians win elections.
+Passage 13
+Structuralist Psychologists
+(1) The earliest psychologists that we know about are the Greek philosophers Plato
+
+(327-428 BC) and Aristotle (384-322 BC). These philosophers asked many of the
+
+same questions that today’s psychologists ask; for instance, they questioned the
+
+distinction between nature and nurture and the existence of free will. In terms
+
+of the former, Plato argued on the nature side, believing that certain kinds of
+
+knowledge are innate or inborn, whereas Aristotle was more on the nurture side,
+
+believing that each child is born as an “empty slate” (in Latin a tabula rasa) and
+
+that knowledge is primarily acquired through learning and experience.
+(2) European philosophers continued to ask these fundamental questions during the
+
+Renaissance. For instance, the French philosopher René Descartes (1596-1650)
+
+also considered the issue of free will, arguing in its favor and believing that the
+
+mind controls the body through the pineal gland in the brain (an idea that made
+
+some sense at this time but was later proved incorrect). Descartes also believed
+
+in the existence of innate natural abilities. A scientist as well as a philosopher,
+
+Descartes dissected animals and was among the first to understand that the nerves
+
+controlled the muscles.
+He also addressed the relationship between mind the mental aspects of life) and
+body (the physical aspects of life). Descartes believed in the principle of dualism
+that the mind is fundamentally different from the mechanical body. Other European
+philosophers, including Thomas Hobbes (1588-1679). Jolm Locke (1632-1704),
+and Jean-Jacques Rousseau (1712–1778). also weighed in on these issues.
+psychologist  Wundt (1832–1920), who developed a psychology laboratory in
+Leipzig Germany. and the American psychologist William James (1842–1910), who
+founded a psychology laboratory at Harvard University.
+(3) Wundt’s research in his Laboratory in Liepzig focused on the  of consciousness
+
+Itself. Wundt and his students believed that it was possible to analyze the basic
+
+elements of the mind and to classify our conscious experiences scientifically.
+
+Wundt began the field know as structuralism, a school of psychology whose goal
+
+was to Identify the basic elements or «structures» of psychological experience. Its
+
+goal was to create a «periodic table» of the «elements of sensations» similar to the
+
+periodic table of elements that had recently created in chemistry.
+
+(4) Structural used the method of introspection to attempt to create a map of the
+elements of consciousness Introspection involves asking research participants
+to describe exactly what they experience as they work on mental tasks. such as
+viewing colors. reading a page in a book or performing a math problem.instance,
+that he saw some black and colored straight and curved marks on a white
+background. In other studies, the structuralists used newly invented reaction time
+instruments to systematically assess not only what the participants were thinking
+but how long it took them to do so.
+Wundt discovered that it took people longer to report what sound they had just
+heard that to simply respond that they had heard the sound. These studies marked
+the first-time researchers realized that there is a difference between the sensation
+of a stimulus and the perception of that stimulus, and the idea of using reaction
+time to study mental events has now become a mainstay of cognitive psychology.
+(5) Perhaps the best known of the structurnlists was Edward Bradford Titchener
+(1867-1927). Titchener was a student of Wundt who came to the United States in
+the late  1800s and founded a laboratory at Comell University. In his research using
+introspection, Titchener and his students claimed to have identified more than
+40,000 sensations, including those relating to vision, hearing, and taste.
+(6) An important aspect of the structuralist approach was that it was rigorous and
+scientific. The research marked the beginning of psychology as a science, because
+it demonstrated that mental events could be quantified. But the fundamental
+problem that these philosophers faced was that they had few methods for settling
+their claims. Most philosophers didn’t conduct any research on these questions. In
+part because they didn’t yet know how to do it, and in part because they weren’t
+sure it was even.
+53 What does Descartes’ principle of duality deal with?
+  A) body and mind
+  B) nerves and muscles
+  C) humans and animals
+  D) science and philosophy
+54 What three examples did the structuralists use to explain introspection?
+  A) tasting some food, hearing a sound and performing a math problem.
+  B) viewing colors, reading a book and performing a math problem.
+  C) tasting some food, reading a book and drawing a picture.
+  D) viewing colors, drawing a picture and hearing a sound.
+
+Passage 14
+Viruses
+(1) Some illnesses are caused by bacteria. Bacteria are alive: They’re very small —
+you can’t see them without a microscope — but they take in nutrients, reproduce
+and die. Viruses can make copies of themselves only by hijacking the cells of the
+creatures they infect. When the flu virus is outside of your body — lurking on a
+doorknob, for instance — it’s dead by any definition. But once inside your body, it
+shows many of the characteristics of life. Viruses might even be the descendants of
+living organisms that shed seemingly necessary traits to live more efficiently with a
+little help from our cells).
+(2) “Most viruses have molecules — genes and proteins —like us and other live beings.
+However, they need another living being to make these proteins,” says Jordi Paps,
+an evolutionary biologist at the University of Essex in England.
+(3) Some researchers point out that many organisms —including such parasites as
+tapeworms that can live in your gut — need hosts to feed them and help them
+reproduce. Viruses aren’t so different.
+(4) However, others say that all organisms, parasites or not, can make proteins by
+themselves, but viruses can’t, so this is why they do not consider them alive, Paps
+says.
+(5) Other scientists see it differently. “Viruses can be regarded similar to “seeds’ of
+plants”, says Gustavo.
+55 What idea do the words “with a little help from our cells” repeat?
+  A) Viruses need a host to live.
+  B) Viruses can only infect humans.
+  C) Viruses cooperate with living organisms.
+  D) Viruses are the descendants of living organisms.
+  A) They are the same as bacteria.
+  B) They can be seen with a microscope.
+  C) They can be alive when they are outside of a host.
+  D) They are only alive when they are inside of a host.
+Q56.
+
+What can we understand from Paragraph (1) about viruses?
+
+57 Which of the following is a fact?
+  A) All viruses can live outside of their hosts.
+  B) All viruses have molecules and are alive.
+  C) Viruses need hosts to live and reproduce.
+  D) Viruses can make proteins by themselves.
+Passage 15
+Private Limited Companies
+Passage A: Advantages of a private limited company
+(1) Shares can be sold to a large number of people (in some countries there is a
+maximum number). These can include friends and relatives - they cannot advertise
+the shares for sale to the general public. The sale of shares could lead to much
+larger sums of capital to invest in the business than original partners could manage
+to raise themselves. The business could therefore expand more rapidly.
+(2) All shareholders have limited liability. This is an important advantage. It means
+that if the company failed with debts owing to creditors, the shareholders could
+not be forced to sell their possessions to pay the debts. The shareholders could
+only lose their original investment in the shares - their liability is limited to the
+original investment. Shareholders in a company have less risk than sole traders
+and partners. Limited liability encourages people to buy shares, knowing that the
+amount they pay is the maximum they could lose if the business is unsuccessful. It
+is important that the people and other businesses that deal with a private limited
+company know that it is not a sole trader or a partnership. Creditors, for example,
+need to be aware that if the business did fail, then they could not take the owners
+to court to demand payment from their savings. For this reason, all private limited
+company names must end with ‘Limited’, or ‘Ltd’ as an abbreviation. In some
+countries, although not the UK, this title is amended to ‘Proprietary Limited’ or
+(Pty) Ltd’. There can be many shareholders, but they need permission from other
+shareholders to sell their shares
+Passage B: Disadvantages of a private limited company
+(1) There are significant legal matters which have to be dealt with before a company
+can be formed. In particular, two important forms or documents have to be sent to
+the Registrar of Companies.
+(2) The Articles of Association - This contains the rules under which the company
+will be managed - the rights and duties of all of the directors; rules concerning the
+election of directors and the holding of official meetings; and the procedure to be
+followed for the issuing of shares.
+
+(3) The Memorandum of Association - This contains very important information about
+the company and the directors. The official name and the address of the registered
+offices of the company must be stated. The objectives of the company must be
+stated as well as the number of shares to be bought by each of the directors.
+(4) Both of these documents are intended to make sure that companies are correctly
+run and to reassure shareholders about the purpose and structure of the company.
+Once these documents have been received by the Registrar of Companies, then a
+Certificate of Incorporation will be issued to allow the company to start trading.
+(5) The shares in a private limited company cannot be sold or transferred to anyone
+else without the agreement of the other shareholders. This rule can make some
+people reluctant to invest in such a company because they may not be able to sell
+their shares quickly if they require their investment back.
+(6) The accounts of a company are less secret than for either a sole trader or a
+partnership. Each year the latest accounts must be sent to the Registrar of
+Companies and members of the public can inspect them. Owners have to be
+prepared to allow more information about their business to be known to other
+people.
+(7) Most importantly for rapidly expanding businesses, the company cannot offer its
+shares to the general public. Therefore, it will not be possible to raise really large
+sums of capital to invest back into the business.
+58 What do passages A and B say about a private limited company?
+  A) Its shareholders have low personal financial risk, but they must get permission to
+sell their shares.
+  B) Its shareholders can be a large number of people, but they must be friends and
+relatives.
+  C) It must write articles of association and publish names and addresses of all its
+workers.
+  D) It must use the word ‘Limited’ or ‘Ltd’ after its name and create a company logo.
+59 What do passages A and B say about the shareholders of a private limited
+company?
+  A) They must also be directors of the company and go to official meetings.
+  B) They have limited liability and so must sell their possessions if the company fails.
+  C) There can be many shareholders, but they need permission from other
+shareholders to sell their shares.
+  D) They find it difficult to sell shares quickly because they need permission from the
+Registrar of Companies.
+
+60 What do passages A and B say about a private limited company obtaining capital
+investment?
+  A) It can sell shares to the general public and expand more rapidly than a sole trader.
+  B) It must become a (Pty) Ltd company if it needs really large sums for rapid expansion.
+  C) It can raise more than a sole trader, but it is difficult to raise extremely large sums.
+  D) It must offer new shares to family and friends before offering them to the general
+public.
+
+ANSWER KEY
+--------------------
+Q21: B
+Q22: A
+Q23: A
+Q24: D
+Q26: D
+Q27: C
+Q29: A
+Q30: D
+Q31: B
+Q32: C
+Q33: D
+Q34: C
+Q35: B
+Q36: D
+Q40: D
+Q41: D
+Q42: D
+Q43: B
+Q44: A
+Q45: C
+Q46: B
+Q47: D
+Q48: C
+Q49: D
+Q50: D
+Q51: A
+Q53: A
+Q54: B
+Q55: A
+Q56: D
+Q57: C
+Q60: C
+
+
+GRAMMAR
+========================================
+
+ًنموذج أكثر تكرارًا
+Q61.
+Lisa was too tired to study last night, ………………. she had a cup of tea and watched
+some television
+  A) because
+  B) why
+  C) but
+  D) so
+62 We have almost completed the course. Only ……….. classes are left.
+  A) a few
+  B) many
+  C) a little
+  D) several
+63 You need …………. of money to buy an Italian sports car.
+  A) large amount
+  B) too much
+  C) so much
+  D) a lot
+64 Mona has almost finished reading the book. She only has ………… pages left.
+  A) much
+  B) little
+  C) a few
+  D) a little
+65 The student …………… wrote this essay is the best one ever to take this course.
+  A) who
+  B) which
+  C) that he
+  D) who he
+66 I’m sorry I’m late for class. I couldn’t find ……… free parking spaces.
+  A) a lot
+  B) any
+  C) some
+  D) much
+67 When you go to the bookstore today, ……….. you buy a notepad for me, please?
+  A) shall
+  B) would
+  C) should
+  D) must
+68 If the teacher gives me a bad grade on my essay, I ………… to him about it.
+  A) talk
+  B) am talk
+  C) will talk
+  D) going to talk
+
+69 Helen and Mary………………. for me for the past two hours.
+  A) waits
+  B) is waiting
+  C) has waited
+  D) have been waiting
+70 Sara hasn’t met her supervisor …………….   a month.
+  A) for
+  B) from
+  C) since
+  D) during
+Q71.
+Lucy ………..when her mother told her to come and eat.
+  A) studied
+  B) was studying
+  C) is studying
+  D) will study
+72 The students have been working on their project ……..………… several hours now.
+They must be tired.
+  A) for
+  B) yet
+  C) since
+  D) about
+73 Did you and Lisa blame ……………….. for failing the exam?
+  A) yourselves
+  B) ourselves
+  C) yourself
+  D) yours
+74 I’m …………….. studying Physics next term; it’s so interesting!
+  A) differently
+  B) definition
+  C) definitely
+  D) defined
+75 If you …………….. your essay on time, you wouldn’t have lost any points.
+  A) submitted
+  B) had submitted
+  C) have submitted
+  D) would submit
+76 Mrs. Harris, …………. you met last week, is our new English teacher.
+  A) she
+  B) her
+  C) whom
+  D) which
+77 We …………….. for the results on our final exam for four days now.
+  A) have been waiting
+  B) had waited
+  C) are waiting
+  D) wait
+
+78 Mr. Davis has not missed a single lecture ……….. he started teaching.
+  A) for
+  B) from
+  C) until
+  D) since
+79 When the term ……………, I will go on holiday.
+  A) would end
+  B) will end
+  C) ended
+  D) ends
+80 When I came to campus this morning, I saw that the old university building …..….. into
+a sports club.
+  A) turned
+  B) is turned
+  C) being turned
+  D) had been turned
+Q81.
+I’m sure you will all enjoy ………in the course Physics 101. The teacher is great.
+  A) yourselves
+  B) ourselves
+  C) yourself
+  D) yours
+82 She must be ready for her exam; she ……….. for weeks.
+  A) has studied
+  B) has been studying
+  C) studied
+  D) is studying
+83 I wouldn’t go to that university if I …………… you.
+  A) am
+  B) were
+  C) being
+  D) been
+84 Mrs. Carter …………. English literature since 1995.
+  A) taught
+  B) was teaching
+  C) has been teaching
+  D) had been teaching
+85 Mr. Smith ……………….. a book a week for 25 years.
+  A) had been reading
+  B) has been reading
+  C) was reading
+  D) has reading
+86 Diana found the course very easy, because her mother …………… many of the topics to
+her last year.
+  A) she explained
+  B) she explains
+  C) had explained
+  D) has explained
+
+87 Kate was almost finished with the exam when the teacher………that time was up.
+  A) says
+  B) said
+  C) has said
+  D) had said
+88 I’m sorry to make you ………… my essay, but I’m too busy to do it myself.
+  A) write
+  B) wrote
+  C) writing
+  D) to write
+89 The new college campus ……………. five years ago.
+  A) had been built
+  B) has been built
+  C) was built
+  D) is built
+90 I don’t know how ……………. graduate a year early.
+  A) managed Ken to
+  B) Ken managed to
+  C) did manage Ken to
+  D) did Ken managed to
+
+ANSWER KEY
+--------------------
+Q61: D
+Q62: A
+Q63: D
+Q64: C
+Q65: A
+Q66: B
+Q67: B
+Q68: C
+Q69: D
+Q70: A
+Q71: B
+Q72: A
+Q73: A
+Q74: C
+Q75: B
+Q76: C
+Q77: A
+Q78: D
+Q79: D
+Q80: D
+Q81: A
+Q82: B
+Q83: B
+Q84: C
+Q85: B
+Q86: C
+Q87: B
+Q88: A
+Q89: C
+Q90: B

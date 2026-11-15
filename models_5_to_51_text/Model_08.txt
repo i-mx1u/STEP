@@ -1,0 +1,778 @@
+MODEL 8
+========================================
+
+READING
+========================================
+
+Q50.
+Model
+Passage 1
+(اعالن بيع سيارة)
+For sale
+model 2011 / 5-door / manual
+White
+88.500 km
+No accidents
+Q21.
+This is an advertisement for a …..
+  A) car
+  B) laptop
+  C) camera
+  D) motorbike
+Passage 2
+(جداول إحصاءات استخدام وسائل التواصل االجتماعي
+The following are the results of a survey conducted on the forms of social media.
+What type of social media do you use?
+total
+women
+Men
+Q76.
+Q42.
+Q34.
+Twitter
+Q77.
+Q41.
+Q36.
+Instagram
+Linked in
+Our square
+Q60.
+Q36.
+Q24.
+Facebook
+How many hours a day o you spend on social media?
+total
+women
+Men
+0-1
+Q41.
+Q24.
+1-3
+Q47.
+Q28.
+4-6
+7+
+
+22 Which form of social media is least popular among women?
+  A) Twitter
+  B) Linked in
+  C) Instagram
+  D) Facebook
+
+Q51.
+Q23.
+Which form of the social media is the most popular?
+  A) Twitter
+  B) Linked in
+  C) Instagram
+  D) Facebook
+24 How much time do most men spend on social media?
+  A) 0-1
+  B) 1 – 3
+  C) 4 – 6
+  D) 7 +
+25 How much time do most people spend on social media?
+  A) 0-1
+  B) 1 – 3
+  C) 4 – 6
+  D) 7 +
+Passage 3
+(لوحة تحذيرية معناها توقف هنا ان كنت ال تجيد السباحة)
+Non swimmers are not allowed beyond this point
+26 What does this sign mean?
+  A) You are entering a children’s play area
+  B) All swimmers must enter the pool here
+  C) NO ONE is allowed to go further
+Dً
+Stop here if you CANNOT swim
+
+Q52.
+Passage 4
+Workshop and Khalid
+(1) Khalid attended a weekend workshop on mind fullness training and it had been great. He felt he
+had really benefited from what he had learned. Mindfulness is basically a way to discipline and
+control one’s actions in such a way that they are always in line with one’s goals. The first thing he
+had learned was that for attentive mindfulness, a person’s goals in life must be clearly thought out
+and selected. Once that is done, the next step is to keep all details on how we spend our energy in
+a state of conscious awareness. The result is that we are always on target. The most insignificant
+detail then becomes an effortless
+effortless expenditure of energy that keeps us in line with our goals.
+(2)As the weekend came to an end, Khalid thanked those and conducted the workshop. He also
+thanked the other participants who had shared the weekend with him. He affirmed that he
+valuable lessons in maintaining who had made presentations had indeed learned. They would like
+his two daughters. He and his wife had been searching for some special lamps for their bedrooms,
+but hadn’t been able to find what the girls wanted. In the big city he found exactly what each of
+them had said they wanted, and on top of that, he knew his wife would be more than pleased
+pleased with
+the beautiful necklace and earrings he had purchased.
+(3) On and on he drove. Suddenly, a shocking realization came to him an hour after he had been on the
+road. His bag! He had left it behind at the hotel. On his way to the car with the bag. he had decided
+to stop in the gift shop and pick up something to eat in case he got hungry while driving. From the
+gift shop he went directly to his car without the bag. There was nothing to do but turnaround and go
+back to the hotel to get it. His four-hour drive would now be considerably longer than four.
+27 When was the workshop?
+  A) before the end.
+  B) during the week.
+  C) on a weekend.
+  D) at the end of the weekend
+28 The word effortless in Paragraph (1) , is closest in meaning to.....
+  A) Without goals.
+  B) Without details
+  C) Without working.
+  D) Without significance
+29 According to Paragraph (2), to whom did Khalid expected his appreciation for the
+workshop?
+  A) Only the presenters at the workshop.
+  B) Only the businessmen at the workshop.
+  C) Some of his colleagues at the work­
+shop.
+  D) Everyone who was present at the work­
+shop.
+30 According to Paragraph (1) , Khalid will use what he learned at the workshop to
+control.....
+  A) His time at the office.
+  B) The maintenance of memory.
+  C) the different areas of his life.
+  D) All aspects of his employment.
+
+Q53.
+Q31.
+The word pleased in Paragraph (2) , is closest in meaning to.......
+  A) Good
+  B) Happy
+  C) Certain
+  D) Special
+Q32.
+According to Paragraphs (3) , how long will it take Khalid to drive home?
+  A) about 4 hours.
+  B) exactly 4 hours
+  C) much less than 4 hours.
+  D) much more than 4 hours
+Passage 5
+Fish (السمك)
+(1) Fish are cold-blooded vertebrates that live in water. They differ greatly in size,
+shape, color and habits. Some fish may look like worms, while others may resemble
+resemble
+rocks. All the colors of the rainbow can be found in fish. Some fish are very brightly
+colored while others can be very dull.
+(2) Fish can live in almost any conditions of water. They can live in the freezing waters
+of Antarctica, hot jungle streams, lakes and fast flowing mountain rivers. Nearly
+all fish get their oxygen from water. Although we cannot see itit, water does contain
+oxygen. To get this oxygen, the fish forces water through its gills. The gills absorb
+oxygen and release carbon dioxide into the water which then passes out through
+the gills.
+(3) Scientists have found over 21,000 different kinds of fish. They continue to find
+more species each year. Scientists who study fish are called ichthyologists. Fish are
+truly amazing animals to study and observe.
+Q33.
+What is the main idea of the passage?
+  A) the types of fish
+  B) the colors of fish
+  C) fish are fascinating animals
+  D) how fish live and play in water
+Q34.
+The word resemble in Paragraph (1) is closest in meaning to...............
+  A) differ from
+  B) look like
+  C) live in
+  D) move
+35 The word it in Paragraph (2) refers to ……
+  A) fish
+  B) water
+  C) a river
+  D) oxygen
+Q36.
+According to Paragraph (3), it is expected that in the new Norma the scientists will
+find more .........
+  A) fish
+  B) animals
+  C) kinds of animals
+  D) species of animals
+
+Q54.
+Passage 6
+Salt (اسطورة الملح واالميرة والخاتم)
+(1)According to a 700-year-old legend
+legend, a princess called the Blessed Kinga threw
+her ring into a salt mine at Marmaros in Hungary. While travelling from Marmaros
+to Cracow, she stopped at the neighbour and her servants were told to dig a well.
+Instead of water, the salt was discovered-and in the first lump of salt which was
+taken out, Kinga’s ring was found!
+(2)The legend is just a story - but it is true that for over seven centuries salt has been
+mined from the rock below the town of Wieliczka. The salt used to be dug out
+by hand, and until 1620 it was carried up to the surface by the miners. After the
+chamber was destroyed by fire in 1697, the miners were not allowed to take the
+wooden statue of the mine, so they began to carve sculptures of rock salt.
+(3)Nowadays visitors are shown how salt was mined long ago, and can see the
+enormous chambers which have been dug out of the solid rock. They can also see
+pretty green lakes, and chapels with beautiful carvings.
+Q37.
+The word legend in Paragraph (1), is closest in meaning to......
+  A) a tale
+  B) an epic.
+  C) an episode.
+  D) a mystery
+Q38.
+According to Paragraph (1), the legend states that princess Kinga asked her servants
+to.........
+  A) dig a mine
+  B) bring her some salt
+  C) bring her some water
+  D) make a source of fresh water.
+Q39.
+According to Paragraph (1), Kinga’s ring was found in......
+  A) Gold mine.
+  B) Sound lump.
+  C) Salt mine.
+  D) Water well.
+40 According to Paragraph (2), the story about princess Kinga is.....
+  A) Romantic
+  B) Fictitious
+  C) Religious
+  D) Real
+Q41.
+According to Paragraph (2), what happened in 1697?
+  A) Some miners were fired.
+  B) The mine was destroyed.
+  C) A chamber burned.
+  D) A chamber broke.
+42 According to par 2, miners made their statues from the rock Salt because it is.....
+  A) Easier to burn.
+  B) Easier to make.
+  C) Safer than wood.
+  D) Heavier than wood
+
+Q55.
+Passage 7
+( اديسون المخترع العظيم)
+(1)Thomas Alva Edison lit up the world with his invention of the electric light. Without
+him, the world might still be a dark place. However, the electric light was not his
+only invention. He also invented the phonograph, the motion picture camera, and
+over 1,200 other things. About every two weeks he created something new.
+(2)Thomas A. Edison was born in Mila, Ohio, on February 11, 1847. His family moved
+to Port Huron, Michigan, when he was seven years old. Surprisingly, he attended
+school for only two months. His mother, a former teacher, taught him a few things,
+but Thomas was mostly self-educated. His natural curiosity led him to start
+experimenting at a young age with electrical and mechanical things at home.
+(3)When he was 12 years old, he got his first job. He became a newsboy on a train
+that ran between Port Huron and Detroit. He set up a laboratory in a baggage car of
+the train so that he could continue his experiments inexperience did not end well.
+Thomas was fired when he accidentally set fire to the floor of the baggage car.
+(4)Thomas then worked for five years as a telegraph operator, but he continued to
+spend much of his time on the job conducting experiments. He got his first patent
+in1868 for a vote recorder run by electricity. However, the vote recorder was not
+a success. In 1870, he sold another invention, a stock-ticker, for $40,000.stock-
+ticker is a machine that automatically prints stock prices on a tape. He was then
+able to build his first shop in Newark, New Jersey.
+(5)Thomas Edison was totally deaf in one ear and hard of hearing in the other. He
+thought of his deafness as a blessing in many ways. It kept conversations short,
+so that he could have more time for work. He called himself a “two-shift man”
+because he worked 16 out of every 24hours. Sometimes he worked so intensely
+that his wife had to remind him to sleep and eat. Thomas Edison died at the age of
+84 on October 18, 1931, at his estate in West Orange, New Jersey. He left numerous
+inventions that improved the quality of life all over the world.
+Q43.
+The best title for the passage is.....
+  A) Edison: a man of clumsy inventions
+  B) Edison: an academic mind.
+  C) Edison: a great inventor.
+  D) Edison: a man of unfulfilled dreams.
+44 According to Paragraph (1), Edison’s most important invention was the......
+  A) Motion picture camera.
+  B) Phonograph
+  C) Stock ticker.
+  D) Light bulb.
+45 According to Paragraph (3), Edison lost his first work because he.......
+  A) accidentally started a fire.
+  B) occasionally spared time.
+  C) Created something new.
+  D) Was too young.
+
+Q56.
+46 According to Paragraph (4), Edison was able to build his first shop because he......
+  A) Worked as a telegraph operator.
+  B) Earned his first patent.
+  C) Sold his vote recorder.
+  D) Sold his stock ticker.
+Q47.
+According to Paragraph (5), Edison considered his deafness to be......
+  A) disadvantage.
+  B) An advantage.
+  C) A necessity.
+  D) A charm.
+48 The pronoun it in Paragraph (5), refers to his......
+  A) Blessing
+  B) Deafness
+  C) Thought
+  D) Ear
+Passage 8
+Dolphin (الدولفين)
+(1)Welcome to Dolphin Ocean Park. We’re really happy that you are here to learn
+about the amazing animals we call dolphins. Dolphins are highly intelligent marine
+mammals and are part of the toothed whale family.
+(2)They are found worldwide, some in freshwater rivers, but most species live in
+shallow areas of oceans worldwide. They are carnivores, eating mostly fish and
+squid. They use echolocation, bouncing sound off underwater objects, to hunt
+together. Dolphin coloration varies, but they are generally gray in color with darker
+backs than the rest of their bodies.
+49 The people reading this notice are most likely......
+  A) Visitors about to see dolphins.
+  B) Visitors of a museum.
+  C) Experts on dolphins.
+  D) Students in a school.
+50 It can be understood from the passage that dolphins.......
+  A) Avoid eating other animals.
+  B) Are always the same color.
+  C) Hunt individually.
+  D) are very smart.
+
+Q57.
+Passage 9
+Currencies (العمالت المعدنية أصولها  وأسباب تسميتها)
+(1) There are so many currencies in the world with differing names. The origins and
+development of these names and uses have an interesting history.
+(2) The dollar is one of the most common currencies in the world used by the US,
+Australia, Canada, Fiji, New Zealand, and Singapore to name a few. The origin of the
+dollar, also the Slovenian tolar, is from a German coin called the Joachimsthaler,
+shortened to Thaler or dalerin Low German). It was named after the valley in which
+the silver it was made from was mined, the Joachimsthal, literally Joachim”s
+valley. The term began to be used in other languages, especially Dutch, and was
+later applied to the most widely used coin in the American colonies.In 1792, it was
+adopted as the official name of the US monetary unit.
+(3) Many countries use the dinar, which comes from the Latin denarius, an ancient
+Roman silver coin: The Jordanian dinar. Algerian dinar, Serbian dinar, and Kuwaiti
+dinar among others.
+(4) The Indian and Pakistani rupee as well as the Indonesian rupiah derive from the
+Sanskrit rupya, meaning ‘wrought silver, which is what they were originally made
+of.
+(5) The Malaysian mggit is from the Malay for jagged and refers to the serrated edges
+of the Spanish silver dollars used as currency in Malaysia before the ringgit was
+introduced. Serrated edges on coins became popular when coins were made of
+precious metals like gold and silver because the ridges made it harder for people to
+scrape off metal and devalue the coins.
+(6) Although the Germans and the Finns use the Euro now,their former currencies the
+German mark and the Finnish markka, both have their origin in units of weight.
+While Spanish peso meaning ‘weight” in Spanish, is also no longer used in Spain, it
+lives on as the currency of Mexico, Argentina and the Philippines. The British pound
+or pound sterling comes from the Latin pondus weight.
+(7) Many Scandinavian countries use currency whose name is ultimately derived from
+the Latin corona meaning crown’: Swedish krona, Norwegian krone, Danish krone,
+and the Czech koruna.krone, Danish.
+(8) The Spanish real, a former currency of Spain derived from the Latin regalis
+meaning royal, which is the origin of a number of Middle Eastern currencies such as
+the Omani and Iranian riyal, and the Qatari, Yemeni, and Saudi riyal. The riyal has
+been the currency of Saudi
+Arabia since the country came into being and was the currency of Hejaz before
+Saudi Arabia was created.
+Q51.
+According to the passage, which of the following is true about currencies?
+  A) Some are named after kings.
+  B) Some are named after places.
+  C) Some were named based on the metal
+uses.
+  D) Some were named based on how heavy
+they were.
+
+Q58.
+52 We can understand from the Paragraph (2), that the Dollar has its name from
+the......
+  A) Australians
+  B) Americans
+  C) Canadians
+  D) Germans
+53 According to Paragraphs (3)and(4), what did the Dinar and Rupee have in common?
+  A) The material form which they were
+made.
+  B) The similar origin of the names.
+  C) The countries they are used in.
+  D) The value that they held.
+54 The word it in Paragraph (6), refers to...
+  A) Peso
+  B) Spain
+  C) Weight
+  D) Markka
+55 The expression derived from in Paragraph (7), is closest in meaning to....
+  A) Originated
+  B) Translated
+  C) Explained
+  D) Produced
+56 According to Paragraph (8), the origin of the word Riyal is......
+  A) Hejazi
+  B) Spanish
+  C) Yemeni
+  D) Ottoman
+Passage 10
+(رسالة الى توم)
+Message to Tom
+“Steve: Can I come and see you next weekend?
+Tom: on Friday I am busy, but Saturday will be OK.”
+57 What did Steve ask in his message to Tom?
+  A) Are you usually busy at weekends?
+  B) What do you usually do on Fridays?
+  C) What are you going to do on Saturday?
+  D) Can I come and see you next weekend?
+
+ANSWER KEY
+--------------------
+Q21: A
+Q22: B
+Q23: C
+Q24: C
+Q25: C
+Q26: D
+Q27: C
+Q28: C
+Q30: C
+Q31: B
+Q32: D
+Q33: C
+Q34: B
+Q35: D
+Q36: D
+Q37: A
+Q38: D
+Q39: C
+Q40: B
+Q41: C
+Q42: C
+Q43: C
+Q44: D
+Q45: A
+Q46: D
+Q47: B
+Q48: B
+Q49: A
+Q50: D
+Q52: D
+Q54: A
+Q55: A
+Q56: B
+Q57: D
+
+
+GRAMMAR
+========================================
+
+Q59.
+  A) at
+  B) in
+  C) on
+  D) to
+Q64.
+You are ………………. teacher I’ve ever had.
+  A) best
+  B) better
+  C) the best
+  D) better than
+Q65.
+Ahmad and Ali are friends but they treat each other……….. brothers.
+  A) like
+  B) for
+  C) good
+  D) same
+Q66.
+A. Excuse me. Is this Dave’s?
+B. No, it’s......
+  A) I
+  B) Me
+  C) My
+  D) Mine
+Q67.
+I’ve been...... University since six o’clock in the morning.
+  A) over
+  B) by
+  C) on
+  D) at
+Q61.
+
+In which sentence is all CAPITALIZATION correct?
+  A) I heard that mr. Davis is traveling to japan next Friday.
+  B) I heard that mr. Davis is traveling to Japan next Friday.
+  C) I heard that Mr. Davis is traveling to Japan next friday.
+  D) I heard that Mr. Davis is traveling to Japan next Friday.
+Q62.
+
+In which sentence is all PUNCTUATION correct?
+  A) Instead of taking the elevator to the top I decided, to take the stairs.
+  B) Instead of taking the elevator to the top; I decided to take the stairs.
+  C) Instead of taking the elevator to the top I decided to take the stairs.
+  D) Instead of taking the elevator to the top. I decided to take the stairs.
+Q63.
+
+Let’s meet…………….9.00 a.m.
+
+Q60.
+Q68.
+will: Do you want me to fix the window?
+Ben: No, I’ll do it…………………
+  A) myself
+  B) mine
+  C) my
+  D) me
+Q69.
+Before ………. To bed every night, remember to brush your teeth.
+  A) go
+  B) to go
+  C) going
+  D) gone
+Q70.
+Friend: Can John come out to play?
+Father: I’m sorry. He……………..his homework at the moment.
+  A) does
+  B) is doing
+  C) was doing
+  D) will be doing
+Q71.
+Would you like …………. more coffee?
+  A) some
+  B) many
+  C) a
+  D) lot
+Q72.
+……She heard the good news; Julia ran out of house to tell her friends all about it.
+  A) While
+  B) When
+  C) Already
+  D) Just
+Q73.
+The lunch was delicious. ........enjoyed it.
+  A) Anybody
+  B) Anybody of us.
+  C) Everybody
+  D) Everybody of us.
+Q74.
+In which sentence is all CAPITALIZATION correct?
+  A) The Jupiter and mars exhibits at the London planetarium are fascinating.
+  B) The jupiter and mars Exhibits at the London planetarium are fascinating.
+  C) The jupiter and mars exhibits at the London Planetarium are fascinating.
+  D) The Jupiter and Mars exhibits at the London Planetarium are fascinating.
+Q75.
+If you......me, I can solve the math problem.
+  A) had taught
+  B) teach
+  C) have taught
+  D) teaching
+
+Q61.
+Q76.
+A: …………… a chain smoker.    B: Really? When was that?
+  A) I am using to be
+  B) I used to be
+  C) I’m used to
+  D) I use to be
+Q77.
+Which one of the underlined words or phrases is INCORRECT?
+Evening classes are the worse part of my class schedule this semester
+  A) Evening
+  B) Are
+  C) Worse
+  D) Of
+Q78.
+Jack is not a hard-working student. ………,he always gets excellent grades.
+  A) Although
+  B) Therefore
+  C) Moreover
+  D) However
+Q79.
+In which sentence is all CAPITALIZATION correct?
+  A) Mrs. Nora always began her English lesson by asking the students, “How are all of you
+this Monday morning?”
+  B) Mrs. Nora always began her English Lesson by asking the student, “how are all of You This
+Monday morning?”
+  C) Mrs. Nora always began her English Lesson by asking the students, “how are all of you this
+Monday Morning?”
+  D) Mrs. Nora always began Her English lesson by asking the students. “How are all of you this
+monday Morning?’
+Q80.
+When they........, we’ll all go together to the end-of-the-year party.
+  A) had arrived
+  B) arrive
+  C) arrived
+  D) will arrive
+Q81.
+Wife: did you forget to buy milk?
+Husband: I didn’t forget. But by the time I arrived to the shop, they........
+  A) already close
+  B) had already closed
+  C) have already closed
+  D) would already close
+Q82.
+Which one of the underlined words or phrases is INCORRECT?
+- In my spare time I enjoy taking care of my garden and to read short stories.
+  A) I
+  B) taking care
+  C) my
+  D) to read
+
+Q62.
+Q83.
+Which sentence has the CORRECT WORD ORDER?
+  A) I tried to explain why I borrowed the umbrella
+  B) I tried explain to why I borrowed the umbrella
+  C) I tried to explain why the umbrella I borrowed
+  D) tried why I borrowed the umbrella to explain
+Q84.
+It was …………… cold to go outdoors today.
+  A) enough
+  B) much
+  C) a lot
+  D) too
+Q85.
+Choose the CORRECT ORDER to make the following sentences into paragraph:
+(1) if they wanted him to explain
+(2) the answer in more detail.
+(3) the teacher asked the students
+(4) At the end of the lesson.
+  A) (4), (3), (2), (1)
+  B) (4), (3), (1), (2)
+  C) (3), (4), (1), (2)
+  D) (3), (4), (2), (1)
+Q86.
+My vacation begins ……………. June 22.
+  A) On
+  B) For
+  C) at
+  D) at
+Q87.
+If you want to see your writing grades, come by ray office tomorrow morning.
+I………………your essays by then.
+  A) mark
+  B) am marking
+  C) have marked
+  D) will have marked
+Q88.
+I…………. for the exam last night.
+  A) study
+  B) studied
+  C) had studied
+  D) would study
+Q89.
+The chocolate cake ………………. before my father came home.
+  A) at
+  B) was eating
+  C) eaten
+  D) was eaten
+
+Q63.
+Q90.
+It normally takes me………. minutes to shave, but today I’m taking my time.
+  A) much
+  B) some
+  C) a few
+  D) lot of
+Q91.
+The man……… you spoke to at the party last night used to be my roommate.
+  A) which
+  B) whose
+  C) who
+  D) where
+Q92.
+Mom: George! I………. for you since 5:00 to help me.
+George: sorry, mom I was in the basement.
+  A) have been looking.
+  B) am looking.
+  C) looking
+  D) look
+Q93.
+I …………. my pen. Have you seen it?
+  A) lost
+  B) am lose
+  C) have lost
+  D) am losing
+Q94.
+Which one of the following sentences has the CORRECT WORD ORDER?
+  A) In the world affected by climate change, Peru likely to be the most top three nations is rated
+among.
+  B) Among the top three nations is most likely Peru rated to be change affected by climate in the
+world.
+  C) Peru is rated among the top three nations likely to be most affected by climate change
+in the world.
+  D) Climate change in the world is most likely to be affected by Peru rated among the top three
+nations
+Q95.
+Which one of the underlined words or phrases is INCORRECT?
+Jane was very pleased that much of her friends helped her in her time of need, except for a few who were
+too busy handling their own problems.
+  A) much
+  B) except
+  C) who
+  D) handling
+Q96.
+Since the property is very old and needs many repairs, landlord…………. the rent at
+the beginning of the coming year.
+  A) might reduce
+  B) might reduces
+  C) might reduced
+  D) might reducing
+
+Q64.
+Q97.
+Choose the CORRECT ORDER to make the following sentences into paragraph
+(1) Her mother bought a special wooden frame for it.
+(2) One of her paintings reminded her mother of the busy activity of a city.
+(3) Once a week, she would create an abstract painting with intricate patterns.
+(4) Whenever guests came, they would admire the beauty of that painting.
+(5) Jenny loved to paint with watercolors.
+  A) (5), (1), (3), (2), (4)
+  B) (5), (2), (1), (4), (3)
+  C) (5), (3), (2), (1), (4)
+  D) (5), (4), (3), (2), (1)
+Q98.
+Mark likes the book I gave him so much, he …………. it three times.
+  A) reads
+  B) has read
+  C) have had
+  D) had have
+Q99.
+If they ……… enough money, they would have built modern villas.
+  A) have got
+  B) had had
+  C) have had
+  D) had have
+100 Jane: Hey Lisa, …… Kate                 She’s lost a lot of weight.  Lisa: I can’t wait to see her.
+  A) did you see
+  B) do you see
+  C) have you seen
+  D) are you seeing
+lately?
+
+ANSWER KEY
+--------------------
+Q61: D
+Q62: B
+Q63: A
+Q64: C
+Q65: A
+Q66: D
+Q67: D
+Q68: A
+Q69: C
+Q70: B
+Q71: A
+Q72: B
+Q73: C
+Q74: D
+Q75: B
+Q76: B
+Q77: C
+Q78: D
+Q80: B
+Q81: B
+Q82: D
+Q83: A
+Q84: D
+Q85: B
+Q86: A
+Q87: D
+Q88: B
+Q89: D
+Q90: C
+Q91: C
+Q92: A
+Q93: C
+Q95: A
+Q96: A
+Q97: C
+Q98: B
+Q99: B
+Q100: C

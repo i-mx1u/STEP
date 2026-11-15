@@ -1,0 +1,845 @@
+MODEL 38
+========================================
+
+READING
+========================================
+
+Passage 1
+(1) The paper we use today is made by machine. Trees are cut up and processed into a
+mixture called wood pulp. The pulp, containing tiny cellulose fibers, is pressed and
+rolled out to form sheets of paper.
+(2) The first manmade writing material was not paper. About 4,000 years ago, the
+ancient Egyptians took the fibrous stems of the papyrus plant, flattened them
+them, laid
+them crosswise and pressed them down to stick them together. When dried, this
+made a piece of papyrus that could be written on.
+(3) Paper was first made in China around the year 105 CE by a man called Ts’ailun. He
+found a way to make paper from the stringy inner bark of the mulberry tree. The
+bark was pounded in water to separate the fibers. This mixture was then poured
+into a bamboo tray to let the water drain out. After that, the soft mat of paper was
+moved onto a smooth, flat surface to dry. Later, someone discovered that the paper
+could be improved by brushing it with starch to make it stronger.
+(4) Chinese traders travelled around Asia as far as Samarkand. There, they met with
+Arab merchants who learned the secret of making paper and took it to Spain.
+Afterwards, the art of papermaking spread throughout the rest of Europe.
+(5) Since then, many kinds of machines have been invented and improved methods
+discovered for making paper. One of the most important, for example, was a
+machine developed in France in 1798. This machine could make a continuous sheet
+or web of paper. Before, paper could only be produced in separate sheets.
+Q21.
+The word them in Paragraph ( 2) refers to ……
+  A) Ancient Egyptians
+  B) writing materials
+  C) papyrus stems
+  D) paper
+22 According to passage, the first real paper was made in …….
+  A) Egypt
+  B) China
+  C) France
+  D) Samarkand
+23 According to the passage, who introduced the paper-making process to Europe?
+  A) Ts’ailun
+  B) Chinese traders
+  C) the Arabs
+  D) the Spanish
+24 Which component is necessary for making both paper and papyrus?
+  A) tree bark
+  B) tree wood
+  C) plant starch
+  D) fibrous material
+
+Passage 2
+Pony Express
+(1)
+
+The Pony Express was a system that delivered mail by horses between Missouri
+
+and California. A person riding a horse would carry the mail. The service lasted for
+
+only about a year and a half in the early 1860s. Nevertheless, the Pony Express is
+
+well remembered in stories about the American West.
+(2)
+
+Beginning in the 1840s many people from the easter United States began to move
+
+to the west. The discovery of gold in California in 1848 and in Colorado and Nevada
+
+in 1859 brought thousands of explorers in search of riches. Other people came to
+
+settle the land or to start a new life. By 1860 some 40.000 members of the religious
+
+group known as Mormons had settled in what is now Utah. The population of
+
+Oregon also greatly increased. The new settlers often came into conflict with the
+
+Native Americans who already lived on the land. More settlers continued to arrive,
+
+however.
+(3)
+
+Mail from the East took a long time to reach these people. In 1851 the United
+
+States government arranged to send mail to California and Oregon by sea. However,
+
+it took about a month for a letter to travel from New York to California. Then a
+
+stagecoach service was begun, but this took 24 days. The people in the West
+
+demanded faster mail service.
+(4)
+
+The idea of using fast horses or ponies to carry mail may have come from F.X.
+
+Aubrey, who hauled goods down the Santa Fe Trail in freight wagons. The Santa
+
+Fe Trail was an important commercial route during the mid-19th century. On his
+
+trips from Missouri to Santa Fe, New Mexico, Aubrey left horses along the trail with
+
+traders and others. On his return by horseback, he changed a tired horse for a fresh
+
+one.
+(5)
+
+A company called Russell, Majors, and Waddell decided to set up a horseback mail
+
+service from Saint Joseph, Missouri, to California. The route was nearly 2,000 miles
+
+(3,200 kilometers) long. Along the way there were 157 stations—one about every
+
+10 to 15 miles (16 to 24 kilometers). A rider carried about 15 pounds (7 kilograms)
+
+of letters in a pouch. He changed horses at every station. After 6 to 8 stations a new
+
+rider took over. Only the pouch of mail traveled the entire distance. This usually
+
+took about 10 days.
+(6)
+
+The first mail pouch left Saint Joseph on April 3, 1860, and arrived in Sacramento,
+
+California, on April 13. The Pony Express lost only one load of mail, even though the
+
+riders faced outlaws, attacks by Native Americans, and rough country.
+
+The most
+
+famous Pony Express rider was William Cody, who later became known as Buffalo
+
+Bill.
+(7)
+
+The Pony Express provided an important link with the West, but it did not earn
+enough money. It was closed down when a telegraph system was completed in
+October 1861. In
+all, the horses had galloped 616,000 miles (991,000 kilometers) back and forth
+over the trail.
+
+25 When did they discover gold in California?
+A
+B
+C
+  D) 26 How long did a stagecoach take to travel from New York to California?
+  A) A month
+  B) Two months
+  C) 24 days
+  D) 10 days
+27 Which of these was the surname of a famous Pony Express rider?
+  A) Aubrey
+  B) Russell
+  C) Waddell
+  D) Cody
+
+Passage 3
+Universal Gravitation
+(1) Newton realized that gravity acts everywhere in the universe, not just on Earth. It
+is the force that makes an apple fall to the ground. It is the force that keeps all the
+planets in our solar system orbiting around the sun.
+(2) What Newton realized is now called the law of universal gravitation. The law of
+universal gravitation states that the force of gravity acts between all objects in
+the universe. This means that any two objects in the universe, without exception,
+attract each other. You are attracted not only to Earth but also to all the other,
+objects around you. Earth and the objects around you are attracted to you as well.
+However, you do not notice the attraction among objects because these forces are
+small compared to the force of Earth’s attraction
+Factors Affecting Gravity
+Factors Affecting Gravity
+(3) Two factors affect the gravitational attraction between objects: Mass and Distance.
+Mass is a measure of the amount of matter in an object. The SI unit of mass is the
+kilogram. One kilogram is the mass of about 400 modern pennies. Everything that
+has mass is made up of matter.
+(4) The more mass an object has, the greater its gravitational force. Because the sun’s
+mass is so great, it exerts a large gravitational force on the planets. That’s one
+reason why the planets orbit the sun.
+(5) In addition to mass, gravitational force depends on the distance between the
+objects. The farther apart two objects are, the lesser the gravitational force
+between them. For a spacecraft traveling toward Mars, Earth’s gravitational pull
+decreases as the spacecraft’s distance from Earth increases. Eventually the
+gravitational pull of Mars becomes greater than Earth’s, and the spacecraft is more
+attracted toward Mars.
+28 What is the writer’s main purpose?
+  A) to inform
+  B) to describe
+  C) to compare
+  D) to convince
+29 What is one important idea that the writer mention?
+  A) that the sun’s mass is so great.
+  B) that mass affects gravitational attraction.
+  C) that the mass of an object is how much it weighs.
+  D) that a kilogram is the same mass as about 400 pennies.
+30 What is one important point that the writer mentions?
+  A) Earth orbits the sun
+  B) All planets orbit the sun.
+  C) Newton invented the force of gravity.
+  D) Newton found gravity exists everywhere.
+
+Passage 4
+Freeware and Free software
+(6) Freeware means there are no paid licenses required to use the application, no fees
+or donations necessary, no restrictions on how many times you can download or open
+the program, and no expiration date.
+(7) However, it can still be restrictive in some ways. Free software, on the other hand,
+is completely and totally void of restrictions and allows the user to do absolutely
+whatever they want with the program.
+Freeware vs Free Software
+(3) Freeware is cost-free software and free software is copyright-free software. In other
+words, freeware is software under copyright but available at no cost; free software is
+software with no limitations, but might not be free in the sense that there’s no price
+attached to it.
+(4) Free software can be changed at the will of the user. This means that the user can
+make changes to the main elements of the program, re-write whatever they want.
+overwrite things, completely repurpose the program, etc.
+(5) For free software to truly be free requires the developer to release the program
+without restrictions, which is normally accomplished by giving away the source code.
+This type of software is often called open-source software, or free and open-source
+software (FOSS).
+(6) Free software is also 100 % legally redistributable and can be used to make a profit.
+This is true even if the user didn’t spend anything for the free software, or if they
+make more money from the free software than what they paid for it. The idea here is
+that the data is totally and completely available for whatever the user wants.
+(7) Freeware can be downloaded on many websites like: Softpedia, FileHippo.com, QP
+Download, CNET Download.
+Q31.
+What is one important idea related to “freeware” that the writer mentions in Paragraph ( (1)?
+  A) It is available free of charge.
+  B) It can be changed by the user.
+  C) It can be used to make money.
+  D) It is available for downloading.
+32 What are two important ideas related to free software that the writer mentions in Paragraph
+(1) to (4)?
+  A) It is released by the developer, and gives the user access to the main elements of the
+program.
+  B) It does NOT require a licence, but there may be limits on what the user can do with it.
+  C) It can be used as many times as the user wants and for as long as he/she want.
+  D) It is NOT protected by copyright, and the user can make changes.
+
+33 What is the main topic of the passage?
+  A) The data in free software is available for whatever the user wants.
+  B) Free software has some advantages over freeware.
+  C) The differences between freeware and free software.
+  D) Freeware is available to anyone free of charge and without a license.
+Passage 5
+(The New Deal)
+(8) The New Deal was a group of U.S. government programs of the 1930s. President
+Franklin D. Roosevelt started the programs to help the country recover from the
+economic problems of the Great Depression.
+(9) Conservation Corps (CCC) put young men to work in national forests. The Works
+Progress Administration (WPA) created many different kinds of jobs. Some WPA
+workers built roads, schools, or airports. Others created art for public buildings or
+set up community theaters.
+(10) The best-known result of the New Deal was Social Security. Social Security is a
+system that continues to provide income for retired (people who stop working when
+they get old) or disabled workers. For example, if a person cannot work because he
+or she is blind, the person will receive money from social security.
+(11) Other New Deal programs were created to fix some of the problems that caused
+the Great Depression. During the Great Depression many banks closed, so people
+lost a lot of money and did not trust banks. As part of the New Deal, the government
+set up a program called Federal Deposit Insurance Corporation (FDIC). It was
+introduced to get people to trust banks again. The FDIC is a government program
+that pays people when a bank loses money or has to close. This program allowed
+people to trust the banks again and they started to put their money in US banks
+again.
+34 What does the passage say about the New Deal?
+  A) It increased the number of business­
+es.
+  B) It caused some people to lose money.
+  C) It was the result of Social Security.
+  D) It helped to improve the US economy.
+35 Who provides money to disables people who are unable to work?
+  A) Charity Organizations
+  B) Conservation Corp
+  C) Social Security
+  D) FDIC
+
+36 Which word can replace the word “so” in Paragraph ( (4)?
+  A) though
+  B) therefore
+  C) indeed
+  D) meanwhile
+37 Why does the writer use the phrase “for example” in Paragraph ( (3)?
+  A) to show that retired and disabled people are different.
+  B) to give information about difficulties in old age.
+  C) to explain how disabled people get money.
+  D) to show the result of being blind.
+38 What does the writer think about the FDIC?
+  A) He’s not sure if it had a positive ef­
+fect.
+  B) He believes it had a positive effect.
+  C) He believes it had a negative effect.
+  D) He believes it hurts US banks.
+Passage 6
+(1) The word aerobic means that oxygen is needed for a chemical reaction. The food
+molecules are combined with oxygen. The process is called oxidation and the food
+is said to be oxidised. All food molecules contain carbon, hydrogen and oxygen
+atoms. The process of oxidation converts the carbon to carbon dioxide (CO2) and
+the hydrogen to water (H2O) and, at the same time, sets free energy, which the cell
+can use to drive other reactions.
+(2) The amount of energy you would get by completely oxidising 180 grams (g) of
+glucose to carbon dioxide and water is 2830 kilojoules (kJ). In the cells, the energy
+is not released all at once. The oxidation takes place in a series of small steps and
+not in one jump as the equation suggests. Each small step needs its own enzyme
+and at each stage a little energy is released. Although the energy is used for the
+processes mentioned above, some of it always appears as heat. In “warm-blooded”
+animals (birds and mammals) some of this heat is stored to help maintain body
+temperature at the correct level.
+(3) In “cold-blooded” animals (e.g. reptiles and fish) the heat may build up for a time
+in the body and allow the animal to move about more quickly. In plants the heat is
+lost to the surroundings (by conduction, convection and evaporation) as fast as it is
+produced.
+39 What process releases energy in the cell?
+  A) oxidation
+  B) conduction
+  C) convection
+  D) evaporation
+
+40 What is an important effect of heat increase in “cold-blooded” animals
+  A) They save energy
+  B) They move faster
+  C) They release heat to the environ­
+ment.
+  D) their body temperature stays the same
+Q41.
+The word “maintain” in Paragraph (2) is closest in meaning to………..
+  A) keep
+  B) show
+  C) reduce
+  D) change
+42 The word “build up” in Paragraph (3) is closest in meaning to………..
+  A) drop
+  B) increase
+  C) escape
+  D) change
+Passage 7
+43 Which country had the highest percentage of electric car sales/registration in
+2018?
+  A) China
+  B) US
+  C) Norway
+  D) Sweden
+
+44 Which country sold the highest number of electric cars in 2018?
+  A) China
+  B) US
+  C) Norway
+  D) England
+Passage 8
+The liquid State
+When a gas is cooled, the particles slow down and the kinetic energy of the particles
+decreases. When a gas compressed, the gaseous particles move closer. Under the
+super conditions of low temperature and high pressure, a gas ….. that is, it converts
+converts
+from a gas to a liquid state. The kinetic motions of the molecules make them move
+apart one another. Liquefaction occurs when the molecules move closer, attractive
+forces become important, and the molecules ….dense to the liquid state. As they
+condense, the molecules act and aggregate
+aggregate into a group, giving the characteristic
+characteristic
+appearance of a liquid.
+45 The word converts in the passage is closest in meaning to……….
+  A) refuses
+  B) keeps
+  C) remains
+  D) changes
+46 The word aggregate in the passage is closest in meaning to……..
+  A) separate
+  B) sort
+  C) expand
+  D) combine
+47 The word characteristic in the passage is closest in meaning to…….
+  A) typical
+  B) partial
+  C) basic
+  D) attractive
+
+Passage 9
+The Development of Personality
+Psychologists use the term ‘personality’ to refer to the features of our psyche
+psyche which
+make each and every one of us psychologically unique. One of the first personality
+theorists was Sigmund Freud. Freud is the best-known figure ever to emerge from
+psychology, and his theory of personality development has had a major impact
+on society and the way we think. Among other things, Freud is responsible for our
+concern about the meaning of dreams, and the embarrassment we experience
+concerning what slips of the tongue reveal about our unconscious thoughts. He
+drew attention to the irrational
+irrational side of human behaviour, which had been largely
+neglected by other psychologists, particularly developmental psychologists. is
+responsible for the common use of the terms ‘ego
+ego’ and defence mechanisms’.
+48 The word “psyche” in the passage is closest in meaning to……..
+  A) faculty
+  B) ability
+  C) mind
+  D) intelligence
+49 The word “irrational” in the passage is closest in meaning to………
+  A) unreasonable
+  B) laughable
+  C) ridiculous
+  D) unknown
+50 The word “ego” in the passage is closest in meaning to ……….
+  A) personality
+  B) character
+  C) pride
+  D) self
+
+Passage 10
+Automation
+(1) Knowing how and where robots and machines could impact the global economy
+will help financial executives in a competitive edge in their industries but predicting
+which countries are likely to be impacted most by workforce automation and when
+isn’t as simple as comparing industries across the globe.
+(2) A recent McKinsey Global Institute report. A Future That Works: Automation,
+Employment, and Productivity, Analyzed the automation potential of 46 countries,
+representing 80% of the global workforce. Several factors are considered, including
+the percentage of work activities that could be automated using current technology,
+the number of full-time employees that could be affected and wages.
+(3) The types of activities that have a high potential for automation are physical
+tasks in highly structured and predictable environments, data processing and
+data collection. Those that have a considerably lower potential for automation
+are unpredictable physical work, interactions with others, applying expertise, and
+managing others, which is the least susceptible to automation.
+(4) It is believed that differences are expected in how automation will play out across
+the globe, as technical, economic, and social factors will determine the pace
+and extent of it. But it’s hard to say how quickly automation will become reality,
+according to the report.
+(5) Take manufacturing, for example. One country may save a larger concentration
+of work hours in jobs that have higher automation potential, such as production
+and administrative support. And another country may have a higher proportion of
+work hours in jobs that are less likely to be automated, such as management and
+engineering.
+Q51.
+What idea do the words “susceptible to automation” repeat?
+  A) workforce automation
+  B) robots and machines
+  C) automation potential
+  D) competitive edge
+52 What idea do the words “administrative support” repeat?
+  A) Management and engineerin
+  B) Data processing and data collection
+  C) Technical, economic and social
+factors
+  D) Applying expertise and managing others
+53 Which of the following is an opinion?
+  A) 80% of workers support automation.
+  B) The speed of automation is difficult to predict.
+  C) It is most difficult to automate data collection.
+  D) The report studied automation in over 40 countries.
+
+54 Which of the following is an opinion in the passage?
+  A) The report considered several factors in the automation process.
+  B) Automation of work will become a reality for all workers.
+  C) The use of automation can be affected by social issues.
+  D) The McKinsey report studied 46 different countries.
+55 What can we understand from Paragraph  (4) and (5) about automation around the
+world?
+  A) It will be very difficult to achieve.
+  B) It will become a reality very quickly.
+  C) It will be different in different countries.
+  D) It will have the biggest effect on manufacturing.
+56 What can we understand from Paragraph (2) about the McKinsey Global Institute
+research?
+  A) It was a large study.
+  B) It was an automated study.
+  C) It used current technology.
+  D) It had an effect on full-time employees.
+
+Passage 11
+Strong winds will raise dust and sand, reducing visibility over the northern and
+central Kingdom between Makkah and Madinah, with the possibility of increasing
+temperatures over these regions. Suspended haze will spread over Qassim, Hail
+and northern parts of the Riyadh region, limiting visibility and making driving
+hazardous. Parts of the central and eastern Kingdom will be partly cloudy, with
+chances of rain. Storm clouds may form over the southwestern and Western
+highlands, including Abha, Baha and Taif
+57 Which parts of the Kingdom may receive rain?
+  A) the central and eastern parts.
+  B) the central and northern parts.
+  C) the northern and eastern parts.
+  D) the northern and western parts.
+58 The forecast for Makkah and Medina is ……
+  A) clear and sunny.
+  B) stormy and cool.
+  C) rainy and cool
+  D) dusty and hot.
+59 Which city may expect to see storm clouds?
+  A) Makkah
+  B) Riyadh.
+  C) Hail.
+  D) Baha.
+60 Where will it probably be difficult to see clearly while driving?
+  A) Taif.
+B
+Qassim.
+  C) the western highlands.
+  D) the eastern part of the Kingdom
+
+ANSWER KEY
+--------------------
+Q21: C
+Q22: B
+Q23: C
+Q24: C
+Q25: B
+Q27: D
+Q28: A
+Q29: B
+Q30: D
+Q31: A
+Q32: D
+Q33: C
+Q34: D
+Q35: C
+Q36: B
+Q37: C
+Q38: B
+Q39: A
+Q40: B
+Q41: A
+Q42: B
+Q43: C
+Q44: A
+Q45: D
+Q46: D
+Q47: A
+Q48: C
+Q49: A
+Q50: D
+Q51: C
+Q52: B
+Q53: B
+Q54: B
+Q55: C
+Q56: A
+Q57: A
+Q58: D
+Q59: D
+Q60: B
+
+
+GRAMMAR
+========================================
+
+Model
+Q38.
+Q61.
+Go outside and …………… the gardener some water. He needs a break.
+  A) bring
+  B) to bring
+  C) bringing
+  D) will bring
+Q62.
+In which sentence is all CAPITALIZATION correct?
+  A) Among John’s favorite places to travel were malaysia, morocco, and any exotic Location
+with a nice, clean beach.
+  B) Among John’s favorite places to travel were Malaysia, Morocco, and any Exotic Location
+with a nice, clean beach.
+  C) Among John’s favorite places to travel were Malaysia, Morocco, and any exotic location
+with a nice, clean beach.
+  D) Among John’s favorite Places to Travel were Malaysia, Morocco, and any exotic location with
+a nice, clean beach
+Q63.
+George: May I speak to Mr. Ben, please?
+Secretary: I’m afraid he .…… a meeting right now.  Could you call back?
+  A) runs
+  B) is running
+  C) ran
+  D) has run
+Q64.
+The boys’ mother told them to finish all of their breakfast, ………….they stuffed
+their mouths until their plates were empty.
+  A) however
+  B) since
+  C) as
+  D) so
+Q65.
+Which one of the underlined words or phrases is INCORRECT ?
+Mona she studied French for 8 years before she felt like she reached a good level.
+  A) she
+  B) for
+  C) before
+  D) reached
+Q66.
+I arrived to work at 9 a.m. and then I ………………
+  A) at home left my mobile phone that I realized.
+  B) left my mobile phone that I realized at home
+  C) realized my mobile phone at home that I left.
+  D) realized that I left my mobile phone at home.
+
+Q67.
+Will and Bob were the first to arrive at the dinner party and then ……….
+  A) after Mike and Chris came with a box of chocolates soon.
+  B) with a box of chocolates Mike and Chris came soon after.
+  C) soon after came with a box of chocolates Mike and Chris.
+  D) soon after Mike and Chris came with a box of chocolates.
+Q68.
+Which one of the UNDERLINED words or phrases is INCORRECT?
+Ahmed thought his team would lose the game, but then in the last few minutes, they score and won the game
+  A) His
+  B) In
+  C) Last
+  D) Score
+  A) happy
+  B) happier
+  C) happiness
+  D) happily
+Q71.
+Mike fights …….of all the boxers I know.
+  A) hardest
+  B) hardly
+  C) most hard
+  D) the harder
+Q72.
+Some people say John’s heart is…….. ice, but I disagree.
+  A) cold than
+  B) as cold like
+  C) as cold as
+  D) as colder as
+Q73.
+If business is good again this year, we ……….ourselves a second house.
+  A) were built
+  B) have built
+  C) would build
+  D) will build
+Q69.
+
+In which sentence is all CAPITALIZATION correct?
+  A) Paul’s boss, mr. Johnson, told him to hand in the report by Wednesday 10 March.
+  B) Paul’s boss, Mr. Johnson, told him to hand in the report by Wednesday 10 March.
+  C) Paul’s Boss, Mr. Johnson, told him to hand in the report by wednesday 10 March.
+  D) Paul’s boss, Mr. Johnson, told him to hand in the report by wednesday 10 march.
+Q70.
+
+Little Anna played ……….with her toys as her mother made dinner.
+
+Q74.
+Something happened at work. You ……..go back to the office right now.
+  A) might
+  B) must
+b
+could
+  D) has
+Q75.
+Mark:  is there a spoon I could borrow?
+Roger: There’s ………in the top drawer.
+  A) some
+  B) this
+  C) one
+  D) any
+Q76.
+George married Julia, and Julia married George. George and Julia married.…
+  A) one other
+  B) each other
+  C) himself
+  D) themselves
+Q77.
+The issue we need to concentrate ……..here is very serious.
+  A) for
+  B) at
+  C) in
+  D) on
+Q78.
+When the food finally arrived, the people………..for it for hours.
+  A) were going to wait
+  B) had been waiting
+  C) were waiting
+  D) waited
+Q79.
+Will you remember…………everyone about the changes ? You must not forget.
+  A) tell
+  B) told
+  C) to tell
+  D) telling
+Q80.
+We’ve been waiting for hours. Ted still ………..
+  A) hasn’t arrived
+  B) isn’t arrived
+  C) doesn’t arrive
+  D) didn’t arrive
+Q81.
+It’s 8:14, and the boat leaves at 8:15. The boat ……… soon.
+  A) has left
+  B) was leaving
+  C) has been leaving
+  D) is going to leave
+Q82.
+The bus driver spoke so ………..I could barely understand him.
+  A) much fast
+  B) more fast
+  C) fastly
+  D) fast
+
+Q83.
+Excellent cheese ………..only in France.
+  A) isn’t made
+  B) doesn’t make
+  C) isn’t maken
+  D) hasn’t made
+Q84.
+Late in the evening, ………….. since sunrise, Mrs. Johnson finally ate her first hot
+meal.
+  A) had been working
+  B) being worked
+  C) having worked
+  D) will have been working
+Q85.
+If you had taken better care to do your research, a lot of time could……..
+  A) be saving
+  B) be saved
+  C) have been saving
+  D) have been saved
+Q86.
+Judy acts as if she ………. upset, while in fact she just wants to attract your attention.
+  A) had been
+  B) has been
+Q87.
+The new office block should ……..by the spring, so we can move in before the summer
+break starts.
+  A) build
+  B) be built
+  C) be building
+  D) have been built
+Q88.
+Do answer the door, …………you?
+  A) will
+  B) may
+  C) shall
+  D) could
+Q89.
+The salesperson …………I deal each time is not available today.
+  A) with whom
+  B) with who
+  C) whom with
+  D) who with
+Q90.
+In which of the following sentences is all PUNCTUATION correct?
+  A) After all, the exams are finished, whos going to be the first in the class.
+  B) After all the exams are finished, who’s going to be the first in the class.
+  C) After all, the exam’s are finished, whos’ going to be the first in the class?
+  D) After all the exams are finished, who’s going to be the first in the class?
+  C) Was
+  D) is
+
+Q91.
+Tom ……. to Italy every year.
+  A) go
+  B) goes
+  C) is goes
+  D) is going
+Q92.
+If I…….. a bird, I would fly far away from this cold weather.
+  A) be
+  B) am
+  C) been
+  D) were
+Q93.
+When you have answered the questions on page 104, …… you raise your hands,
+please?
+  A) must
+  B) shall
+  C) should
+  D) would
+Q94.
+Ali goes to Jeddah every month …………it has the best beaches.
+  A) but
+  B) however
+  C) so
+  D) because
+Q95.
+In which sentence is all PUNCTUATION correct
+  A) When I was younger my father said my hair looked like a rat’s nest.
+  B) When I was younger my father said, my hair looked like a rats nest.
+  C) When I was younger. My father said my hair looked like a rats’ nest.
+  D) When I was younger, my father said my hair looked like a rat’s nest.
+Q96.
+He did not have ……..money in his wallet, so he stopped by the cash machine.
+  A) lots
+  B) much
+  C) plenty
+  D) many
+Q97.
+A: Is it John’s turn to start the game?
+B: No, it isn’t. It’s …………….
+  A) you
+  B) you’re
+  C) your
+  D) yours
+Q98.
+When Lisa ………. a child, she learnt to read Arabic.
+  A) has been
+  B) had been
+  C) is
+  D) was
+
+Q99.
+I have not gone to Dubai …………May last year.
+  A) for
+  B) from
+  C) since
+  D) until
+100 I took a lot of notes while the professor…………..
+  A) has spoken
+  B) spoke
+  C) speak
+  D) was speaking
+
+ANSWER KEY
+--------------------
+Q61: A
+Q63: B
+Q64: D
+Q65: A
+Q66: D
+Q67: D
+Q68: D
+Q69: B
+Q70: D
+Q71: A
+Q72: C
+Q73: D
+Q74: B
+Q75: C
+Q76: B
+Q77: D
+Q78: B
+Q79: C
+Q80: A
+Q81: D
+Q82: D
+Q83: A
+Q84: C
+Q85: D
+Q87: B
+Q88: A
+Q89: A
+Q90: D
+Q91: B
+Q92: D
+Q93: D
+Q94: D
+Q95: D
+Q96: B
+Q97: D
+Q98: D
+Q99: C
+Q100: D

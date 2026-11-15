@@ -1,0 +1,992 @@
+MODEL 42
+========================================
+
+READING
+========================================
+
+Passage 1
+(1) An American-born giant panda will soon be travelling to China. The Chinese
+government has an agreement with foreign zoos to lend giant pandas out only for
+scientific study. After a few years, they, and any cubs they may produce, must all be
+returned to China. Mei Lan, a three-year-old female, is being prepared for her trip
+to China, where her parents were born. A special FedEx flight from the U.S. is being
+arranged for her.
+(2) Chinese Zookeepers are getting ready for her arrival by planning a special diet,
+and even language lessons for her. They are advertising for a tutor to teach Mei
+Lan Chinese. The caretakers at her new home, the Chengdu Panda Research
+Center in Sichuan, want to help her adapt quickly and feel comfortable in her
+new environment. Mei Lan has lived at a zoo in the city of Atlanta, Georgia, since
+her birth, and she is unfamiliar with Chinese. The teacher must have a bachelor’s
+degree or higher and be fluent in both English and Chinese.
+Q21.
+According to Paragraph (2), why do the Chinese zookeepers want Mei Lan to learn
+Chinese?
+  A) so that she can speak with her
+caretakers
+  B) so that she will feel at home in China
+  C) so that she can forget her English
+  D) so that she will like her new diet
+22 According to Paragraph (2), Where has Mei Lan been living?
+  A) in the Chengdu Panda Research
+Center
+  B) in an American research center
+  C) in Atlanta, Georgia
+  D) in Sichuan, China
+
+Passage 2
+Stars
+(1) If we look at the night sky carefully, we will see that the stars are of many different
+colors. Some are red, others are yellow, and some are blue. This is also shown when
+we take color photographs of the night sky. You can take such a photograph with an
+ordinary camera as long as it is kept steady. A thirty second exposure is sufficient.
+(2) Astronomers have been able to classify stars according to color. They have found
+that blue stars are the largest and red stars the smallest. However, there are a few
+stars which cannot be classified in this way. These are the superstars. For example,
+Ryiejol is a blue superstar as big as 40,000 suns and Beetle juice is a superstar with
+a size equal to 17,000 suns.
+(1) Suppose an astronomer observes two stars, one brighter than the other. If neither
+of them is a superstar, he will know immediately that the brighter star is closer.
+Astronomers have instruments like light meters which can measure the brightness
+of a star quite accurately. It is possible to measure a star’s distance from the earth
+if astronomers know the color, brightness and whether or not it is a superstar.
+23 The pronoun it in Paragraph (1) refers to the …………
+  A) photograph
+  B) exposure
+  C) camera
+  D) star
+24 The word brighter in Paragraph (3) is closest in meaning to ---------
+  A) more colorful
+  B) more shiny
+  C) smaller
+  D) larger
+25 Which of the following colors is NOT mentioned in the passage?
+  A) Green
+  B) Yellow
+  C) Blue
+  D) Red
+
+Passage 3
+(1) Atmospheric circulation is the movement of air across the planet, and this occurs in
+a pattern. The Equator is the hottest part of the Earth. When air rises at the Equator,
+this leads to low pressure and rainfall. When the air reaches the edge of the
+atmosphere, it is unable to go any further and so it travels to the north and south.
+The air becomes cold and then falls, creating high pressure and dry conditions at
+around 30º north and south of the Equator. Large cells of air are created in this way.
+Air rises again at around 60º north and south and descends again around 90° north
+and south.
+(2) Global atmospheric circulation creates winds across the planet and leads to areas
+of high rainfall, like tropical rainforests, and areas of dry air, like deserts. Another
+example is a tropical cyclone which is a very powerful low-pressure weather
+system which results in strong winds (over 120 km/h) and heavy rainfall (up to 250
+mum is one day). Tropical cyclones have different names depending on where they
+occur in the world. In the US and the Caribbean, they are known as hurricanes, in
+South Asia-cyclones, in East Asia-typhoons.
+26 What is the writer’s main purpose?
+  A) To explain
+  B) To argue
+  C) To convince
+  D) To study geography
+27 What is one important idea that the writer mentions?
+  A) Air moves in patterns
+  B) There is No air in space
+  C) Cold air makes high pressure
+  D) All air movement starts at the Equator.
+28 What is one important idea that the writer mentions?
+  A) Tropical rainstorms have different names.
+  B) Forests with heavy rainfall are called rainforests.
+  C) Low air pressure makes strong winds and heavy rainfalls.
+  D) Winds moving across the planet produce areas of high rainfall and dry air.
+
+Passage 4
+Non-store Retailing
+(1) Most of us still make most of our purchases the old- fashioned way. We go to the
+store, find what we want, wait patiently in line to plunk down our cash or credit
+card, and bring home the goods. However, consumers now have a broad array of
+alternatives, including mail order, television, phone and online shopping. Americans
+are increasingly avoiding the hassle and crowds at malls by doing more of their
+shopping by computer.
+(2) Early on, prospects for online retailing soared. As more and more consumers flocked
+to the Web, some experts even saw a day when consumers would bypass stodgy
+“old economy” store retailers and do almost all of their shopping via the internet.
+However, the dot-com meltdown of 2000 dashed these overblown expectations.
+Many once-brash Web sellers crashed and burned and expectations reversed almost
+overnight. The experts began to predict that online retailing was destined to be little
+more than a tag-on to in-store retailing.
+(3) However, today’s online retailing is alive and thriving. With easier-to-use and more-
+enticing Web sites,improved online service and the increasing sophistication of
+search technologies, online business is booming In fact, even though it currently
+accounts for only 7 percent of total US retail sales, online buying is growing at a much
+brisker pace than retail buying as a whole. Despite a flagging economy, or perhaps
+because of it, this year’s online retail sales will reach an estimated $156 billion, an 11
+percent leap over the last year’s.
+(4) Retailer online sites also influence a large amount of in- store buying. Here are some
+surprising statistics: 80 percent of shoppers research products online before going to
+a store to make a purchase; 62 percent say that they spend at least 30 minutes online
+every week to help decide whether and what to buy. So it’s no longer a matter of
+customers deciding to shop in a store or to shop online. Increasingly, customers are
+merging store and online outlets into a single shopping process. In fact, the Internet
+has spawned a whole new breed of shopper and way of shopping.
+(5) All types of retailers now employ direct and online channels. The online sales of
+large brick-and-mortar retailers, such as Sears, Staples, Wal-Mart, and Best Buy, are
+increasing rapidly. Several large online-only retailers—Amazon.com, online auction
+site eBay, online travel companies such as Travelocity.com and Expedia.com, and
+others—are now making it big on the Web. At the other extreme, hordes of niche
+marketers are using the Web to reach new markets and expand their sales. Today’s
+more-sophisticated search engines (Google, Baidu) and comparison-shopping sites
+(Shopping.com, Buy.com, Shopzilla.com,and others) put almost any online retailer
+within a mouse click or two’s reach of millions of customers.
+
+(6) Still, much of the anticipated growth in online sales will go to multichannel
+retailers— the click-and-brick marketers who can successfully merge the virtual
+and physical worlds. In a recent ranking of the top 500 online retail sites, 59
+percent were multichannel retailers. For example, consider Macy’s, the largest
+department store chain in the United States. While many Macy’s customers make
+purchases online, the site offers a range of features designed to build loyalty
+to Macy’s and to pull customers into stores, Lake many retailers, Macy’s has
+discovered that its best customers shop both online and offline.
+29 What reversed expectation about online retail almost overnight?
+  A) The dot-com meltdown of 2000.
+  B) The brash Web sellers.
+  C) Consumers’ love of malls.
+  D) The stodgy “old economy”
+30 What percentage of shoppers research products online before going to a store to buy
+them?
+  A) 30
+  B) 62
+  C) 80
+  D) 95
+Q31.
+What is one example of a brick-and-mortar retailer??
+  A) Travelocity
+  B) Expedia
+  C) Best-Buy
+  D) Shopzilla
+32 What percentage of the top 500 online retail sites were multichannel retailers?
+A
+  B) 59
+  C) 79
+  D) Passage 5
+Yellowstone National Park
+(1) There were once many Wolves in Yellowstone National Park, but by 1926, humans
+had hunted them to extinction there. The absence of wolves affected many parts of
+the Yellowstone ecosystem.
+(2) Most significantly, the disappearance of wolves led to a huge increase in the
+number of elk (a type of deer). This in term had negative effects on plants and
+animals in the park. Park authorities tried to keep the elk population under
+control by hunting, but in the late 1960s and 1970s, the U.S government and the
+park managers began considering a new policy. They wanted to return to natural
+processes for regulating the balance of wildlife in the park.
+(3) In 1995, Congress authorized reintroducing the gray wolf to Yellowstone. The first
+wolves were brought in from Canada a year later. Almost immediately. authorities
+noticed differences in the park. As a result of the reintroduction of wolves, the
+number of elk declined. This led to an unexpected change. The number of willow
+trees and aspen, which elk eat. increased. Beavers, which feed on willows, in tum
+grew more numerous. In addition, the populations of some songbird species and
+small mammals that live in aspen stands have since grown. Other animals and
+people have benefited, too. Scavengers, or animals that eat dead animals, have
+increased in number.
+33 What is one important ideas related to the disappearance of wolves that the writer
+mentions in Paragraph  (2)?
+  A) It had negative effects on the park ecosystem
+  B) Wolves were found in Canada
+  C) The authorities started hunting elks
+  D) The park managers made a new policy.
+Q34.
+  A) The number of songbird species has grown.
+  B) Humans hunted too many wolves in 1926.
+  C) The park authorities tried hunting elk
+  D) There were positive changes in the park.
+What is one important idea related to the reintroduction of wolves that the writer
+mentions in Paragraph (3)?
+
+35 What are scavengers an example of?
+  A) animals that feed on willows
+  B) animals that live in aspen stands
+  C) animals that benefited from the return of wolves
+  D) animals that were brought to the park from Canada
+36 What is the main topic of the passage?
+  A) The park visitors were happy with the return of wolves.
+  B) The new policy by the US government saved the park.
+  C) The return of wolves benefitted the park ecosystem.
+  D) The return of wolves had bad effects on several animals in the park.
+  A) Plastic is liked for its low cost and many uses.
+  B) Plastic is good because it DOES NOT break down easily.
+  C) By 2050, there will be more plastic than fish in the oceans.
+  D) Plastic waste creates a lot of problems for the planet and its animals.
+Passage 6
+(1)
+
+Plastic that are non-biodegradable are not broken down by decomposers when
+
+dumped in landfill sites or left as litter. This means that they remain in the
+
+environment, taking up valuable space or causing visual pollution.
+
+Moreov
+o
+
+e
+ver,
+
+discarded plastic bottles can trap small animals; nylon fishing lines and nets
+
+can trap birds and mammals such as seals and dolphins. As the plastic in water
+
+gradually deteriorate, they fragment into tiny pieces, which are eaten by fish and
+
+birds, making them ill
+
+as a result.
+
+When plastic is burned, it can release toxic gases
+(2)
+
+Plastic bags are a big problem, taking up a lot of space in landfill sites. In 2002, the
+
+Republic of Ireland introduced a plastic bag fee, called a PlasTax, to try to control
+
+the problem. It had a dramatic effect, cutting the use of single-use bags from 1.2
+
+billion to 230 million a year and reducing the litter problem that plastic bags create.
+
+Revenue raised from the fee is used to support environmental projects.
+(3)
+
+Since then, bans have spread rapidly. More than 400 laws across the United States
+
+ban or tax plastic bags, according to Jennie Romer, an attorney at the Surfrider
+
+Foundation and a leading advocate and expert on plastic bag policies. The bans
+
+actually started outside places like the United States and Ireland, with Bangladesh
+
+banning them countrywide in 2002 and Pakistan announcing recently that it, too,
+
+will ban single- use plastic bags. “Our slight change in habits will do miracles for
+
+future generations,” one politician wrote.
+Q37.
+
+What does Paragraph (1) say about plastic waste?
+
+38 How did the government of Ireland reduce the use of single-use plastic shopping
+bags?
+  D) The writer is NOT sure about the efforts as hundreds of millions of bags are still
+thrown out in Ireland.
+  A) They stopped the use of single-use shopping bags.
+  B) They introduced a charge for single-use shopping bags.
+  C) They allowed the use of paper bags that break down easier that plastic ones.
+Q39.
+
+Why does the writer use the word “Moreover” in Paragraph (1)?
+  A) To give examples of the types of plastic pollution.
+  B) To show that the animals are hurt  as a result of pollution.
+  C) To give more information about the problem of plastic pollution.
+  D) To show that visual pollution is different from other kinds of pollution.
+Q40.
+
+Why does the writer use the word “as a result” in Paragraph (1)?
+  A) to let readers know the list of everything that happened.
+  B) to give more information about the problem of plastic pollution.
+  C) to show that the fish and birds got sick from eating the plastic pieces.
+  D) to give examples of what happened to the plastic after breaking up into small pieces.
+Q41.
+
+What does the writer think about the efforts to reduce plastic pollution?
+
+  A) The writer believes the efforts are helpful.
+  B) The writer believes the efforts are NOT doing much.
+  C) The writer believes that more countries need to take action.
+
+Passage 7
+Detroit
+(1)
+
+city’s population increased from about 300,000 in 1900 to 1.8 million in 1950 as
+the city attracted many workers to work in its car factories. In 1960, it had the
+highest income per person in the USA. Today, however, more than 40,000 buildings
+are
+
+va
+vacant
+
+or not used and property prices have fallen by more than 80%
+(2)
+
+Between 1900 and 1950, Detroit had a growing economy. The American car
+companies, General Motors, Ford, and Chrysler were all located in Detroit and they
+manufactured the majority of the cars sold in the US. However, as international
+competition increased and American car sales decreased, many people lost their
+jobs in Detroit’s car factories. The city had relied too much on one industry. As a
+result, when the car industry
+
+suffered, it also had a negative effect on Detroit’s
+economy. Reduced car sales also meant that there would be less tax money from
+the city’s car companies, which decreased the city’s already low government
+budget.
+(3)
+
+Detroit’s population also fell to just 700,000 in 2013 as many of the richer people
+moved away from the city. As the city’s car industry became weaker, the number of
+jobs in the city decreased and unemployment reached 30% by 2013. Over 60% of
+Detroit’s population who work now, do so outside the city. However, there is some
+hope. Urban farms are appearing in the city. Young people- especially artists and
+musicians - are moving into Detroit to make use of cheap city spaces. The city is
+also creating new policies, such as low rents and tax cuts, in order to help attract
+new businesses back into the city.
+Q42.
+
+What did more car factories in Detroit lead to?
+  A) the best car companies in the world
+
+  B) change in property prices
+  C) a larger population
+
+  D) creating a new city.
+Q43.
+
+What was the reason for low rents and tax cuts?
+  A) to bring companies to Detroit
+
+  B) to help artists and musicians
+  C) to make life easier for the poor
+
+  D) to create urban farms
+Q44.
+
+The word
+
+vacant
+
+in Paragraph (1) is closest in meaning to………….
+
+  A) empty
+
+  B) for sale
+  C) destroyed
+
+  D) being built
+Q45.
+
+The word
+
+suffered
+
+in Paragraph (2) is closest in meaning to……….
+
+  A) moved location
+
+  B) faced trouble
+
+  C) expanded
+
+  D) changed
+
+Passage 8
+46 What percentage of people went to work by car?
+  A) 65.6
+  B) 12.3
+C
+  D) 47 What percentage of people travelled by foot?
+A
+  B) 1.2
+  C) 4.5
+  D) 5.3
+
+Passage 9
+(1) The unwanted poisonous by-products of human activity, toxic wastes can arise
+from many sources. Atmospheric pollution, for example, is caused by automobiles,
+power plants, and incinerators. Acid rain is produced when oxides of sulfur, carbon,
+and nitrogen from burning fossil fuels combine with moisture in the air, producing
+hazardous acids. Discarded industrial solvents include low-molecular weight
+material such as benzene and carbon tetrachloride and high-molecular weight
+organic materials such as PCBs (polychlorinated biphenyls). which were used in the
+past for hydraulic fluids and in electrical transformers and capacitors. Dioxins are
+the wwanted by-products of the manufacture of herbicides. Heavy-metal residues
+from copper or silven mining can contaminate groundwater or streams and Iakes
+and become concentrated in fish. Radioactive wastes are generated by nuclear
+power reactors, the manufacture of nuclear weapons, and, at low levels, by the
+industrial and medical application of radioisotopes.
+(2) In 1981 approximately 264 million tons of waste were produced in the United
+States—about 5.5 million tons were considered hazardous. During 1986 the United
+States generated about 1,770,000 cubic feet (50,000 cubic meters) of low-level
+solid and liquid radioactive waste.
+(3) Many toxic wastes can harm humans, animals, or plants. Significant exposure to
+lead in paints and gasoline can lead to nervous disorders. Organic toxic wastes
+can lead to liver and kidney inflammation. Others, such as PCBs, are suspected
+of causing birth defects. Some organic materials, such as benzene, are known to
+cause cancer in laboratory animals and are listed as possible cancer-producing
+agents in humans. Moderately high levels of copper, silver, and other heavy metals
+are detrimental to the growth of algae.
+(4) Some toxic wastes cause ecological imbalances. The insecticide DDT (dichloro-
+diphenyl-trichloroethane), for example, almost wiped out the American bald eagle
+population and reduced many other bird populations. It destroyed the birds’ ability
+to develop a sufficiently strong egg shell to assure hatching. Because of DDT’s
+threat to bird populations severe restrictions were imposed in 1972 on its use in
+the United States. Other laws required the reduction of lead in gasoline and the
+termination of PCB production. DDT is still used in developing countries for its
+effectiveness against the malaria-carrying mosquito.
+(5) Depending on the type of waste, toxic wastes can be treated chemically,
+biologically, or by combustion. (See also garbage and refuse disposal.) An acid
+spill, for example, may be treated with lime or bicarbonate to neutralize the acid.
+Oil spills at sea are often treated with an emulsifier to disperse the oil in the water,
+thereby reducing the adverse effects
+on beaches and on wildlife. Effective methods of biological treatment of toxic
+wastes are still undergoing development. Organisms that can survive the toxicity
+and degrade the toxic wastes in a reasonable amount of time have not been found,
+but advances in genetic engineering may change this situation.
+
+(6)Combustion and other high-temperature treatments are the major methods used to
+reduce the toxicity of wastes. Processes involving plasma technology are used for
+specific toxic wastes. These processes use high temperatures to ionize a mixture
+of air and fuel gases. When combined with these ionized gases, ot toxic gases from
+the waste are decomposed
+hinto relatively harmless components. Plasma treatment at temperatures above
+1,650° F (900° C) can diminish the toxicity of gas emissions such as dioxin vapor
+by about ten times the reduction that results from conventional combustion
+treatments.
+(7) Incineration of liquid wastes is the primary method of toxic waste treatment in
+the United States. It usually involves injecting the waste as small droplets into
+a burner. A fixed-hearth process, by which both liquid and solid wastes can be
+handled, is also used. The waste is treated in two stages. It is first partially burned
+with insufficient air and then burned again with excess air at higher temperatures to
+destroy the gases released during the first stage.
+(8) Another widely used process involves incineration in a rotary kiln. This is used for
+solids, liquids, their mixtures (slurries), and wastes in containers. Some hazardous
+wastes are disposed of directly as fuel in industrial boilers or cement kilns.
+(9) Liquid toxic wastes must be stored temporarily before disposal. Steel drums are
+used for short-term storage. Materials less subject to corrosion, such as glass or
+ceramic, are often required for long-term storage. Ocean dumping and the use of
+landfills are no longer permitted for the disposal of hazardous waste in the United
+States.
+(10) In the United States high-level nuclear wastes containing plutonium or uranium
+are either sent to reprocessing plants or stored near the nuclear facility site
+until disposal. Vitrification, a disposal procedure developed in recent years, is a
+process that embeds nuclear wastes in glasslike substances that are stable for
+thousands of years. These erosion-resistant blocks are then stored in underground
+salt mines or stable rock formations. Vitrification has been highly developed in
+France where nuclear energy is used extensively for electricity production. In the
+United States low-level radioactive wastes are currently stored at sites in three
+states—South Carolina, Nevada, and Washington—often after considerable volume
+reduction by compacting. Some low-level radioactive wastes are also incinerated.
+In the United States performance standards and permit requirements for thermal
+toxic waste destruction are determined by the Environmental Protection Agency
+(EPA). Current incinerator standards require the removal of at least 99.99 percent
+of the principal organic hazardous constituents and 99 percent of the hydrogen
+chloride in exhaust gases. Separate standards apply to solid particles (dust and
+ash) emitted during incineration. Radioactive wastes are regulated by the EPA,
+the Department of Energy (DOE), and the Nuclear Regulatory Commission (NRC).
+Each state is responsible for its own waste and interstate cooperation regarding
+disposal facilities is encouraged. Toxic waste regulation in Canada is monitored by
+the Ministry of the Environment, while the Atomic Energy Control Board manages
+radioactive waste.
+
+48 According to the passage, what are the heavy metals that affect the growth of algae?
+  A) Copper and DDT
+  B) Copper and silver
+  C) Silver and benzene
+  D) Gasoline and benzene
+49 What are three things needed for generating radioactive Wastes?
+  A) nuclear power reactors, the manufacture of nuclear weapons, and the application
+of radioisotopes.
+  B) the application of radioisotopes, the manufacture of herbicides and nuclear power
+reactors.
+  C) the manufacture of nuclear weapons, acid rain and industrial boilers.
+  D) gas emissions, carbon tetrachloride and nuclear
+50 What are three methods currently used for toxic waste treatment?
+  A) combustion, ocean dumping and vitrification
+  B) vitrification, landfills and biological treatment
+  C) vitrification, combustion and chemical treatment
+  D) combustion, biological treatment and vitrification
+Passage 10
+Limited Liability
+Limited liability
+liability means that if a business is unable to pay its debts the owners
+of the company can only lose the money that they have paid for shares. Sole
+traders
+traders and partnerships have unlimited liability. If the `business cannot pay its
+debts, the owners have to pay them out of their own money. They may have to sell
+their house and other personal possessions
+possessions to pay the business’s creditors. The
+importance of limited liability is that people can put money into a firm by buying
+shares, without risking the loss of all their money if the company fails. If limited
+liability did not exist, people would be less willing to risk investing in firms.
+Q51.
+The word “Liability” in the passage is closest in meaning to ………
+  A) activity
+  B) control
+  C) influence
+  D) responsibility
+52 The word “traders” in the passage is closest in meaning to ………
+  A) professionals
+  B) specialists
+  C) dealers
+  D) leaders
+53 The word “possessions” in the passage is closest in meaning to ………
+  A) income
+  B) property
+  C) equipment
+  D) achievement
+
+Passage 11
+Passage A: Controlling Inflation
+(1)Inflation occurs when an economy grows due to increased spending. When this
+happens, prices rise and the currency within the economy is worth less than it was
+before; the currency essentially won’t buy as much as it would before.
+(2)There are many methods used to control inflation; some work well while others may
+have damaging effects. For example, controlling inflation through wage and price
+controls can cause a recession and cause job losses.
+Contractionary Monetary Policy
+(3)One popular method of controlling inflation is through a contractionary monetary
+policy. The goal of a contractionary policy is to reduce the money supply economy
+by decreasing bond prices and increasing interest rates. This helps reduce spending
+because when there is less money to go around, those who have money want to
+keep it and save it, instead of spending it.
+Reserve Requirements
+(4)The second tool is to increase reserve requirements on the amount of money banks
+are legally required to keep on hand to cover withdrawals. The more money banks
+are required to hold back, the less they have to lend to consumers.
+Fiscal Policy
+(5)The government can also increase taxes (such as income tax and VAT) and cut
+spending. This improves the budget situation and helps to reduce demand in the
+economy.
+(6)Both these policies reduce inflation by reducing the growth of aggregate demand.
+If economic growth is rapid, reducing the growth of AD can reduce inflationary
+pressures without causing a recession.
+(7)If a country had high inflation and negative growth, then reducing aggregate
+demand would be more unpalatable as reducing inflation would lead to lower
+output and higher unemployment. They could still reduce inflation, but, it would be
+much more damaging to the economy
+Passage B
+(1)For any economy, inflation is a complex phenomenon. While moderate inflation
+is usually good for an economy, if it goes beyond it, then it can cause a disastrous
+situation for the economy. The government takes different measures to control
+inflation of different types as explained below.
+Demand Pull Dilation Control
+(2)In order to control the demand-pull inflation, the government undertakes some
+monetary measures and incorporates certain changes to the fiscal policy.
+
+Monetary Measures
+(3)One of the commonly used measures to control inflation is controlling the money
+supply in the economy. If the Government decreases the supply of money, then the
+demand will fall, leading to a fall in prices. Therefore, the Government may decide
+to withdraw certain paper notes and/or coins from circulation. This decreases the
+money supply.
+(4)It is important to note that a major portion of the money supply lies with banks
+in the form of deposits or bank credit. Therefore, by reducing the bank’s rate of
+lending (amount of money offered as credit), the government can considerably
+reduce the supply of money in the economy.
+Fiscal Policy Measures to Control Inflation
+(5)Apart from the monetary measures, the government also uses fiscal measures
+to control inflation. A country’s fiscal policy has two essential components -
+government revenue and expenditure.
+(6)Typically, when the aggregate demand exceeds the aggregate supply, an
+inflationary gap arises. The Government can take these fiscal measures to control
+inflation:
+•	Take steps to decrease the overall government expenditure and transfer payments
+•	Increase the rate of taxes causing individuals to decrease their total expenditure,
+leading to a decrease in demand and a drop in the money supply in the economy.
+54 What do Passages A and B say about the consequences of inflation?
+  A) It becomes more expensive to buy goods.
+  B) Money is worth less and it can be bad for the economy.
+  C) It makes people wealthier, but causes problems with the economy.
+  D) Currency is worth less, but there are positive effects for the economy with high infla­
+tion.
+55 What can we understand from Pages A and B about controlling inflation through money
+supply?
+  A) It can be done by banks lending less money to members of the public
+  B) It can be controlled because people want to keep their money and save it.
+  C) It can be done by increasing the amount backs lend and decreasing bond prices.
+  D) It can be done through increasing interest rates and reducing money in circulation.
+56 What can we understand from Passages A and B about tax?
+  A) It is used to make people spend less.
+  B) It has little effect on controlling inflation.
+  C) VAT is one of the main types of tax used to control inflation.
+  D) Tax reduces demand in the economy and therefore controls inflation.
+
+57 What do Passages A and B say about aggregate demand?
+  A) Low aggregate demand can lead to unemployment.
+  B) Aggregate demand can sometimes cause negative growth.
+  C) Keeping a balance in aggregate demand helps control inflation.
+  D) Aggregate demand must exceed aggregate supply.
+Passage 12
+Strange substance
+(1) A mysterious, orange, sticky gel, found on the beaches of Kivalina, avillage
+situated on the Alaskan coast between Kotzebue and Point Hope, was recently
+the source of much interest. Many people thought that the sticky gel was some
+strange compound that had spread as a result of a chemical reaction. Others had
+more farfetched ideas about the substance’s origins ranging from aliens to volcanic
+remains.
+(2) Scientists at an Alaskan laboratory have been busy analyzing the unknown
+substance. They have concluded that itit is a formation of microscopic eggs. One of
+the scientists said that there are traces of oil in the eggs, and this is what is causing
+the strange, orange color.
+(3) The scientists have discovered that the eggs belong to a small invertebrate a
+spineless animal, but they have not been able to identify the exact species.
+58 According to Paragraph  (1), the strange, orange substance was found.........
+  A) on the beaches of Kotzebue
+  B) on the beaches of Point Hope
+  C) close to a compound in Alaska
+  D) between Kotzebue and Point Hope
+59 The word far-fetched in Paragraph  (1) is closest in meaning to ………
+  A) difficult to believe
+  B) easy to believe
+  C) definite
+  D) clear
+60 The word it in Paragraph (2) refers to……………...
+  A) traces of oil
+  B) a microscope
+  C) the unknown substance
+  D) one of Alaska’s laboratories
+
+ANSWER KEY
+--------------------
+Q21: B
+Q22: C
+Q23: C
+Q24: B
+Q25: A
+Q26: A
+Q27: A
+Q28: D
+Q29: B
+Q31: C
+Q33: A
+Q34: D
+Q35: C
+Q36: B
+Q37: D
+Q38: B
+Q39: C
+Q40: C
+Q41: A
+Q42: C
+Q43: A
+Q44: A
+Q45: B
+Q46: A
+Q47: D
+Q48: B
+Q50: D
+Q51: D
+Q52: C
+Q53: B
+Q54: B
+Q56: D
+Q57: C
+Q58: D
+Q59: A
+Q60: C
+
+
+GRAMMAR
+========================================
+
+Model
+Q42.
+Q61.
+If it rains tomorrow, I ………. my raincoat.
+  A) wear
+  B) am wear
+  C) will wear
+  D) going to wear
+Q62.
+Now it is 10:00 PM. The train ………… at 11:00 PM.
+  A) arriving
+  B) arrived
+  C) has arrived
+  D) will arrive
+Q63.
+If you promise to keep a secret, I ………. You what happened.
+  A) tell
+  B) telling
+  C) will tell
+  D) would tell
+Q64.
+Which of the following sentences has the CORRECT WORD ORDER?
+  A) He burned incense so that his house would smell nice, for an hour in the morning, through
+the rest of the day.
+  B) So that his house would smell nice, he burned incense for an hour in the morning, through
+the rest of the day.
+  C) Through the rest of the day he burned incense for an hour in the morning so that his house
+would smell nice.
+  D) He burned incense for an hour in the morning so that his house would smell nice
+through the rest of the day.
+Q65.
+I want to buy a car ……….. get a job as a driver.
+  A) for to
+  B) and for
+  C) so that to
+  D) in order to
+Q66.
+Which one of the underlined words or phrases is INNCORRECT?
+Lisa forgot where she have put her handbag when she came to see me yesterday.
+  A) forgot
+  B) have
+  C) when
+  D) came
+Q67.
+Mark came to Ben’s office……….. the evening.
+  A) with
+  B) to
+  C) on
+  D) in
+
+Q68.
+……………. Mr. Carter was actually quite sick; he came to the office this morning.
+  A) Even
+  B) In case
+  C) Although
+  D) In spite of
+Q69.
+England played a very good game, ……………. Brazil was able to win the match.
+  A) so
+  B) but
+  C) and
+  D) because
+Q70.
+Fatima is not ………….. Mona.
+  A) as tall as
+  B) as tall like
+  C) like tall lik
+  D) like tall as
+  A) teach
+  B) teaching
+  C) will teach
+  D) to teach
+Q72.
+Matt has to get up ……….. than before because of his new job.
+  A) early
+  B) earlier
+  C) the earliest
+  D) more earlier
+Q73.
+Ahmed borrowed the book yesterday, and he’s ………….. finished reading it.
+  A) already
+  B) ever
+  C) still
+  D) yet
+Q74.
+Ali’s father, ..……. supported Ali financially throughout his life, suddenly died yester­
+day.
+  A) that
+  B) who
+  C) whom
+  D) he
+Q75.
+Matt failed the course because he had not done ……… homework.
+  A) little
+  B) some
+  C) none
+  D) any
+Q71.
+
+It’s important …………. children how to behave from a very young age.
+
+Q76.
+I will go to the gym tomorrow morning if I ……… early enough.
+  A) will get up
+  B) get up
+  B) got up
+  D) am getting up
+Q77.
+If I ………. you, I would accept the offer.
+  A) am
+  B) were
+  C) will be
+  D) had been
+Q78.
+If I had known you were going to be here, I wouldn’t ………..
+  A) have come
+  B) had come
+  C) come
+  D) came
+Q79.
+Eric …………………. half an hour in the shower.
+  A) won’t miss the plane if he didn’t spend
+  B) hadn’t missed his plane if he wouldn’t have spent
+  C) wouldn’t have missed his plane if he hadn’t spent
+  D) didn’t miss his plane if he hadn’t spent
+Q80.
+Adam: I thought you hated sport.
+Ben: I ………. it, but now I can’t live without it.
+  A) Was used to hate
+  B) used to hate
+  C) am used to hating
+  D) used to hating
+Q81.
+Excuse me, ……….. you pass the butter, please?
+  A) would
+  B) should
+  C) shall
+  D) may
+Q82.
+Since it’s raining outside, …….. you like to stay in and watch a movie?
+  A) do
+  B) will
+  C) might
+  D) would
+Q83.
+I don’t think you should ……… a large meal just before you go to bed.
+  A) be eaten
+  B) to eat
+  C) eat
+  D) eating
+
+Q84.
+Linda has some bad news for us, and she wants us to hear ..….. now.
+  A) it
+  B) him
+  C) them
+  D) those
+Q85.
+Is this the ring …….. you found on the beach last night?
+  A) where
+  B) who
+  C) that
+  D) this
+Q86.
+……………. Linda have two children or three?
+  A) Is
+  B) Are
+  C) Do
+  D) Does
+Q87.
+I still don’t understand why ……… to marry jake.
+  A) decided Mia
+  B) Mia decided
+  C) did Mia decide
+  D) was Mia decide
+Q88.
+Are you leaving now? I thought you said you……… going to stay till tomorrow.
+  A) will be
+  B) are
+  C) were
+  D) have been
+  A) was invented
+  B) invented
+  C) is invented
+  D) invents
+Q90.
+A lot of people talk to ………… when they’re alone.
+  A) oneself
+  B) himself
+  C) theirselves
+  D) themselves
+Q91.
+Steve …………. to Saudi Arabia before. This is his first visit.
+  A) was never been
+  B) has never been
+  C) never was
+  D) bever be
+Q89.
+
+The car …….. by the German engineer Carl Benz in 1886.
+
+Q92.
+Many different types of food are available in Riyadh. …………, you can eat food from
+the U.S., Japan, France, and many more places.
+  A) For example
+  B) In addition
+  C) In contrast
+  D) However
+Q93.
+Choose the best way to make the following sentences into a paragraph:
+(1) Their nice holiday would be possible at last, so they were overjoyed.
+(2) My brother, Chris, was living in London with his family.
+(3) My parents were never able to save enough to go on a nice holiday.
+(4) He decided to invite them to come and stay with him.
+  A) (3), (2), (4), (1).
+  B) (4), (1), (3), (2).
+  C) (1), (4), (2), (3).
+  D) (4), (3), (2), (1).
+Q94.
+Which sentence has the CORRECT WORD ORDER?
+  A) The Royal Museum in the 1850s opened the British government called the first public
+library.
+  B) In the 1850s, the British government opened the first public library, called The Royal
+Museum.
+  C) The Royal Museum opened the British government called the first public library, in the
+1850s.
+  D) Opened the British government called the Royal Museum the first public library, in the
+1850s.
+Q95.
+Mona speaks Spanish fluently, ……………. her brother’s Spanish is very weak.
+  A) but
+  B) then
+  C) since
+  D) therefore
+Q96.
+Which phrase correctly replaces the INCORRECT underlined phrase?
+Dave: I repaired my own car last week.
+Steve: Really? Have you be a repair person before?
+  A) Have you been repairing a car
+  B) Were you ever repaired a car
+  C) Have you ever repaired a car
+  D) Are you repairing a car
+Q97.
+If she had more talent, she ……….. in art school.
+  A) enrolls
+  B) would enroll
+  C) had enrolled
+  D) is going to enroll
+
+Q98.
+In the game of Monopoly, if a player gets a “go to jail card”, he …….. directly to jail.
+  A) must going
+  B) must to go
+  C) must go
+  D) must
+Q99.
+Mr. Amir, -------------- the students call Uncle Amir, taught the boys physical education
+several times a week.
+  A) he
+  B) him
+  C) whom
+  D) which
+100 If I ----------- more time, I -------------- more languages.
+  A) had / learn
+  B) have / learn
+  C) had / would learn
+  D) have / would learn
+
+ANSWER KEY
+--------------------
+Q61: C
+Q62: D
+Q63: C
+Q65: D
+Q66: B
+Q67: D
+Q68: C
+Q69: B
+Q70: A
+Q71: D
+Q72: B
+Q73: A
+Q74: B
+Q75: D
+Q76: B
+Q77: B
+Q78: A
+Q79: C
+Q80: B
+Q81: A
+Q82: D
+Q83: C
+Q84: A
+Q85: C
+Q86: D
+Q87: B
+Q88: C
+Q89: A
+Q90: D
+Q91: B
+Q92: A
+Q93: A
+Q95: A
+Q96: C
+Q97: B
+Q98: C
+Q99: C
+Q100: C

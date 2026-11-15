@@ -1,0 +1,24 @@
+{
+  "name": "stepwise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack practice platform for the Saudi STEP English proficiency exam",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "dev": "concurrently -n api,web -c cyan,magenta \"npm run dev -w server\" \"npm run dev -w client\"",
+    "build": "npm run build -w client && npm run build -w server",
+    "start": "npm run start -w server",
+    "parse": "node server/scripts/parse-models.mjs",
+    "validate:data": "node server/scripts/validate-data.mjs",
+    "typecheck": "npm run typecheck -w server && npm run typecheck -w client"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.7"
+  }
+}

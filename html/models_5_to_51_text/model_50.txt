@@ -1,0 +1,740 @@
+MODEL 50
+========================================
+
+READING
+========================================
+
+--- PASSAGE 1: Dialogue: Alex and Dave ---
+
+Alex: Hi Dave, do you want to come over for dinner, tonight? Dave: Sorry Alex, I can’t talk right now because I’m…………….
+
+Q21. What is Dave’s reply? (“…I can’t talk right now because I’m …”)
+  A) working
+  B) looking
+  C) ready
+  D) fast
+ANSWER: A
+
+--- PASSAGE 2: Pigeons ---
+
+(1) When I see pigeons all around outside, a part of in admires them while another part is disgusted by them, admire them for their ability to adapt to and flourish in their environment, no matter where they are and I am disgusted by how dirty they can be!
+
+(2) In all the places I have travelled, whether it is North America. Europe, the Middle East, Africa, or East Asia, pigeons are always a natural part of the scenery. They build nests wherever there is a suitable space in the urban or country environment. In the city, you’ll find them on window ledges or any other relatively safe nook or cranny. On the countryside, they build nests in trees, bushes, or on the ground.
+
+(3) In addition to living in many different locations, pigeons also come in numerous sizes and colors. The smallest pigeons are the size of sparrows, whereas the largest can grow up to the size of a turkey! Some fruit-eating pigeons are very brightly colored, with red. pink, or orange feathers. Some pigeons even have crests or other distinctive ornamentation. Most pigeons I see in the city, however, are a dull-colored gray, with occasional splash of subtle dark green or purple plumage around the neck.
+
+(4) While perhaps pigeons mind their own business in their natural green environment. in the city they are often considered pests. I myself have often thought of them as “rats with wings.” Like rats, they show up wherever there are scraps of food to be eaten, but unlike nocturnal rats, they do it during all times of the day. Many pigeons are also not afraid of humans, but will walk very close to them to pick up any crumbs.
+
+(5) The worst aspect of pigeons living alongside us in the city is that they produce a lot of smelly waste! I hate having to walk over sidewalks that are coated in pigeon droppings, and have more than once had to hold my breath to avoid the stench. Often, urban pigeons also look very dirty. because their feathers are coated with particulate matter from the city’s polluted air.
+
+(6) Despite their negative characteristics, though. I respect pigeons because they are useful to people in several ways. They have served as a cheap form of protein and have also been successfully trained to carry important messages. Furthermore, they are a form of entertainment for young children at the park who love watching them walk around with their characteristic head bobbing. Pigeons also help clean up dropped food that would otherwise go to waste. If only they didn’t also leave their own waste everywhere as a result.
+
+Q22. In Paragraph 4), the author considers pigeons “rats with wings” because they…
+  A) feed on fallen food scraps
+  B) are NOT afraid of humans
+  C) are nocturnal foragers
+  D) look just as dirty
+ANSWER: A
+
+Q23. In Paragraph 5), the author holds his breath to avoid…
+  A) sensing dirty pigeons
+  B) breathing air pollution
+  C) smelling pigeon waste
+  D) inhaling particulate matter
+ANSWER: C
+
+Q24. According to Paragraph 5), urban pigeons look dirty because they…
+  A) are coated with the city’s air pollution
+  B) usually have dull, gray-colored feathers
+  C) have feathers that are hard to keep clean
+  D) walk on sidewalks covered with droppings
+ANSWER: A
+
+--- PASSAGE 3: Stars and Planets ---
+
+(1) The Earth forms part of a family of eight planets which go around (orbit) the Sun. This solar system forms part of an enormous collection of stars which form the Universe.
+
+The main features of the solar system
+
+(2) Our home, planet Earth, is part of a system of bodies that orbit a central star – the Sun. This solar system consists of four inner rocky planets and four outer gas giant planets as well as an asteroid belt, containing thousands of huge rocks, dwarf planets and comets. There are some key facts about the solar system that it is important to remember.
+
+• Our solar system contains a central star with eight planets, dwarf planets, moons, comets, and asteroids.
+
+• The Sun is our nearest star.
+
+• The planets orbit the Sun.
+
+• The time taken to orbit the Sun increases with distance from the Sun.
+
+• From the Sun, the order of the planets is Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune
+
+• Pluto is the largest dwarf planet. Comets and asteroids
+
+(3) Comets are balls of rock and ice. The ice melts as the comet gets closer to the Sun, producing its ‘tail’. They have highly elliptical or eccentric orbits. Many comets pass far outside of the solar system. Asteroids are large rocks that are found in a belt between Mars and Jupiter. A small dwarf planet called Ceres can be found in this asteroid belt. The rocks in the asteroid belt may be remnants of a planet that failed to form due to the strong gravitational attraction of Jupiter.
+
+Formation of the solar system
+
+(4) A dense hydrogen-rich cloud of gas and dust contracts under gravity. As the gas gets compressed, its temperature increases, and the dust cloud begins to spin. A protostar begins to form at the center of this spinning dust cloud. Nuclear fusion starts, and a star is born. The planets begin to form from the swirling dust clouds around the star. Gravity is greater closer to the star. Most of the dense material in the dust cloud is attracted strongly and ends up here.
+
+The inner rocky planets and the gas giants
+
+(5) The inner four planets (Mercury, Venus, Earth, and Mars) are rocky and have solid surfaces that can be walked on. When the solar system formed, rocks (and other dense, heavy materials in the dust cloud such as iron and uranium) tended to gather closer to the Sun, and these materials combined to form the inner planets. The outer four planets (Jupiter, Saturn, Uranus, and Neptune) are called gas planets (or gas giants). When the solar system formed, gaseous substances gathered further away from the Sun and formed the gas giants.
+
+Star colors
+
+6) Stars are born in clouds of hydrogen gas and dust called nebulae. Stars produce energy by nuclear fusion. Hydrogen gas atoms fuse together to form helium atoms. A lot of heat is produced in the fusion reaction which is emitted by the star. Large mass stars are very hot, and emit large amounts of heat but they have relatively short lifetimes. The color of a star shows its temperature - hot, bright stars are blue, very small, colder or old dying stars are red. Other stars, like our sun, looks white from space, but we see it as a yellow star because the light passes through nitrogen in the earth’s atmosphere.
+
+Q25. Which one of the following is the largest dwarf planet?
+  A) Pluto
+  B) Ceres
+  C) Saturn
+  D) Eris
+ANSWER: A
+
+Q26. Which of the following is called a gas planet?
+  A) Mars
+  B) Venus
+  C) Neptune
+  D) Aurelia
+ANSWER: C
+
+Q27. What color are the hottest stars?
+  A) red
+  B) white
+  C) silver
+  D) blue
+ANSWER: D
+
+--- PASSAGE 4: https:// and SSL ---
+
+(1) Have you ever noticed that some website addresses (URLs) start with http://, while other URLs start with https://? But where did the extra “s” come from, and what does it mean?
+
+(2) The extra “s” is for people who need to send private information. It shows them that their connection is safe. The technology that powers that little “s” is called SSL. This, by the way, stands for “Secure Sockets Layer.” You always want to see https:// when you are sharing any important information.
+
+(3) If you go to a website that is not safe and send your name and address, hackers can see it. In fact, hackers can see and steal anything you type. They place small, listening programs on the server where the website is hosted. The program waits and when a visitor starts typing information on the website, it records everything including passwords. Hackers call this a “man-in-the-middle attack.” But when you visit a website that has SSL encryption, hackers cannot see your information. Only you and the website can see what you type. This safe connection happens immediately. In fact, it is no slower than going to a http:// website. You just visit a website with SSL, and your connection will automatically be made safe.
+
+(4)Companies that request personal information from a user, such as bank details, should have SSL certificates on their website. Companies that have a certificate will have https:// in their URL. If you see this, you know your information is safe.
+
+Q28. What is one important idea related to websites the writer mentions in paragraphs (1) and (2)?
+  A) SSL means Secure Sockets Layer.
+  B) People share information online.
+  C) A URL is a website address.
+  D) https:// is safer than http://.
+ANSWER: D
+
+Q29. What is one important idea related to SSL that the writer mentions in paragraph (3)?
+  A) listening programs
+  B) stopping hackers
+  C) http:// website
+  D) fast websites
+ANSWER: B
+
+Q30. What example does the writer give of information a person might send to a company?
+  A) private information
+  B) name and address
+  C) bank details
+  D) passwords
+ANSWER: C
+
+Q31. What is the main topic of the passage?
+  A) online banks
+  B) website URLs
+  C) website hackers
+  D) SSL technology
+ANSWER: D
+
+--- PASSAGE 5: The fitness mirror to help you exercise more ---
+
+(1) For most people, including fitness fans, the thought of having to watch yourself work out is not an attractive one.
+
+(2) We don’t look our best when we are working hard on a weights machine. But, as anyone who goes to the gym knows, there are always some people who like to admire their reflection in the big mirrors. It is perhaps these particular keep-fit enthusiasts who are most excited about the latest trend in home exercise – smart fitness mirrors. These are 1.8m tall, vertical, high-tech mirrors that contain a computer, connect to the internet, and also work as a video screen. The idea is you connect with an online trainer, who then appears on the mirror screen next to your reflection. On the more advanced devices the mirror is fitted with cameras and speakers, so the trainer can observe your movements and suggest ideas and changes.
+
+(3) The first smart mirror went on sale last year, costing 1300$, although there are plans for a simpler versions, at prices from 800$ to 1000$. The company describes its mirror as “giving completely personal sessions for body, mind and health.” But is there any actual advantage to being able to watch yourself workout?
+
+(4) Well, it can help you get the maximum benefits of the strength exercise and reduce errors in form that could lead to problems. Dr. Diana Johnson, a sports and fitness consultant at University of London agrees, but that she also has some worries. “Exercising in front of your reflection might provide important feedback; for example, on running technique or weightlifting form,” she says. “It may also increase people’s enjoyment during exercise – you can see the muscles in action and that can feel rewarding. However, my worry would be how do people who are unhappy with their body feel about this? It may be a problem for those new to exercise and looking to make a change in their life. Even for people who exercise regularly, we know there are many who are unhappy with their body, and for them, seeing a reflection throughout their exercise might be difficult.”
+
+(5) A similar form of high-tech mirror is also now entering the market – smart wellness mirrors. These are mirrors that use sensors and Al to measure a user’s skin and health. These are designed to replace the usual mirror above the sink in your bathroom. The mirrors use a camera, and infrared and ultraviolet light sensors to analyse a person’s skin and temperature, and then suggest a number of care routines.
+
+(6)The bathroom is a place where you have your hands full, or wet, or with cream on them, so the mirror is touchless – you just have to move your hand in front of it. It seems this product has made the famous line “mirror, mirror, on the wall, who’s the fairest of them all?” become a reality.
+
+(7) However, some doctors also have worries about both fitness and wellbeing smart mirrors. For someone who already notices every imagined problem with their body, these mirrors could result in them worrying more about their appearance.
+
+(8) Doctor Ali Ahmad agrees that there is a risk of some people worrying too much about their bodies, but he adds that the smart mirrors may improve health choices.
+
+Q32. How much will the cheapest smart mirror cost?
+  A) 1,300$
+  B) 1,000$
+  C) 800$
+  D) 600$
+ANSWER: C
+
+Q33. What is one advantage of these mirrors?
+  A) You will make fewer mistakes in your exercise.
+  B) You will get much stronger.
+  C) You will worry less about exercising.
+  D) You will be less unhappy about your body.
+ANSWER: A
+
+Q34. What can a smart wellness mirror suggest?
+  A) What problems with your health you have.
+  B) How to worry less about your body.
+  C) Which medicine to take.
+  D) Ways to look after yourself better.
+ANSWER: D
+
+--- PASSAGE 6: Inflation ---
+
+(1) Inflation is a general and sustained increase in prices over time. It is calculated by measuring the price of a typical basket of common products that people buy regularly. It tracks how the price of that basket of products changes over time. The rate of inflation is usually stated as a percentage. An annual inflation rate of 2% means that a product that was 100 riyals last year will now be priced 102 riyals.
+
+(2) Inflation affects almost all people. It reduces how much a person can buy because more money is now needed to purchase the same items. High rates of inflation mean that if salaries do not increase at the same rate, people will feel that they are poorer. They will have the same amount of money, but they will not be able to buy the same things. They will purchase less and stop purchasing luxury items and things that do not really need.
+
+(3) Inflation has an effect on businesses too. They often see a drop in sales, because of the lower real levels of consumer spending. In addition, their staff may ask for higher salaries because they need more money to pay for the higher cost of living. This would result in higher costs for businesses and could also cause the business to hike prices even more. This would then push inflation higher again.
+
+Q35. What may cause higher costs for a business?
+  A) an increase in prices.
+  B) higher interest rates.
+  C) higher salaries.
+  D) a fall in sales.
+ANSWER: C
+
+Q36. What might people do because of high inflation?
+  A) buy common products.
+  B) buy fewer products.
+  C) spend less money.
+  D) work longer hours.
+ANSWER: B
+
+Q37. The word “purchase” in paragraph (2) is closest in meaning to…
+  A) buy
+  B) sell
+  C) find
+  D) borrow
+ANSWER: A
+
+Q38. The word “hike” in paragraph (3) is closest in meaning to…
+  A) report
+  B) improve
+  C) decrease
+  D) increase
+ANSWER: D
+
+--- PASSAGE 7: Annual Ticket Sales by League (line chart) ---
+
+[CHART] Line chart, 1992–2017, annual ticket sales (millions) for Major League Baseball (highest line, peaking around 80 million near 2007), Minor League Baseball (around 30–50 million), National Basketball Assn. and National Football League (both around 15–22 million; the NBA line dips below the NFL line around 1998 and again around 2012 and is above it around 2006).
+
+Q39. When did the National Basketball Assn. sell more tickets than the National Football League?
+  A) 1990
+  B) 1998
+  C) 2006
+  D) 2012
+ANSWER: C
+
+Q40. What was the highest number of tickets sold by one sport in one year?
+  A) 60 million
+  B) 70 million
+  C) 80 million
+  D) 90 million
+ANSWER: C
+
+--- PASSAGE 8: Use of social media platforms by age group in the US (bar chart) ---
+
+[CHART] Grouped bar chart: share of adults in the US using YouTube, Facebook, Instagram, Snapchat and Twitter, by age group (18–24, 25–29, 30–49, 50–64, 65+). Facebook use by 18–24 year olds is 76%.
+
+Q41. Which social media platform is used by people in the “30–49 years” age group more than Instagram?
+  A) Twitter
+  B) LinkedIn
+  C) Youtube
+  D) Snapchat
+ANSWER: C
+
+Q42. What percentage (%) of people in the “18–24 years” age group use Facebook?
+  A) 84
+  B) 79
+  C) 76
+  D) 69
+ANSWER: C
+
+--- PASSAGE 9: Global warming ---
+
+(1) There are still a few people in northern Europe who think that global warming might not be such a bad thing. In Britain, where summer can sometimes seem to last little more than a few weeks, many would welcome the idea of it getting a bit hotter.
+
+(2) Unfortunately, things are not so simple. Global warming doesn’t just mean the world will slowly get warmer. Paradoxically, it could cause certain areas to get colder – a lot colder. The latest predictions are that northern Europe could even be plunged into an ice age. While areas of south-eastern Europe would continue to get hotter and drier, Britain could find itself, surrounded by sea ice.
+
+(3) The reason for this concerns the Greenland ice sheet. This is one of the biggest expanses of ice in the world. It is so big that if it all melted sea levels would rise by 7 meters. Due to rising emissions of greenhouse gases, such as carbon dioxide from the combustion of fossil fuels, this ice sheet is melting at an alarming rate. But how could the melting of the Greenland ice sheet threaten to plunge northern Europe into a new ice age?
+
+Q43. The word “alarming” in paragraph (3) is closest in meaning to…
+  A) confusing
+  B) frustrating
+  C) devastating
+  D) frightening
+ANSWER: D
+
+Q44. The word “plunge” in Paragraph (3) is closest in meaning to…
+  A) elevate
+  B) invite
+  C) launch
+  D) explode
+ANSWER: C
+
+--- PASSAGE 10: Causes of stress among adults (chart) ---
+
+[CHART] Chart showing the reasons for stress among adults (image not reproduced here); according to the answer key the main reason is money.
+
+Q45. Which was the main reason for stress among adults?
+  A) work
+  B) family
+  C) money
+  D) health
+ANSWER: C
+
+--- PASSAGE 11: The Dangers of Excess Security ---
+
+(1) What’s the difference between a medical student and a convict? The answer: A convict doesn’t pay $50,000 a year for the privilege of being fingerprinted and patted down. I am referring, of course, to the increasingly stringent security measures that have come to characterize modern educational testing. As student evaluation techniques have migrated from face-to-face assessment to computer-based exams administered in dedicated testing centers, evaluators have become less and less likely to know examinees, leading to heightened precautions around exam security. The need for stricter security measures has presented a serious challenge for testing administration bodies. Striking a balance between security practices that are too lax and measures that discourage and may even negatively impact the mood of test-takers is not an easy task.
+
+(2) I recently interviewed a group of fourth-year medical students who had just taken Step 2 of the United States Medical Licensing Clinical Knowledge Examination at test- administration centers. Each of the students had paid $560 for the privilege, and had devoted nine hours to the single-day exam, which consists of eight sections of 40 to 45 questions each. Over the day, they received a total break time of 45 minutes. Students must pass the exam to obtain a medical license, and scoring well is an important factor in gaining admission to competitive medical specialties. So, anxiety tends to run high.
+
+(3)This inevitable anxiety is compounded by Checkpoint Charlie-esque security measures. IDs are checked. Each student wears a unique number on his or her shoulder throughout the day. Students are fingerprinted each time they enter and exit the testing room (up to 16 times). They are patted down and asked to roll up their pants legs and pull their pockets inside-out. If they wear a jacket or sweater into the exam room, they cannot take it off. They are warned that they will be under constant camera surveillance. They are also warned that excessive movement and or gestures that might be interpreted by test monitors as communication with other students in the room must absolutely be avoided.
+
+(4) One of the students, a former U.S. marine, said he had found the entire atmosphere of the exam strangely familiar. He had served in Iraq, helping to preside over the return of inhabitants to Fallujah after the city’s recapture by U.S. forces. “It was weird,” he said. “They were using many of the exact same procedures and equipment we used in Fallujah. It took so long for them to verify identities that you almost didn’t dare leave the room, for fear you couldn’t get back in time. I finally had to show one of the examiners how to do it properly.” Of course, these techniques are not merely for medical students. Aspiring accountants and architects, students sitting for the GRE, and prospective employees of Silicon Valley companies are all subjected to these strict measures. While the intent behind these measures is to uphold the integrity of tests, such extreme measures may cause more harm to test-takers and the overall testing system than good.
+
+(5) Some might say that a high-security approach to testing students is not only necessary but a great practice overall. In the case of medical testing, the health of the nation is a vital resource, and we cannot afford to place it in the hands of physicians who might have succeeded through academic dishonesty. Who would want a loved one to be cared or by fa physician who had cheated on the medical-licensing exam? As public policy, some argue, we should demand the very highest security in all such testing. they hold that students must adjust to these necessary measures and practice patience and understanding.
+
+(6) But perhaps we have taken these security affairs too far. After all, the core of the patient- physician relationship is trust. The Hippocratic Oath, which has shaped the ethics of medicine for many centuries, enjoins the physician to respect patients’ privacy and dignity and to always put each patient’s interests first. We rely on our physicians for all sorts of matters we would not share with anyone else—private details of our health and personal relationships, access to intimate parts of our bodies, sometimes even our lives. We want to trust our physicians. No one is arguing that security is unnecessary, but perhaps we haven’t quite yet found the sweet spot. It is quite possible that there are still less strict security measures which can be as effective yet more tactful.
+
+Q46. What are two causes for anxiety in medical students?
+  A) students who cheat on exams and security measures.
+  B) wearing a number are removing their watches.
+  C) scoring well and overcoming nervousness.
+  D) passing the medical exam and scoring well.
+ANSWER: D
+
+Q47. What are two security measures mentioned?
+  A) pulling pockets inside-out and rolling up pants legs.
+  B) raising pants legs and taking short breaks.
+  C) removing gloves and showing birth certificate.
+  D) removing smart watches and rolling socks down.
+ANSWER: A
+
+Q48. What are two types of students who also face strict security measures?
+  A) business students and GRE task-takers.
+  B) accounting and architecture students.
+  C) business and engineering students.
+  D) accounting students and students in Silicon Valley.
+ANSWER: B
+
+--- PASSAGE 12: Junk Food Advertising ---
+
+(1)Childhood obesity is defined as “a child having excessive body fat which presents a risk to health,” and it is a sad fact that too many children worldwide are obese. In November 2021, the World Health Organization (WHO) published a report. The report includes sensible suggestions such as introducing health education and awareness-raising campaigns, but also asks countries to act and ban the direct advertising of junk food to children. The report claims that there is clear evidence that junk food adverts influence children’s behavior, and that there is a link between childhood obesity and this kind of advertising. The report goes on to blame the marketing industry globally for deliberately directing their messaging towards children.
+
+(2) However, the link between advertising and childhood obesity is weak and based on conclusions from research made up to 40 years ago. One example is a study conducted in Canada in 1981. In the study, eight-year-old children who were staying at a summer camp were exposed to two-weeks of food-and-drink messages on television. Researchers found that children who watched adverts for chocolate chose more chocolate and less fruit as snacks. Although this shows that there is a link between children’s food choices and television, it does not show a link between advertising and children who are overweight.
+
+(3) Children’s choices are heavily dependent on their environment. Where they grow up and behaviors that are treated as acceptable are crucial. This is a fact that people who support bans on junk food advertising like to ignore. What this means is that, if parents live unhealthy lives, then their children are much more likely to live unhealthy lives too. To tackle obesity. I believe that we need work harder get the message across about what is healthy and what is not. Attempts to solve the problem through bans are a waste of time. Education is important. School and parents play a key role in fighting obesity. The WHO’s junk food advertising bans are an unthinking solution to a problem that requires a major change to all of society.
+
+Q49. What idea do the words “children who are overweight” in paragraph (2) repeat?
+  A) children who watched adverts
+  B) junk food to children
+  C) children’s behavior
+  D) childhood obesity
+ANSWER: D
+
+Q50. How is the World Health Organization’s view about childhood obesity different from the writer’s view?
+  A) It believes education can influence food choices.
+  B) It believes junk food advertising can cause obesity.
+  C) It believes that children should do a lot more exercise.
+  D) It believes television can affect children’s food choices.
+ANSWER: B
+
+Q51. What can we understand from paragraph (1) about food advertising?
+  A) Many countries ban junk food advertising.
+  B) Many countries allow junk food advertising.
+  C) Many countries make adverts about healthy eating.
+  D) Many countries ban all food advertising to children.
+ANSWER: B
+
+Q52. What can we understand from paragraph (2) about the children in the research study?
+  A) Some children were prevented from watching the chocolate adverts.
+  B) Some children gained weight during the two-week research period.
+  C) Some children came from the USA and other countries outside Canada.
+  D) Some children enjoyed watching television more than others.
+ANSWER: B
+
+--- PASSAGE 13: Study Abroad (Passage A and Passage B) ---
+
+Passage A
+
+(1) A huge draw of studying abroad is gaining life experience in a different country and culture. Immersing yourself in a new way of living can be scary at first, but tackling the challenges of living in a new country will grow your self-confidence and independence.
+
+(2) Getting to know a new place also means the opportunity to explore; you’ll learn all about local food, history, and customs. Although your university may be based in one city, there will be plenty of opportunities for traveling to other areas of the country, and maybe even other countries close by. Your idea of education will be forever changed.
+
+(3) You’ll be able to meet a lot of new people from different backgrounds, adding to your understanding of the world and how to interact with a diverse range of people. A benefit of living abroad while studying is the access you’ll have to societies and sports teams, so meeting new people will never be an issue.
+
+(4) The best way to improve your language skills is to live in a country that doesn’t speak your native language. Living in a different country increases your vocabulary daily, and introduces you to more colloquial ways of speaking in that language.
+
+(5) Some international students decide to apply for work visas when their course has finished as they wish to search for jobs in that country. Studying abroad can open up a new world of job opportunities in another country, broadening your postgraduate options.
+
+(6) The personal skills you develop while studying abroad can also be appealing to prospective employers. The willingness you’ve shown to step out of your comfort zone; your global outlook and your independence will be traits shown through your decision to study abroad.
+
+Passage B
+
+(1) With study abroad, you can experience new places and cultures, make friends from around the world, and gain a global perspective-while earning credits towards your degree. It is a great way to develop highly-valued skills such as intercultural communication, foreign languages, adaptability, and problem-solving.
+
+(2) Studying marine science at the Great Barrier Reef, architecture in Europe, or environmental sciences in the Amazon rainforest provides new meaning to the typical classroom experience not possible on campus. On average approximately 13% of U.S. undergraduates nationwide study abroad. Distinguish yourself from your peers by developing highly valuable skills while exploring a unique learning environment overseas!
+
+(3) When you’re abroad, every new experience can be a challenge and an adventure! Take a risk by leaving your home and you will be better prepared to face challenges in the future. By stepping outside of your comfort zone, you’ll develop problem solving skills and discover you can handle the unexpected. Study abroad is a transformative experience that fosters personal growth along with increased intellectual development.
+
+(4)Through study abroad, you can gain international experience and skills such as intercultural sensitivity, the ability to deal with ambiguity, and adaptation to new surroundings – all highly valued by employers. Abroad, you can learn to relate with people from different backgrounds, an important ability in the workplace. According to the IES survey, their study abroad alumni earn on average $7,000 more in starting salary compared to the general population of U.S. college graduates.
+
+(5) Develop an understanding and appreciation of people from other countries and improve cross-cultural competency along with many skills. In a recent survey. 97% stated that study abroad served as a catalyst for increased maturity, 96% increased their self- confidence and 84% said that study abroad helped them develop job skills.
+
+Q53. According to Passages A and B, why is it important to live abroad?
+  A) to expand cultural horizons
+  B) to earn better salaries
+  C) to access sport teams
+  D) to learn about the environment
+ANSWER: A
+
+Q54. What do passages A and B say about foreign languages when living abroad?
+  A) promotion of intercultural understanding
+  B) higher improvement of vocabulary
+  C) excellent path of learning
+  D) best way to make friends
+ANSWER: C
+
+Q55. What do passages A and B say about studying abroad?
+  A) It improves classroom experiences.
+  B) It broadens future job options.
+  C) It boosts future salaries.
+  D) It helps you to solve problems.
+ANSWER: B
+
+Q56. What do passages A and B say about exploring when studying abroad?
+  A) distinguishes you from your colleagues
+  B) improves your sensitivity
+  C) presents a difficult challenge
+  D) gives new meaning to classical experiences
+ANSWER: D
+
+--- PASSAGE 14: Television and lifespan ---
+
+(1) Is your television killing you? Did you know that every hour you spend watching it can take 22 minutes off of your life? This means that viewing for an average of six hours a day can cut short your life by five years!
+
+(2) The above information is based on a study done by a group of researchers at the University of Queensland, Australia. The inactivity associated with TV viewing is dangerous and gives greater opportunities for unhealthy overeating. The researchers also showed that a sedentary lifestyle is as bad for health as smoking cigarettes. The scientists calculated that half an hour of watching TV’ is equivalent to smoking one cigarette, with both cutting 11 minutes off a lifespan. Australians watch TV for an average of six hours per day and health effects are likely to be similar in other industrialized countries: the average amount of time spent watching TV daily is four hours in the UK and live hours in the United States.
+
+(3) An earlier study associated television viewing with the risk of developing type-2 diabetes and heart disease, as well as with the risk of early death. That research showed that these risks rose by 20% for people who spend just two hours a day in front of the TV.
+
+(4) The good news is that exercising for just 15 minutes a day can increase your lifespan by up to three years. It can also reduce the risk of premature death by 14%. Each extra 15 minutes of exercise added to that can decrease this risk by another 4%.
+
+Q57. According to the passage, what activity can increase the health risks of diabetes and heart disease by 20%?
+  A) watching TV for two hours a day
+  B) a generally inactive lifestyle
+  C) unhealthy eating
+  D) smoking
+ANSWER: A
+
+Q58. The word “premature” in Paragraph (4) is closest in meaning to…
+  A) late
+  B) early
+  C) final
+  D) developing
+ANSWER: B
+
+Q59. According to paragraph (4), exercising for 15 minutes daily can…
+  A) add three years to your total lifetime
+  B) lengthen your lifetime by 22 minutes
+  C) decrease the risk of death by 4%
+  D) lower heart disease by 4%
+ANSWER: A
+
+--- PASSAGE 15: Email: Meeting with PR ---
+
+From: <ahmad.adbullah@globalconsiiltants.com> To: <hamad.salih@ globalconsultants.com> Date: October 28, 2013 Subject: Meeting with PR I’m having a meeting with the public relations specialist tomorrow afternoon at 1 p.m. I need you to have five final hard copies of our updated company profile ready as well as the PowerPoint presentation preloaded onto the conference room computer with everything set up. Mr. Ali has been asked to make sure there are enough refreshments available for up to ten people. Please make sure you arrive prior to the start time, as I was not pleased when the guests and I arrived before you at the last event. In addition, make sure to bring the extra materials that I discussed with you in my office yesterday. As I will not return to the office today and will be out tomorrow morning. I won’t see you until the meeting tomorrow afternoon. Thank you, Ahmad Abdulla President Global Consultant.
+
+Q60. According to the passage, why was Mr. Ahmed NOT pleased with Mr. Hamad?
+  A) Mr. Hamad forgot to bring extra materials at a past event.
+  B) Mr. Hamad did not order refreshments for a past event.
+  C) Mr. Hamad arrived later than him at a past event.
+  D) Mr. Hamad was unable to attend a past event.
+ANSWER: C
+
+GRAMMAR
+========================================
+
+Q61. If they have the resources, they ……… a public park.
+  A) built
+  B) will build
+  C) had built
+  D) would build
+ANSWER: B
+
+Q62. How did you respond when the policeman asked you ……… him your driver’s license?
+  A) give
+  B) to give
+  C) giving
+  D) to giving
+ANSWER: B
+
+Q63. Which sentence has the CORRECT WORD ORDER?
+  A) Mrs. Wilson put them away in the cupboard, after lunch was over, and washed the dishes, dried them.
+  B) After lunch was over, Mrs. Wilson washed the dishes, dried them, and put them away in the cupboard.
+  C) Mrs. Wilson washed the dishes, dried them, after lunch was over, and put them away in the cupboard.
+  D) Dried them, Mrs. Wilson put them away in the cupboard, after lunch was over, and washed the dishes.
+ANSWER: B
+
+Q64. What are you doing ……… home?
+  A) in
+  B) at
+  C) to
+  D) on
+ANSWER: B
+
+Q65. Steve made sure he arrived early for his interview ……… prepare fully.
+  A) for to
+  B) and for
+  C) so that to
+  D) in order to
+ANSWER: D
+
+Q66. Which one of the underlined words or phrases is INCORRECT? “Bill’s mother didn’t let him go out because she knew he have not finished his homework.” (underlined: didn’t / because / have / his)
+  A) didn’t
+  B) because
+  C) have
+  D) his
+ANSWER: C
+
+Q67. The farmer’s market is open ……… Saturday every week.
+  A) with
+  B) on
+  C) to
+  D) in
+ANSWER: B
+
+Q68. ……… Linda is not very tall, she is an excellent basketball player.
+  A) Even
+  B) In case
+  C) Although
+  D) In spite of
+ANSWER: C
+
+Q69. Bob doesn’t like horror movies, ……… he still went along because his friends wanted to watch one.
+  A) so
+  B) but
+  C) and
+  D) because
+ANSWER: B
+
+Q70. Could you talk ………, please? Hannah is still asleep.
+  A) more quieter
+  B) more quietly
+  C) quietlier
+  D) quieter
+ANSWER: B
+
+Q71. Our neighbours had an accident. ………, no one was injured.
+  A) Luck
+  B) Lucky
+  C) Luckily
+  D) Luckiest
+ANSWER: C
+
+Q72. It was the ……… decision that I’ve ever had to take.
+  A) important
+  B) importantest
+  C) most important
+  D) more important
+ANSWER: C
+
+Q73. Mrs. Carter tried very ……… to remember all her students’ names.
+  A) hard
+  B) hardly
+  C) harder
+  D) hardest
+ANSWER: A
+
+Q74. Which is the ……… language to learn – English or Spanish?
+  A) easy
+  B) easily
+  C) easiest
+  D) easier
+ANSWER: C
+
+Q75. Enjoy your holiday. Have ………!
+  A) great time
+  B) a great time
+  C) the great time
+  D) some great time
+ANSWER: B
+
+Q76. I’d be very frightened if a lion ……… me.
+  A) attacks
+  B) will attack
+  C) has attacked
+  D) attacked
+ANSWER: D
+
+Q77. If I tell her the truth, she ……… angry.
+  A) is
+  B) was
+  C) will be
+  D) would be
+ANSWER: C
+
+Q78. Don’t take that job unless they ……… you better pay.
+  A) offer
+  B) offered
+  C) will offer
+  D) would offer
+ANSWER: A
+
+Q79. Would you work tomorrow if you ………?
+  A) don’t have to
+  B) didn’t have to
+  C) won’t have to
+  D) wouldn’t have to
+ANSWER: B
+
+Q80. Diana lost her job a year ago, and hasn’t ……… find a new one.
+  A) been able to
+  B) could able to
+  C) been able
+  D) could able
+ANSWER: A
+
+Q81. You don’t ……… give him any money. He has a good job now.
+  A) must
+  B) need
+  C) ought to
+  D) have to
+ANSWER: D
+
+Q82. I wanted to bake my dad his favorite cake but ……… find the recipe.
+  A) can’t
+  B) couldn’t
+  C) wasn’t able
+  D) am not able
+ANSWER: B
+
+Q83. If Mrs. Harris is not in her office, she ……… be having her coffee break.
+  A) ought
+  B) shall
+  C) may
+  D) can
+ANSWER: C
+
+Q84. Amy: Is that your niece’s son over there? Alex: Yes, ……… is.
+  A) that
+  B) she
+  C) he
+  D) it
+ANSWER: D
+
+Q85. First Mrs. Carter and later Mrs. Johnson introduced ……… to the students.
+  A) by themselves
+  B) by herself
+  C) themselves
+  D) herself
+ANSWER: C
+
+Q86. Let’s go on holiday, ………?
+  A) shall we
+  B) would we
+  C) will we
+  D) do we
+ANSWER: A
+
+Q87. Steve: None of the hotel staff spoke English. Amy: ………? That must’ve been very upsetting.
+  A) Did they
+  B) Didn’t they
+  C) Hadn’t they
+  D) Had they
+ANSWER: A
+
+Q88. What are you doing at work, Linda? Your daughter told me you ……… on holiday.
+  A) are
+  B) have been
+  C) are being
+  D) were
+ANSWER: D
+
+Q89. Cathy and I ……… in the train for several hours when, finally, the sun came out.
+  A) had been walking
+  B) have been walking
+  C) were walking
+  D) had walked
+ANSWER: A
+
+Q90. My grandfather travelled a lot when he was younger. He is believed to ……… over a hundred countries.
+  A) visit
+  B) be visiting
+  C) have visited
+  D) have been visited
+ANSWER: C
+
+Q91. Take a sweater in case it ……… cold at night.
+  A) got
+  B) gets
+  C) will get
+  D) would get
+ANSWER: B
+
+Q92. The police forces in Saudi Arabia like to use strong vehicles. ………, Toyota, Ford and Dodge.
+  A) For example
+  B) In addition
+  C) In contrast
+  D) However
+ANSWER: A
+
+Q93. Choose the best way to make the following sentences into a paragraph: (1) This happens on the last Wednesday in August. (2) It is a huge food fight with people throwing tomatoes at each other. (3) Every year, many famous festivals take place around the world. (4) One of the best is called La Tomatina.
+  A) (3), (4), (1), (2)
+  B) (1), (4), (3), (2)
+  C) (3), (1), (4), (2)
+  D) (4), (2), (3), (1)
+ANSWER: A
+
+Q94. Which sentence has the CORRECT WORD ORDER?
+  A) By 2030, among the top 15 biggest economies in the world Saudi Arabia aims to be.
+  B) By 2030, Saudi Arabia aims to be among the top 15 biggest economies in the world.
+  C) Saudi Arabia aims the top 15 biggest economies in the world by 2030 to be among.
+  D) Saudi Arabia 15 biggest economies in the world aims to be among the top by 2030.
+ANSWER: B
+
+Q95. Ali wanted to join his father on a business trip to Dubai, ……… the flight was full.
+  A) but
+  B) then
+  C) since
+  D) therefore
+ANSWER: A
+
+Q96. Jane: I’m starting the new assignment now. Teacher: Sure, but ……… the old assignment I gave you?
+  A) have you already been finishing
+  B) were you already finish
+  C) have you already finished
+  D) are you already finishing
+ANSWER: C
+
+Q97. Mary was too tired to watch television last night, ……… she went to bed early.
+  A) so
+  B) but
+  C) why
+  D) because
+ANSWER: A
+
+Q98. The girl was holding the knife carefully because her parents ……… her how to do it.
+  A) they shown
+  B) they show
+  C) had shown
+  D) have showed
+ANSWER: C
+
+Q99. Eric wanted to stop to eat but the rest of the passengers on the bus wanted to keep ……… until they reached their destination.
+  A) go
+  B) to go
+  C) going
+  D) to going
+ANSWER: C
+
+Q100. If he ……… harder, he would have passed his examinations.
+  A) works
+  B) will work
+  C) worked
+  D) had worked
+ANSWER: D

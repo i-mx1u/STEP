@@ -1,0 +1,578 @@
+MODEL 36
+========================================
+
+READING
+========================================
+
+Passage 1
+OS (الحاسب تشغيل نظام)
+(1) A computer is a set of resources for the movement, storage, and processing of data
+and for the control of these functions. The OS is responsible for managing these
+resources.
+(2) Can we say that it is the OS that controls the movement, storage, and processing
+of data? From one point of view, the answer is yes: By managing the computer’s
+resources, the OS is in control of the computer’s basic functions. But this control is
+exercised in a curious way. Normally, we think of a control mechanism as something
+external to that which is controlled, or at least as something that is a distinct and
+separate part of that which is controlled. For example, a residential heating system
+is controlled by a thermostat, which is separate from the heat-generation and
+heat-distribution apparatus.) This is not the case with the OS which as a control
+mechanism is unusual in two respects:
+•	The OS functions is the same way as ordinary computer software; that is, it is a
+program or suite of programs executed by the processor.
+•	The OS frequently relinquishes control and must depend on the processor to allow
+it to regain control.
+(3) Like other computer programs, the OS provides instructions for the processor.
+The key difference is in the intent of the program. The OS directs the processor in
+the use of the other system resources and in the timing of its execution of other
+programs; But in order for the processor to do any of these things, it must cease
+executing, the OS program and execute other programs. Thus, the OS relinquishes
+control for the processor to do some “useful” work and then resumes control long
+enough to prepare the processor to do the next piece of work.
+Q21.
+What was the writer’s main purpose?
+  A) To convince
+  B) To entertain
+  C) To inform
+  D) To complain
+22 What is one important idea that the writer mentions?
+  A) The OS controls all computer programs alone.
+  B) The OS is separate from the system it controls.
+  C) The OS needs to be to have a break from its work.
+  D) The OS works like other computer software.
+
+Passage 2
+(الداخلية األذن)
+(1) Within the inner ear, thousands of hair cells detect sound waves and
+translate them into nerve signals that allow us to hear speech, music, and
+other everyday sounds. Damage to these cells is one of the leading causes of
+hearing loss, which affects 48 million Americans.
+(2) Each of us is born with about 15,000 hair cells per ear. And once damaged.
+These cells cannot regrow. However. Researches at MIT. Brigham and
+Women’s Hospital. And Massachusetts Eye and Ear have now discovered a
+combination of drugs that expands the population of progenitor cells also
+called supporting cells) in the ear and encourages them to become hair cells,
+offering a potential new way to treat hearing loss.
+(3) Because this treatment involves a simple drug exposure, the researchers
+believe it could be easy to administer it to human patients. They envision
+that the drugs could be injected into the middle ear. From which they would
+diffuse across a membrane into the inner ear. This type of injection is
+commonly performed to treat ear infections.
+(4) Hearing loss is a real problem as people get older. It’s very much of an unmet
+need, and this is an entirely new approach.
+23 What is the author’s main purpose?
+  A) To explain
+  B) To inform
+  C) To convince
+  D) To teach medicine
+24 What is one important idea that the author mentions?
+  A) Men are more likely to suffer from hearing loss.
+  B) The treatment is injected into the middle ear.
+  C) Hearing loss affects 48 million Americans.
+  D) Damaged hair cells cause hearing loss.
+25 What is one important idea that the author mentions?
+  A) Damaged hair cells cannot regrow.
+  B) Researchers at MIT completed a study.
+  C) Each person is born with 15,000 hair cells.
+  D) The treatment can also treat ear infections.
+
+Passage 3
+Compensating Differentials-(الوظائف صعوبات بدل حسابات واختالف التعويض)
+(1) Jobs that are dangerous or unpleasant must pay more than jobs requiring similar
+skills but without the bad attributes. Thus, oil field workers in Alaska’s North
+Slope, well above the Arctic Circle, earn a premium over workers in similar jobs in
+Houston, Texas. The premium – or differential pay – must be such that the marginal
+worker is indifferent between the two choices – the extra pay compensates the
+worker for the adverse working conditions. This is why it is known in economics
+jargon by the phrase of a compensating differential.
+(1) The high salaries earned by professional basketball players are not a compensating
+differential. These salaries are not created by a need to induce tall people to choose
+basketball over alternative jobs like painting ceilings, but instead are payments that
+reflect the rarity of the skills and abilities involved. Compensating differentials are
+determined by alternatives, not by direct scarcity. Professional basketball players
+are well-paid for the same reason that Picasso’s paintings are expensive: there
+aren’t very many of them relative to demand.
+(2) A compensating differential is a feature of other choices as well as career choices.
+For example, many people would like to live in California. for its weather and
+scenic beauty. Given the desirability of California over, say, Lincoln, Nebraska
+or Rochester, New York, there must be a compensating differential for living in
+Rochester, and two significant ones are air quality and housing prices. Air quality
+worsens as populations rise thus, tending to create a compensating differential.
+In addition, the increase in housing prices also tends to compensate – housing is
+inexpensive in Rochester, at least compared to California.
+26 what does Paragraph  (1) say about Houston, Texas?
+  A) It is colder in winter than Alaska
+  B) It has many more jobs than Alaska
+  C) It has much higher salaries than Alas­
+ka
+  D) It is easier to work there than in Alaska
+27 What does Paragraph (1) say about oil field workers in Alaska?
+  A) They have different choices from Houston workers
+  B) They have more holidays than Houston workers
+  C) They have better salaries than Houston workers
+  D) They have more skills than Houston workers
+
+28 What does Paragraph (2) say about why basketball players have high salaries?
+  A) There are few excellent players
+  B) Few people choose basketball
+  C) It is a difficult job
+  D) They are tall
+29 What does Paragraph (3) say about California?
+  A) It has good air quality
+  B) It has high house prices
+  C) It has a lot of oil workers
+  D) It has many well-paid jobs
+30 What does Paragraph (3) say about Rochester?
+  A) Homes are more expensive there than in California
+  B) There is less air pollution there than in California
+  C) The weather is colder there than in California
+  D) The homes are better there than in California
+Q31.
+Which sentience gives the main idea of Paragraph (3)?
+  A) In addition the increase in housing prices also tends to compensate
+  B) Many people would like to live in California, for its weather and scenic beauty.
+  C) A compensating differential is a feature of other choices as well as career choices.
+  D) Air quality worsens as populations rise, thus tending to create a compensating differ­
+ential.
+32 What is the main idea of the passage?
+  A) People have many different choices in their lives
+  B) Compensating differentials have an effect on people’s life choices
+  C) Unpleasant and difficult jobs often have higher salaries than easy jobs
+  D) Compensating differentials mean some people work in difficult places.
+
+صفحةReading
+33 How many of Britain’s CEOs were educated in private schools in 2015?
+A
+  B) c
+  D) around 38%
+around 55%
+around 70%
+around 87%
+
+Passage 4
+External and Internal Recruitin (ًالشركة
+
+ًاو خارج
+
+ًالتوظيف من دًاخل)
+Passage A:
+
+External Recruiting
+(1)
+
+External recruiting is the attempt to attract job applicants from outside an
+organization. External recruiting may include recruiting via newspaper advertising,
+employment agencies, and online employment organizations; recruiting on college
+campuses, soliciting recommendations from present employees; and conducting
+«open houses». The biggest of the online job-search sites is Monster.com,
+which has almost all the Fortune 500 companies, as well as small and medium-
+sized businesses, as clients. In addition, many people simply apply at a firm’s
+employment office.
+(2)
+
+Clearly, it is best to match the recruiting means with the kind of applicant being
+
+sought. For example, private employment agencies most often handle professional
+
+people, whereas public employment agencies (operated by state or local
+
+governments) are more concerned with operations personnel. We might approach a
+
+private agency when looking for a vice president but contact a public agency to hire
+
+a machinist. Procter and Gamble hires graduates directly out of college. It picks the
+
+best and brightest – not those «tainted» by another company’s culture. It promotes
+
+its own «inside» people. This policy makes sure that the company retains the best
+
+and brightest and trains new recruits. Procter and Gamble pays competitively and
+
+offers positions in many countries. Employee turnover is very low.
+(3)
+
+The primary advantage of external recruiting is that it brings in people with
+
+new perspectives and varied business backgrounds. A disadvantage of external
+
+recruiting is that it is often expensive, especially if private employment agencies
+
+must be used. External recruiting also may provoke resentment among present
+
+employees.
+Passage B:
+
+Internal Recruiting
+(1)
+
+Internal recruiting means considering present employees. Among leading
+
+companies promoted from within. In the companies that hire CEOs from outside,
+
+Q40.
+
+percent of CEOs are gone after 18 months.
+(2)
+
+Promoting from within provides strong motivation for current employees and
+
+helps the firm to retain quality personnel. General Electric, ExxonMobil, and
+
+Eastman Kodak are companies dedicated to promoting from within. The practice
+
+of job posting, or informing current employees of upcoming openings, may be a
+
+company policy or required by union contract. The primary disadvantage of internal
+
+recruiting is that promoting a current employee leaves another position to be filled.
+
+Not only does the firm still incur recruiting and selection costs, but it also must train
+
+two employees instead of one.
+
+(3) In many situations it may be impossible to recruit internally. For example, a
+new position may be such that no current employee is qualified, or the firm may
+be growing so rapidly that there is no time to reassign positions that promotion
+or transfer requires. Unions are culturally specific to countries other than Saudi
+Arabia, so test takers may not be familiar with the «union contract».
+37 What can we understand from both passages about internal and external
+recruiting?
+  A) They both require the use of employment agencies
+  B) They both require companies to pay high salaries
+  C) They both involve training employees
+  D) They both provide opportunities to work in other countries
+
+34 According to Passages A and B, what is the benefit of promoting within a company?
+
+  A) It helps companies retain the best employees
+  B) It leaves other positions to be filled
+  C) It increases employee turnover
+  D) It is NOT expensive
+Q35.
+
+What can we understand from Passages A and B about recruiting?
+  A) Recruiting causes resentment among employees
+  B) Companies have to spend money to recruit
+  D) It is impossible to recruit internally
+  C) Recruiting good employees is a long process
+Q36.
+
+What can we understand from Passages A and B about promoting employees?
+  A) 40% of CEOs are promoted from within
+  B) Companies set policies for hiring their own employees
+  C) A transfer to a position at the same level is NOT allowed
+  D) Employees promoted from within usually leave after 18 months
+
+Passage 5
+Loss of Energy (الطاقة فقد)
+(1) No system can be perfect in the way it operates. Whenever there is a change in a
+system, energy is transferred and some of that energy is dissipated.
+(2) Dissipation is a term that is often used to describe ways in which energy is wasted.
+Any energy that is not transferred to useful energy stores is said to be wasted
+because it is lost to the Surroundings. Electrical cables Warming up are a good
+example of this. It is not useful to have hot wires behind a television as energy is
+dissipated to the surrounding air.
+(3) In a mechanical system, energy is dissipated when two surfaces rub together, work
+is done against friction which camass heading of the two surface – so the internal
+(thermal) energy of the surface increases adding Lubricant between the surfaces
+reduce this friction and so less heat is wasted, like on a conveyor belt for example.
+(4) In an electrical context – new types of components can be more energy – efficient,
+for example, using LED light bulbs as opposed to filament lamps causes less energy
+to be wasted. Normally. Energy is lost by heating up the surroundings though
+sometimes energy is dissipated as sound waves.
+38 What’s the writer’s main purpose?
+  A) to compare
+  B) to inform
+  C) to advise
+  D) to convince
+39 What is one important point that the writer mentions?
+  A) That oil can make conveyor belts work better.
+  B) That energy can be wasted in the form of sound waves.
+  C) That hot electrical cables can result in wasted energy.
+  D) That moving one surface against another causes energy waste.
+40 What is one important point that the writer mentions?
+  A) That various electrical parts save energy to different degrees.
+  B) That hot television cables can cause waste of energy.
+  C) That LED lights save energy more than other lamps.
+  D) That governments are more careful about saving energy now.
+
+Passage 6
+)التصميم
+
+مشاكل( Defining Design Problems
+Basic engineering design includes defining the problem as a first step. In the
+problem definition step, the needs of potential customers are investigated.
+potential
+potential
+
+competitors are identified and their market positions are characterized:
+constraints imposed by government regulations or technological limitations are
+identified, and constraints on the design effort such as available personnel, time,
+and money are established. The problem definition process results in a clear
+understanding of the
+
+scope
+scope
+
+of the design project and the resources available to
+solve the design problem. This understanding is often expressed in a problem
+statement. This understanding is also expressed in the form of
+
+criteria
+criteria
+
+and
+constraints.
+Q41.
+
+The word
+
+potential
+
+in the passage is closest in meaning to ……
+  A) new
+
+  B) private
+  C) regular
+
+  D) possible
+Q42.
+
+The word
+
+criteria
+
+in the passage is closest in manning to ……
+
+  A) Standards
+
+  B) resources
+
+  C) goals
+
+  D) benefits
+
+Passage 7
+Pyramids
+Pyramids were constructed by large work gangs over a period of many years. The
+Pyramid Age spans over a thousand years, starting in the third dynasty and ending in
+the Second Intermediate Period. The Greek historian Herodotus was told that it took
+100,000 men 20 years to build the Great Pyramid
+Great Pyramid at Giza. Scholars today, however,
+think it may have been built by only 20,000 men over 20 years.
+One theory suggests that causeways were used to haul the stone blocks on wooden
+sleds up the side of the pyramids. The ramps were lubricated with water to reduce
+friction when hauling the blocks. As few as 10 men were needed to drag a stone
+block up a ramp. There may have been several ramps on each side of the pyramid at
+different levels, and a ramp may have been coiled around the pyramid as it grew in
+height. Once a stone block reached its desired level, wooden rockers may have been
+used to manoeuvre it into position.The Ramp Theory is considered by far the most
+accepted by the Egyptology community who believe that the pyramid was made by
+sheer will and human power suing a massive workforce and incredible intelligence
+in transporting the stones across the desert through sleds and ropes. They used wet
+sand to drag the stones to reduce the fraction and make the dragging process easier.
+43 How many workers did they need to build the pyramids?
+  A) 100.000 men, 20 years
+44 How did they build the pyramids?
+  A) As 10 men were needed to drag a stone.
+45 what did they use to build the pyramids?
+  A) wet Sand fraction
+
+Passage 8
+Pizza
+(1) Pizza, which originated in Italy. Is a fast food that is known and loved all around
+the world. How did it become so popular? Part of the reason is that tourists who
+went to Italy ate it there
+there and loved it. When they returned to their countries, They
+looked for Italian restaurants that might have it. But much more significant in pizza
+becoming popular worldwide that fact that lots of American soldiers who were in
+Italy during World War II ate it there and then wanted it when they returned to
+the USA. This dramatic increase in the demand for pizza in the 1950s led to the
+development of special restaurants for pizza.
+(2) A shaky pizza parlor opened in California in 1954 which led to the first pizza
+restaurant chain that spread throughout the USA and even to other countries. Soon
+after that, in 1958, Two young men opened a Pizza Hut in Kanas. Now there are
+Pizza Huts all over the world. Other Pizza restaurants chains soon developed. For
+example. Domino’s Pizza can be found all over the world. Papa John’s Pizza has
+also become quite popular. This ever growing demand for pizza led to a market for
+ready-to-bake frozen pizzas in supermarkets. Now pizzas can easily be enjoyed not
+only in restaurants. But also at home and even in school and hospital cafeterias.
+(3) Pizza is a kind of dish that can adapt well in different societies. The ingredients for
+pizza can change to fit the taste and desires of a particular culture. The key reason
+enabling it to gain worldwide popularity. Vegetarians – there are many in India and
+other countries – can simply ask for vegetables only on a pizza. Beef, Pork, Lamb, or
+goat – the choice of meat differs from country to country – can be used. Those who
+like spicy food can add their favorite spices. Dessert pizzas are readily available
+with or without fruit. Seafood? No problem. Add to this variety of ingredients the
+different styles of pizza: deep dish, thin crust, stuffed crust, and the result is a dish
+that is adaptable to everyone’s taste.
+(4) While pizza is not exactly a health food since it tends to be high in calories. It can
+in fact contain a decent amount of vitamins and minerals due to the wide range
+of possible ingredients. Pizza can therefore be nutritious. All of these factors help
+explain the worldwide popularity of pizza.
+46 The word there in Paragraph (1) refers to……………
+  A) the united states
+  B) a pizza restaurant
+  C) Italy
+  D) the world
+47 According to Paragraph (2), the first pizza parlor opened in ......
+  A) 1954 in California
+  B) 1954 in Kansas
+  C) 1958 in California
+  D) 1958 in Kansas
+
+48 According to Paragraph  (2), supermarkets began to offer frozen pizzas because  they
+........
+  A) Are healthier than other pizzas
+  B) Contain a variety of ingredients
+  C) Wanted to compete with restaurants
+  D) Wanted to meet the increased demand
+49 According to Paragraph (3), the main reason for pizzas becoming popular worldwide is
+their ability to ................
+  A) Adapt to different cultures
+  B) Appeal to vegetarians
+  C) Have different crusts
+  D) NOT to spoil quickly
+50 According to Paragraph  (4) Pizza can have a fair amount of vitamins and minerals
+because it has…………………..
+  A) A variety of ingredients
+  B) A lot of cheese
+  C) Crunchy crust
+  D) Different styles
+Q51.
+According to Paragraph  (4), Pizza is NOT a good example of a health food because it is
+.........
+  A) Low in fat
+  B) High in calories
+  C) Short of carbohydrates
+  D) Short of grains
+52 What is the best title for the passage?
+  A) Pizza Hut
+  B) Preparing Pizza
+  C) The Popularity of Pizza
+  D) How Pizza Came to America
+
+Passage 9
+صالح مدائن
+(1) In 2008, Mada’inSaleh was made a UNESCO World Heritage site. This means that
+it has become recognized as a place of historical and cultural importance in the
+world. It is the only one of Saudi Arabia’s 4,000 archeological sites to be honored in
+this way.
+(2) Mada’inSaleh is located about 400 kilometers north-west of Medina. Its early
+history is well known by all Muslims. The Holy Quran tells us how its people were
+punished by Allah. The site had been settled by the tribe of Thamud. When prophet
+Saleh – Peace be upon him – warned them to stop their bad practices and to obey
+Allah. They refused to listen to him. They killed a sacred camel that was sent to
+them. Finally. He – peace be upon him- told the Thamud that if they did not change
+their ways and repent in three days. They would be destroyed. They disbelieved and
+paid no attention to his words. So he – peace be upon him – and the true believers
+left the city. The rest were all killed by
+terrible lightning and an earthquake.
+(3) The buildings and monuments that we can see today at Mada’inSaleh are from
+a later time and are remnants of the great Nabatean Kingdom. Other famous
+buildings of this civilization are found in northern Syria and in Petra in Jordan.
+Which was the Nabatean capital. The Nabateans also developed a system of
+agriculture by digging wells and storing water underground. At Mada’inSaleh.
+There are wonderful examples of their rock- cut tombs. The facades decorated
+with elaborately carved designs. The dry desert climate has helped to preserve the
+buildings and keep them in excellent condition.
+53 According to Paragraph  (1), why is Mada’inSaleh important in Saudi Arabia and the world
+today?
+  A) It is a great historical and cultural
+site.
+  B) It is part of the Nabatean Kingdom.
+  C) It has caravan routes and trade.
+  D) It is located near Medina.
+54 The word sites in Paragraph  (1) is closet in meaning to ………….
+  A) Civilization
+  B) Places
+  C) Tribes
+  D) Cultures
+55 The pronoun Its in Paragraph  (2) refers to ......................”
+  A) Medina
+  B) The Thamud
+  C) Mada’inSaleh
+  D) The Holy Quran
+
+56 According to Paragraph (2), Prophet Saleh – peace be upon him – left Mada’inSaleh
+because he ................”
+  A) Wanted to warn the other people
+  B) Did NOT want Medina to be destroyed
+  C) Wanted to see the lightning and earthquake
+  D) Did NOT want the believers to be destroyed
+57 According to Paragraph  (3), Petra..................
+  A) Is a successful commercial city
+  B) Was the Nabatean capital
+  C) Was the capital of Jordan
+  D) Is in northern Syria
+58 Which of the following did the Nabteans NOT do?
+  A) Carve decorations in Medina
+  B) Make wells and store water
+  C) Build cities in Syria and Jordan
+  D) Build rock tombs and monuments
+Passage 10
+Penicillin
+(1)Penicillin is a powerful drug used for treating many diseases caused by bacteria. It
+is grown from molds and was the first of the drugs known as antibiotics. Penicillin
+was discovered in 1928 by a British scientist named Sir Alexander Fleming.
+Through other had earlier noted its antibacterial effects. At the time, its importance
+was not realized. In 1939, Australian scientist Howard Walter Florey and a team of
+researchers at the University of Oxford made significant progress in showing the
+bacterial action of penicillin.
+59 Penicillin was discovered by ....................
+  A) A team of researchers at Oxford
+University
+  B) A team of Australian researchers
+  C) Fleming
+  D) Florey
+
+Passage 11
+Madagascar مدغشقر
+Madagascar is world-famous for its lemurs, primates that look something like a cat
+crossed with a squirrel and a dog. These animals are unique to the island and display
+a range of interesting behaviors. The ring-tailed lemur, the most recognizable of the
+species, relies strongly on its sense of smell and marks its territory with scent glands.
+60 The word its in the passage refers to ................
+  A) Ring-tailed lemur
+  B) Behavior
+  C) Species
+  D) range
+
+ANSWER KEY
+--------------------
+Q21: C
+Q22: D
+Q23: B
+Q24: D
+Q25: A
+Q26: D
+Q27: C
+Q28: A
+Q29: B
+Q30: B
+Q31: C
+Q32: B
+Q36: B
+Q37: C
+Q38: B
+Q39: C
+Q40: C
+Q41: D
+Q42: A
+Q43: A
+Q44: A
+Q45: A
+Q46: C
+Q47: A
+Q48: D
+Q49: A
+Q50: A
+Q51: B
+Q52: C
+Q54: B
+Q55: C
+Q56: D
+Q57: B
+Q58: C
+Q59: C
+Q60: A
