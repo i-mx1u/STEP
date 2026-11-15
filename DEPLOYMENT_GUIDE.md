@@ -67,13 +67,47 @@ This guide explains how to deploy the STEP practice app on **Render** (backend) 
 
 ---
 
+## 3. Supabase Setup (for cross-device sync)
+
+If you want to keep test history, bookmarks, and user accounts across devices, follow these steps:
+
+1. **Create a Supabase project** at https://supabase.com.
+2. **Run the schema** in the SQL Editor (Project → SQL):
+   ```bash
+   psql "postgresql://postpost.POSTGRESSWORD@db.usuravmzcrlwus Supabase PostgreSQL" < server/supabase/schema.sql
+   ```
+   Or copy the SQL from `server/supabase/schema.sql` into the Supabase SQL Editor and run it.
+3. **Note the keys**:
+   - `SUPABASE_URL`: from Project Settings → API
+   - `SUPABASE_SERVICE_ROLE_KEY`: from Project Settings → API (Service role key)
+4. **Enable on Render**:
+   - Set `DATABASE_PROVIDER=supabase` on Render
+   - Set `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY` (sync: false)
+   - Set `CORS_ORIGIN` to your Vercel URL
+5. **Rebuild and redeploy** both Render and Vercel.
+
+### Why Supabase is needed:
+- SQLite on Render's free plan is **ephemeral**—the database is wiped on every restart/redeploy. Data would be lost.
+- Supabase provides a persistent PostgreSQL database with auth, RLS, and real-time capabilities.
+- Without Supabase, all user data (register/login/history/bookmarks) is stored in `localStorage` on the user's device only—fully functional but not synced across devices.
+
+---
+
 ## 3. Deployment Order
 
+### Without Supabase (localStorage only):
 1. **Deploy the Backend first**: Push to Render, wait for the API to be live.
 2. **Get the API URL**: e.g., `https://stepwise-api.onrender.com`.
 3. **Deploy the Frontend**: On Vercel, set `VITE_API_URL` to the Render URL from step 2.
 4. **Test**: Open the Vercel URL, select a model, start a test, verify questions load and timers work.
-5. **(Optional) Enable Supabase**: If you want cross-device sync, set `DATABASE_PROVIDER=supabase`, `SUPABASE_URL`, and `SUPABASE_SERVICE_ROLE_KEY` on Render, then rebuild.
+5. **Result**: All data (register/login/history/bookmarks) is stored in `localStorage` per device.
+
+### With Supabase (cross-device sync):
+1. Follow the "Supabase Setup" steps above to create the project and run the schema.
+2. Deploy the Backend to Render with `DATABASE_PROVIDER=supabase`, `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` set.
+3. Deploy the Frontend to Vercel, set `VITE_API_URL` to the Render URL.
+4. **Test**: Open the Vercel URL, register/login, start a test, verify history and bookmarks sync across devices.
+5. **Result**: Data persists across restarts and is accessible from any device.
 
 ---
 
@@ -102,6 +136,7 @@ curl http://localhost:4000/api/catalog
 | `server/` | Node/Express API (entry: `server/index.ts`) |
 | `client/` | React + Vite SPA (entry: `client/src/main.tsx`) |
 | `server/data/step-bank.json` | Pre-parsed question bank (47 models) |
+| `server/supabase/schema.sql` | Supabase SQL schema (run once in SQL Editor) |
 | `vercel.json` | Vercel rewrite/spa config |
 | `render.yaml` | Render blueprint (server service) |
 | `package.json` | Root workspaces: `["client", "server"]` |
@@ -117,4 +152,5 @@ curl http://localhost:4000/api/catalog
 - [ ] `VITE_API_URL` set on Vercel to Render URL
 - [ ] Vercel SPA rewrite in place
 - [ ] Test: open Vercel URL, select Model 5, start a Reading test, timer runs, questions navigate
-- [ ] (Optional) Enable Supabase on Render if cross-device sync is needed
+- [ ] (Optional) Enable Supabase: run schema, set env vars on Render, redeploy
+- [ ] (Optional) If using Supabase: verify cross-device sync works (register/login on one device, view history/bookmarks on another)
