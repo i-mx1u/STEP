@@ -59,14 +59,13 @@ ALTER TABLE step_users ENABLE ROW LEVEL SECURITY;
 ALTER TABLE step_test_history ENABLE ROW LEVEL SECURITY;
 ALTER TABLE step_bookmarks ENABLE ROW LEVEL SECURITY;
 
--- Policies that allow the anon/registered user to read their own data only.
--- The backend (service role key) bypasses these, but they are required for
--- correct RLS operation and for any future direct DB access.
-CREATE POLICY "users_read_own" ON step_users FOR SELECT USING (auth.uid()::text = id);
-CREATE POLICY "users_update_own" ON step_users FOR UPDATE USING (auth.uid()::text = id);
-CREATE POLICY "test_history_read_own" ON step_test_history FOR SELECT USING (auth.uid()::text = user_id);
-CREATE POLICY "test_history_insert_own" ON step_test_history FOR INSERT WITH CHECK (auth.uid()::text = user_id);
-CREATE POLICY "test_history_delete_own" ON step_test_history FOR DELETE USING (auth.uid()::text = user_id);
-CREATE POLICY "bookmarks_read_own" ON step_bookmarks FOR SELECT USING (auth.uid()::text = user_id);
-CREATE POLICY "bookmarks_insert_own" ON step_bookmarks FOR INSERT WITH CHECK (auth.uid()::text = user_id);
-CREATE POLICY "bookmarks_delete_own" ON step_bookmarks FOR DELETE USING (auth.uid()::text = user_id);
+-- Policies: users can access only their own data.
+-- The backend uses the service role key, which bypasses these.
+CREATE POLICY "users_read_own" ON step_users FOR SELECT USING (auth.uid() = id);
+CREATE POLICY "users_update_own" ON step_users FOR UPDATE USING (auth.uid() = id);
+CREATE POLICY "test_history_read_own" ON step_test_history FOR SELECT USING (auth.uid() = user_id);
+CREATE POLICY "test_history_insert_own" ON step_test_history FOR INSERT WITH CHECK (auth.uid() = user_id);
+CREATE POLICY "test_history_delete_own" ON step_test_history FOR DELETE USING (auth.uid() = user_id);
+CREATE POLICY "bookmarks_read_own" ON step_bookmarks FOR SELECT USING (auth.uid() = user_id);
+CREATE POLICY "bookmarks_insert_own" ON step_bookmarks FOR INSERT WITH CHECK (auth.uid() = user_id);
+CREATE POLICY "bookmarks_delete_own" ON step_bookmarks FOR DELETE USING (auth.uid() = user_id);
