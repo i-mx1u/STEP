@@ -1,9 +1,6 @@
-# Render Blueprint — STEPWISE API
+# Render Blueprint — STEPWISE API (backend only)
+# Deploy this service to Render, then set VITE_API_URL on Vercel to its URL.
 # Docs: https://render.com/docs/blueprint-spec
-#
-# This blueprint deploys the Express API only, for use with the Vercel frontend.
-# For a single-service deployment where Express also serves the React build,
-# change buildCommand to `npm ci && npm run build` and set SERVE_STATIC=true.
 
 services:
   - type: web
@@ -11,30 +8,33 @@ services:
     runtime: node
     plan: free
     region: oregon
-    buildCommand: npm ci && npm run build -w server
+    buildCommand: npm install && npm run build -w server
     startCommand: npm start
     healthCheckPath: /api/health
     autoDeploy: true
     envVars:
+      # Node version must match .node-version (>= 22.5.0)
       - key: NODE_VERSION
         value: 24
       - key: NODE_ENV
         value: production
+      # JWT security
       - key: JWT_SECRET
         generateValue: true
       - key: JWT_EXPIRES_IN
         value: 30d
-      - key: SERVE_STATIC
-        value: false
-      - key: TRUST_PROXY
-        value: true
+      # CORS: set to your Vercel production URL, or leave empty to allow all in dev
+      - key: CORS_ORIGIN
+        sync: false
+      # Database: sqlite by default (no env vars needed). Use supabase for sync.
       - key: DATABASE_PROVIDER
-        value: supabase
+        value: sqlite
       - key: SUPABASE_URL
         sync: false
       - key: SUPABASE_SERVICE_ROLE_KEY
         sync: false
-      # Set this to your Vercel production URL, e.g.
-      # https://stepwise.vercel.app
-      - key: CLIENT_ORIGIN
-        sync: false
+      # Optional: serve the React build from Express (set VITE_API_URL empty on Vercel)
+      - key: SERVE_STATIC
+        value: true
+      - key: TRUST_PROXY
+        value: true
