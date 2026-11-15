@@ -16,7 +16,7 @@ const bool = (value: string | undefined, fallback = false) => {
 };
 
 const splitList = (value: string | undefined, fallback: string[]) =>
-  (value ? value.split(',').map((v) => v.trim()).filter(Boolean) : fallback);
+  (value ? value.split(',').map((v) => v.trim().replace(/\/+$/, '').toLowerCase()).filter(Boolean) : fallback);
 
 const supabaseUrl = process.env.SUPABASE_URL?.trim();
 const supabaseKey = process.env.SUPABASE_SERVICE_ROLE_KEY?.trim();
@@ -42,11 +42,8 @@ export const config = {
     ROOT_DIR,
     process.env.STEP_BANK_FILE || 'server/data/step-bank.json',
   ),
-  clientOrigins: splitList(process.env.CLIENT_ORIGIN || process.env.CLIENT_ORIGINS, [
-    'http://localhost:5173',
-    'http://localhost:4173',
-    'http://localhost:3000',
-  ]),
+  // CORS_ORIGIN: comma-separated list; each origin is trimmed, trailing slashes removed, lowercased
+  clientOrigins: splitList(process.env.CORS_ORIGIN || '', []),
   serveStatic: bool(process.env.SERVE_STATIC, true),
   trustProxy: bool(process.env.TRUST_PROXY, true),
   corsAllowVercel: bool(process.env.CORS_ALLOW_VERCEL, false),
@@ -57,6 +54,9 @@ export function validateConfig() {
 
   if (config.isProduction && config.jwtSecret === 'stepwise-development-secret-change-me') {
     warnings.push('JWT_SECRET is using the development default. Set a long random secret.');
+  }
+  if (config.isProduction && (config.clientOrigins.length === 0 || config.clientOrigins[0] === '')) {
+    warnings.push('CORS_ORIGIN is not set in production — this will block all cross-origin requests. Set CORS_ORIGIN to your Vercel URL.');
   }
 
   if (config.databaseProvider === 'supabase' && (!supabaseUrl || !supabaseKey)) {

@@ -15,48 +15,41 @@ import { bookmarksRouter } from './routes/bookmarks.js';
 
 const app = express();
 
-app.disable('x-powered-by');
-app.set('trust proxy', config.trustProxy ? 1 : false);
-
-app.use(
-  helmet({
-    crossOriginResourcePolicy: { policy: 'cross-origin' },
-  }),
-);
-app.use(compression());
-// Custom CORS middleware — handles production origins, Vercel previews, and OPTIONS preflights
-const allowOrigin = (origin: string | string | undefined) => {
-  if (!origin) return true // no origin (e.g. curl, mobile apps) — allow
-  // Check against allowed origins list (trailing slashes ignored)
-  const allowed = config.clientOrigins.some(o => o.replace(/\/+$/, '').replace(/^http:/, 'https:') === origin.replace(/\/+$/, '').replace(/^http:/, 'https:'))
-  if (allowed) return true
-  // Allow Vercel preview domains if CORS_ALLOW_VERCEL=true
-  if (config.corsAllowVercel && /\.vercel\.app$/.test(origin)) return true
-  // Allow all in development
-  if (!config.isProduction) return true
-  return false
-}
-
+// --- CORS MUST BE THE VERY FIRST MIDDLEWARE ---
+// The express cors package handles OPTIONS preflights and sets headers.
+// We provide a custom origin checker that normalizes origins (trim, strip slashes, lowercase)
 app.use(
   cors({
     origin: (origin, callback) => {
-      if (allowOrigin(origin)) return callback(null, true)
+      // Allow requests with no origin (e.g. curl, server-to-server)
+      if (!origin) return callback(null, true)
+
+      // Check against allowed origins (already normalized: trimmed, lowercased, slashes stripped)
+      if (config.clientOrigins.includes(origin.toLowerCase())) return callback(null, true)
+
+      // Allow Vercel preview domains if CORS_ALLOW_VERCEL=true
+      if (config.corsAllowVercel && /.vercel\.app$/.test(origin)) return callback(null, true)
+
+      // In development, allow all origins (helpful for local testing)
+      if (!config.isProduction) return callback(null, true)
+
       return callback(new Error(`Origin ${origin} is not allowed by CORS.`))
     },
-    methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
-    allowedHeaders: ['Content-Type', 'Authorization'],
+    methods: 'GET, POST, PUT, PATCH, DELETE, OPTIONS',
+    allowedHeaders: 'Content-Type, Authorization',
     credentials: true,
+    maxAge: 86400,
   }),
 )
 
-app.use((req, res, next) => {
-  // Append CORS headers to every response
-  if (req.headers.origin) {
-    res.set('Access-Control-Allow-Origin', req.headers.origin)
-    res.set('Vary', 'Origin')
-  }
-  next()
-})
+// Now safe to add other middleware
+app.disable('x-powered-by');
+app.set('trust proxy', config.trustProxy ? 1 : false);
+
+app.use(helmet({
+  crossOriginResourcePolicy: { policy: 'cross-origin' },
+}));
+app.use(compression());
 
 app.use(express.json({ limit: '6mb' }));
 
@@ -123,6 +116,7 @@ async function start() {
 
   const db = await getDatabase();
   console.log(`[stepwise] Database: ${db.provider}`);
+  console.log(`[stepwise] Allowed CORS origins: ${config.clientOrigins.length > 0 ? config.clientOrigins.join(', ') : '(empty — set CORS_ORIGIN env var)'}`);
   const meta = getBankMeta();
   console.log(
     `[stepwise] Question bank: ${meta.totals.playable} playable questions across ${meta.totals.models} models.`,
