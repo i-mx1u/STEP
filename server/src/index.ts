@@ -43,20 +43,12 @@ app.use(
       if (allowOrigin(origin)) return callback(null, true)
       return callback(new Error(`Origin ${origin} is not allowed by CORS.`))
     },
-    methods: GET, POST, PUT, PATCH, DELETE, OPTIONS,
+    methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true,
   }),
 )
 
-// Handle OPTIONS preflight explicitly so it returns 204 with CORS headers
-app.options('*', (req, res) => {
-  res.set('Access-Control-Allow-Origin', req.headers.origin || '*')
-  res.set('Access-Control-Allow-Methods', 'GET, POST, PUT, PATCH, DELETE, OPTIONS')
-  res.set('Access-Control-Allow-Headers', 'Content-Type, Authorization')
-  res.set('Access-Control-Max-Age', '86400')
-  res.status(204).end()
-})
 app.use((req, res, next) => {
   // Append CORS headers to every response
   if (req.headers.origin) {

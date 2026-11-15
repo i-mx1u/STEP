@@ -49,6 +49,7 @@ export const config = {
   ]),
   serveStatic: bool(process.env.SERVE_STATIC, true),
   trustProxy: bool(process.env.TRUST_PROXY, true),
+  corsAllowVercel: bool(process.env.CORS_ALLOW_VERCEL, false),
 } as const;
 
 export function validateConfig() {
